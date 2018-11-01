@@ -25,6 +25,16 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
+<!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
+Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
+042035,
+doi:[10.1088/1742-6596/1085/4/042035](https://doi.org/10.1088/1742-6596/1085/4/042035)
+
+<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
+Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
+doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
+arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
+
 <!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
 Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
@@ -32,19 +42,6 @@ Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 <!--#ref-Bauerdick:2017leo-->L. Bauerdick et al., **Experience in using
 commercial clouds in CMS**, *J. Phys. Conf. Ser.* 898 (2017) 052019,
 doi:[10.1088/1742-6596/898/5/052019](https://doi.org/10.1088/1742-6596/898/5/052019)
-
-<!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
-Scalable Parallel Data Analysis**, in: **18th International Workshop on
-Advanced Computing and Analysis Techniques in Physics Research (ACAT
-2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
-<http://lss.fnal.gov/archive/2018/conf/fermilab-conf-18-016-cd.pdf>
-
-<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
-Reduction with Apache Spark**, in: **18th International Workshop on
-Advanced Computing and Analysis Techniques in Physics Research (ACAT
-2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
-<http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf>,
-arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
 <!--#ref-Gutsche:2017weq-->O. Gutsche et al., **Big Data in HEP: A
 comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,

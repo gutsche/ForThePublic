@@ -16,16 +16,14 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
+<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
+Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
+doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
+arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
+
 <!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
 Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
-
-<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
-Reduction with Apache Spark**, in: **18th International Workshop on
-Advanced Computing and Analysis Techniques in Physics Research (ACAT
-2017) Seattle, WA, USA, August 21-25, 2017**, 2017.
-<http://lss.fnal.gov/archive/2017/conf/fermilab-conf-17-465-cd.pdf>,
-arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
 <!--#ref-Gutsche:2017weq-->O. Gutsche et al., **Big Data in HEP: A
 comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
@@ -61,6 +59,6 @@ arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 ----------
 
-published on: 07. September 2018
+published on: 01. November 2018
 
 ----------
