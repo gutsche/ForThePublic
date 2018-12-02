@@ -1,3 +1,8 @@
+<!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier
+using Amazon Web Services**, (2018), Amazon Booth at [Supercomputing
+2018](https://sc18.supercomputing.org) in Dallas, TX,
+[(Material)](https://docs.google.com/presentation/d/1sVPery_3J5lb-QrsDshd-N6MaE1khgaKFkZ5lJ2P7K4/edit?usp=sharing)
+
 <!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
 Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
