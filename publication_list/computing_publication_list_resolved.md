@@ -25,6 +25,10 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
+<!--#ref-Bellis:2018hej-->M. Bellis et al., **HEP Software Foundation
+Community White Paper Working Group --- Visualization**, (2018),
+arXiv:[1811.10309 \[physics.comp-ph\]](http://arxiv.org/abs/1811.10309)
+
 <!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
 Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
 042035,

@@ -137,6 +137,11 @@ transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
 doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
 arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
+<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
+produced in association with a Higgs boson decaying to a pair of bottom
+quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2018),
+arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
+
 <!--#ref-Khachatryan:2016xws-->V. Khachatryan et al., **Measurements of t
 t-bar spin correlations and top quark polarization using dilepton final
 states in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev.* D93 (2016)
@@ -271,6 +276,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. November 2018
+published on: 02. December 2018
 
 ----------
