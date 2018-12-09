@@ -164,6 +164,27 @@ Since 2005 and before the start of the LHC data taking in 2010, I was deeply inv
 During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.
 
 
+### Other Professional Activities
+* Editor of ["Computing and Software for Big Science"][1] Journal since 2017.
+* Co-Editor of the [American Physics Society (APS) Division of Particles and Fields (DPF)][2] white paper as input to the [European Particle Physics Strategy Update 2018 – 2020][3], responsible for the computing section.
+* Organizer of the Computing & Machine Learning parallel session at [The CPAD Instrumentation Frontier Workshop 2018][4] “New Technologies for Discovery IV”.
+* Active in public outreach:
+	* Regular participation in Fermilab’s [Ask-A-Scientist][5] program as lecturer and answering questions of the general public.
+	* Tour guide for Fermilab’s [Saturday Morning Physics][6] program, especially of the computing facilities.
+	* Regular question-and-answer sessions for high school classes visiting Fermilab.
+
+
+
+
+[1]:	https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true
+[2]:	https://www.aps.org/units/dpf/
+[3]:	http://europeanstrategyupdate.web.cern.ch
+[4]:	http://www.brown.edu/Conference/CPAD2018/
+[5]:	https://ed.fnal.gov/programs/tours/ask-a-scientist.shtml
+[6]:	http://saturdaymorningphysics.fnal.gov
+
+\newpage
+
 ### Reference Letters
 The following persons will be able to provide reference letters:
 
@@ -182,8 +203,6 @@ Scientific Computing Core Co-Director  \
 Flatiron Institute, 162 Fifth Avenue, New York, New York 10010  \
 Email: [ifisk@flatironinstitute.org](mailto:ifisk@flatironinstitute.org)
 
-
-\newpage
 
 ## Physics Publications with Major Personal Contributions
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
@@ -272,6 +291,11 @@ arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 
 ## List of Presentation and Talks
+<!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier
+using Amazon Web Services**, (2018), Amazon Booth at [Supercomputing
+2018](https://sc18.supercomputing.org) in Dallas, TX,
+[(Material)](https://docs.google.com/presentation/d/1sVPery_3J5lb-QrsDshd-N6MaE1khgaKFkZ5lJ2P7K4/edit?usp=sharing)
+
 <!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
 Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the

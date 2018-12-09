@@ -62,10 +62,13 @@ include({{{{technical_experience_comp.md}}}})
 ### Software
 include({{{{technical_experience_soft.md}}}})
 
-### Reference Letters
-include({{{{reference_letters.md}}}})
+### Other Professional Activities
+include({{{{../other/other.md}}}})
 
 \newpage
+
+### Reference Letters
+include({{{{reference_letters.md}}}})
 
 ## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})

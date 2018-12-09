@@ -130,6 +130,44 @@ Since 2005 and before the start of the LHC data taking in 2010, I was deeply inv
 During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.
 
 
+### Other Professional Activities
+* Editor of ["Computing and Software for Big Science"][1] Journal since 2017.
+* Co-Editor of the [American Physics Society (APS) Division of Particles and Fields (DPF)][2] white paper as input to the [European Particle Physics Strategy Update 2018 – 2020][3], responsible for the computing section.
+* Organizer of the Computing & Machine Learning parallel session at [The CPAD Instrumentation Frontier Workshop 2018][4] “New Technologies for Discovery IV”.
+* Active in public outreach:
+	* Regular participation in Fermilab’s [Ask-A-Scientist][5] program as lecturer and answering questions of the general public.
+	* Tour guide for Fermilab’s [Saturday Morning Physics][6] program, especially of the computing facilities.
+	* Regular question-and-answer sessions for high school classes visiting Fermilab.
+
+
+
+
+[1]:	https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true
+[2]:	https://www.aps.org/units/dpf/
+[3]:	http://europeanstrategyupdate.web.cern.ch
+[4]:	http://www.brown.edu/Conference/CPAD2018/
+[5]:	https://ed.fnal.gov/programs/tours/ask-a-scientist.shtml
+[6]:	http://saturdaymorningphysics.fnal.gov
+
+### Reference Letters
+The following persons will be able to provide reference letters:
+
+Patricia McBride  \
+Distinguished Scientist, CMS Deputy Spokesperson  \
+Fermi National Accelerator Laboratory, P.O.Box 500, Batavia, IL, 60510  \
+Email: [mcbride@fnal.gov](mailto:mcbride@fnal.gov)
+
+Frank Wuerthwein  \
+Professor of Physics  \
+UC San Diego, 9500 Gilman Dr., La Jolla, CA, 92093  \
+Email: [fkw@ucsd.edu](mailto:fkw@ucsd.edu)
+
+Ian Fisk  \
+Scientific Computing Core Co-Director  \
+Flatiron Institute, 162 Fifth Avenue, New York, New York 10010  \
+Email: [ifisk@flatironinstitute.org](mailto:ifisk@flatironinstitute.org)
+
+
 ## Physics Publications with Major Personal Contributions
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
@@ -281,6 +319,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 02. December 2018
+published on: 09. December 2018
 
 ----------
