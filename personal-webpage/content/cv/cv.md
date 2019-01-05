@@ -169,16 +169,17 @@ Email: [ifisk@flatironinstitute.org](mailto:ifisk@flatironinstitute.org)
 
 
 ## Physics Publications with Major Personal Contributions
+<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
+produced in association with a Higgs boson decaying to a pair of bottom
+quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted
+to: Eur. Phys. J.* (2018), arXiv:[1811.06562
+\[hep-ex\]](http://arxiv.org/abs/1811.06562)
+
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
 doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
 arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
-
-<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2018),
-arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
 <!--#ref-Khachatryan:2016xws-->V. Khachatryan et al., **Measurements of t
 t-bar spin correlations and top quark polarization using dilepton final
@@ -219,14 +220,20 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
+<!--#ref-Berzano:2018xaa-->D. Berzano et al., **HEP Software Foundation
+Community White Paper Working Group -- Data Organization, Management and
+Access (DOMA)**, (2018), arXiv:[1812.00761
+\[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+
 <!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
 Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
 doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
 arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
-<!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
-Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
-\[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+<!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
+and Computing R&D for the 2020s**, (2017),
+doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
+arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 <!--#ref-Gutsche:2017weq-->O. Gutsche et al., **Big Data in HEP: A
 comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
@@ -319,6 +326,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 09. December 2018
+published on: 05. January 2019
 
 ----------

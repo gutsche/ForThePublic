@@ -25,9 +25,10 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-<!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
-Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
-\[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+<!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
+and Computing R&D for the 2020s**, (2017),
+doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
+arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 
 ----------

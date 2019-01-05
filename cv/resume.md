@@ -93,16 +93,17 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 ## Selected Recent Publications in Physics and Computing
 
+<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
+produced in association with a Higgs boson decaying to a pair of bottom
+quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted
+to: Eur. Phys. J.* (2018), arXiv:[1811.06562
+\[hep-ex\]](http://arxiv.org/abs/1811.06562)
+
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
 doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
 arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
-
-<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2018),
-arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
 <!--#ref-Khachatryan:2016ysn-->V. Khachatryan et al., **Measurements of
 $t \bar t$ charge asymmetry using dilepton final states in pp collisions
@@ -116,9 +117,10 @@ Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-<!--#ref-Alves:2017she-->A.A. Alves Jr et al., **A Roadmap for HEP
-Software and Computing R&D for the 2020s**, (2017), arXiv:[1712.06982
-\[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+<!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
+and Computing R&D for the 2020s**, (2017),
+doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
+arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 
 ----------
