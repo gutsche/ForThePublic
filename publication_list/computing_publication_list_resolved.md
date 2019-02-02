@@ -20,6 +20,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
+Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
+\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983

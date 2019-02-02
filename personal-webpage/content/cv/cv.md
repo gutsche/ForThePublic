@@ -215,6 +215,10 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 ## Computing Publications with Major Personal Contributions
+<!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
+Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
+\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018), arXiv:[1804.03983
@@ -224,6 +228,11 @@ Interpretation**, (2018), arXiv:[1804.03983
 Community White Paper Working Group -- Data Organization, Management and
 Access (DOMA)**, (2018), arXiv:[1812.00761
 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+
+<!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
+Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
+042035,
+doi:[10.1088/1742-6596/1085/4/042035](https://doi.org/10.1088/1742-6596/1085/4/042035)
 
 <!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
 Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
@@ -240,28 +249,13 @@ comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
 doi:[10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012),
 arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
-<!--#ref-Holzman:2017jgg-->B. Holzman et al., **HEPCloud, a New Paradigm
-for HEP Facilities: CMS Amazon Web Services Investigation**, *Comput.
-Softw. Big Sci.* 1 (2017) 1,
-doi:[10.1007/s41781-017-0001-9](https://doi.org/10.1007/s41781-017-0001-9),
-arXiv:[1710.00100 \[cs.DC\]](http://arxiv.org/abs/1710.00100)
-
-<!--#ref-Habib:2016sce-->S. Habib et al., **ASCR/HEP Exascale Requirements
-Review Report**, (2016), arXiv:[1603.09303
-\[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
-
-<!--#ref-Garzoglio:2015ajq-->G. Garzoglio et al., **Diversity in Computing
-Technologies and Strategies for Dynamic Resource Allocation**, *J. Phys.
-Conf. Ser.* 664 (2015) 012001,
-doi:[10.1088/1742-6596/664/1/012001](https://doi.org/10.1088/1742-6596/664/1/012001)
-
-<!--#ref-Habib:2015paq-->T. LeCompte et al., **High Energy Physics Forum
-for Computational Excellence: Working Group Reports (I. Applications
-Software II. Software Libraries and Tools III. Systems)**, (2015),
-arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
-
 
 ## List of Presentation and Talks
+<!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
+Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
+2019 [((CMSDAS 2019))](https://indico.cern.ch/event/759915/),
+[(Material)](https://indico.cern.ch/event/759915/contributions/3151844/attachments/1720658/2892746/190114_-_CMSDAS_-_CMS_Software_Computing_and_Analysis_Tools.pdf)
+
 <!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier
 using Amazon Web Services**, (2018), Amazon Booth at [Supercomputing
 2018](https://sc18.supercomputing.org) in Dallas, TX,
@@ -273,24 +267,12 @@ Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
 University of Pittsburgh,
 [(Material)](https://indico.cern.ch/event/732285/contributions/3021322/attachments/1695150/2728277/180730_-_Atlas_Workshop_Open_Day_-_Gutsche_-_Trends_in_Hardware.pdf)
 
-<!--#ref-Gutsche:2018aab-->O. Gutsche, **The Future of Large Scale
-Scientific Computing**, (2018),
-[Colloquium](http://www.physics.umass.edu/events/2018-04-06-future-large-scale-scientific-computing)
-given at the Physics Department at the University of Massachusetts
-Amherst, [(Material)](http://bit.ly/2HfW3T9)
-
 <!--#ref-Gutsche:2017aah-->O. Gutsche, **Particle Physics - A world wide
 journey from recording particles to analysis using big computing**,
 (2017), Plenary Talk at the Chicago Council on Science & Technology
 Panel: [Fermilab and the New Frontiers of
 Physics](http://www.c2st.org/event/2017/09/fermilab-and-new-frontiers-physics),
 [(Material)](https://goo.gl/wDB5SU)
-
-<!--#ref-Gutsche:2017aag-->O. Gutsche, **CMS Analysis and Data Reduction
-with Apache Spark**, (2017), Parallel Session Talk at the 18th
-International Workshop on Advanced Computing and Analysis Techniques in
-Physics Research [(ACAT 2017)](https://indico.cern.ch/event/567550/),
-[(Material)](https://indico.cern.ch/event/567550/contributions/2629602/attachments/1511348/2357033/170822_-_ACAT2017_-_Gutsche_-_CMS_Analysis_and_Data_Reduction_with_Apache_Spark.pdf)
 
 <!--#ref-Gutsche:2017aaf-->O. Gutsche, **50 years Fermilab - Computing
 Innovations**, (2017), Talk at the Fermilab 50th Anniversary
@@ -326,6 +308,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 05. January 2019
+published on: 02. February 2019
 
 ----------
