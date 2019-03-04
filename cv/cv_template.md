@@ -65,11 +65,6 @@ include({{{{technical_experience_soft.md}}}})
 ### Other Professional Activities
 include({{{{../other/other.md}}}})
 
-\newpage
-
-### Reference Letters
-include({{{{reference_letters.md}}}})
-
 ## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})
 
@@ -79,7 +74,7 @@ include({{{{../publication_list/short_computing_publication_list.md}}}})
 ## List of Presentation and Talks
 include({{{{../talk_list/short_talk_list.md}}}})
 
-## List of Articles and Media Mentionings
+## List of Media Articles and Mentionings
 include({{{{../media_list/short_media_list.md}}}})
 
 ----------

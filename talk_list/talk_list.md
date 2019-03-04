@@ -1,6 +1,6 @@
 <!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
-2019 [((CMSDAS 2019))](https://indico.cern.ch/event/759915/),
+2019 [(CMSDAS 2019)](https://indico.cern.ch/event/759915/),
 [(Material)](https://indico.cern.ch/event/759915/contributions/3151844/attachments/1720658/2892746/190114_-_CMSDAS_-_CMS_Software_Computing_and_Analysis_Tools.pdf)
 
 <!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier
@@ -22,7 +22,7 @@ Amherst, [(Material)](http://bit.ly/2HfW3T9)
 
 <!--#ref-Gutsche:2018aaa-->O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2018), Plenary Talk at the CMS Data Analysis School
-2018 [((CMSDAS 2018))](https://indico.cern.ch/event/662371/),
+2018 [(CMSDAS 2018)](https://indico.cern.ch/event/662371/),
 [(Material)](https://indico.cern.ch/event/662371/contributions/2704696/attachments/1514569/2495560/180108_-_CMSDAS_-_Software_Computing__Analysis.pdf)
 
 <!--#ref-Gutsche:2017aaj-->O. Gutsche, **Data Organisation, Management and

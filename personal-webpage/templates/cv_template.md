@@ -54,9 +54,6 @@ include({{{{../cv/technical_experience_soft.md}}}})
 ### Other Professional Activities
 include({{{{../other/other.md}}}})
 
-### Reference Letters
-include({{{{../cv/reference_letters.md}}}})
-
 ## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})
 

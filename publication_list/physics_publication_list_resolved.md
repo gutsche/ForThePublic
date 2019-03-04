@@ -52,13 +52,6 @@ collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 03 (2018) 160,
 doi:[10.1007/JHEP03(2018)160](https://doi.org/10.1007/JHEP03(2018)160),
 arXiv:[1801.03957 \[hep-ex\]](http://arxiv.org/abs/1801.03957)
 
-<!--#ref-Gutsche:2016rwv-->O. Gutsche, **Dark Matter and Super Symmetry:
-Exploring and Explaining the Universe with Simulations at the LHC**, in:
-**Proceedings, Winter Simulation Conference: Simulating Complex Service
-Systems (WSC 16): Washington, D.C., United States, December 11-14,
-2016**, 2017: pp. 4--13,
-doi:[10.1109/WSC.2016.7822075](https://doi.org/10.1109/WSC.2016.7822075)
-
 <!--#ref-Sirunyan:2016jpr-->A.M. Sirunyan et al., **Searches for pair
 production of third-generation squarks in $\sqrt{s}=13$${TeV}$ pp
 collisions**, *Eur. Phys. J.* C77 (2017) 327,
@@ -213,9 +206,9 @@ Lett.* B718 (2013) 815--840,
 doi:[10.1016/j.physletb.2012.11.036](https://doi.org/10.1016/j.physletb.2012.11.036),
 arXiv:[1206.3949 \[hep-ex\]](http://arxiv.org/abs/1206.3949)
 
-<!--#ref-Chatrchyan:2013oev-->S. Chatrchyan et al., **Measurement of W+W-
-and ZZ production cross sections in pp collisions at sqrt(s) = 8 TeV**,
-*Phys. Lett.* B721 (2013) 190--211,
+<!--#ref-Chatrchyan:2013oev-->S. Chatrchyan et al., **Measurement of
+$W^+ W^-$ and $ZZ$ Production Cross Sections in $pp$ Collisions at
+$\sqrt{s} = 8 TeV$**, *Phys. Lett.* B721 (2013) 190--211,
 doi:[10.1016/j.physletb.2013.03.027](https://doi.org/10.1016/j.physletb.2013.03.027),
 arXiv:[1301.4698 \[hep-ex\]](http://arxiv.org/abs/1301.4698)
 
@@ -226,8 +219,8 @@ doi:[10.1140/epjc/s10052-013-2677-2](https://doi.org/10.1140/epjc/s10052-013-267
 arXiv:[1308.1586 \[hep-ex\]](http://arxiv.org/abs/1308.1586)
 
 <!--#ref-Chatrchyan:2013yaa-->S. Chatrchyan et al., **Measurement of the
-$W^+W^-$ Cross section in $pp$ Collisions at $\sqrt{s} = 7$ TeV and
-Limits on Anomalous $WW\gamma$ and $WWZ$ couplings**, *Eur. Phys. J.*
+$W^+W^-$ Cross Section in $pp$ Collisions at $\sqrt{s} = 7$ TeV and
+Limits on Anomalous $WW\gamma$ and $WWZ$ Couplings**, *Eur. Phys. J.*
 C73 (2013) 2610,
 doi:[10.1140/epjc/s10052-013-2610-8](https://doi.org/10.1140/epjc/s10052-013-2610-8),
 arXiv:[1306.1126 \[hep-ex\]](http://arxiv.org/abs/1306.1126)

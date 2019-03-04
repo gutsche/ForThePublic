@@ -1,7 +1,7 @@
 PANDOC = pandoc
 M4 = m4
 PANFLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex
-PDFS = cv.pdf resume.pdf
+PDFS = cv.pdf resume.pdf accomplishments.pdf short_accomplishments.pdf
 
 .PHONY: clean all $(PDFS)
 

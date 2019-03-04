@@ -22,7 +22,7 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 <!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
-2019 [((CMSDAS 2019))](https://indico.cern.ch/event/759915/),
+2019 [(CMSDAS 2019)](https://indico.cern.ch/event/759915/),
 [(Material)](https://indico.cern.ch/event/759915/contributions/3151844/attachments/1720658/2892746/190114_-_CMSDAS_-_CMS_Software_Computing_and_Analysis_Tools.pdf)
 
 <!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier

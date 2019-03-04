@@ -1,5 +1,5 @@
-* Editor of ["Computing and Software for Big Science"][1] Journal since 2017.
-* Co-Editor of the [American Physics Society (APS) Division of Particles and Fields (DPF)][2] white paper as input to the [European Particle Physics Strategy Update 2018 – 2020][3], responsible for the computing section.
+* In 2017, I was asked to join the editorial board of the journal for ["Computing and Software for Big Science"](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true) published by Springer.
+* In 2018, I was asked to be Co-Editor of the [American Physics Society (APS) Division of Particles and Fields (DPF)](https://www.aps.org/units/dpf/) white paper as input to the [European Particle Physics Strategy Update 2018 – 2020](http://europeanstrategyupdate.web.cern.ch), responsible for the computing section.
 * Organizer of the Computing & Machine Learning parallel session at [The CPAD Instrumentation Frontier Workshop 2018][4] “New Technologies for Discovery IV”.
 * Active in public outreach:
 	* Regular participation in Fermilab’s [Ask-A-Scientist][5] program as lecturer and answering questions of the general public.
