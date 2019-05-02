@@ -20,6 +20,13 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
+produced in association with a Higgs boson decaying to a pair of bottom
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
+Phys. J.* C79 (2019) 280,
+doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
+arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
+
 <!--#ref-Sirunyan:2017qaj-->A.M. Sirunyan et al., **Search for new
 phenomena in final states with two opposite-charge, same-flavor leptons,
 jets, and missing transverse momentum in pp collisions at $\sqrt{s}=13$
@@ -33,12 +40,6 @@ states in proton--proton collisions at $\sqrt{s} = 13{TeV}$**, *Eur.
 Phys. J.* C78 (2018) 140,
 doi:[10.1140/epjc/s10052-018-5607-5](https://doi.org/10.1140/epjc/s10052-018-5607-5),
 arXiv:[1710.10614 \[hep-ex\]](http://arxiv.org/abs/1710.10614)
-
-<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted
-to: Eur. Phys. J.* (2018), arXiv:[1811.06562
-\[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing

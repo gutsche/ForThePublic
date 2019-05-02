@@ -22,9 +22,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 <!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted
-to: Eur. Phys. J.* (2018), arXiv:[1811.06562
-\[hep-ex\]](http://arxiv.org/abs/1811.06562)
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
+Phys. J.* C79 (2019) 280,
+doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
+arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing

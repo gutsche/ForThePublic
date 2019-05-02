@@ -62,6 +62,9 @@ include({{{{technical_experience_comp.md}}}})
 ### Software
 include({{{{technical_experience_soft.md}}}})
 
+### Committees
+include({{{{committees.md}}}})
+
 ### Other Professional Activities
 include({{{{../other/other.md}}}})
 

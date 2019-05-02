@@ -134,6 +134,11 @@ Since 2005 and before the start of the LHC data taking in 2010, I was deeply inv
 During my graduate student time at DESY from 2001 to 2005, I was one of the proponents and lead developers of a new object-oriented and ROOT-based event display. The upgrade of the ZEUS detector made it necessary to integrate the new and changed detector components in the event visualization solution of ZEUS. A client-server structure allowed physicists to display events without direct access to the event store. Online events could also be displayed worldwide with very small latency during data taking.
 
 
+### Committees
+* October 2015 - October 2016: Fermilab's Scientific Advisory Council
+* October 2018 - October 2020: Fermilab's Users Executive Committee
+
+
 ### Other Professional Activities
 * In 2017, I was asked to join the editorial board of the journal for ["Computing and Software for Big Science"](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true) published by Springer.
 * In 2018, I was asked to be Co-Editor of the [American Physics Society (APS) Division of Particles and Fields (DPF)](https://www.aps.org/units/dpf/) white paper as input to the [European Particle Physics Strategy Update 2018 – 2020](http://europeanstrategyupdate.web.cern.ch), responsible for the computing section.
@@ -157,9 +162,10 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 ## Physics Publications with Major Personal Contributions
 <!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted
-to: Eur. Phys. J.* (2018), arXiv:[1811.06562
-\[hep-ex\]](http://arxiv.org/abs/1811.06562)
+quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
+Phys. J.* C79 (2019) 280,
+doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
+arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
 <!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
@@ -294,6 +300,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 03. April 2019
+published on: 02. May 2019
 
 ----------

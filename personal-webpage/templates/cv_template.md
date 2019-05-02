@@ -51,6 +51,9 @@ include({{{{../cv/technical_experience_comp.md}}}})
 ### Software
 include({{{{../cv/technical_experience_soft.md}}}})
 
+### Committees
+include({{{{../cv/committees.md}}}})
+
 ### Other Professional Activities
 include({{{{../other/other.md}}}})
 
