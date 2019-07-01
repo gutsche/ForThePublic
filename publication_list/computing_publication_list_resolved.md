@@ -164,8 +164,8 @@ distributed computing workflow experience**, *J. Phys. Conf. Ser.* 331
 (2011) 072019,
 doi:[10.1088/1742-6596/331/7/072019](https://doi.org/10.1088/1742-6596/331/7/072019)
 
-<!--#ref-Albert:2010zza-->M. Albert et al., **Experience building and
-operating the CMS Tier-1 computing centres**, *J. Phys. Conf. Ser.* 219
+<!--#ref-Albert:2010zza-->M. Albert et al., **Experience Building and
+Operating the CMS Tier-1 Computing Centres**, *J. Phys. Conf. Ser.* 219
 (2010) 072035,
 doi:[10.1088/1742-6596/219/7/072035](https://doi.org/10.1088/1742-6596/219/7/072035)
 

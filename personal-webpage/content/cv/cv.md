@@ -199,8 +199,8 @@ collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
 doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
 arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
 
-<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a new
-boson at a mass of 125 GeV with the CMS experiment at the LHC**, *Phys.
+<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a New
+Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
@@ -300,6 +300,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. June 2019
+published on: 01. July 2019
 
 ----------

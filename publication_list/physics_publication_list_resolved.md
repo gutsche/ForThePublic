@@ -20,6 +20,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2019mpq-->A.M. Sirunyan et al., **Search for the production
+of W $^\pm$W $^\pm$W $^\mp$ events at $\sqrt{s} =$ 13 TeV**, (2019),
+arXiv:[1905.04246 \[hep-ex\]](http://arxiv.org/abs/1905.04246)
+
 <!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
 quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
@@ -200,9 +204,9 @@ collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 03 (2013) 037,
 doi:[10.1007/JHEP03(2013)037](https://doi.org/10.1007/JHEP03(2013)037),
 arXiv:[1212.6194 \[hep-ex\]](http://arxiv.org/abs/1212.6194)
 
-<!--#ref-Chatrchyan:2012te-->S. Chatrchyan et al., **Search for new
-physics in events with opposite-sign leptons, jets, and missing
-transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV**, *Phys.
+<!--#ref-Chatrchyan:2012te-->S. Chatrchyan et al., **Search for New
+Physics in Events with Opposite-Sign Leptons, Jets, and Missing
+Transverse Energy in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys.
 Lett.* B718 (2013) 815--840,
 doi:[10.1016/j.physletb.2012.11.036](https://doi.org/10.1016/j.physletb.2012.11.036),
 arXiv:[1206.3949 \[hep-ex\]](http://arxiv.org/abs/1206.3949)
@@ -264,8 +268,8 @@ final state in pp collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B710
 doi:[10.1016/j.physletb.2012.02.076](https://doi.org/10.1016/j.physletb.2012.02.076),
 arXiv:[1202.1489 \[hep-ex\]](http://arxiv.org/abs/1202.1489)
 
-<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a new
-boson at a mass of 125 GeV with the CMS experiment at the LHC**, *Phys.
+<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a New
+Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)

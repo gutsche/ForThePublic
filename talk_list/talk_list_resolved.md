@@ -20,6 +20,16 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Gutsche:2019aav-->O. Gutsche, **Highlights from Parallel Session:
+Software & Computing**, (2019), Plenary Talk at the [2019 US CMS Annual
+Collaboration Meeting](https://indico.cern.ch/event/794370/timetable/),
+[(Material)](https://indico.cern.ch/event/794370/contributions/3430208/attachments/1859079/3054684/190608_-_USCMS_Collaboration_Meeting_-_Highlights_from_Parallel_Session__Software__Computing.pdf)
+
+<!--#ref-Gutsche:2019aab-->O. Gutsche, **Software & Computing**, (2019),
+Plenary Talk at the [2019 US CMS Annual Collaboration
+Meeting](https://indico.cern.ch/event/794370/timetable/),
+[(Material)](https://indico.cern.ch/event/794370/contributions/3430184/attachments/1858352/3053229/190607_-_USCMS_Collaboration_Meeting_-_Software__Computing.pdf)
+
 <!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
 2019 [(CMSDAS 2019)](https://indico.cern.ch/event/759915/),
