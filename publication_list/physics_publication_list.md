@@ -1,5 +1,7 @@
 <!--#ref-CMS:2019mpq-->A.M. Sirunyan et al., **Search for the production
-of W $^\pm$W $^\pm$W $^\mp$ events at $\sqrt{s} =$ 13 TeV**, (2019),
+of W $^\pm$W $^\pm$W $^\mp$ events at $\sqrt{s} =$ 13 TeV**, *Phys.
+Rev.* D100 (2019) 012004,
+doi:[10.1103/PhysRevD.100.012004](https://doi.org/10.1103/PhysRevD.100.012004),
 arXiv:[1905.04246 \[hep-ex\]](http://arxiv.org/abs/1905.04246)
 
 <!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
@@ -176,9 +178,9 @@ Phys. J.* C74 (2014) 3036,
 doi:[10.1140/epjc/s10052-014-3036-7](https://doi.org/10.1140/epjc/s10052-014-3036-7),
 arXiv:[1405.7570 \[hep-ex\]](http://arxiv.org/abs/1405.7570)
 
-<!--#ref-Chatrchyan:2012paa-->S. Chatrchyan et al., **Search for new
-physics in events with same-sign dileptons and $b$ jets in $pp$
-collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 03 (2013) 037,
+<!--#ref-Chatrchyan:2012paa-->S. Chatrchyan et al., **Search for New
+Physics in Events with Same-Sign Dileptons and $b$ Jets in $pp$
+Collisions at $\sqrt{s}=8$ TeV**, *JHEP*. 03 (2013) 037,
 doi:[10.1007/JHEP03(2013)037](https://doi.org/10.1007/JHEP03(2013)037),
 arXiv:[1212.6194 \[hep-ex\]](http://arxiv.org/abs/1212.6194)
 

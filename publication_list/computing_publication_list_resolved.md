@@ -139,8 +139,8 @@ running glideinWMS in High Availability mode**, *J. Phys. Conf. Ser.*
 513 (2014) 032086,
 doi:[10.1088/1742-6596/513/3/032086](https://doi.org/10.1088/1742-6596/513/3/032086)
 
-<!--#ref-Chwalek:2012vx-->T. Chwalek et al., **No file left behind -
-monitoring transfer latencies in PhEDEx**, *J. Phys. Conf. Ser.* 396
+<!--#ref-Chwalek:2012vx-->T. Chwalek et al., **No File Left Behind -
+Monitoring Transfer Latencies in PhEDEx**, *J. Phys. Conf. Ser.* 396
 (2012) 032089,
 doi:[10.1088/1742-6596/396/3/032089](https://doi.org/10.1088/1742-6596/396/3/032089)
 
@@ -149,13 +149,13 @@ Processing and Production in CMS**, *J. Phys. Conf. Ser.* 396 (2012)
 042018,
 doi:[10.1088/1742-6596/396/4/042018](https://doi.org/10.1088/1742-6596/396/4/042018)
 
-<!--#ref-Kaselis:2012wn-->R. Kaselis et al., **CMS Data transfer
-operations after the first years of LHC collisions**, *J. Phys. Conf.
+<!--#ref-Kaselis:2012wn-->R. Kaselis et al., **CMS Data Transfer
+Operations After the First Years of LHC Collisions**, *J. Phys. Conf.
 Ser.* 396 (2012) 042033,
 doi:[10.1088/1742-6596/396/4/042033](https://doi.org/10.1088/1742-6596/396/4/042033)
 
 <!--#ref-MolinaPerez:2012ww-->J. Molina-Perez et al., **Monitoring
-techniques and alarm procedures for CMS services and sites in WLCG**,
+Techniques and Alarm Procedures for CMS Services and Sites in WLCG**,
 *J. Phys. Conf. Ser.* 396 (2012) 042041,
 doi:[10.1088/1742-6596/396/4/042041](https://doi.org/10.1088/1742-6596/396/4/042041)
 

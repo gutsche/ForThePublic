@@ -209,6 +209,12 @@ TeV**, *JHEP*. 01 (2019) 183,
 doi:[10.1007/JHEP01(2019)183](https://doi.org/10.1007/JHEP01(2019)183),
 arXiv:[1807.03825 \[hep-ex\]](http://arxiv.org/abs/1807.03825)
 
+<!--#ref-Sirunyan:2018ktu-->A.M. Sirunyan et al., **Studies of Beauty
+Suppression via Nonprompt $D^0$ Mesons in Pb-Pb Collisions at
+$Q^2 = 4$$\rm GeV^2$**, *Phys. Rev. Lett.* 123 (2019) 022001,
+doi:[10.1103/PhysRevLett.123.022001](https://doi.org/10.1103/PhysRevLett.123.022001),
+arXiv:[1810.11102 \[hep-ex\]](http://arxiv.org/abs/1810.11102)
+
 <!--#ref-Sirunyan:2018lbg-->A.M. Sirunyan et al., **Search for a W' boson
 decaying to a $\tau$ lepton and a neutrino in proton-proton collisions
 at $\sqrt{s} =$ 13 TeV**, *Phys. Lett.* B792 (2019) 107--131,
@@ -217,9 +223,15 @@ arXiv:[1807.11421 \[hep-ex\]](http://arxiv.org/abs/1807.11421)
 
 <!--#ref-Sirunyan:2018lzm-->A.M. Sirunyan et al., **Search for associated
 production of a Higgs boson and a single top quark in proton-proton
-collisions at $\sqrt{s} =$  TeV**, *Phys. Rev.* D99 (2019) 092005,
+collisions at $\sqrt{s} =$ TeV**, *Phys. Rev.* D99 (2019) 092005,
 doi:[10.1103/PhysRevD.99.092005](https://doi.org/10.1103/PhysRevD.99.092005),
 arXiv:[1811.09696 \[hep-ex\]](http://arxiv.org/abs/1811.09696)
+
+<!--#ref-Sirunyan:2018mgs-->A.M. Sirunyan et al., **A search for pair
+production of new light bosons decaying into muons in proton-proton
+collisions at 13 TeV**, *Phys. Lett.* B796 (2019) 131--154,
+doi:[10.1016/j.physletb.2019.07.013](https://doi.org/10.1016/j.physletb.2019.07.013),
+arXiv:[1812.00380 \[hep-ex\]](http://arxiv.org/abs/1812.00380)
 
 <!--#ref-Sirunyan:2018mlv-->A.M. Sirunyan et al., **Measurement of the top
 quark mass in the all-jets final state at $\sqrt{s} =$ 13 TeV and
@@ -227,6 +239,13 @@ combination with the lepton+jets channel**, *Eur. Phys. J.* C79 (2019)
 313,
 doi:[10.1140/epjc/s10052-019-6788-2](https://doi.org/10.1140/epjc/s10052-019-6788-2),
 arXiv:[1812.10534 \[hep-ex\]](http://arxiv.org/abs/1812.10534)
+
+<!--#ref-Sirunyan:2018mot-->A.M. Sirunyan et al., **Search for an exotic
+decay of the Higgs boson to a pair of light pseudoscalars in the final
+state with two muons and two b quarks in pp collisions at 13 TeV**,
+*Phys. Lett.* B795 (2019) 398--423,
+doi:[10.1016/j.physletb.2019.06.021](https://doi.org/10.1016/j.physletb.2019.06.021),
+arXiv:[1812.06359 \[hep-ex\]](http://arxiv.org/abs/1812.06359)
 
 <!--#ref-Sirunyan:2018mvw-->A.M. Sirunyan et al., **Search for
 ${t}\overline{{t}}{H}$ production in the ${H}\to {b}\overline{{b}}$
@@ -237,7 +256,7 @@ arXiv:[1804.03682 \[hep-ex\]](http://arxiv.org/abs/1804.03682)
 
 <!--#ref-Sirunyan:2018ncy-->A.M. Sirunyan et al., **Jet Shapes of Isolated
 Photon-Tagged Jets in Pb-Pb and pp Collisions at $\sqrt{s_{{NN}}} =$
-5.02  TeV**, *Phys. Rev. Lett.* 122 (2019) 152001,
+5.02 TeV**, *Phys. Rev. Lett.* 122 (2019) 152001,
 doi:[10.1103/PhysRevLett.122.152001](https://doi.org/10.1103/PhysRevLett.122.152001),
 arXiv:[1809.08602 \[hep-ex\]](http://arxiv.org/abs/1809.08602)
 
@@ -392,16 +411,26 @@ arXiv:[1810.03188 \[hep-ex\]](http://arxiv.org/abs/1810.03188)
 
 <!--#ref-Sirunyan:2018zgs-->A.M. Sirunyan et al., **Observation of Single
 Top Quark Production in Association with a $Z$ Boson in Proton-Proton
-Collisions at $\sqrt {s}$ =13  TeV**, *Phys. Rev. Lett.* 122 (2019)
+Collisions at $\sqrt {s}$ =13 TeV**, *Phys. Rev. Lett.* 122 (2019)
 132003,
 doi:[10.1103/PhysRevLett.122.132003](https://doi.org/10.1103/PhysRevLett.122.132003),
 arXiv:[1812.05900 \[hep-ex\]](http://arxiv.org/abs/1812.05900)
+
+<!--#ref-Sirunyan:2018zys-->A.M. Sirunyan et al., **Measurement of B
+$^0_{s}$ meson production in pp and PbPb collisions at
+$\sqrt{s_{{NN}}} =$ 5.02 TeV**, *Phys. Lett.* B796 (2019) 168--190,
+doi:[10.1016/j.physletb.2019.07.014](https://doi.org/10.1016/j.physletb.2019.07.014),
+arXiv:[1810.03022 \[hep-ex\]](http://arxiv.org/abs/1810.03022)
 
 <!--#ref-Sirunyan:2018zzr-->A.M. Sirunyan et al., **Search for excited
 leptons in $\ell\ell\gamma$ final states in proton-proton collisions at
 $\sqrt{s}=$ 13 TeV**, *JHEP*. 04 (2019) 015,
 doi:[10.1007/JHEP04(2019)015](https://doi.org/10.1007/JHEP04(2019)015),
 arXiv:[1811.03052 \[hep-ex\]](http://arxiv.org/abs/1811.03052)
+
+<!--#ref-Sirunyan:2019ape-->A.M. Sirunyan et al., **Search for physics
+beyond the standard model in events with overlapping photons and jets**,
+(2019), arXiv:[1907.06275 \[hep-ex\]](http://arxiv.org/abs/1907.06275)
 
 <!--#ref-Sirunyan:2019bez-->A.M. Sirunyan et al., **Measurements of the pp
 $\to$ WZ inclusive and differential production cross section and
@@ -452,15 +481,33 @@ proton-proton collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 03 (2019) 141,
 doi:[10.1007/JHEP03(2019)141](https://doi.org/10.1007/JHEP03(2019)141),
 arXiv:[1901.01553 \[hep-ex\]](http://arxiv.org/abs/1901.01553)
 
+<!--#ref-Sirunyan:2019gkh-->A.M. Sirunyan et al., **Search for anomalous
+triple gauge couplings in WW and WZ production in lepton + jet events in
+proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2019),
+arXiv:[1907.08354 \[hep-ex\]](http://arxiv.org/abs/1907.08354)
+
+<!--#ref-Sirunyan:2019gou-->A.M. Sirunyan et al., **Search for light
+pseudoscalar boson pairs produced from decays of the 125 GeV Higgs boson
+in final states with two muons and two nearby tracks in pp collisions at
+$\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1907.07235
+\[hep-ex\]](http://arxiv.org/abs/1907.07235)
+
 <!--#ref-Sirunyan:2019gut-->A.M. Sirunyan et al., **Search for long-lived
 particles using nonprompt jets and missing transverse momentum with
 proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2019),
 arXiv:[1906.06441 \[hep-ex\]](http://arxiv.org/abs/1906.06441)
 
 <!--#ref-Sirunyan:2019hkq-->A.M. Sirunyan et al., **Search for charged
-Higgs bosons in the H $^{\pm} \to \tau^{\pm}\nu_\tau$ decay channel in
-proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2019),
+Higgs bosons in the H $^{\pm}$$\to$$\tau^{\pm}\nu_\tau$ decay channel in
+proton-proton collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 07 (2019)
+142,
+doi:[10.1007/JHEP07(2019)142](https://doi.org/10.1007/JHEP07(2019)142),
 arXiv:[1903.04560 \[hep-ex\]](http://arxiv.org/abs/1903.04560)
+
+<!--#ref-Sirunyan:2019hqb-->A.M. Sirunyan et al., **Measurement of
+differential cross sections and charge ratios for $t$-channel single top
+quark production in proton-proton collisions at $\sqrt{s}=$ 13 TeV**,
+(2019), arXiv:[1907.08330 \[hep-ex\]](http://arxiv.org/abs/1907.08330)
 
 <!--#ref-Sirunyan:2019hzr-->A.M. Sirunyan et al., **Search for
 supersymmetry in events with a photon, jets, ${b}$ -jets, and missing
@@ -476,8 +523,9 @@ pairs in the dijet final state at 13 TeV**, (2019), arXiv:[1906.05977
 
 <!--#ref-Sirunyan:2019kia-->A.M. Sirunyan et al., **Performance of missing
 transverse momentum reconstruction in proton-proton collisions at
-$\sqrt{s} =$ 13 TeV using the CMS detector**, *Submitted to: JINST*.
-(2019), arXiv:[1903.06078 \[hep-ex\]](http://arxiv.org/abs/1903.06078)
+$\sqrt{s} =$ 13 TeV using the CMS detector**, *JINST*. 14 (2019) P07004,
+doi:[10.1088/1748-0221/14/07/P07004](https://doi.org/10.1088/1748-0221/14/07/P07004),
+arXiv:[1903.06078 \[hep-ex\]](http://arxiv.org/abs/1903.06078)
 
 <!--#ref-Sirunyan:2019kpr-->A.M. Sirunyan et al., **Search for $W$ boson
 decays to three charged pions**, *Phys. Rev. Lett.* 122 (2019) 151802,
@@ -485,9 +533,9 @@ doi:[10.1103/PhysRevLett.122.151802](https://doi.org/10.1103/PhysRevLett.122.151
 arXiv:[1901.11201 \[hep-ex\]](http://arxiv.org/abs/1901.11201)
 
 <!--#ref-Sirunyan:2019ksz-->A.M. Sirunyan et al., **Measurement of
-electroweak WZ boson production and search for new physics in WZ $+$ two
-jets events in pp collisions at $\sqrt{s} =$ 13 TeV**, *Phys. Lett.*
-B795 (2019) 281--307,
+electroweak WZ boson production and search for new physics in WZ + two
+jets events in pp collisions at $\sqrt{s} =$ 13TeV**, *Phys. Lett.* B795
+(2019) 281--307,
 doi:[10.1016/j.physletb.2019.05.042](https://doi.org/10.1016/j.physletb.2019.05.042),
 arXiv:[1901.04060 \[hep-ex\]](http://arxiv.org/abs/1901.04060)
 
@@ -496,15 +544,27 @@ boson decays to J/ $\psi$ or $\Upsilon$ pairs in proton-proton
 collisions at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1905.10408
 \[hep-ex\]](http://arxiv.org/abs/1905.10408)
 
+<!--#ref-Sirunyan:2019lnl-->A.M. Sirunyan et al., **Measurement of the top
+quark polarization and ${t\bar{t}}$ spin correlations using dilepton
+final states in proton-proton collisions at $\sqrt{s}=$ 13 TeV**,
+(2019), arXiv:[1907.03729 \[hep-ex\]](http://arxiv.org/abs/1907.03729)
+
 <!--#ref-Sirunyan:2019mbp-->A.M. Sirunyan et al., **Search for
 supersymmetry in final states with photons and missing transverse
-momentum in proton-proton collisions at 13 TeV**, *Submitted to: JHEP*.
-(2019), arXiv:[1903.07070 \[hep-ex\]](http://arxiv.org/abs/1903.07070)
+momentum in proton-proton collisions at 13 TeV**, *JHEP*. 06 (2019) 143,
+doi:[10.1007/JHEP06(2019)143](https://doi.org/10.1007/JHEP06(2019)143),
+arXiv:[1903.07070 \[hep-ex\]](http://arxiv.org/abs/1903.07070)
 
 <!--#ref-Sirunyan:2019nbs-->A.M. Sirunyan et al., **Constraints on
 anomalous HVV couplings from the production of Higgs bosons decaying to
 $\tau$ lepton pairs**, *Submitted to: Phys. Rev.* (2019),
 arXiv:[1903.06973 \[hep-ex\]](http://arxiv.org/abs/1903.06973)
+
+<!--#ref-Sirunyan:2019nlw-->A.M. Sirunyan et al., **Measurement of the top
+quark Yukawa coupling from ${t\bar{t}}$ kinematic distributions in the
+lepton+jets final state in proton-proton collisions at $\sqrt{s} =$ 13
+TeV**, (2019), arXiv:[1907.01590
+\[hep-ex\]](http://arxiv.org/abs/1907.01590)
 
 <!--#ref-Sirunyan:2019nog-->A.M. Sirunyan et al., **Measurement of
 exclusive $\rho(770)^0$ photoproduction in ultraperipheral pPb
@@ -549,10 +609,19 @@ azimuthal anisotropy Fourier harmonics in pPb collisions at
 $\sqrt{s_{{NN}}} =$ 8.16 TeV**, (2019), arXiv:[1905.09935
 \[hep-ex\]](http://arxiv.org/abs/1905.09935)
 
+<!--#ref-Sirunyan:2019sem-->A.M. Sirunyan et al., **Combined search for
+supersymmetry with photons in proton-proton collisions at $\sqrt{s}=$ 13
+TeV**, (2019), arXiv:[1907.00857
+\[hep-ex\]](http://arxiv.org/abs/1907.00857)
+
 <!--#ref-Sirunyan:2019sgo-->A.M. Sirunyan et al., **Search for low-mass
 quark-antiquark resonances produced in association with a photon at
 $\sqrt{s} =$ 13 TeV**, (2019), arXiv:[1905.10331
 \[hep-ex\]](http://arxiv.org/abs/1905.10331)
+
+<!--#ref-Sirunyan:2019sza-->A.M. Sirunyan et al., **Search for pair
+production of vector-like quarks in the fully hadronic final state**,
+(2019), arXiv:[1906.11903 \[hep-ex\]](http://arxiv.org/abs/1906.11903)
 
 <!--#ref-Sirunyan:2019tib-->A.M. Sirunyan et al., **Search for single
 production of vector-like quarks decaying to a top quark and a W boson
@@ -561,12 +630,22 @@ C79 (2019) 90,
 doi:[10.1140/epjc/s10052-019-6556-3](https://doi.org/10.1140/epjc/s10052-019-6556-3),
 arXiv:[1809.08597 \[hep-ex\]](http://arxiv.org/abs/1809.08597)
 
+<!--#ref-Sirunyan:2019tkw-->A.M. Sirunyan et al., **Search for MSSM Higgs
+bosons decaying to $\mu^+\mu^-$ in proton-proton collisions at
+$\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1907.03152
+\[hep-ex\]](http://arxiv.org/abs/1907.03152)
+
 <!--#ref-Sirunyan:2019twz-->A.M. Sirunyan et al., **Measurements of the
 Higgs boson width and anomalous $HVV$ couplings from on-shell and
 off-shell production in the four-lepton final state**, *Phys. Rev.* D99
 (2019) 112003,
 doi:[10.1103/PhysRevD.99.112003](https://doi.org/10.1103/PhysRevD.99.112003),
 arXiv:[1901.00174 \[hep-ex\]](http://arxiv.org/abs/1901.00174)
+
+<!--#ref-Sirunyan:2019uya-->A.M. Sirunyan et al., **Measurements of
+triple-differential cross sections for inclusive isolated-photon+jet
+events in pp collisions at $\sqrt{s} =$ 8 TeV**, (2019),
+arXiv:[1907.08155 \[hep-ex\]](http://arxiv.org/abs/1907.08155)
 
 <!--#ref-Sirunyan:2019vgt-->A.M. Sirunyan et al., **Combination of CMS
 searches for heavy resonances decaying to pairs of bosons or leptons**,
@@ -582,10 +661,16 @@ angular correlations in XeXe collisions at $\sqrt{s_{_{{NN}}}}=$ 5.44
 TeV**, *Submitted to: Phys. Rev.* (2019), arXiv:[1901.07997
 \[hep-ex\]](http://arxiv.org/abs/1901.07997)
 
+<!--#ref-Sirunyan:2019wwr-->A.M. Sirunyan et al., **Study of the B
+$^+ \to$J $/\psi\overline{\Lambda}$p decay in proton-proton collisions
+at $\sqrt{s}=$ 8 TeV**, (2019), arXiv:[1907.05461
+\[hep-ex\]](http://arxiv.org/abs/1907.05461)
+
 <!--#ref-Sirunyan:2019xls-->A.M. Sirunyan et al., **Search for a heavy
-pseudoscalar boson decaying to a Z and a Higgs boson at $\sqrt{s}=$ 13
-TeV**, (2019), arXiv:[1903.00941
-\[hep-ex\]](http://arxiv.org/abs/1903.00941)
+pseudoscalar boson decaying to a Z and a Higgs boson at $\sqrt{s} =$ 13
+TeV**, *Eur. Phys. J.* C79 (2019) 564,
+doi:[10.1140/epjc/s10052-019-7058-z](https://doi.org/10.1140/epjc/s10052-019-7058-z),
+arXiv:[1903.00941 \[hep-ex\]](http://arxiv.org/abs/1903.00941)
 
 <!--#ref-Sirunyan:2019zdq-->A.M. Sirunyan et al., **Search for a light
 charged Higgs boson decaying to a W boson and a CP-odd Higgs boson in
@@ -1215,11 +1300,6 @@ boson decay to bottom quarks**, *Phys. Rev. Lett.* 121 (2018) 121801,
 doi:[10.1103/PhysRevLett.121.121801](https://doi.org/10.1103/PhysRevLett.121.121801),
 arXiv:[1808.08242 \[hep-ex\]](http://arxiv.org/abs/1808.08242)
 
-<!--#ref-Sirunyan:2018ktu-->A.M. Sirunyan et al., **Studies of beauty
-suppression via nonprompt D $^0$ mesons in PbPb collisions at
-$\sqrt{s_{{NN}}}=$ 5.02 TeV**, *Submitted to: Phys. Rev. Lett.* (2018),
-arXiv:[1810.11102 \[hep-ex\]](http://arxiv.org/abs/1810.11102)
-
 <!--#ref-Sirunyan:2018kzh-->A.M. Sirunyan et al., **Constraints on models
 of scalar and vector leptoquarks decaying to a quark and a neutrino at
 $\sqrt{s}=$ 13 TeV**, *Phys. Rev.* D98 (2018) 032005,
@@ -1253,18 +1333,6 @@ state of two muons and two $\tau$ leptons in proton-proton collisions at
 $\sqrt{s}=13$ TeV**, *JHEP*. 11 (2018) 018,
 doi:[10.1007/JHEP11(2018)018](https://doi.org/10.1007/JHEP11(2018)018),
 arXiv:[1805.04865 \[hep-ex\]](http://arxiv.org/abs/1805.04865)
-
-<!--#ref-Sirunyan:2018mgs-->A.M. Sirunyan et al., **A search for pair
-production of new light bosons decaying into muons in proton-proton
-collisions at 13 TeV**, *Submitted to: Phys. Lett.* (2018),
-arXiv:[1812.00380 \[hep-ex\]](http://arxiv.org/abs/1812.00380)
-
-<!--#ref-Sirunyan:2018mot-->A.M. Sirunyan et al., **Search for an exotic
-decay of the Higgs boson to a pair of light pseudoscalars in the final
-state with two muons and two b quarks in pp collisions at 13 TeV**,
-(2018),
-doi:[10.1016/j.physletb.2019.06.021](https://doi.org/10.1016/j.physletb.2019.06.021),
-arXiv:[1812.06359 \[hep-ex\]](http://arxiv.org/abs/1812.06359)
 
 <!--#ref-Sirunyan:2018mpc-->A.M. Sirunyan et al., **Search for high-mass
 resonances in final states with a lepton and missing transverse momentum
@@ -1535,11 +1603,6 @@ neutral MSSM Higgs bosons in the $\tau\tau$ final state in proton-proton
 collisions at $\sqrt{s}=$ 13 TeV**, *JHEP*. 09 (2018) 007,
 doi:[10.1007/JHEP09(2018)007](https://doi.org/10.1007/JHEP09(2018)007),
 arXiv:[1803.06553 \[hep-ex\]](http://arxiv.org/abs/1803.06553)
-
-<!--#ref-Sirunyan:2018zys-->A.M. Sirunyan et al., **Measurement of B
-$^0_{s}$ meson production in pp and PbPb collisions at
-$\sqrt{s_{{NN}}} =$ 5.02 TeV**, *Submitted to: Phys. Lett.* (2018),
-arXiv:[1810.03022 \[hep-ex\]](http://arxiv.org/abs/1810.03022)
 
 <!--#ref-Sirunyan:2018zyx-->A.M. Sirunyan et al., **Search for
 pair-produced resonances each decaying into at least four quarks in
@@ -3785,9 +3848,9 @@ MSSM Higgs bosons decaying to a pair of tau leptons in pp collisions**,
 doi:[10.1007/JHEP10(2014)160](https://doi.org/10.1007/JHEP10(2014)160),
 arXiv:[1408.3316 \[hep-ex\]](http://arxiv.org/abs/1408.3316)
 
-<!--#ref-Chatrchyan:2012af-->S. Chatrchyan et al., **Search for heavy
-quarks decaying into a top quark and a $W$ or $Z$ boson using lepton +
-jets events in $pp$ collisions at $\sqrt{s}$ = 7 TeV**, *JHEP*. 01
+<!--#ref-Chatrchyan:2012af-->S. Chatrchyan et al., **Search for Heavy
+Quarks Decaying into a Top Quark and a $W$ or $Z$ Boson using Lepton +
+Jets Events in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *JHEP*. 01
 (2013) 154,
 doi:[10.1007/JHEP01(2013)154](https://doi.org/10.1007/JHEP01(2013)154),
 arXiv:[1210.7471 \[hep-ex\]](http://arxiv.org/abs/1210.7471)
@@ -3798,28 +3861,28 @@ semileptonic final state**, *Phys. Lett.* B718 (2013) 1208--1228,
 doi:[10.1016/j.physletb.2012.11.063](https://doi.org/10.1016/j.physletb.2012.11.063),
 arXiv:[1209.3807 \[hep-ex\]](http://arxiv.org/abs/1209.3807)
 
-<!--#ref-Chatrchyan:2012bba-->S. Chatrchyan et al., **Search for new
-physics in events with photons, jets, and missing transverse energy in
-$pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2013) 111,
+<!--#ref-Chatrchyan:2012bba-->S. Chatrchyan et al., **Search for New
+Physics in Events with Photons, Jets, and Missing Transverse Energy in
+$pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2013) 111,
 doi:[10.1007/JHEP03(2013)111](https://doi.org/10.1007/JHEP03(2013)111),
 arXiv:[1211.4784 \[hep-ex\]](http://arxiv.org/abs/1211.4784)
 
 <!--#ref-Chatrchyan:2012bd-->S. Chatrchyan et al., **Measurement of the
-sum of $W W$ and $WZ$ production with $W+$dijet events in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *Eur. Phys. J.* C73 (2013) 2283,
+Sum of $W W$ and $WZ$ Production with $W+$Dijet Events in $pp$
+Collisions at $\sqrt{s}=7$ TeV**, *Eur. Phys. J.* C73 (2013) 2283,
 doi:[10.1140/epjc/s10052-013-2283-3](https://doi.org/10.1140/epjc/s10052-013-2283-3),
 arXiv:[1210.7544 \[hep-ex\]](http://arxiv.org/abs/1210.7544)
 
 <!--#ref-Chatrchyan:2012bja-->S. Chatrchyan et al., **Measurements of
-differential jet cross sections in proton-proton collisions at
-$\sqrt{s}=7$ TeV with the CMS detector**, *Phys. Rev.* D87 (2013)
+Differential Jet Cross Sections in Proton-Proton Collisions at
+$\sqrt{s}=7$ TeV with the CMS Detector**, *Phys. Rev.* D87 (2013)
 112002,
 doi:[10.1103/PhysRevD.87.112002](https://doi.org/10.1103/PhysRevD.87.112002),
 arXiv:[1212.6660 \[hep-ex\]](http://arxiv.org/abs/1212.6660)
 
 <!--#ref-Chatrchyan:2012cg-->S. Chatrchyan et al., **Search for a
-non-standard-model Higgs boson decaying to a pair of new light bosons in
-four-muon final states**, *Phys. Lett.* B726 (2013) 564--586,
+Non-Standard-Model Higgs Boson Decaying to a Pair of New Light Bosons in
+Four-Muon Final States**, *Phys. Lett.* B726 (2013) 564--586,
 doi:[10.1016/j.physletb.2013.09.009](https://doi.org/10.1016/j.physletb.2013.09.009),
 arXiv:[1210.7619 \[hep-ex\]](http://arxiv.org/abs/1210.7619)
 
@@ -3842,8 +3905,8 @@ collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Lett.* B718 (2013)
 doi:[10.1016/j.physletb.2012.11.003](https://doi.org/10.1016/j.physletb.2012.11.003),
 arXiv:[1205.0206 \[nucl-ex\]](http://arxiv.org/abs/1205.0206)
 
-<!--#ref-Chatrchyan:2012hda-->S. Chatrchyan et al., **Search for contact
-interactions in $\mu^+\mu^-$ events in $pp$ collisions at $\sqrt{s}=7$
+<!--#ref-Chatrchyan:2012hda-->S. Chatrchyan et al., **Search for Contact
+Interactions in $\mu^+\mu^-$ Events in $pp$ Collisions at $\sqrt{s}=7$
 TeV**, *Phys. Rev.* D87 (2013) 032001,
 doi:[10.1103/PhysRevD.87.032001](https://doi.org/10.1103/PhysRevD.87.032001),
 arXiv:[1212.4563 \[hep-ex\]](http://arxiv.org/abs/1212.4563)
@@ -3860,65 +3923,65 @@ Pairs**, *Phys. Rev. Lett.* 110 (2013) 081803,
 doi:[10.1103/PhysRevLett.110.081803](https://doi.org/10.1103/PhysRevLett.110.081803),
 arXiv:[1212.6639 \[hep-ex\]](http://arxiv.org/abs/1212.6639)
 
-<!--#ref-Chatrchyan:2012jna-->S. Chatrchyan et al., **Search in leptonic
-channels for heavy resonances decaying to long-lived neutral
-particles**, *JHEP*. 02 (2013) 085,
+<!--#ref-Chatrchyan:2012jna-->S. Chatrchyan et al., **Search in Leptonic
+Channels for Heavy Resonances Decaying to Long-Lived Neutral
+Particles**, *JHEP*. 02 (2013) 085,
 doi:[10.1007/JHEP02(2013)085](https://doi.org/10.1007/JHEP02(2013)085),
 arXiv:[1211.2472 \[hep-ex\]](http://arxiv.org/abs/1211.2472)
 
 <!--#ref-Chatrchyan:2012jua-->S. Chatrchyan et al., **Identification of
-b-quark jets with the CMS experiment**, *JINST*. 8 (2013) P04013,
+b-Quark Jets with the CMS Experiment**, *JINST*. 8 (2013) P04013,
 doi:[10.1088/1748-0221/8/04/P04013](https://doi.org/10.1088/1748-0221/8/04/P04013),
 arXiv:[1211.4462 \[hep-ex\]](http://arxiv.org/abs/1211.4462)
 
 <!--#ref-Chatrchyan:2012jwg-->S. Chatrchyan et al., **Search for
-long-lived particles decaying to photons and missing energy in
-proton-proton collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B722
+Long-Lived Particles Decaying to Photons and Missing Energy in
+Proton-Proton Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B722
 (2013) 273--294,
 doi:[10.1016/j.physletb.2013.04.027](https://doi.org/10.1016/j.physletb.2013.04.027),
 arXiv:[1212.1838 \[hep-ex\]](http://arxiv.org/abs/1212.1838)
 
 <!--#ref-Chatrchyan:2012nj-->S. Chatrchyan et al., **Measurement of the
-inelastic proton-proton cross section at $\sqrt{s}=7$ TeV**, *Phys.
+Inelastic Proton-Proton Cross Section at $\sqrt{s}=7$ TeV**, *Phys.
 Lett.* B722 (2013) 5--27,
 doi:[10.1016/j.physletb.2013.03.024](https://doi.org/10.1016/j.physletb.2013.03.024),
 arXiv:[1210.6718 \[hep-ex\]](http://arxiv.org/abs/1210.6718)
 
-<!--#ref-Chatrchyan:2012oaa-->S. Chatrchyan et al., **Search for heavy
-narrow dilepton resonances in $pp$ collisions at $\sqrt{s}=7$ TeV and
+<!--#ref-Chatrchyan:2012oaa-->S. Chatrchyan et al., **Search for Heavy
+Narrow Dilepton Resonances in $pp$ Collisions at $\sqrt{s}=7$ TeV and
 $\sqrt{s}=8$ TeV**, *Phys. Lett.* B720 (2013) 63--82,
 doi:[10.1016/j.physletb.2013.02.003](https://doi.org/10.1016/j.physletb.2013.02.003),
 arXiv:[1212.6175 \[hep-ex\]](http://arxiv.org/abs/1212.6175)
 
 <!--#ref-Chatrchyan:2012ria-->S. Chatrchyan et al., **Measurement of the
-$t\bar{t}$ production cross section in $pp$ collisions at $\sqrt{s}=7$
-TeV with lepton + jets final states**, *Phys. Lett.* B720 (2013)
+$t\bar{t}$ Production Cross Section in $pp$ Collisions at $\sqrt{s}=7$
+TeV with Lepton + Jets Final States**, *Phys. Lett.* B720 (2013)
 83--104,
 doi:[10.1016/j.physletb.2013.02.021](https://doi.org/10.1016/j.physletb.2013.02.021),
 arXiv:[1212.6682 \[hep-ex\]](http://arxiv.org/abs/1212.6682)
 
-<!--#ref-Chatrchyan:2012rva-->S. Chatrchyan et al., **Search for exotic
-resonances decaying into $WZ/ZZ$ in $pp$ collisions at $\sqrt{s}=7$
+<!--#ref-Chatrchyan:2012rva-->S. Chatrchyan et al., **Search for Exotic
+Resonances Decaying into $WZ/ZZ$ in $pp$ Collisions at $\sqrt{s}=7$
 TeV**, *JHEP*. 02 (2013) 036,
 doi:[10.1007/JHEP02(2013)036](https://doi.org/10.1007/JHEP02(2013)036),
 arXiv:[1211.5779 \[hep-ex\]](http://arxiv.org/abs/1211.5779)
 
 <!--#ref-Chatrchyan:2012saa-->S. Chatrchyan et al., **Measurement of
-differential top-quark pair production cross sections in $pp$ colisions
+Differential Top-Quark Pair Production Cross Sections in $pp$ collisions
 at $\sqrt{s}=7$ TeV**, *Eur. Phys. J.* C73 (2013) 2339,
 doi:[10.1140/epjc/s10052-013-2339-4](https://doi.org/10.1140/epjc/s10052-013-2339-4),
 arXiv:[1211.2220 \[hep-ex\]](http://arxiv.org/abs/1211.2220)
 
 <!--#ref-Chatrchyan:2012sca-->S. Chatrchyan et al., **Search for
-supersymmetry in final states with a single lepton, $b$-quark jets, and
-missing transverse energy in proton-proton collisions at $\sqrt{s}=7$
+Supersymmetry in Final States with a Single Lepton, $b$-Quark Jets, and
+Missing Transverse Energy in Proton-Proton Collisions at $\sqrt{s}=7$
 TeV**, *Phys. Rev.* D87 (2013) 052006,
 doi:[10.1103/PhysRevD.87.052006](https://doi.org/10.1103/PhysRevD.87.052006),
 arXiv:[1211.3143 \[hep-ex\]](http://arxiv.org/abs/1211.3143)
 
 <!--#ref-Chatrchyan:2012sga-->S. Chatrchyan et al., **Measurement of the
-$ZZ$ production cross section and search for anomalous couplings in 2
-l2l ' final states in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 01
+$ZZ$ Production Cross Section and Search for Anomalous Couplings in 2
+l2l ' Final States in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 01
 (2013) 063,
 doi:[10.1007/JHEP01(2013)063](https://doi.org/10.1007/JHEP01(2013)063),
 arXiv:[1211.4890 \[hep-ex\]](http://arxiv.org/abs/1211.4890)
@@ -3942,8 +4005,8 @@ Proton-Proton Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B722
 doi:[10.1016/j.physletb.2013.03.037](https://doi.org/10.1016/j.physletb.2013.03.037),
 arXiv:[1210.0867 \[hep-ex\]](http://arxiv.org/abs/1210.0867)
 
-<!--#ref-Chatrchyan:2012uea-->S. Chatrchyan et al., **Inclusive search for
-supersymmetry using the razor variables in $pp$ collisions at
+<!--#ref-Chatrchyan:2012uea-->S. Chatrchyan et al., **Inclusive Search for
+Supersymmetry Using the Razor Variables in $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.* 111 (2013) 081802,
 doi:[10.1103/PhysRevLett.111.081802](https://doi.org/10.1103/PhysRevLett.111.081802),
 arXiv:[1212.6961 \[hep-ex\]](http://arxiv.org/abs/1212.6961)
@@ -3961,9 +4024,9 @@ doi:[10.1103/PhysRevLett.110.042301](https://doi.org/10.1103/PhysRevLett.110.042
 arXiv:[1208.2470 \[nucl-ex\]](http://arxiv.org/abs/1208.2470)
 
 <!--#ref-Chatrchyan:2012wa-->S. Chatrchyan et al., **Search for
-supersymmetry in final states with missing transverse energy and 0, 1,
-2, or at least 3 b-quark jets in 7 TeV pp collisions using the variable
-alphaT**, *JHEP*. 01 (2013) 077,
+Supersymmetry in Final States with Missing Transverse Energy and 0, 1,
+2, or at Least 3 b-Quark Jets in 7 TeV pp Collisions using the Variable
+$\alpha_T$**, *JHEP*. 01 (2013) 077,
 doi:[10.1007/JHEP01(2013)077](https://doi.org/10.1007/JHEP01(2013)077),
 arXiv:[1210.8115 \[hep-ex\]](http://arxiv.org/abs/1210.8115)
 
@@ -3974,20 +4037,20 @@ doi:[10.1103/PhysRevLett.110.081802](https://doi.org/10.1103/PhysRevLett.110.081
 arXiv:[1209.2922 \[hep-ex\]](http://arxiv.org/abs/1209.2922)
 
 <!--#ref-Chatrchyan:2012yca-->S. Chatrchyan et al., **Search for $Z$ '
-resonances decaying to $t\bar{t}$ in dilepton+jets final states in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *Phys. Rev.* D87 (2013) 072002,
+Resonances Decaying to $t\bar{t}$ in Dilepton + Jets Final States in
+$pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys. Rev.* D87 (2013) 072002,
 doi:[10.1103/PhysRevD.87.072002](https://doi.org/10.1103/PhysRevD.87.072002),
 arXiv:[1211.3338 \[hep-ex\]](http://arxiv.org/abs/1211.3338)
 
-<!--#ref-Chatrchyan:2012ypy-->S. Chatrchyan et al., **Search for heavy
-resonances in the W/Z-tagged dijet mass spectrum in pp collisions at 7
+<!--#ref-Chatrchyan:2012ypy-->S. Chatrchyan et al., **Search for Heavy
+Resonances in the W/Z-Tagged Dijet Mass Spectrum in pp Collisions at 7
 TeV**, *Phys. Lett.* B723 (2013) 280--301,
 doi:[10.1016/j.physletb.2013.05.040](https://doi.org/10.1016/j.physletb.2013.05.040),
 arXiv:[1212.1910 \[hep-ex\]](http://arxiv.org/abs/1212.1910)
 
 <!--#ref-Chatrchyan:2012yxr-->S. Chatrchyan et al., **Search for
-supersymmetry in $pp$ collisions at $\sqrt{s}=7$ TeV in events with a
-single lepton, jets, and missing transverse momentum**, *Eur. Phys. J.*
+Supersymmetry in $pp$ Collisions at $\sqrt{s}=7$ TeV in Events with a
+Single Lepton, Jets, and Missing Transverse Momentum**, *Eur. Phys. J.*
 C73 (2013) 2404,
 doi:[10.1140/epjc/s10052-013-2404-z](https://doi.org/10.1140/epjc/s10052-013-2404-z),
 arXiv:[1212.6428 \[hep-ex\]](http://arxiv.org/abs/1212.6428)
