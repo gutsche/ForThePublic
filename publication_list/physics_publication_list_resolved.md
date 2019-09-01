@@ -33,6 +33,11 @@ Phys. J.* C79 (2019) 280,
 doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
 arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
+<!--#ref-Sirunyan:2019wph-->A.M. Sirunyan et al., **Search for heavy Higgs
+bosons decaying to a top quark pair in proton-proton collisions at
+$\sqrt{s} =$ 13 TeV**, (2019), arXiv:[1908.01115
+\[hep-ex\]](http://arxiv.org/abs/1908.01115)
+
 <!--#ref-Sirunyan:2017qaj-->A.M. Sirunyan et al., **Search for new
 phenomena in final states with two opposite-charge, same-flavor leptons,
 jets, and missing transverse momentum in pp collisions at $\sqrt{s}=13$
