@@ -21,8 +21,9 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 ## Research Positions
 |                       |                         |                                                  |
 |:----------------------|:------------------------|:-------------------------------------------------|
-| **09/2014 - Present** | Scientist               | Fermi National Accelerator Laboratory (Fermilab) |
-| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab) |
+| **09/2019 - Present** | Senior Scientist        | Fermi National Accelerator Laboratory (Fermilab) |
+| 09/2014 - 08/2019     | Scientist               | Fermi National Accelerator Laboratory (Fermilab) |
+| 06/2009 – 08/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab) |
 | 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab) |
 | 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)          |
 
@@ -55,7 +56,8 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 ## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
-| 10/2016 - present | Deputy Head of the Scientific Services Quadrant                     |
+| 10/2019 - present | Associate Head of the Scientific Computing Division for CMS         |
+| 10/2016 - 09/2019 | Deputy Head of the Scientific Services Quadrant                     |
 | 10/2014 – 09/2016 | Assistant Head of the Scientific Computing Division for Science     |
 |                   | Operations and Workflows                                            |
 | 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP)     |
@@ -69,7 +71,7 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 ## Assignments: CMS Collaboration - Offline & Computing Project
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
-| 09/2015 – present | CMS Offline & Computing Project Focus Area Lead for Infrastructure  |
+| 09/2015 – 09/2019 | CMS Offline & Computing Project Focus Area Lead for Infrastructure  |
 |                   | and Resources                                                       |
 | 10/2014 – 08/2015 | Member of the CMS Offline & Computing Project Management Board      |
 | 01/2012 – 09/2014 | CMS Offline & Computing Project Computing Operations L2 Manager     |
@@ -213,8 +215,9 @@ doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 <!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
-\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+Technologies for HEP Analysis**, (2019),
+doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
+arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
@@ -300,6 +303,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. September 2019
+published on: 05. October 2019
 
 ----------

@@ -26,8 +26,9 @@ doi:[10.1103/PhysRevD.100.012004](https://doi.org/10.1103/PhysRevD.100.012004),
 arXiv:[1905.04246 \[hep-ex\]](http://arxiv.org/abs/1905.04246)
 
 <!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
-\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+Technologies for HEP Analysis**, (2019),
+doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
+arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Sirunyan:2017fts-->A.M. Sirunyan et al., **Non-Gaussian
 elliptic-flow fluctuations in PbPb collisions at
@@ -105,6 +106,13 @@ inclusive very forward jet cross sections in proton-lead collisions at
 $\sqrt{s_{{NN}}}$ = 5.02 TeV**, *JHEP*. 05 (2019) 043,
 doi:[10.1007/JHEP05(2019)043](https://doi.org/10.1007/JHEP05(2019)043),
 arXiv:[1812.01691 \[hep-ex\]](http://arxiv.org/abs/1812.01691)
+
+<!--#ref-Sirunyan:2018fhl-->A.M. Sirunyan et al., **Evidence for
+light-by-light scattering and searches for axion-like particles in
+ultraperipheral PbPb collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**,
+*Phys. Lett.* B797 (2019) 134826,
+doi:[10.1016/j.physletb.2019.134826](https://doi.org/10.1016/j.physletb.2019.134826),
+arXiv:[1810.04602 \[hep-ex\]](http://arxiv.org/abs/1810.04602)
 
 <!--#ref-Sirunyan:2018fki-->A.M. Sirunyan et al., **Search for a W′ boson
 decaying to a vector-like quark and a top or bottom quark in the
@@ -451,6 +459,11 @@ constraints on charged anomalous triple gauge couplings at $\sqrt{s} =$
 doi:[10.1007/JHEP04(2019)122](https://doi.org/10.1007/JHEP04(2019)122),
 arXiv:[1901.03428 \[hep-ex\]](http://arxiv.org/abs/1901.03428)
 
+<!--#ref-Sirunyan:2019bzr-->A.M. Sirunyan et al., **Measurements of
+differential Z boson production cross sections in proton-proton
+collisions at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1909.04133
+\[hep-ex\]](http://arxiv.org/abs/1909.04133)
+
 <!--#ref-Sirunyan:2019cgy-->A.M. Sirunyan et al., **Pseudorapidity
 distributions of charged hadrons in xenon-xenon collisions at
 $\sqrt{s_{{NN}}} =$ 5.44 TeV**, (2019), arXiv:[1902.03603
@@ -470,6 +483,11 @@ jets in proton-proton collisions at 13 TeV**, (2019), arXiv:[1905.07445
 validation of a new set of CMS PYTHIA8 tunes from underlying-event
 measurements**, (2019), arXiv:[1903.12179
 \[hep-ex\]](http://arxiv.org/abs/1903.12179)
+
+<!--#ref-Sirunyan:2019djp-->A.M. Sirunyan et al., **Calibration of the CMS
+hadron calorimeters using proton-proton collision data at $\sqrt{s} =$
+13 TeV**, (2019), arXiv:[1910.00079
+\[physics.ins-det\]](http://arxiv.org/abs/1910.00079)
 
 <!--#ref-Sirunyan:2019dox-->A.M. Sirunyan et al., **Observation of nuclear
 modifications in W $^\pm$ boson production in pPb collisions at
@@ -545,6 +563,15 @@ search for new heavy resonances decaying to boosted WW, WZ, or ZZ boson
 pairs in the dijet final state at 13 TeV**, (2019), arXiv:[1906.05977
 \[hep-ex\]](http://arxiv.org/abs/1906.05977)
 
+<!--#ref-Sirunyan:2019jud-->A.M. Sirunyan et al., **Measurement of the
+${t\bar{t}}{b\bar{b}}$ production cross section in the all-jet final
+state in pp collisions at $\sqrt{s} =$ 13 TeV**, (2019),
+arXiv:[1909.05306 \[hep-ex\]](http://arxiv.org/abs/1909.05306)
+
+<!--#ref-Sirunyan:2019jyn-->A.M. Sirunyan et al., **Running of the top
+quark mass from proton-proton collisions at $\sqrt{s} =$ 13 TeV**,
+(2019), arXiv:[1909.09193 \[hep-ex\]](http://arxiv.org/abs/1909.09193)
+
 <!--#ref-Sirunyan:2019kia-->A.M. Sirunyan et al., **Performance of missing
 transverse momentum reconstruction in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV using the CMS detector**, *JINST*. 14 (2019) P07004,
@@ -605,8 +632,9 @@ TeV**, (2019), arXiv:[1906.02805
 
 <!--#ref-Sirunyan:2019ofn-->A.M. Sirunyan et al., **Search for vector-like
 leptons in multilepton final states in proton-proton collisions at
-$\sqrt{s}$ = 13 TeV**, (2019), arXiv:[1905.10853
-\[hep-ex\]](http://arxiv.org/abs/1905.10853)
+$\sqrt{s}$ = 13 TeV**, *Phys. Rev.* D100 (2019) 052003,
+doi:[10.1103/PhysRevD.100.052003](https://doi.org/10.1103/PhysRevD.100.052003),
+arXiv:[1905.10853 \[hep-ex\]](http://arxiv.org/abs/1905.10853)
 
 <!--#ref-Sirunyan:2019osb-->A.M. Sirunyan et al., **Observation of Two
 Excited B $^+_{c}$ States and Measurement of the B $^+_{c}$(2S) Mass in
@@ -627,8 +655,10 @@ arXiv:[1904.04193 \[hep-ex\]](http://arxiv.org/abs/1904.04193)
 
 <!--#ref-Sirunyan:2019rpc-->A.M. Sirunyan et al., **Azimuthal separation
 in nearly back-to-back jet topologies in inclusive 2- and 3-jet events
-in pp collisions at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1902.04374
-\[hep-ex\]](http://arxiv.org/abs/1902.04374)
+in pp collisions at $\sqrt{s}=$ 13 TeV**, *Eur. Phys. J.* C79 (2019)
+773,
+doi:[10.1140/epjc/s10052-019-7276-4](https://doi.org/10.1140/epjc/s10052-019-7276-4),
+arXiv:[1902.04374 \[hep-ex\]](http://arxiv.org/abs/1902.04374)
 
 <!--#ref-Sirunyan:2019rqy-->A.M. Sirunyan et al., **Measurement of the
 average very forward energy as a function of the track multiplicity at
@@ -681,7 +711,19 @@ arXiv:[1907.08155 \[hep-ex\]](http://arxiv.org/abs/1907.08155)
 
 <!--#ref-Sirunyan:2019vgt-->A.M. Sirunyan et al., **Combination of CMS
 searches for heavy resonances decaying to pairs of bosons or leptons**,
-(2019), arXiv:[1906.00057 \[hep-ex\]](http://arxiv.org/abs/1906.00057)
+*Phys. Lett.* B798 (2019) 134952,
+doi:[10.1016/j.physletb.2019.134952](https://doi.org/10.1016/j.physletb.2019.134952),
+arXiv:[1906.00057 \[hep-ex\]](http://arxiv.org/abs/1906.00057)
+
+<!--#ref-Sirunyan:2019vxa-->A.M. Sirunyan et al., **Search for low mass
+vector resonances decaying into quark-antiquark pairs in proton-proton
+collisions at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1909.04114
+\[hep-ex\]](http://arxiv.org/abs/1909.04114)
+
+<!--#ref-Sirunyan:2019wau-->A.M. Sirunyan et al., **Search for long-lived
+particles using delayed photons in proton-proton collisions at
+$\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1909.06166
+\[hep-ex\]](http://arxiv.org/abs/1909.06166)
 
 <!--#ref-Sirunyan:2019wka-->A.M. Sirunyan et al., **Search for new physics
 in top quark production in dilepton final states in proton-proton
@@ -708,6 +750,10 @@ of four top quarks in final states with same-sign or multiple leptons in
 proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2019),
 arXiv:[1908.06463 \[hep-ex\]](http://arxiv.org/abs/1908.06463)
 
+<!--#ref-Sirunyan:2019xeh-->A.M. Sirunyan et al., **Search for electroweak
+production of a vector-like T quark using fully hadronic final states**,
+(2019), arXiv:[1909.04721 \[hep-ex\]](http://arxiv.org/abs/1909.04721)
+
 <!--#ref-Sirunyan:2019xls-->A.M. Sirunyan et al., **Search for a heavy
 pseudoscalar boson decaying to a Z and a Higgs boson at $\sqrt{s} =$ 13
 TeV**, *Eur. Phys. J.* C79 (2019) 564,
@@ -719,6 +765,12 @@ photons in decays of Higgs bosons produced in association with Z bosons
 in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2019),
 arXiv:[1908.02699 \[hep-ex\]](http://arxiv.org/abs/1908.02699)
 
+<!--#ref-Sirunyan:2019xwh-->A.M. Sirunyan et al., **Searches for physics
+beyond the standard model with the $M_{T2}$ variable in hadronic final
+states with and without disappearing tracks in proton-proton collisions
+at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1909.03460
+\[hep-ex\]](http://arxiv.org/abs/1909.03460)
+
 <!--#ref-Sirunyan:2019zav-->A.M. Sirunyan et al., **Search for dark matter
 particles produced in association with a Higgs boson in proton-proton
 collisions at $\sqrt{s} =$ 13 TeV**, (2019), arXiv:[1908.01713
@@ -727,14 +779,21 @@ collisions at $\sqrt{s} =$ 13 TeV**, (2019), arXiv:[1908.01713
 <!--#ref-Sirunyan:2019zdq-->A.M. Sirunyan et al., **Search for a light
 charged Higgs boson decaying to a W boson and a CP-odd Higgs boson in
 final states with e $\mu\mu$ or $\mu\mu\mu$ in proton-proton collisions
-at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1905.07453
-\[hep-ex\]](http://arxiv.org/abs/1905.07453)
+at $\sqrt{s} =$ 13 TeV**, *Phys. Rev. Lett.* 123 (2019) 131802,
+doi:[10.1103/PhysRevLett.123.131802](https://doi.org/10.1103/PhysRevLett.123.131802),
+arXiv:[1905.07453 \[hep-ex\]](http://arxiv.org/abs/1905.07453)
 
 <!--#ref-Sirunyan:2019zfq-->A.M. Sirunyan et al., **Search for
 supersymmetry with a compressed mass spectrum in the vector boson fusion
 topology with 1-lepton and 0-lepton final states in proton-proton
-collisions at $\sqrt{s}=$ 13 TeV**, (2019), arXiv:[1905.13059
-\[hep-ex\]](http://arxiv.org/abs/1905.13059)
+collisions at $\sqrt{s}=$ 13 TeV**, *JHEP*. 08 (2019) 150,
+doi:[10.1007/JHEP08(2019)150](https://doi.org/10.1007/JHEP08(2019)150),
+arXiv:[1905.13059 \[hep-ex\]](http://arxiv.org/abs/1905.13059)
+
+<!--#ref-Sirunyan:2019zox-->A.M. Sirunyan et al., **Evidence for WW
+production from double-parton interactions in proton-proton collisions
+at $\sqrt{s} =$ 13 TeV**, (2019), arXiv:[1909.06265
+\[hep-ex\]](http://arxiv.org/abs/1909.06265)
 
 <!--#ref-Sirunyan:2019zvx-->A.M. Sirunyan et al., **Measurement of
 ${t\bar t}$ normalised multi-differential cross sections in pp
@@ -1278,13 +1337,6 @@ resonances in dilepton final states in proton-proton collisions at
 $\sqrt{s}=$ 13 TeV**, *JHEP*. 06 (2018) 120,
 doi:[10.1007/JHEP06(2018)120](https://doi.org/10.1007/JHEP06(2018)120),
 arXiv:[1803.06292 \[hep-ex\]](http://arxiv.org/abs/1803.06292)
-
-<!--#ref-Sirunyan:2018fhl-->A.M. Sirunyan et al., **Evidence for
-light-by-light scattering and searches for axion-like particles in
-ultraperipheral PbPb collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**,
-(2018),
-doi:[10.1016/j.physletb.2019.134826](https://doi.org/10.1016/j.physletb.2019.134826),
-arXiv:[1810.04602 \[hep-ex\]](http://arxiv.org/abs/1810.04602)
 
 <!--#ref-Sirunyan:2018fjh-->A.M. Sirunyan et al., **Search for single
 production of vector-like quarks decaying to a b quark and a Higgs
@@ -4077,7 +4129,7 @@ arXiv:[1406.0484 \[hep-ex\]](http://arxiv.org/abs/1406.0484)
 
 <!--#ref-Khachatryan:2014ika-->V. Khachatryan et al., **Study of hadronic
 event-shape variables in multijet final states in pp collisions at
-sqrt(s) = 7 TeV**, *JHEP*. 10 (2014) 87,
+sqrt(s) = 7 TeV**, *JHEP*. 10 (2014) 087,
 doi:[10.1007/JHEP10(2014)087](https://doi.org/10.1007/JHEP10(2014)087),
 arXiv:[1407.2856 \[hep-ex\]](http://arxiv.org/abs/1407.2856)
 

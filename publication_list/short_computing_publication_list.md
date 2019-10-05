@@ -4,8 +4,9 @@ doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 <!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
-\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+Technologies for HEP Analysis**, (2019),
+doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
+arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and

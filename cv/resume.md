@@ -50,7 +50,8 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 | _Research Positions:_ |                         |                                                      |
 |:----------------------|:------------------------|:-----------------------------------------------------|
-| 09/2014 - Present     | Scientist               | Fermi National Accelerator Laboratory (Fermilab)     |
+| **09/2019 - Present** | Senior Scientist        | Fermi National Accelerator Laboratory (Fermilab)     |
+| 09/2014 - 08/2019     | Scientist               | Fermi National Accelerator Laboratory (Fermilab)     |
 | 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab)     |
 | 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab)     |
 | 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)              |
@@ -72,11 +73,8 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 | _Assignments:_        |                                                                                |
 |-----------------------|--------------------------------------------------------------------------------|
-| 10/2016 - 02/2019     | U.S.CMS Software and Computing Operations Program manager                      |
-| 10/2016 - 02/2019     | Deputy U.S.CMS Software and Computing Operations Program manager               |
-| 10/2016 - 02/2019     | L2 manager for Software and Support - U.S.CMS Operations Program               |
-| 10/2016 - present     | Deputy Head of the Scientific Services Quadrant - Fermilab                     |
-| 09/2015 – present     | Focus Area Lead for Computing Infrastructure and Resources - CMS Collaboration |
+| 03/2019 - present     | U.S.CMS Software and Computing Operations Program manager                      |
+| 10/2019 - present     | Associate Head of the Scientific Computing Division for CMS                    |
 
 
 <!-- \newpage -->
@@ -120,8 +118,9 @@ doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 <!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, (2019), arXiv:[1901.07143
-\[cs.DC\]](http://arxiv.org/abs/1901.07143)
+Technologies for HEP Analysis**, (2019),
+doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
+arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
