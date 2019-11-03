@@ -185,9 +185,9 @@ $\sqrt{s}$=8 TeV**, *Phys. Lett.* B736 (2014) 371--397,
 doi:[10.1016/j.physletb.2014.07.053](https://doi.org/10.1016/j.physletb.2014.07.053),
 arXiv:[1405.3886 \[hep-ex\]](http://arxiv.org/abs/1405.3886)
 
-<!--#ref-Khachatryan:2014ewa-->V. Khachatryan et al., **Measurement of top
-quark-antiquark pair production in association with a W or Z boson in pp
-collisions at $\sqrt{s} = 8$${TeV}$**, *Eur. Phys. J.* C74 (2014) 3060,
+<!--#ref-Khachatryan:2014ewa-->V. Khachatryan et al., **Measurement of Top
+Quark-Antiquark Pair Production in Association with a W or Z Boson in pp
+Collisions at $\sqrt{s} = 8$${TeV}$**, *Eur. Phys. J.* C74 (2014) 3060,
 doi:[10.1140/epjc/s10052-014-3060-7](https://doi.org/10.1140/epjc/s10052-014-3060-7),
 arXiv:[1406.7830 \[hep-ex\]](http://arxiv.org/abs/1406.7830)
 
