@@ -31,7 +31,7 @@ doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030)
 arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Lange:2019wzn-->D. Lange et al., **CMS Computing Resources:
-Meeting the demands of the high-luminosity LHC physics program**, *EPJ
+Meeting the Demands of the High-Luminosity LHC Physics Program**, *EPJ
 Web Conf.* 214 (2019) 03055,
 doi:[10.1051/epjconf/201921403055](https://doi.org/10.1051/epjconf/201921403055)
 

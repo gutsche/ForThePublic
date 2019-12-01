@@ -1,3 +1,21 @@
+<!--#ref-Gutsche:2019aag-->O. Gutsche, **Exabytes and the Large Hadron
+Collider: the importance of computing excellence for scientific
+discovery**, (2019), Seminar given at [Dr. Leonard Weisenthal Colloquium
+Series at Lewis
+University](https://www.lewisu.edu/academics/physics/index.htm),
+[(Material)](http://bit.ly/34Qhrco)
+
+<!--#ref-Gutsche:2019aac-->O. Gutsche, **Bringing heterogeneity to the CMS
+software framework**, (2019), Parallel Session Talk at the [24th
+International Conference on Computing in High Energy & Nuclear Physics
+(CHEP2019)](https://indico.cern.ch/event/773049/overview),
+[(Material)](https://indi.to/mQtrG)
+
+<!--#ref-Gutsche:2019aab-->O. Gutsche, **Software & Computing**, (2019),
+Plenary Talk at the [2019 US CMS Annual Collaboration
+Meeting](https://indico.cern.ch/event/794370/timetable/),
+[(Material)](https://indico.cern.ch/event/794370/contributions/3430184/attachments/1858352/3053229/190607_-_USCMS_Collaboration_Meeting_-_Software__Computing.pdf)
+
 <!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
 2019 [(CMSDAS 2019)](https://indico.cern.ch/event/759915/),
@@ -13,15 +31,3 @@ Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
 University of Pittsburgh,
 [(Material)](https://indico.cern.ch/event/732285/contributions/3021322/attachments/1695150/2728277/180730_-_Atlas_Workshop_Open_Day_-_Gutsche_-_Trends_in_Hardware.pdf)
-
-<!--#ref-Gutsche:2017aah-->O. Gutsche, **Particle Physics - A world wide
-journey from recording particles to analysis using big computing**,
-(2017), Plenary Talk at the Chicago Council on Science & Technology
-Panel: [Fermilab and the New Frontiers of
-Physics](http://www.c2st.org/event/2017/09/fermilab-and-new-frontiers-physics),
-[(Material)](https://goo.gl/wDB5SU)
-
-<!--#ref-Gutsche:2017aaf-->O. Gutsche, **50 years Fermilab - Computing
-Innovations**, (2017), Talk at the Fermilab 50th Anniversary
-[Symposium](https://indico.fnal.gov/event/12923/other-view?view=standard),
-[(Material)](https://indico.fnal.gov/event/12923/session/7/contribution/38/material/slides/0.pdf)

@@ -154,21 +154,21 @@ Transverse Momentum in pp Collisions at sqrt(s) = 8 TeV**, *JHEP*. 04
 doi:[10.1007/JHEP04(2015)124](https://doi.org/10.1007/JHEP04(2015)124),
 arXiv:[1502.06031 \[hep-ex\]](http://arxiv.org/abs/1502.06031)
 
-<!--#ref-Chatrchyan:2013fea-->S. Chatrchyan et al., **Search for new
-physics in events with same-sign dileptons and jets in pp collisions at
+<!--#ref-Chatrchyan:2013fea-->S. Chatrchyan et al., **Search for New
+Physics in Events with Same-Sign Dileptons and Jets in pp Collisions at
 $\sqrt{s}$ = 8 TeV**, *JHEP*. 01 (2014) 163,
 doi:[10.1007/JHEP01(2015)014](https://doi.org/10.1007/JHEP01(2015)014),
 arXiv:[1311.6736 \[hep-ex\]](http://arxiv.org/abs/1311.6736)
 
 <!--#ref-Chatrchyan:2013iaa-->S. Chatrchyan et al., **Measurement of Higgs
-boson production and properties in the WW decay channel with leptonic
-final states**, *JHEP*. 01 (2014) 096,
+Boson Production and Properties in the WW Decay Channel with Leptonic
+Final States**, *JHEP*. 01 (2014) 096,
 doi:[10.1007/JHEP01(2014)096](https://doi.org/10.1007/JHEP01(2014)096),
 arXiv:[1312.1129 \[hep-ex\]](http://arxiv.org/abs/1312.1129)
 
 <!--#ref-Chatrchyan:2013wua-->S. Chatrchyan et al., **Measurements of
-$t\bar{t}$ spin correlations and top-quark polarization using dilepton
-final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
+$t\bar{t}$ Spin Correlations and Top-Quark Polarization Using Dilepton
+Final States in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
 Lett.* 112 (2014) 182001,
 doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
 arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
@@ -225,8 +225,8 @@ doi:[10.1016/j.physletb.2013.03.027](https://doi.org/10.1016/j.physletb.2013.03.
 arXiv:[1301.4698 \[hep-ex\]](http://arxiv.org/abs/1301.4698)
 
 <!--#ref-Chatrchyan:2013xna-->S. Chatrchyan et al., **Search for
-top-squark pair production in the single-lepton final state in pp
-collisions at $\sqrt{s}$ = 8 TeV**, *Eur. Phys. J.* C73 (2013) 2677,
+Top-Squark Pair Production in the Single-Lepton Final State in pp
+Collisions at $\sqrt{s}$ = 8 TeV**, *Eur. Phys. J.* C73 (2013) 2677,
 doi:[10.1140/epjc/s10052-013-2677-2](https://doi.org/10.1140/epjc/s10052-013-2677-2),
 arXiv:[1308.1586 \[hep-ex\]](http://arxiv.org/abs/1308.1586)
 

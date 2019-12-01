@@ -25,8 +25,8 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 <!--#ref-Chatrchyan:2013wua-->S. Chatrchyan et al., **Measurements of
-$t\bar{t}$ spin correlations and top-quark polarization using dilepton
-final states in $pp$ collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
+$t\bar{t}$ Spin Correlations and Top-Quark Polarization Using Dilepton
+Final States in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
 Lett.* 112 (2014) 182001,
 doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
 arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)

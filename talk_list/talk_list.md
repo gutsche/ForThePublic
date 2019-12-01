@@ -1,3 +1,22 @@
+<!--#ref-Gutsche:2019aag-->O. Gutsche, **Exabytes and the Large Hadron
+Collider: the importance of computing excellence for scientific
+discovery**, (2019), Seminar given at [Dr. Leonard Weisenthal Colloquium
+Series at Lewis
+University](https://www.lewisu.edu/academics/physics/index.htm),
+[(Material)](http://bit.ly/34Qhrco)
+
+<!--#ref-Gutsche:2019aad-->O. Gutsche, **WLCG Web Proxy Auto Discovery for
+Dynamically Created Web Proxies**, (2019), Parallel Session Talk at the
+[24th International Conference on Computing in High Energy & Nuclear
+Physics (CHEP2019)](https://indico.cern.ch/event/773049/overview),
+[(Material)](https://indi.to/Qk2GG)
+
+<!--#ref-Gutsche:2019aac-->O. Gutsche, **Bringing heterogeneity to the CMS
+software framework**, (2019), Parallel Session Talk at the [24th
+International Conference on Computing in High Energy & Nuclear Physics
+(CHEP2019)](https://indico.cern.ch/event/773049/overview),
+[(Material)](https://indi.to/mQtrG)
+
 <!--#ref-Gutsche:2019aav-->O. Gutsche, **Highlights from Parallel Session:
 Software & Computing**, (2019), Plenary Talk at the [2019 US CMS Annual
 Collaboration Meeting](https://indico.cern.ch/event/794370/timetable/),
