@@ -91,12 +91,12 @@ for Computational Excellence: Working Group Reports (I. Applications
 Software II. Software Libraries and Tools III. Systems)**, (2015),
 arXiv:[1510.08545 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
-<!--#ref-Adelman:2013raa-->J. Adelman et al., **CMS computing operations
-during run 1**, *J. Phys. Conf. Ser.* 513 (2014) 032040,
+<!--#ref-Adelman:2013raa-->J. Adelman et al., **CMS Computing Operations
+During Run 1**, *J. Phys. Conf. Ser.* 513 (2014) 032040,
 doi:[10.1088/1742-6596/513/3/032040](https://doi.org/10.1088/1742-6596/513/3/032040)
 
-<!--#ref-Belforte:2014iba-->S. Belforte et al., **Evolution of the pilot
-infrastructure of CMS: towards a single glideinWMS pool**, *J. Phys.
+<!--#ref-Belforte:2014iba-->S. Belforte et al., **Evolution of the Pilot
+Infrastructure of CMS: Towards a Single GlideinWMS Pool**, *J. Phys.
 Conf. Ser.* 513 (2014) 032041,
 doi:[10.1088/1742-6596/513/3/032041](https://doi.org/10.1088/1742-6596/513/3/032041)
 
@@ -105,12 +105,7 @@ network monitoring infrastructure based on the perfSONAR-PS
 technology**, *J. Phys. Conf. Ser.* 513 (2014) 062008,
 doi:[10.1088/1742-6596/513/6/062008](https://doi.org/10.1088/1742-6596/513/6/062008)
 
-<!--#ref-Cury:2014saa-->S. Cury et al., **Event processing time prediction
-at the CMS experiment of the Large Hadron Collider**, *J. Phys. Conf.
-Ser.* 513 (2014) 032023,
-doi:[10.1088/1742-6596/513/3/032023](https://doi.org/10.1088/1742-6596/513/3/032023)
-
-<!--#ref-Dzhunov:2014xaa-->I. Dzhunov et al., **Towards a centralized Grid
+<!--#ref-Dzhunov:2014xaa-->I. Dzhunov et al., **Towards a Centralized Grid
 Speedometer**, *J. Phys. Conf. Ser.* 513 (2014) 032028,
 doi:[10.1088/1742-6596/513/3/032028](https://doi.org/10.1088/1742-6596/513/3/032028)
 

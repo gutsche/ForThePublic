@@ -282,7 +282,10 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 ## List of Presentation and Talks
 <!--#ref-Gutsche:2019aag-->O. Gutsche, **Exabytes and the Large Hadron
 Collider: the importance of computing excellence for scientific
-discovery**, (2019)
+discovery**, (2019), Seminar given at [Dr. Leonard Weisenthal Colloquium
+Series at Lewis
+University](https://www.lewisu.edu/academics/physics/index.htm),
+[(Material)](http://bit.ly/34Qhrco)
 
 <!--#ref-Gutsche:2019aac-->O. Gutsche, **Bringing heterogeneity to the CMS
 software framework**, (2019), Parallel Session Talk at the [24th
