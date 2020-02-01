@@ -55,6 +55,6 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ----------
 
-published on: 05. January 2020
+published on: 01. February 2020
 
 ----------
