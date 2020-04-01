@@ -38,7 +38,7 @@ logging.config.dictConfig({
           }
 })
 
-inspirehepapi='http://inspirehep.net/search?'
+inspirehepapi='http://old.inspirehep.net/search?'
 author_query='author:O.Gutsche.1 AND collection:citeable'
 
 def inspire_get_number_of_records():
