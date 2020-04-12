@@ -32,14 +32,12 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 |                 |                                                                                                                     |
 |-----------------|---------------------------------------------------------------------------------------------------------------------|
 | **2001-2005**   | **University of Hamburg**, _Doctor of Natural Sciences_, Hamburg, Germany                                           |
-| Thesis title    | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment_                            |
-|                 | _at the electron proton collider HERA_ [(thesis)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
+| Thesis title    | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment at the electron proton collider HERA_ [(thesis)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
 |                 |                                                                                                                     |
 | **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
-| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_                                                  |
-|                 | [(thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020)                                         |
-| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                                                          |
+| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ (thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser 
 
 
 ## Assignments: U.S. CMS Software and Computing Operations Program
@@ -47,10 +45,8 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 |-------------------|---------------------------------------------------------------------|
 | 03/2019 - present | U.S.CMS Software and Computing Operations Program manager           |
 | 10/2016 - 02/2019 | U.S.CMS Software and Computing Operations Deputy Program manager    |
-| 10/2016 - 02/2019 | L2 manager for Software and Support in the U.S. CMS Software and    |
-|                   | Computing Operations Program Execution Team                         |
-| 03/2014 – 09/2016 | L2 manager for Operations in the Software and Computing Operations  |
-|                   | Program Execution Team                                              |
+| 10/2016 - 02/2019 | L2 manager for Software and Support in the U.S. CMS Software and Computing Operations Program Execution Team |
+| 03/2014 – 09/2016 | L2 manager for Operations in the Software and Computing Operations Program Execution Team |
 
 
 ## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
@@ -58,25 +54,38 @@ Link to Curriculum Vitae: [(PDF)](https://github.com/gutsche/ForThePublic/raw/ma
 |-------------------|---------------------------------------------------------------------|
 | 10/2019 - present | Associate Head of the Scientific Computing Division for CMS         |
 | 10/2016 - 09/2019 | Deputy Head of the Scientific Services Quadrant                     |
-| 10/2014 – 09/2016 | Assistant Head of the Scientific Computing Division for Science     |
-|                   | Operations and Workflows                                            |
-| 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP)     |
-|                   | Department of the Scientific Services Quadrant                      |
-| 10/2013 – 09/2014 | Deputy Department Head of the Scientific Data Processing (SDP)      |
-|                   | Department of the Scientific Services Quadrant                      |
-| 09/2012 – 09/2014 | CMS Operations Group Leader in the Scientific Data Processing (SDP) |
-|                   | Department of the Scientific Services Quadrant                      |
+| 10/2014 – 09/2016 | Assistant Head of the Scientific Computing Division for Science Operations and Workflows |
+| 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP)Department of the Scientific Services Quadrant |
+| 10/2013 – 09/2014 | Deputy Department Head of the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
+| 09/2012 – 09/2014 | CMS Operations Group Leader in the Scientific Data Processing (SDP) Department of the Scientific Services Quadrant |
 
 
 ## Assignments: CMS Collaboration - Offline & Computing Project
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
-| 09/2015 – 09/2019 | CMS Offline & Computing Project Focus Area Lead for Infrastructure  |
-|                   | and Resources                                                       |
+| 09/2015 – 09/2019 | CMS Offline & Computing Project Focus Area Lead for Infrastructure and Resources |
 | 10/2014 – 08/2015 | Member of the CMS Offline & Computing Project Management Board      |
 | 01/2012 – 09/2014 | CMS Offline & Computing Project Computing Operations L2 Manager     |
 | 07/2009 – 12/2011 | CMS Offline & Computing Project Data Operations L2 Manager          |
 | 01/2007 – 07/2009 | CMS Offline & Computing Project Release Validation Manager          |
+
+
+## Supervision
+|                 |                                                                      |
+| ----------------| ---------------------------------------------------------------------|
+| 03/2011-02/2016 | Jacob Linacre - Fermilab Postdoc in CMS                              |
+|                 | - Searches for SM and BSM physics with top quarks                    |
+|                 | - 01/2014-12/2015: CMS Physics top quark properties subgroup convener |
+|                 | - 03/2011-12/2013: CMS Tier-1 production and processing L3 manager   |
+| 06/2015-present | Matteo Cremonesi - Fermilab Postdoc in CMS                           |
+|                 | - Dark matter searches                                               |
+|                 | - 09/2015-09/2019: CMS L3 manager for processing and production      |
+|                 | - 12/2016-01/2019: Co-lead of [CERN openlab/Intel Big Data project](https://cms-big-data.github.io) |
+|                 | - 01/2019-present: Co-lead of [Coffea](https://github.com/CoffeaTeam/coffea0) project using python industry tools for CMS analysis |
+| 10/2018-present | Nick Smith - Fermilab Postdoc in CMS                                 |
+|                 | - Higgs precision measurements in b-quark and other final states     |
+|                 | - 03/2019-12/2019: CMS L3 manager for data management                |
+|                 | - 01/2020-present: CMS L2 manager for Computing Operaions            |
 
 
 ## Scholarships and Awards
@@ -129,6 +138,8 @@ The CMS collaboration appointed me lead of the Data Operations Project in 2009. 
 
 
 ### Software
+In January 2020, the DOE [Center for Computational Excellence](https://hepfce.org) was funded for a 3-year project to enable HEP experiments like ATLAS, CMS, DUNE, LSST, DESI and others to efficiently use HPC installations in the U.S. at the leadership class facilities at Argonne and Oakridge National Laboratories and NERSC at Lawrence Berkeley National Laboratory. I co-wrote the proposal to execute 4 sub-projects to (1) investigate parallel portability solutions (PPS) to develop algorithmic code once and compile it transparently for the various CPU and accelerator-based architectures; (2) Fine-Grained I/O and Storage (IOS) to optimize data structures on disk and in memory and optimize data access on large shared storage systems at HPC systems; (3) Event Generators (EG) to optimize HEP theory code for execution on HPC systems; (4) Complex Workflows (CW) to orchestrate workflows whose steps need different hardware platforms. I was appointed technical lead of the PPS sub-project and am also point-of-contact for the CMS experiment.
+
 In the U.S. CMS Software and Computing Operations Program, I was responsible for the Software and Support area from October 2016 to February 2019. Under my guidance, the CMS software framework CMSSW was maintained and evolved, as well as critical R&D was started in the areas of vectorized tracking software, machine learning and novel analysis facilities.
 
 Since 2005 and before the start of the LHC data taking in 2010, I was deeply involved in getting the CMS software ready for data taking. I was the lead developer of an innovative tracking algorithm that was used during the commissioning of the CMS detector called RoadSearch. I conducted the first software tutorials in CMS, teaching the CMS community the basics of analysis software and how to perform analysis on the GRID, using a user-friendly GRID analysis tool called CRAB, of which I was one of the lead developers.
@@ -137,8 +148,10 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 ### Committees
-* October 2015 - October 2016: Fermilab's Scientific Advisory Council
-* October 2018 - October 2020: Fermilab's Users Executive Committee
+* 10/2015 - 09/2016: Fermilab's Scientific Advisory Council
+* 10/2018 - 09/2020: Fermilab's [Users Executive Committee](https://uec.fnal.gov)
+* 10/2019 - 09/2022: Fermilab's [Wilson Fellowship](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/) hiring committee
+* 01/2020 - 12/2021: Co-lead of the [Computational Frontier](https://snowmass21.org/computational/start) of the [Snowmass 2021 process](https://snowmass21.org)
 
 
 ### Other Professional Activities
@@ -310,6 +323,6 @@ for data from high-energy physics**, (2017), Article in
 
 ----------
 
-published on: 01. April 2020
+published on: 12. April 2020
 
 ----------

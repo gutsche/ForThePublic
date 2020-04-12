@@ -33,6 +33,9 @@ include({{{{../cv/assignments_scd.md}}}})
 ## Assignments: CMS Collaboration - Offline & Computing Project
 include({{{{../cv/assignments_cms_offcomp.md}}}})
 
+## Supervision
+include({{{{../cv/supervision.md}}}})
+
 ## Scholarships and Awards
 include({{{{../cv/awards.md}}}})
 
