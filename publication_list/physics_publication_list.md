@@ -4,6 +4,10 @@ $\sqrt{s} =$ 13 TeV**, *JHEP*. 04 (2020) 171,
 doi:[10.1007/JHEP04(2020)171](https://doi.org/10.1007/JHEP04(2020)171),
 arXiv:[1908.01115 \[hep-ex\]](http://arxiv.org/abs/1908.01115)
 
+<!--#ref-Sirunyan:2020cjp-->A.M. Sirunyan et al., **Observation of the
+production of three massive gauge bosons at $\sqrt{s}=$ 13 TeV**,
+(2020), arXiv:[2006.11191 \[hep-ex\]](http://arxiv.org/abs/2006.11191)
+
 <!--#ref-CMS:2019mpq-->A.M. Sirunyan et al., **Search for the production
 of W $^\pm$W $^\pm$W $^\mp$ events at $\sqrt{s} =$ 13 TeV**, *Phys.
 Rev.* D100 (2019) 012004,
