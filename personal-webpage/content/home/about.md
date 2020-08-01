@@ -53,6 +53,6 @@ I regularly speak at interational conferences and workshops and am member of the
 
 ----------
 
-published on: 01. July 2020
+published on: 01. August 2020
 
 ----------
