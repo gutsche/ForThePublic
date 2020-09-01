@@ -11,6 +11,10 @@ weight = 4
 # Computing Publications with Major Personal Contributions
 
 
+<!--#ref-Smith:2020pxs-->N. Smith et al., **Coffea -- Columnar Object
+Framework For Effective Analysis**, in: 2020, arXiv:[2008.12712
+\[cs.DC\]](http://arxiv.org/abs/2008.12712)
+
 <!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
 and Computing R&D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019) 7,
 doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
@@ -55,6 +59,6 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 ----------
 
-published on: 01. August 2020
+published on: 01. September 2020
 
 ----------
