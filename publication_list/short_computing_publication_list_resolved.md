@@ -21,11 +21,14 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 
 <!--#ref-Smith:2020pxs-->N. Smith et al., **Coffea -- Columnar Object
-Framework For Effective Analysis**, in: 2020, arXiv:[2008.12712
+Framework For Effective Analysis**, in: **24th International Conference
+on Computing in High Energy and Nuclear Physics (CHEP 2019) Adelaide,
+Australia, November 4-8, 2019**, 2020, arXiv:[2008.12712
 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
 <!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
-and Computing R&D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019) 7,
+and Computing R & D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019)
+7,
 doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
