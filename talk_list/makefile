@@ -1,7 +1,7 @@
 PANDOC = pandoc
 M4 = m4
 TAIL = tail
-CLEANMD = python clean_bibtex_md.py
+CLEANMD = python3 clean_bibtex_md.py
 CITEPROCTEXFLG = --pdf-engine=xelatex --filter=pandoc-citeproc --standalone
 PANFLG = --pdf-engine=xelatex --standalone
 PAN2FLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex

@@ -2,7 +2,3 @@
 	path = personal-webpage/public
 	url = git@github.com:gutsche/gutsche.github.io.git
 	branch = master
-[submodule "personal-webpage/themes/academic"]
-	path = personal-webpage/themes/academic
-    url = git@github.com:gcushen/hugo-academic.git
-    ignore = dirty

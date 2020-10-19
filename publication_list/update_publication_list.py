@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 import sys, re, time, argparse, os
-from urllib2 import Request, urlopen, URLError
+from urllib.request import Request, urlopen
+from urllib.error import URLError
 from bs4 import BeautifulSoup, Comment
 import logging
 import logging.config
@@ -55,9 +56,9 @@ def inspire_get_number_of_records():
         response = urlopen(request)
         result = response.read()
         soup = BeautifulSoup(result, "lxml")
-    except URLError, error:
-        print 'URL =', url
-        print 'No result. Got an error code:', error
+    except URLError as error:
+        print('URL = {}'.format(url))
+        print('No result. Got an error code: {}'.format(error))
         quit()
     try:
         comments = soup.findAll(text=lambda text:isinstance(text, Comment))
@@ -91,14 +92,14 @@ def inspire_get_bibtex(number_of_records):
         try:
             response = urlopen(request)
             BiBTeX = response.read()
-        except URLError, error:
-            print 'URL =', url
-            print 'No result. Got an error code:', error
+        except URLError as error:
+            print('URL = {}'.format(url))
+            print('No result. Got an error code: {}'.format(error))
             quit()
 
-        if 'No records' in BiBTeX:
-            print "no records were found in SPIRES to match your search, please try again"
-            print 'url:',url
+        if 'No records' in BiBTeX.decode('utf-8'):
+            print('no records were found in SPIRES to match your search, please try again')
+            print('url: {}'.format(url))
             quit()
 
         parser = BibTexParser()
@@ -146,7 +147,7 @@ def write_bibtex_file(filename,db):
 
     writer = BibTexWriter()
     writer.order_entries_by = ('year','ID')
-    with open(filename,'w') as output_file:
+    with open(filename,'wb') as output_file:
         bibtex_str = bibtexparser.dumps(db,writer=writer)
         output_file.write(bibtex_str.encode('utf8'))
         print("Wrote %i records into filename '%s'" % (len(db.entries),filename))
@@ -182,14 +183,14 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
     always use the record labels for comparisons
 
     """
-    new_keys = inspire_db.entries_dict.keys()
-    physics_keys = physics_db.entries_dict.keys()
-    computing_keys = computing_db.entries_dict.keys()
-    experiment_keys = experiment_db.entries_dict.keys()
-    short_physics_keys = short_physics_db.entries_dict.keys()
-    short_computing_keys = short_computing_db.entries_dict.keys()
-    shortest_physics_keys = shortest_physics_db.entries_dict.keys()
-    shortest_computing_keys = shortest_computing_db.entries_dict.keys()
+    new_keys = list(inspire_db.entries_dict.keys())
+    physics_keys = list(physics_db.entries_dict.keys())
+    computing_keys = list(computing_db.entries_dict.keys())
+    experiment_keys = list(experiment_db.entries_dict.keys())
+    short_physics_keys = list(short_physics_db.entries_dict.keys())
+    short_computing_keys = list(short_computing_db.entries_dict.keys())
+    shortest_physics_keys = list(shortest_physics_db.entries_dict.keys())
+    shortest_computing_keys = list(shortest_computing_db.entries_dict.keys())
     missing_keys = []
 
     go_quit = False

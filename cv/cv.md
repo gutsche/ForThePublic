@@ -260,7 +260,8 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 <!--#ref-Smith:2020pxs-->N. Smith et al., **Coffea -- Columnar Object
 Framework For Effective Analysis**, in: **24th International Conference
 on Computing in High Energy and Nuclear Physics (CHEP 2019) Adelaide,
-Australia, November 4-8, 2019**, 2020, arXiv:[2008.12712
+Australia, November 4-8, 2019**, 2020.
+<http://arxiv.org/abs/2008.12712>, arXiv:[2008.12712
 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
 <!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
@@ -276,13 +277,13 @@ arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
 <!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
-Interpretation**, (2018), arXiv:[1804.03983
-\[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
+arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 <!--#ref-Berzano:2018xaa-->D. Berzano et al., **HEP Software Foundation
 Community White Paper Working Group -- Data Organization, Management and
-Access (DOMA)**, (2018), arXiv:[1812.00761
-\[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
+arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
 
 <!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
 Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)

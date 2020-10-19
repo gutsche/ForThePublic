@@ -5,5 +5,5 @@
 | Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
 |                 |                                                                                                                     |
 | **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
-| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ (thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
+| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ [(thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
 | Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser 
