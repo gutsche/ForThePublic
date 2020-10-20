@@ -1,0 +1,4 @@
+[submodule "academic-webpage"]
+	path = academic-webpage
+	url = git@github.com:gutsche/starter-academic.git
+	branch = master
