@@ -70,7 +70,7 @@ I regularly speak at interational conferences and workshops and am member of the
 | Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser |
 |                 |                                                                                                                     |
 | **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
-| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ (thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
+| Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ [(thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
 | Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser 
 
 
@@ -210,46 +210,53 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 ## Physics Publications with Major Personal Contributions
-<!--#ref-Sirunyan:2018gdw-->A.M. Sirunyan et al., **Search for dark matter
+<!--#ref-Sirunyan:2018gdw-->
+A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
 quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
 Phys. J.* C79 (2019) 280,
 doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
 arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
-<!--#ref-Sirunyan:2018gka-->A.M. Sirunyan et al., **Search for dark matter
+<!--#ref-Sirunyan:2018gka-->
+A.M. Sirunyan et al., **Search for dark matter
 in events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
 doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
 arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
-<!--#ref-Khachatryan:2016xws-->V. Khachatryan et al., **Measurements of t
+<!--#ref-Khachatryan:2016xws-->
+V. Khachatryan et al., **Measurements of t
 t-bar spin correlations and top quark polarization using dilepton final
 states in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev.* D93 (2016)
 052007,
 doi:[10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007),
 arXiv:[1601.01107 \[hep-ex\]](http://arxiv.org/abs/1601.01107)
 
-<!--#ref-Khachatryan:2016ysn-->V. Khachatryan et al., **Measurements of
+<!--#ref-Khachatryan:2016ysn-->
+V. Khachatryan et al., **Measurements of
 $t \bar t$ charge asymmetry using dilepton final states in pp collisions
 at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
 doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
-<!--#ref-Chatrchyan:2013wua-->S. Chatrchyan et al., **Measurements of
+<!--#ref-Chatrchyan:2013wua-->
+S. Chatrchyan et al., **Measurements of
 $t\bar{t}$ Spin Correlations and Top-Quark Polarization Using Dilepton
 Final States in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
 Lett.* 112 (2014) 182001,
 doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
 arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
 
-<!--#ref-Chatrchyan:2014yta-->S. Chatrchyan et al., **Measurements of the
+<!--#ref-Chatrchyan:2014yta-->
+S. Chatrchyan et al., **Measurements of the
 $t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
 collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
 doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
 arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
 
-<!--#ref-Chatrchyan:2012xdj-->S. Chatrchyan et al., **Observation of a New
+<!--#ref-Chatrchyan:2012xdj-->
+S. Chatrchyan et al., **Observation of a New
 Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
@@ -257,80 +264,94 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 ## Computing Publications with Major Personal Contributions
-<!--#ref-Smith:2020pxs-->N. Smith et al., **Coffea -- Columnar Object
+<!--#ref-Smith:2020pxs-->
+N. Smith et al., **Coffea -- Columnar Object
 Framework For Effective Analysis**, in: **24th International Conference
 on Computing in High Energy and Nuclear Physics (CHEP 2019) Adelaide,
 Australia, November 4-8, 2019**, 2020.
 <http://arxiv.org/abs/2008.12712>, arXiv:[2008.12712
 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
-<!--#ref-Alves:2017she-->J. Albrecht et al., **A Roadmap for HEP Software
+<!--#ref-Alves:2017she-->
+J. Albrecht et al., **A Roadmap for HEP Software
 and Computing R & D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019)
 7,
 doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
-<!--#ref-Cremonesi:2019pdq-->M. Cremonesi et al., **Using Big Data
+<!--#ref-Cremonesi:2019pdq-->
+M. Cremonesi et al., **Using Big Data
 Technologies for HEP Analysis**, *EPJ Web Conf.* 214 (2019) 06030,
 doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
 arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
-<!--#ref-Bauerdick:2018qjx-->L. Bauerdick et al., **HEP Software
+<!--#ref-Bauerdick:2018qjx-->
+L. Bauerdick et al., **HEP Software
 Foundation Community White Paper Working Group - Data Analysis and
 Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
 arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-<!--#ref-Berzano:2018xaa-->D. Berzano et al., **HEP Software Foundation
+<!--#ref-Berzano:2018xaa-->
+D. Berzano et al., **HEP Software Foundation
 Community White Paper Working Group -- Data Organization, Management and
 Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
 arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
 
-<!--#ref-Chang:2017ske-->J. Chang et al., **Striped Data Server for
+<!--#ref-Chang:2017ske-->
+J. Chang et al., **Striped Data Server for
 Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
 042035,
 doi:[10.1088/1742-6596/1085/4/042035](https://doi.org/10.1088/1742-6596/1085/4/042035)
 
-<!--#ref-Gutsche:2017ccj-->O. Gutsche et al., **CMS Analysis and Data
+<!--#ref-Gutsche:2017ccj-->
+O. Gutsche et al., **CMS Analysis and Data
 Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
 doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
 arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
-<!--#ref-Gutsche:2017weq-->O. Gutsche et al., **Big Data in HEP: A
+<!--#ref-Gutsche:2017weq-->
+O. Gutsche et al., **Big Data in HEP: A
 comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
 doi:[10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012),
 arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 
 ## List of Presentation and Talks
-<!--#ref-Gutsche:2019aag-->O. Gutsche, **Exabytes and the Large Hadron
+<!--#ref-Gutsche:2019aag-->
+O. Gutsche, **Exabytes and the Large Hadron
 Collider: the importance of computing excellence for scientific
 discovery**, (2019), Seminar given at [Dr. Leonard Weisenthal Colloquium
 Series at Lewis
 University](https://www.lewisu.edu/academics/physics/index.htm),
 [(Material)](http://bit.ly/34Qhrco)
 
-<!--#ref-Gutsche:2019aac-->O. Gutsche, **Bringing heterogeneity to the CMS
+<!--#ref-Gutsche:2019aac-->
+O. Gutsche, **Bringing heterogeneity to the CMS
 software framework**, (2019), Parallel Session Talk at the [24th
 International Conference on Computing in High Energy & Nuclear Physics
 (CHEP2019)](https://indico.cern.ch/event/773049/overview),
 [(Material)](https://indi.to/mQtrG)
 
-<!--#ref-Gutsche:2019aab-->O. Gutsche, **Software & Computing**, (2019),
+<!--#ref-Gutsche:2019aab-->
+O. Gutsche, **Software & Computing**, (2019),
 Plenary Talk at the [2019 US CMS Annual Collaboration
 Meeting](https://indico.cern.ch/event/794370/timetable/),
 [(Material)](https://indico.cern.ch/event/794370/contributions/3430184/attachments/1858352/3053229/190607_-_USCMS_Collaboration_Meeting_-_Software__Computing.pdf)
 
-<!--#ref-Gutsche:2019aaa-->O. Gutsche, **CMS Software, Computing and
+<!--#ref-Gutsche:2019aaa-->
+O. Gutsche, **CMS Software, Computing and
 Analysis Tools**, (2019), Plenary Talk at the CMS Data Analysis School
 2019 [(CMSDAS 2019)](https://indico.cern.ch/event/759915/),
 [(Material)](https://indico.cern.ch/event/759915/contributions/3151844/attachments/1720658/2892746/190114_-_CMSDAS_-_CMS_Software_Computing_and_Analysis_Tools.pdf)
 
-<!--#ref-Gutsche:2018aad-->O. Gutsche, **Exploring the Energy Frontier
+<!--#ref-Gutsche:2018aad-->
+O. Gutsche, **Exploring the Energy Frontier
 using Amazon Web Services**, (2018), Amazon Booth at [Supercomputing
 2018](https://sc18.supercomputing.org) in Dallas, TX,
 [(Material)](https://docs.google.com/presentation/d/1sVPery_3J5lb-QrsDshd-N6MaE1khgaKFkZ5lJ2P7K4/edit?usp=sharing)
 
-<!--#ref-Gutsche:2018aac-->O. Gutsche, **The Future of Large Scale
+<!--#ref-Gutsche:2018aac-->
+O. Gutsche, **The Future of Large Scale
 Scientific Computing - Trends in computing hardware**, (2018), [US ATLAS
 Workshop 2018 Open Day](https://indico.cern.ch/event/732285/) at the
 University of Pittsburgh,
@@ -338,17 +359,20 @@ University of Pittsburgh,
 
 
 ## List of Media Articles and Mentionings
-<!--#ref-Gutsche:2017aac-->A. Purcell, **Oliver Gutsche: Fermilab joins
+<!--#ref-Gutsche:2017aac-->
+A. Purcell, **Oliver Gutsche: Fermilab joins
 CERN openlab, works on data reduction project with CMS experiment**,
 (2017), Article in [CERN openlab News](http://openlab.cern/news),
 [(Article)](http://openlab.cern/news/fermilab-joins-cern-openlab-works-?data-reduction?-project-cms-experiment-0)
 
-<!--#ref-Gutsche:2017aaa-->M. May, **Oliver Gutsche: A Spark in the
+<!--#ref-Gutsche:2017aaa-->
+M. May, **Oliver Gutsche: A Spark in the
 dark**, (2017), Article in [ASCR
 Discovery](http://ascr-discovery.science.doe.gov),
 [(Article)](http://ascr-discovery.science.doe.gov/2017/10/a-spark-in-the-dark/)
 
-<!--#ref-Gutsche:2017aab-->M. May, **Oliver Gutsche: Open-source software
+<!--#ref-Gutsche:2017aab-->
+M. May, **Oliver Gutsche: Open-source software
 for data from high-energy physics**, (2017), Article in
 [Phys.Org](https://phys.org),
 [(Article)](https://phys.org/news/2017-10-open-source-software-high-energy-physics.html)

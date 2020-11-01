@@ -7,8 +7,8 @@ arXiv:[1908.01115 \[hep-ex\]](http://arxiv.org/abs/1908.01115)
 
 <!--#ref-Sirunyan:2020cjp-->
 A.M. Sirunyan et al., **Observation of the
-production of three massive gauge bosons at $\sqrt{s}=$ 13 TeV**, *Phys.
-Rev. Lett.* 125 (2020) 151802,
+Production of Three Massive Gauge Bosons at $\sqrt {s}$ =13  TeV**,
+*Phys. Rev. Lett.* 125 (2020) 151802,
 doi:[10.1103/PhysRevLett.125.151802](https://doi.org/10.1103/PhysRevLett.125.151802),
 arXiv:[2006.11191 \[hep-ex\]](http://arxiv.org/abs/2006.11191)
 

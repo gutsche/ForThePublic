@@ -203,6 +203,13 @@ Lett.* 124 (2020) 041803,
 doi:[10.1103/PhysRevLett.124.041803](https://doi.org/10.1103/PhysRevLett.124.041803),
 arXiv:[1910.01185 \[hep-ex\]](http://arxiv.org/abs/1910.01185)
 
+<!--#ref-Sirunyan:2019nfw-->
+A.M. Sirunyan et al., **A deep neural network
+to search for new long-lived particles decaying to jets**, *Sci.
+Technol.* 1 (2020) 035012,
+doi:[10.1088/2632-2153/ab9023](https://doi.org/10.1088/2632-2153/ab9023),
+arXiv:[1912.12238 \[hep-ex\]](http://arxiv.org/abs/1912.12238)
+
 <!--#ref-Sirunyan:2019pbr-->
 A.M. Sirunyan et al., **Multiparticle
 correlation studies in pPb collisions at $\sqrt{s_{{NN}}} =$ 8.16 TeV**,
@@ -470,6 +477,13 @@ TeV**, *Phys. Lett.* B809 (2020) 135710,
 doi:[10.1016/j.physletb.2020.135710](https://doi.org/10.1016/j.physletb.2020.135710),
 arXiv:[2005.01173 \[hep-ex\]](http://arxiv.org/abs/2005.01173)
 
+<!--#ref-Sirunyan:2020hlk-->
+A.M. Sirunyan et al., **Angular analysis of
+the decay B $^+$$\to$ K $^*$(892) $^+\mu^+\mu^-$ in proton-proton
+collisions at $\sqrt{s} =$ 8 TeV**, (2020).
+<http://arxiv.org/abs/2010.13968>, arXiv:[2010.13968
+\[hep-ex\]](http://arxiv.org/abs/2010.13968)
+
 <!--#ref-Sirunyan:2020hwv-->
 A.M. Sirunyan et al., **Search for charged
 Higgs bosons decaying into a top and a bottom quark in the all-jet final
@@ -508,8 +522,9 @@ pair production in proton-proton collisions at $\sqrt{s} =$ 13 TeV**,
 <!--#ref-Sirunyan:2020jwk-->
 A.M. Sirunyan et al., **MUSiC: a model
 unspecific search for new physics in proton-proton collisions at
-$\sqrt{s} =$ 13 TeV**, (2020). <http://arxiv.org/abs/2010.02984>,
-arXiv:[2010.02984 \[hep-ex\]](http://arxiv.org/abs/2010.02984)
+$\sqrt{s} =$ 13 TeV**, *Submitted to: Eur. Phys. J.* (2020).
+<http://arxiv.org/abs/2010.02984>, arXiv:[2010.02984
+\[hep-ex\]](http://arxiv.org/abs/2010.02984)
 
 <!--#ref-Sirunyan:2020kga-->
 A.M. Sirunyan et al., **Measurement of the
@@ -594,7 +609,7 @@ gauge couplings at $\sqrt{s} =$ 13 TeV**, (2020).
 
 <!--#ref-Sirunyan:2020qcq-->
 A.M. Sirunyan et al., **Search for resonant
-pair production of Higgs bosons in the bbZZ channel in proton-proton
+pair production of Higgs bosons in the $bbZZ$ channel in proton-proton
 collisions at $\sqrt{s}=$ 13 TeV**, *Phys. Rev.* D102 (2020) 032003,
 doi:[10.1103/PhysRevD.102.032003](https://doi.org/10.1103/PhysRevD.102.032003),
 arXiv:[2006.06391 \[hep-ex\]](http://arxiv.org/abs/2006.06391)
@@ -719,14 +734,15 @@ arXiv:[2003.12797 \[hep-ex\]](http://arxiv.org/abs/2003.12797)
 <!--#ref-Sirunyan:2020zal-->
 A.M. Sirunyan et al., **Performance of the CMS
 Level-1 trigger in proton-proton collisions at $\sqrt{s} =$ 13 TeV**,
-(2020). <http://arxiv.org/abs/2006.10165>, arXiv:[2006.10165
-\[hep-ex\]](http://arxiv.org/abs/2006.10165)
+*JINST*. 15 (2020) P10017,
+doi:[10.1088/1748-0221/15/10/P10017](https://doi.org/10.1088/1748-0221/15/10/P10017),
+arXiv:[2006.10165 \[hep-ex\]](http://arxiv.org/abs/2006.10165)
 
 <!--#ref-Sirunyan:2020zow-->
 A.M. Sirunyan et al., **Search for dark
 photons in Higgs boson production via vector boson fusion in
-proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2020).
-<http://arxiv.org/abs/2009.14009>, arXiv:[2009.14009
+proton-proton collisions at $\sqrt{s}=$ 13 TeV**, *Submitted to: JHEP*.
+(2020). <http://arxiv.org/abs/2009.14009>, arXiv:[2009.14009
 \[hep-ex\]](http://arxiv.org/abs/2009.14009)
 
 <!--#ref-Sirunyan:2020ztc-->
@@ -1402,12 +1418,6 @@ anomalous $HVV$ couplings from the production of Higgs bosons decaying
 to $\tau$ lepton pairs**, *Phys. Rev.* D100 (2019) 112002,
 doi:[10.1103/PhysRevD.100.112002](https://doi.org/10.1103/PhysRevD.100.112002),
 arXiv:[1903.06973 \[hep-ex\]](http://arxiv.org/abs/1903.06973)
-
-<!--#ref-Sirunyan:2019nfw-->
-A.M. Sirunyan et al., **A deep neural network
-to search for new long-lived particles decaying to jets**, (2019).
-<http://arxiv.org/abs/1912.12238>, arXiv:[1912.12238
-\[hep-ex\]](http://arxiv.org/abs/1912.12238)
 
 <!--#ref-Sirunyan:2019nlw-->
 A.M. Sirunyan et al., **Measurement of the top
