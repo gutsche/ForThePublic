@@ -26,6 +26,12 @@ flavor violating decay $\tau \to$ 3 $\mu$ in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV**, (2020). <http://arxiv.org/abs/2007.05658>,
 arXiv:[2007.05658 \[hep-ex\]](http://arxiv.org/abs/2007.05658)
 
+<!--#ref-Khachatryan:2020mpd-->
+V. Khachatryan et al., **The very forward
+CASTOR calorimeter of the CMS experiment**, (2020).
+<http://arxiv.org/abs/2011.01185>, arXiv:[2011.01185
+\[physics.ins-det\]](http://arxiv.org/abs/2011.01185)
+
 <!--#ref-Sirunyan:2018rlu-->
 A.M. Sirunyan et al., **Measurement of the
 single top quark and antiquark production cross sections in the $t$
@@ -205,8 +211,8 @@ arXiv:[1910.01185 \[hep-ex\]](http://arxiv.org/abs/1910.01185)
 
 <!--#ref-Sirunyan:2019nfw-->
 A.M. Sirunyan et al., **A deep neural network
-to search for new long-lived particles decaying to jets**, *Sci.
-Technol.* 1 (2020) 035012,
+to search for new long-lived particles decaying to jets**, *Mach. Learn.
+Sci. Tech.* 1 (2020) 035012,
 doi:[10.1088/2632-2153/ab9023](https://doi.org/10.1088/2632-2153/ab9023),
 arXiv:[1912.12238 \[hep-ex\]](http://arxiv.org/abs/1912.12238)
 
@@ -305,6 +311,13 @@ process in pp collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 03 (2020)
 055,
 doi:[10.1007/JHEP03(2020)055](https://doi.org/10.1007/JHEP03(2020)055),
 arXiv:[1911.03781 \[hep-ex\]](http://arxiv.org/abs/1911.03781)
+
+<!--#ref-Sirunyan:2019wwa-->
+A.M. Sirunyan et al., **A deep neural network
+for simultaneous estimation of b jet energy and resolution**, *Comput.
+Softw. Big Sci.* 4 (2020) 10,
+doi:[10.1007/s41781-020-00041-z](https://doi.org/10.1007/s41781-020-00041-z),
+arXiv:[1912.06046 \[hep-ex\]](http://arxiv.org/abs/1912.06046)
 
 <!--#ref-Sirunyan:2019wxt-->
 A.M. Sirunyan et al., **Search for production
@@ -498,6 +511,13 @@ proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2020).
 <http://arxiv.org/abs/2006.13251>, arXiv:[2006.13251
 \[hep-ex\]](http://arxiv.org/abs/2006.13251)
 
+<!--#ref-Sirunyan:2020icl-->
+A.M. Sirunyan et al., **Measurement of the
+Higgs boson production rate in association with top quarks in final
+states with electrons, muons, and hadronically decaying tau leptons at
+$\sqrt{s} =$ 13 TeV**, (2020). <http://arxiv.org/abs/2011.03652>,
+arXiv:[2011.03652 \[hep-ex\]](http://arxiv.org/abs/2011.03652)
+
 <!--#ref-Sirunyan:2020ifc-->
 A.M. Sirunyan et al., **Measurement of
 single-diffractive dijet production in proton-proton collisions at
@@ -516,8 +536,9 @@ arXiv:[2001.06553 \[physics.ins-det\]](http://arxiv.org/abs/2001.06553)
 <!--#ref-Sirunyan:2020jtq-->
 A.M. Sirunyan et al., **W $^+$W $^-$ boson
 pair production in proton-proton collisions at $\sqrt{s} =$ 13 TeV**,
-(2020). <http://arxiv.org/abs/2009.00119>, arXiv:[2009.00119
-\[hep-ex\]](http://arxiv.org/abs/2009.00119)
+*Phys. Rev.* D102 (2020) 092001,
+doi:[10.1103/PhysRevD.102.092001](https://doi.org/10.1103/PhysRevD.102.092001),
+arXiv:[2009.00119 \[hep-ex\]](http://arxiv.org/abs/2009.00119)
 
 <!--#ref-Sirunyan:2020jwk-->
 A.M. Sirunyan et al., **MUSiC: a model
@@ -535,9 +556,10 @@ arXiv:[2003.06467 \[hep-ex\]](http://arxiv.org/abs/2003.06467)
 
 <!--#ref-Sirunyan:2020kov-->
 A.M. Sirunyan et al., **Evidence for top quark
-production in nucleus-nucleus collisions**, (2020).
-<http://arxiv.org/abs/2006.11110>, arXiv:[2006.11110
-\[hep-ex\]](http://arxiv.org/abs/2006.11110)
+production in nucleus-nucleus collisions**, *Phys. Rev. Lett.* 125
+(2020) 222001,
+doi:[10.1103/PhysRevLett.125.222001](https://doi.org/10.1103/PhysRevLett.125.222001),
+arXiv:[2006.11110 \[hep-ex\]](http://arxiv.org/abs/2006.11110)
 
 <!--#ref-Sirunyan:2020lcu-->
 A.M. Sirunyan et al., **Identification of
@@ -557,15 +579,24 @@ arXiv:[2001.06899 \[hep-ex\]](http://arxiv.org/abs/2001.06899)
 <!--#ref-Sirunyan:2020mds-->
 A.M. Sirunyan et al., **Search for decays of
 the 125 GeV Higgs boson into a Z boson and a $\rho$ or $\phi$ meson**,
-(2020). <http://arxiv.org/abs/2007.05122>, arXiv:[2007.05122
-\[hep-ex\]](http://arxiv.org/abs/2007.05122)
+*JHEP*. 11 (2020) 039,
+doi:[10.1007/JHEP11(2020)039](https://doi.org/10.1007/JHEP11(2020)039),
+arXiv:[2007.05122 \[hep-ex\]](http://arxiv.org/abs/2007.05122)
+
+<!--#ref-Sirunyan:2020mdx-->
+A.M. Sirunyan et al., **Search for the rare
+decay of the W boson into a pion and a photon in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV**, (2020).
+<http://arxiv.org/abs/2011.06028>, arXiv:[2011.06028
+\[hep-ex\]](http://arxiv.org/abs/2011.06028)
 
 <!--#ref-Sirunyan:2020mzn-->
 A.M. Sirunyan et al., **Measurement of B
 $_{c}$(2S) $^+$ and B $_{c}^*$(2S) $^+$ cross section ratios in
-proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2020).
-<http://arxiv.org/abs/2008.08629>, arXiv:[2008.08629
-\[hep-ex\]](http://arxiv.org/abs/2008.08629)
+proton-proton collisions at $\sqrt{s} =$ 13 TeV**, *Phys. Rev.* D102
+(2020) 092007,
+doi:[10.1103/PhysRevD.102.092007](https://doi.org/10.1103/PhysRevD.102.092007),
+arXiv:[2008.08629 \[hep-ex\]](http://arxiv.org/abs/2008.08629)
 
 <!--#ref-Sirunyan:2020obi-->
 A.M. Sirunyan et al., **Studies of charm and
@@ -599,6 +630,12 @@ signal amplitudes in the CMS electromagnetic calorimeter in the presence
 of overlapping proton-proton interactions**, *JINST*. 15 (2020) P10002,
 doi:[10.1088/1748-0221/15/10/P10002](https://doi.org/10.1088/1748-0221/15/10/P10002),
 arXiv:[2006.14359 \[physics.ins-det\]](http://arxiv.org/abs/2006.14359)
+
+<!--#ref-Sirunyan:2020pqv-->
+A.M. Sirunyan et al., **Development and
+validation of HERWIG 7 tunes from CMS underlying-event measurements**,
+(2020). <http://arxiv.org/abs/2011.03422>, arXiv:[2011.03422
+\[hep-ex\]](http://arxiv.org/abs/2011.03422)
 
 <!--#ref-Sirunyan:2020pub-->
 A.M. Sirunyan et al., **Measurements of pp
@@ -702,12 +739,27 @@ proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2020).
 <http://arxiv.org/abs/2007.02434>, arXiv:[2007.02434
 \[hep-ex\]](http://arxiv.org/abs/2007.02434)
 
+<!--#ref-Sirunyan:2020vvm-->
+A.M. Sirunyan et al., **Observation of forward
+neutron multiplicity dependence of dimuon acoplanarity in
+ultraperipheral PbPb collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**,
+*Submitted to: Phys. Rev. Lett.* (2020).
+<http://arxiv.org/abs/2011.05239>, arXiv:[2011.05239
+\[hep-ex\]](http://arxiv.org/abs/2011.05239)
+
 <!--#ref-Sirunyan:2020vwa-->
 A.M. Sirunyan et al., **Measurement of
 differential ${t\bar{t}}$ production cross sections using top quarks at
 large transverse momenta in pp collisions at $\sqrt{s} =$ 13 TeV**,
 (2020). <http://arxiv.org/abs/2008.07860>, arXiv:[2008.07860
 \[hep-ex\]](http://arxiv.org/abs/2008.07860)
+
+<!--#ref-Sirunyan:2020xok-->
+A.M. Sirunyan et al., **Search for nonresonant
+Higgs boson pair production in final states with two bottom quarks and
+two photons in proton-proton collisions at $\sqrt{s}=$ 13 TeV**, (2020).
+<http://arxiv.org/abs/2011.12373>, arXiv:[2011.12373
+\[hep-ex\]](http://arxiv.org/abs/2011.12373)
 
 <!--#ref-Sirunyan:2020xoq-->
 A.M. Sirunyan et al., **Measurement of CKM
@@ -756,9 +808,9 @@ arXiv:[2001.10086 \[hep-ex\]](http://arxiv.org/abs/2001.10086)
 <!--#ref-Sirunyan:2020zzb-->
 A.M. Sirunyan et al., **Investigation into the
 event-activity dependence of $\Upsilon$(nS) relative production in
-proton-proton collisions at $\sqrt{s} =$ 7 TeV**, (2020).
-<http://arxiv.org/abs/2007.04277>, arXiv:[2007.04277
-\[hep-ex\]](http://arxiv.org/abs/2007.04277)
+proton-proton collisions at $\sqrt{s}$ = 7 TeV**, *JHEP*. 11 (2020) 001,
+doi:[10.1007/JHEP11(2020)001](https://doi.org/10.1007/JHEP11(2020)001),
+arXiv:[2007.04277 \[hep-ex\]](http://arxiv.org/abs/2007.04277)
 
 <!--#ref-Sirunyan:2020zzv-->
 A.M. Sirunyan et al., **Search for
@@ -1569,12 +1621,6 @@ angular correlations in XeXe collisions at $\sqrt{s_{_{{NN}}}}=$ 5.44
 TeV**, *Phys. Rev.* C100 (2019) 044902,
 doi:[10.1103/PhysRevC.100.044902](https://doi.org/10.1103/PhysRevC.100.044902),
 arXiv:[1901.07997 \[hep-ex\]](http://arxiv.org/abs/1901.07997)
-
-<!--#ref-Sirunyan:2019wwa-->
-A.M. Sirunyan et al., **A deep neural network
-for simultaneous estimation of b jet energy and resolution**, (2019).
-<http://arxiv.org/abs/1912.06046>, arXiv:[1912.06046
-\[hep-ex\]](http://arxiv.org/abs/1912.06046)
 
 <!--#ref-Sirunyan:2019wwr-->
 A.M. Sirunyan et al., **Study of the

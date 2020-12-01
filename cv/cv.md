@@ -266,11 +266,9 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 ## Computing Publications with Major Personal Contributions
 <!--#ref-Smith:2020pxs-->
 N. Smith et al., **Coffea -- Columnar Object
-Framework For Effective Analysis**, in: **24th International Conference
-on Computing in High Energy and Nuclear Physics (CHEP 2019) Adelaide,
-Australia, November 4-8, 2019**, 2020.
-<http://arxiv.org/abs/2008.12712>, arXiv:[2008.12712
-\[cs.DC\]](http://arxiv.org/abs/2008.12712)
+Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
+doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
+arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
 <!--#ref-Alves:2017she-->
 J. Albrecht et al., **A Roadmap for HEP Software
