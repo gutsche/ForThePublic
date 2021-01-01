@@ -224,7 +224,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
 
     #  move keys to physics or computing
     new_physics_keys = []
-    new_computing_keys=['Gutsche:2020kmd']
+    new_computing_keys=[]
     physics_keys.extend(new_physics_keys)
     computing_keys.extend(new_computing_keys)
     # remove new keys from experiment
@@ -236,7 +236,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
             experiment_keys.remove(key)
 
     # add new keys to experiment
-    new_experiment_keys=['Sirunyan:2020xok','Sirunyan:2020mdx','Sirunyan:2020vvm','Sirunyan:2020icl','Sirunyan:2020pqv','Khachatryan:2020mpd']
+    new_experiment_keys=[]
     experiment_keys.extend(new_experiment_keys)
 
     # update all keys in physics_db

@@ -7,7 +7,7 @@ arXiv:[1908.01115 \[hep-ex\]](http://arxiv.org/abs/1908.01115)
 
 <!--#ref-Sirunyan:2020cjp-->
 A.M. Sirunyan et al., **Observation of the
-Production of Three Massive Gauge Bosons at $\sqrt {s}$ =13  TeV**,
+Production of Three Massive Gauge Bosons at $\sqrt {s}$ =13 TeV**,
 *Phys. Rev. Lett.* 125 (2020) 151802,
 doi:[10.1103/PhysRevLett.125.151802](https://doi.org/10.1103/PhysRevLett.125.151802),
 arXiv:[2006.11191 \[hep-ex\]](http://arxiv.org/abs/2006.11191)
@@ -301,7 +301,7 @@ final state in pp collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.* B710
 doi:[10.1016/j.physletb.2012.02.076](https://doi.org/10.1016/j.physletb.2012.02.076),
 arXiv:[1202.1489 \[hep-ex\]](http://arxiv.org/abs/1202.1489)
 
-<!--#ref-Chatrchyan:2012xdj-->
+<!--#ref-Chatrchyan:2012ufa-->
 S. Chatrchyan et al., **Observation of a New
 Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys.
 Lett.* B716 (2012) 30--61,
