@@ -81,12 +81,35 @@ collisions at $\sqrt{s} =$ 8 TeV**, *JHEP*. 04 (2021) 124,
 doi:[10.1007/JHEP04(2021)124](https://doi.org/10.1007/JHEP04(2021)124),
 arXiv:[2010.13968 \[hep-ex\]](http://arxiv.org/abs/2010.13968)
 
+<!--#ref-Sirunyan:2020icl-->
+A.M. Sirunyan et al., **Measurement of the
+Higgs boson production rate in association with top quarks in final
+states with electrons, muons, and hadronically decaying tau leptons at
+$\sqrt{s} =$ 13 TeV**, *Eur. Phys. J.* C81 (2021) 378,
+doi:[10.1140/epjc/s10052-021-09014-x](https://doi.org/10.1140/epjc/s10052-021-09014-x),
+arXiv:[2011.03652 \[hep-ex\]](http://arxiv.org/abs/2011.03652)
+
+<!--#ref-Sirunyan:2020lfm-->
+A.M. Sirunyan et al., **Measurement of the Z
+boson differential production cross section using its invisible decay
+mode (Z $\nu\bar{\nu}$) in proton-proton collisions at $\sqrt{s}=$ 13
+TeV**, *JHEP*. 05 (2021) 205,
+doi:[10.1007/JHEP05(2021)205](https://doi.org/10.1007/JHEP05(2021)205),
+arXiv:[2012.09254 \[hep-ex\]](http://arxiv.org/abs/2012.09254)
+
 <!--#ref-Sirunyan:2020obi-->
 A.M. Sirunyan et al., **Studies of charm and
 beauty hadron long-range correlations in pp and pPb collisions at LHC
 energies**, *Phys. Lett.* B813 (2021) 136036,
 doi:[10.1016/j.physletb.2020.136036](https://doi.org/10.1016/j.physletb.2020.136036),
 arXiv:[2009.07065 \[hep-ex\]](http://arxiv.org/abs/2009.07065)
+
+<!--#ref-Sirunyan:2020pan-->
+A.M. Sirunyan et al., **Measurement of b jet
+shapes in proton-proton collisions at $\sqrt{s} =$ 5.02 TeV**, *JHEP*.
+05 (2021) 054,
+doi:[10.1007/JHEP05(2021)054](https://doi.org/10.1007/JHEP05(2021)054),
+arXiv:[2005.14219 \[hep-ex\]](http://arxiv.org/abs/2005.14219)
 
 <!--#ref-Sirunyan:2020pqv-->
 A.M. Sirunyan et al., **Development and
@@ -102,6 +125,14 @@ constraints on anomalous triple gauge couplings at
 $\sqrt{s} = 13{TeV}$**, *Eur. Phys. J.* C81 (2021) 200,
 doi:[10.1140/epjc/s10052-020-08817-8](https://doi.org/10.1140/epjc/s10052-020-08817-8),
 arXiv:[2009.01186 \[hep-ex\]](http://arxiv.org/abs/2009.01186)
+
+<!--#ref-Sirunyan:2020qec-->
+A.M. Sirunyan et al., **Measurement of the
+azimuthal anisotropy of $\Upsilon$(1S) and $\Upsilon$(2S) mesons in PbPb
+collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**, *Phys. Lett. B*. (2021)
+136385,
+doi:[10.1016/j.physletb.2021.136385](https://doi.org/10.1016/j.physletb.2021.136385),
+arXiv:[2006.07707 \[hep-ex\]](http://arxiv.org/abs/2006.07707)
 
 <!--#ref-Sirunyan:2020tqm-->
 A.M. Sirunyan et al., **Search for new physics
@@ -156,6 +187,13 @@ two photons in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 doi:[10.1007/JHEP03(2021)257](https://doi.org/10.1007/JHEP03(2021)257),
 arXiv:[2011.12373 \[hep-ex\]](http://arxiv.org/abs/2011.12373)
 
+<!--#ref-Sirunyan:2020ycc-->
+A.M. Sirunyan et al., **Electron and photon
+reconstruction and identification with the CMS experiment at the CERN
+LHC**, *JINST*. 16 (2021) P05014,
+doi:[10.1088/1748-0221/16/05/P05014](https://doi.org/10.1088/1748-0221/16/05/P05014),
+arXiv:[2012.06888 \[hep-ex\]](http://arxiv.org/abs/2012.06888)
+
 <!--#ref-Sirunyan:2020zow-->
 A.M. Sirunyan et al., **Search for dark
 photons in Higgs boson production via vector boson fusion in
@@ -201,9 +239,10 @@ to study parton-medium interactions in PbPb collisions**, (2021).
 
 <!--#ref-Sirunyan:2021jty-->
 A.M. Sirunyan et al., **In-medium modification
-of dijets in PbPb collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**, (2021).
-<http://arxiv.org/abs/2101.04720>, arXiv:[2101.04720
-\[hep-ex\]](http://arxiv.org/abs/2101.04720)
+of dijets in PbPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**, *JHEP*.
+05 (2021) 116,
+doi:[10.1007/JHEP05(2021)116](https://doi.org/10.1007/JHEP05(2021)116),
+arXiv:[2101.04720 \[hep-ex\]](http://arxiv.org/abs/2101.04720)
 
 <!--#ref-Sirunyan:2021khd-->
 A.M. Sirunyan et al., **Search for resonant
@@ -238,6 +277,13 @@ production in fully-hadronic final states in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV**, (2021). <http://arxiv.org/abs/2103.01290>,
 arXiv:[2103.01290 \[hep-ex\]](http://arxiv.org/abs/2103.01290)
 
+<!--#ref-Sirunyan:2021ovv-->
+A.M. Sirunyan et al., **Search for
+lepton-flavor violating decays of the Higgs boson in the $\mu\tau$ and e
+$\tau$ final states in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2021). <http://arxiv.org/abs/2105.03007>, arXiv:[2105.03007
+\[hep-ex\]](http://arxiv.org/abs/2105.03007)
+
 <!--#ref-Sirunyan:2021oxl-->
 A.M. Sirunyan et al., **Hard color-singlet
 exchange in dijet events in proton-proton collisions at $\sqrt{s} =$ 13
@@ -266,8 +312,9 @@ $\sqrt{s_{{NN}}}=$ 5.02 TeV**, (2021).
 <!--#ref-Sirunyan:2021rle-->
 A.M. Sirunyan et al., **Study of Drell-Yan
 dimuon production in proton-lead collisions at $\sqrt{s_{{NN}}} =$ 8.16
-TeV**, (2021). <http://arxiv.org/abs/2102.13648>, arXiv:[2102.13648
-\[hep-ex\]](http://arxiv.org/abs/2102.13648)
+TeV**, *JHEP*. 05 (2021) 182,
+doi:[10.1007/JHEP05(2021)182](https://doi.org/10.1007/JHEP05(2021)182),
+arXiv:[2102.13648 \[hep-ex\]](http://arxiv.org/abs/2102.13648)
 
 <!--#ref-Sirunyan:2021rug-->
 A.M. Sirunyan et al., **Measurements of
@@ -314,6 +361,26 @@ $\gamma$ production cross section in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV and constraints on effective field theory
 coefficients**, (2021). <http://arxiv.org/abs/2102.02283>,
 arXiv:[2102.02283 \[hep-ex\]](http://arxiv.org/abs/2102.02283)
+
+<!--#ref-Tumasyan:2021dbj-->
+A. Tumasyan et al., **Measurements of Z bosons
+plus jets using variables sensitive to double parton scattering in pp
+collisions at 13 TeV**, (2021). <http://arxiv.org/abs/2105.14511>,
+arXiv:[2105.14511 \[hep-ex\]](http://arxiv.org/abs/2105.14511)
+
+<!--#ref-Tumasyan:2021djk-->
+A. Tumasyan et al., **Search for strongly
+interacting massive particles generating trackless jets in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV**, (2021).
+<http://arxiv.org/abs/2105.09178>, arXiv:[2105.09178
+\[hep-ex\]](http://arxiv.org/abs/2105.09178)
+
+<!--#ref-Tumasyan:2021pma-->
+A. Tumasyan et al., **Measurements of the pp
+$\to$ W $^\pm\gamma\gamma$ and pp $\to$ Z $\gamma\gamma$ cross sections
+at $\sqrt{s} =$ 13 TeV and limits on anomalous quartic gauge
+couplings**, (2021). <http://arxiv.org/abs/2105.12780>,
+arXiv:[2105.12780 \[hep-ex\]](http://arxiv.org/abs/2105.12780)
 
 <!--#ref-Aad:2020jvx-->
 G. Aad et al., **Combination of the W boson
@@ -788,19 +855,12 @@ proton-proton collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 12 (2020)
 doi:[10.1007/JHEP12(2020)085](https://doi.org/10.1007/JHEP12(2020)085),
 arXiv:[2006.13251 \[hep-ex\]](http://arxiv.org/abs/2006.13251)
 
-<!--#ref-Sirunyan:2020icl-->
-A.M. Sirunyan et al., **Measurement of the
-Higgs boson production rate in association with top quarks in final
-states with electrons, muons, and hadronically decaying tau leptons at
-$\sqrt{s} =$ 13 TeV**, (2020). <http://arxiv.org/abs/2011.03652>,
-arXiv:[2011.03652 \[hep-ex\]](http://arxiv.org/abs/2011.03652)
-
 <!--#ref-Sirunyan:2020ifc-->
 A.M. Sirunyan et al., **Measurement of
 single-diffractive dijet production in proton-proton collisions at
 $\sqrt{s} =$ 8 TeV with the CMS and TOTEM experiments**, *Eur. Phys. J.*
 C80 (2020) 1164,
-doi:[10.1140/epjc/s10052-020-08562-y](https://doi.org/10.1140/epjc/s10052-020-08562-y),
+doi:[10.1140/epjc/s10052-021-08863-w](https://doi.org/10.1140/epjc/s10052-021-08863-w),
 arXiv:[2002.12146 \[hep-ex\]](http://arxiv.org/abs/2002.12146)
 
 <!--#ref-Sirunyan:2020ifs-->
@@ -845,13 +905,6 @@ heavy, energetic, hadronically decaying particles using machine-learning
 techniques**, *JINST*. 15 (2020) P06005,
 doi:[10.1088/1748-0221/15/06/P06005](https://doi.org/10.1088/1748-0221/15/06/P06005),
 arXiv:[2004.08262 \[hep-ex\]](http://arxiv.org/abs/2004.08262)
-
-<!--#ref-Sirunyan:2020lfm-->
-A.M. Sirunyan et al., **Measurement of the Z
-boson differential production cross section using its invisible decay
-mode (Z $\nu\bar{\nu}$) in proton-proton collisions at $\sqrt{s}=$ 13
-TeV**, (2020). <http://arxiv.org/abs/2012.09254>, arXiv:[2012.09254
-\[hep-ex\]](http://arxiv.org/abs/2012.09254)
 
 <!--#ref-Sirunyan:2020lgh-->
 A.M. Sirunyan et al., **Measurement of the
@@ -898,12 +951,6 @@ Rev.* D102 (2020) 092012,
 doi:[10.1103/PhysRevD.102.092012](https://doi.org/10.1103/PhysRevD.102.092012),
 arXiv:[2008.04174 \[hep-ex\]](http://arxiv.org/abs/2008.04174)
 
-<!--#ref-Sirunyan:2020pan-->
-A.M. Sirunyan et al., **Measurement of b jet
-shapes in proton-proton collisions at $\sqrt{s} =$ 5.02 TeV**, (2020).
-<http://arxiv.org/abs/2005.14219>, arXiv:[2005.14219
-\[hep-ex\]](http://arxiv.org/abs/2005.14219)
-
 <!--#ref-Sirunyan:2020pjd-->
 A.M. Sirunyan et al., **Search for
 disappearing tracks in proton-proton collisions at $\sqrt{s} =$ 13
@@ -924,13 +971,6 @@ pair production of Higgs bosons in the $bbZZ$ channel in proton-proton
 collisions at $\sqrt{s}=$ 13 TeV**, *Phys. Rev.* D102 (2020) 032003,
 doi:[10.1103/PhysRevD.102.032003](https://doi.org/10.1103/PhysRevD.102.032003),
 arXiv:[2006.06391 \[hep-ex\]](http://arxiv.org/abs/2006.06391)
-
-<!--#ref-Sirunyan:2020qec-->
-A.M. Sirunyan et al., **Measurement of the
-azimuthal anisotropy of $\Upsilon$(1S) and $\Upsilon$(2S) mesons in PbPb
-collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**, (2020).
-<http://arxiv.org/abs/2006.07707>, arXiv:[2006.07707
-\[hep-ex\]](http://arxiv.org/abs/2006.07707)
 
 <!--#ref-Sirunyan:2020qir-->
 A.M. Sirunyan et al., **Observation of the B
@@ -1006,12 +1046,6 @@ Higgs boson mass in the diphoton decay channel**, *Phys. Lett.* B805
 (2020) 135425,
 doi:[10.1016/j.physletb.2020.135425](https://doi.org/10.1016/j.physletb.2020.135425),
 arXiv:[2002.06398 \[hep-ex\]](http://arxiv.org/abs/2002.06398)
-
-<!--#ref-Sirunyan:2020ycc-->
-A.M. Sirunyan et al., **Electron and photon
-reconstruction and identification with the CMS experiment at the CERN
-LHC**, (2020). <http://arxiv.org/abs/2012.06888>, arXiv:[2012.06888
-\[hep-ex\]](http://arxiv.org/abs/2012.06888)
 
 <!--#ref-Sirunyan:2020ycu-->
 A.M. Sirunyan et al., **The production of
