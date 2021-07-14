@@ -210,55 +210,54 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 ## Physics Publications with Major Personal Contributions
-<!--#ref-Sirunyan:2018gdw-->
+<!--#ref-CMS:2018zjv-->
 A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
-Phys. J.* C79 (2019) 280,
+quarks in protonproton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur. Phys.
+J. C*. 79 (2019) 280,
 doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
 arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
-<!--#ref-Sirunyan:2018gka-->
-A.M. Sirunyan et al., **Search for dark matter
-in events with energetic, hadronically decaying top quarks and missing
+<!--#ref-CMS:2018gbj-->
+A.M. Sirunyan et al., **Search for dark matter in
+events with energetic, hadronically decaying top quarks and missing
 transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
 doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
 arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
 
-<!--#ref-Khachatryan:2016xws-->
-V. Khachatryan et al., **Measurements of t
-t-bar spin correlations and top quark polarization using dilepton final
-states in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev.* D93 (2016)
-052007,
+<!--#ref-CMS:2016piu-->
+V. Khachatryan et al., **Measurements of t t-bar
+spin correlations and top quark polarization using dilepton final states
+in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev. D*. 93 (2016) 052007,
 doi:[10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007),
 arXiv:[1601.01107 \[hep-ex\]](http://arxiv.org/abs/1601.01107)
 
-<!--#ref-Khachatryan:2016ysn-->
-V. Khachatryan et al., **Measurements of
-$t \bar t$ charge asymmetry using dilepton final states in pp collisions
-at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
+<!--#ref-CMS:2016ypc-->
+V. Khachatryan et al., **Measurements of $t \bar t$
+charge asymmetry using dilepton final states in pp collisions at
+$\sqrt s=8$ TeV**, *Phys. Lett. B*. 760 (2016) 365--386,
 doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
-<!--#ref-Chatrchyan:2013wua-->
-S. Chatrchyan et al., **Measurements of
-$t\bar{t}$ Spin Correlations and Top-Quark Polarization Using Dilepton
-Final States in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev.
-Lett.* 112 (2014) 182001,
+<!--#ref-CMS:2013roq-->
+S. Chatrchyan et al., **Measurements of $t\bar{t}$
+Spin Correlations and Top-Quark Polarization Using Dilepton Final States
+in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev. Lett.* 112
+(2014) 182001,
 doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
 arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
 
-<!--#ref-Chatrchyan:2014yta-->
+<!--#ref-CMS:2014rdf-->
 S. Chatrchyan et al., **Measurements of the
 $t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
 collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
 doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
 arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
 
-<!--#ref-Chatrchyan:2012ufa-->
-S. Chatrchyan et al., **Observation of a New
-Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys.
-Lett.* B716 (2012) 30--61,
+<!--#ref-CMS:2012qbp-->
+S. Chatrchyan et al., **Observation of a New Boson
+at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys. Lett.
+B*. 716 (2012) 30--61,
 doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
@@ -270,29 +269,30 @@ Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
 arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
-<!--#ref-Alves:2017she-->
-J. Albrecht et al., **A Roadmap for HEP Software
-and Computing R&D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019) 7,
-doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
-arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
-
 <!--#ref-Cremonesi:2019pdq-->
 M. Cremonesi et al., **Using Big Data
 Technologies for HEP Analysis**, *EPJ Web Conf.* 214 (2019) 06030,
 doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
 arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
-<!--#ref-Bauerdick:2018qjx-->
-L. Bauerdick et al., **HEP Software
-Foundation Community White Paper Working Group - Data Analysis and
-Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
-arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+<!--#ref-HEPSoftwareFoundation:2017ggl-->
+J. Albrecht et al., **A Roadmap
+for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
+Sci.* 3 (2019) 7,
+doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
+arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
 
 <!--#ref-Berzano:2018xaa-->
 D. Berzano et al., **HEP Software Foundation
 Community White Paper Working Group -- Data Organization, Management and
 Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
 arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+
+<!--#ref-HEPSoftwareFoundation:2018xvc-->
+L. Bauerdick et al., **HEP
+Software Foundation Community White Paper Working Group - Data Analysis
+and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
+arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 <!--#ref-Chang:2017ske-->
 J. Chang et al., **Striped Data Server for

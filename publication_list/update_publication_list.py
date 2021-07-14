@@ -1,7 +1,7 @@
 #!/urs/bin/env python
 # -*- coding: utf-8 -*-
 
-import sys, re, time, argparse, os
+import sys, re, time, argparse, os, json
 from urllib.request import Request, urlopen
 from urllib.error import URLError
 from bs4 import BeautifulSoup, Comment
@@ -39,8 +39,8 @@ logging.config.dictConfig({
           }
 })
 
-inspirehepapi='http://old.inspirehep.net/search?'
-author_query='author:O.Gutsche.1 AND collection:citeable'
+inspirehepapi='https://inspirehep.net/api/literature?'
+author_query='q=author%3AO.Gutsche.1%20AND%20collection%3Aciteable'
 
 def inspire_get_number_of_records():
     """
@@ -49,22 +49,17 @@ def inspire_get_number_of_records():
 
     print("Querying Inspire for number of records")
 
-
-    url = inspirehepapi + 'of=xm&rg=1&ot=001&p=' + author_query.replace(' ', '+')
+    url = inspirehepapi + 'sort=mostrecent&size=25&page=1&' + author_query
     request = Request(url)
+    number_of_records = 0
     try:
         response = urlopen(request)
-        result = response.read()
-        soup = BeautifulSoup(result, "lxml")
+        result = json.loads(response.read())
     except URLError as error:
         print('URL = {}'.format(url))
         print('No result. Got an error code: {}'.format(error))
         quit()
-    try:
-        comments = soup.findAll(text=lambda text:isinstance(text, Comment))
-        number_of_records = int(re.sub(r'\D', '', comments[0]))
-    except IndexError:
-        number_of_records = 0
+    number_of_records = result['hits']['total']
 
     print("OLI's publication list has %i records" % number_of_records)
 
@@ -83,11 +78,12 @@ def inspire_get_bibtex(number_of_records):
 
     db = BibDatabase()
 
-    nrecords = 250
-    nsteps = int(number_of_records/nrecords) + 1
-    for step in range(nsteps):
-        jrec = step*nrecords+1
-        url = inspirehepapi + 'of=hx&rg='+str(nrecords)+'&jrec='+str(jrec)+'&p=' + author_query.replace(' ', '+')
+    nrecords = 25
+    npages = int(number_of_records/nrecords) + 1
+    for page in range(npages):
+        page+=1
+        print('Querying for page {} of {} pages.'.format(int(page),int(npages)))
+        url = inspirehepapi + 'sort=mostrecent&size='+str(nrecords)+'&page='+str(page)+'&format=bibtex&' + author_query
         request = Request(url)
         try:
             response = urlopen(request)

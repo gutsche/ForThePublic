@@ -97,18 +97,18 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 ## Selected Recent Publications in Physics and Computing
 
-<!--#ref-Sirunyan:2018gdw-->
+<!--#ref-CMS:2018zjv-->
 A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
-quarks in proton--proton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur.
-Phys. J.* C79 (2019) 280,
+quarks in protonproton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur. Phys.
+J. C*. 79 (2019) 280,
 doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
 arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
 
-<!--#ref-Khachatryan:2016ysn-->
-V. Khachatryan et al., **Measurements of
-$t \bar t$ charge asymmetry using dilepton final states in pp collisions
-at $\sqrt s=8$ TeV**, *Phys. Lett.* B760 (2016) 365--386,
+<!--#ref-CMS:2016ypc-->
+V. Khachatryan et al., **Measurements of $t \bar t$
+charge asymmetry using dilepton final states in pp collisions at
+$\sqrt s=8$ TeV**, *Phys. Lett. B*. 760 (2016) 365--386,
 doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
@@ -119,22 +119,23 @@ Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
 arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
-<!--#ref-Alves:2017she-->
-J. Albrecht et al., **A Roadmap for HEP Software
-and Computing R&D for the 2020s**, *Comput. Softw. Big Sci.* 3 (2019) 7,
-doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
-arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
-
 <!--#ref-Cremonesi:2019pdq-->
 M. Cremonesi et al., **Using Big Data
 Technologies for HEP Analysis**, *EPJ Web Conf.* 214 (2019) 06030,
 doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
 arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
 
-<!--#ref-Bauerdick:2018qjx-->
-L. Bauerdick et al., **HEP Software
-Foundation Community White Paper Working Group - Data Analysis and
-Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
+<!--#ref-HEPSoftwareFoundation:2017ggl-->
+J. Albrecht et al., **A Roadmap
+for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
+Sci.* 3 (2019) 7,
+doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
+arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+
+<!--#ref-HEPSoftwareFoundation:2018xvc-->
+L. Bauerdick et al., **HEP
+Software Foundation Community White Paper Working Group - Data Analysis
+and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
 arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 
