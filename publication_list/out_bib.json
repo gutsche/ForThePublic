@@ -1,0 +1,124 @@
+@article{Habib:2015paq,
+    author = "LeCompte, Tom and others",
+    editor = "Habib, Salman and Roser, Robert",
+    title = "{High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)}",
+    eprint = "1510.08545",
+    archivePrefix = "arXiv",
+    primaryClass = "physics.comp-ph",
+    reportNumber = "FERMILAB-TM-2616-CD-CMS-PPD",
+    month = "10",
+    year = "2015"
+}
+
+@article{Berzano:2018xaa,
+    author = "Berzano, Dario and others",
+    title = "{HEP Software Foundation Community White Paper Working Group -- Data Organization, Management and Access (DOMA)}",
+    eprint = "1812.00761",
+    archivePrefix = "arXiv",
+    primaryClass = "physics.comp-ph",
+    reportNumber = "HSF-CWP-2017-04, FERMILAB-PUB-18-671-CD",
+    month = "11",
+    year = "2018"
+}
+
+@article{Habib:2016sce,
+    author = "Habib, Salman and others",
+    title = "{ASCR/HEP Exascale Requirements Review Report}",
+    eprint = "1603.09303",
+    archivePrefix = "arXiv",
+    primaryClass = "physics.comp-ph",
+    reportNumber = "FERMILAB-PUB-16-729-CD",
+    month = "3",
+    year = "2016"
+}
+
+@article{Sfiligoi:2014bda,
+    author = "Sfiligoi, I. and others",
+    editor = "Groep, D. L. and Bonacorsi, D.",
+    title = "{CMS experience of running glideinWMS in High Availability mode}",
+    doi = "10.1088/1742-6596/513/3/032086",
+    journal = "J. Phys. Conf. Ser.",
+    volume = "513",
+    pages = "032086",
+    year = "2014"
+}
+
+@article{Belforte:2014iba,
+    author = "Belforte, S. and Gutsche, O. and Letts, J. and Majewski, K. and McCrea, A. and Sfiligoi, I.",
+    editor = "Groep, D. L. and Bonacorsi, D.",
+    title = "{Evolution of the Pilot Infrastructure of CMS: Towards a Single GlideinWMS Pool}",
+    reportNumber = "FERMILAB-CONF-13-493-CD",
+    doi = "10.1088/1742-6596/513/3/032041",
+    journal = "J. Phys. Conf. Ser.",
+    volume = "513",
+    pages = "032041",
+    year = "2014"
+}
+
+@article{Dzhunov:2014xaa,
+    author = "Dzhunov, I. and Andreeva, J. and Fajardo, E. and Gutsche, O. and Luyckx, S. and Saiz, P.",
+    editor = "Groep, D. L. and Bonacorsi, D.",
+    title = "{Towards a Centralized Grid Speedometer}",
+    reportNumber = "FERMILAB-CONF-13-495-CD",
+    doi = "10.1088/1742-6596/513/3/032028",
+    journal = "J. Phys. Conf. Ser.",
+    volume = "513",
+    pages = "032028",
+    year = "2014"
+}
+
+@article{Chwalek:2012vx,
+    author = "Chwalek, T. and others",
+    editor = {Ernst, Michael and D\"ullmann, Dirk and Rind, Ofer and Wong, Tony},
+    title = "{No File Left Behind - Monitoring Transfer Latencies in PhEDEx}",
+    reportNumber = "FERMILAB-CONF-12-825-CD",
+    doi = "10.1088/1742-6596/396/3/032089",
+    journal = "J. Phys. Conf. Ser.",
+    volume = "396",
+    pages = "032089",
+    year = "2012"
+}
+
+@article{HEPSoftwareFoundation:2018xvc,
+    author = "Bauerdick, Lothar and others",
+    editor = "Neubauer, Mark S.",
+    collaboration = "HEP Software Foundation",
+    title = "{HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation}",
+    eprint = "1804.03983",
+    archivePrefix = "arXiv",
+    primaryClass = "physics.comp-ph",
+    reportNumber = "HSF-CWP-2017-05, FERMILAB-FN-1057-CD-PPD",
+    month = "4",
+    year = "2018"
+}
+
+@article{Smith:2020pxs,
+    author = "Smith, Nicholas and others",
+    editor = "Doglioni, C. and Kim, D. and Stewart, G. A. and Silvestris, L. and Jackson, P. and Kamleh, W.",
+    title = "{Coffea: Columnar Object Framework For Effective Analysis}",
+    eprint = "2008.12712",
+    archivePrefix = "arXiv",
+    primaryClass = "cs.DC",
+    reportNumber = "FERMILAB-CONF-20-494-CMS-SCD",
+    doi = "10.1051/epjconf/202024506012",
+    journal = "EPJ Web Conf.",
+    volume = "245",
+    pages = "06012",
+    year = "2020"
+}
+
+@article{HEPSoftwareFoundation:2017ggl,
+    author = "Albrecht, Johannes and others",
+    collaboration = "HEP Software Foundation",
+    title = "{A Roadmap for HEP Software and Computing R\&D for the 2020s}",
+    eprint = "1712.06982",
+    archivePrefix = "arXiv",
+    primaryClass = "physics.comp-ph",
+    reportNumber = "HSF-CWP-2017-01, HSF-CWP-2017-001, FERMILAB-PUB-17-607-CD",
+    doi = "10.1007/s41781-018-0018-8",
+    journal = "Comput. Softw. Big Sci.",
+    volume = "3",
+    number = "1",
+    pages = "7",
+    year = "2019"
+}
