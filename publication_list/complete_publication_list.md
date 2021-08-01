@@ -1,3 +1,38 @@
+<!--#ref-CMS:2021aly-->
+A. Tumasyan et al., **Probing effective field
+theory operators in the associated production of top quarks with a Z
+boson in multilepton final states at $\sqrt{s} =$ 13 TeV**, (2021).
+<http://arxiv.org/abs/2107.13896>, arXiv:[2107.13896
+\[hep-ex\]](http://arxiv.org/abs/2107.13896)
+
+<!--#ref-CMS:2021eha-->
+A. Tumasyan et al., **Combined searches for the
+production of supersymmetric top quark partners in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV**, (2021).
+<http://arxiv.org/abs/2107.10892>, arXiv:[2107.10892
+\[hep-ex\]](http://arxiv.org/abs/2107.10892)
+
+<!--#ref-CMS:2021far-->
+A. Tumasyan et al., **Search for new particles in
+events with energetic jets and large missing transverse momentum in
+proton-proton collisions at $\sqrt{s} =$ 13 TeV**, (2021).
+<http://arxiv.org/abs/2107.13021>, arXiv:[2107.13021
+\[hep-ex\]](http://arxiv.org/abs/2107.13021)
+
+<!--#ref-CMS:2021few-->
+A. Tumasyan et al., **Search for
+chargino-neutralino production in events with Higgs and W bosons using
+137 fb $^{-1}$ of proton-proton collisions at $\sqrt{s}=$ 13 TeV**,
+(2021). <http://arxiv.org/abs/2107.12553>, arXiv:[2107.12553
+\[hep-ex\]](http://arxiv.org/abs/2107.12553)
+
+<!--#ref-CMS:2021gxc-->
+A. Tumasyan et al., **Measurement of the inclusive
+and differential Higgs boson production cross sections in the decay mode
+to a pair of $\tau$ leptons in pp collisions at $\sqrt{s} =$ 13 TeV**,
+(2021). <http://arxiv.org/abs/2107.11486>, arXiv:[2107.11486
+\[hep-ex\]](http://arxiv.org/abs/2107.11486)
+
 <!--#ref-CMS:2021klw-->
 A. Tumasyan et al., **Measurement of the inclusive
 and differential ${t\overline{t}}\gamma$ cross sections in the
@@ -78,12 +113,6 @@ resonance decaying to a top quark and a W boson at $\sqrt{s} =$ 13 TeV
 in the fully hadronic final state**, (2021).
 <http://arxiv.org/abs/2104.12853>, arXiv:[2104.12853
 \[hep-ex\]](http://arxiv.org/abs/2104.12853)
-
-<!--#ref-CMS:2021mux-->
-A.M. Sirunyan et al., **Search for W' bosons
-decaying to a top and a bottom quark at $\sqrt{s} =$ 13 TeV in the
-hadronic final state**, (2021). <http://arxiv.org/abs/2104.04831>,
-arXiv:[2104.04831 \[hep-ex\]](http://arxiv.org/abs/2104.04831)
 
 <!--#ref-CMS:2021nnc-->
 A.M. Sirunyan et al., **Constraints on anomalous
@@ -316,7 +345,7 @@ arXiv:[2010.13968 \[hep-ex\]](http://arxiv.org/abs/2010.13968)
 <!--#ref-CMS:2020oqe-->
 A.M. Sirunyan et al., **Search for the rare decay
 of the W boson into a pion and a photon in proton-proton collisions at
-$\sqrt{s} =$ 13 TeV**, *Phys. Lett. B*. 819 (2021) 136409,
+s=13TeV**, *Phys. Lett. B*. 819 (2021) 136409,
 doi:[10.1016/j.physletb.2021.136409](https://doi.org/10.1016/j.physletb.2021.136409),
 arXiv:[2011.06028 \[hep-ex\]](http://arxiv.org/abs/2011.06028)
 
@@ -379,6 +408,13 @@ decay to a pair of muons**, *JHEP*. 01 (2021) 148,
 doi:[10.1007/JHEP01(2021)148](https://doi.org/10.1007/JHEP01(2021)148),
 arXiv:[2009.04363 \[hep-ex\]](http://arxiv.org/abs/2009.04363)
 
+<!--#ref-CMS:2020zjg-->
+A.M. Sirunyan et al., **MUSiC: a model-unspecific
+search for new physics in protonproton collisions at
+$\sqrt{s} = 13{TeV}$**, *Eur. Phys. J. C*. 81 (2021) 629,
+doi:[10.1140/epjc/s10052-021-09236-z](https://doi.org/10.1140/epjc/s10052-021-09236-z),
+arXiv:[2010.02984 \[hep-ex\]](http://arxiv.org/abs/2010.02984)
+
 <!--#ref-CMS:2021foa-->
 A.M. Sirunyan et al., **Measurement of the W
 $\gamma$ Production Cross Section in Proton-Proton Collisions at
@@ -398,9 +434,16 @@ arXiv:[2102.02238 \[hep-ex\]](http://arxiv.org/abs/2102.02238)
 <!--#ref-CMS:2021kom-->
 A.M. Sirunyan et al., **Measurements of Higgs boson
 production cross sections and couplings in the diphoton decay channel at
-$\sqrt{s} =$ 13 TeV**, *JHEP*. 07 (2021) 027,
+$\sqrt{{s}}$ = 13 TeV**, *JHEP*. 07 (2021) 027,
 doi:[10.1007/JHEP07(2021)027](https://doi.org/10.1007/JHEP07(2021)027),
 arXiv:[2103.06956 \[hep-ex\]](http://arxiv.org/abs/2103.06956)
+
+<!--#ref-CMS:2021mux-->
+A.M. Sirunyan et al., **Search for W' bosons
+decaying to a top and a bottom quark at s=13TeV in the hadronic final
+state**, *Phys. Lett. B*. 820 (2021) 136535,
+doi:[10.1016/j.physletb.2021.136535](https://doi.org/10.1016/j.physletb.2021.136535),
+arXiv:[2104.04831 \[hep-ex\]](http://arxiv.org/abs/2104.04831)
 
 <!--#ref-CMS:2021nhn-->
 A.M. Sirunyan et al., **In-medium modification of
@@ -464,12 +507,6 @@ neutron multiplicity dependence of dimuon acoplanarity in
 ultraperipheral PbPb collisions at $\sqrt{s_{{NN}}} =$ 5.02 TeV**,
 (2020). <http://arxiv.org/abs/2011.05239>, arXiv:[2011.05239
 \[hep-ex\]](http://arxiv.org/abs/2011.05239)
-
-<!--#ref-CMS:2020zjg-->
-A.M. Sirunyan et al., **MUSiC: a model unspecific
-search for new physics in proton-proton collisions at $\sqrt{s} =$ 13
-TeV**, (2020). <http://arxiv.org/abs/2010.02984>, arXiv:[2010.02984
-\[hep-ex\]](http://arxiv.org/abs/2010.02984)
 
 <!--#ref-CMS:2018lgn-->
 A.M. Sirunyan et al., **Measurement of the single
