@@ -85,17 +85,17 @@ Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
 doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
 arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
-<!--#ref-Gutsche:2017fpd-->
-O. Gutsche, **Dark Matter and Super Symmetry:
-Exploring and Explaining the Universe with Simulations at the LHC**, in:
-**Winter Simulation Conference: Simulating Complex Service Systems**,
-2017,
-doi:[10.1109/WSC.2016.7822075](https://doi.org/10.1109/WSC.2016.7822075)
-
 <!--#ref-CMS:2017keu-->
 L. Bauerdick et al., **Experience in using
 commercial clouds in CMS**, *J. Phys. Conf. Ser.* 898 (2017) 052019,
 doi:[10.1088/1742-6596/898/5/052019](https://doi.org/10.1088/1742-6596/898/5/052019)
+
+<!--#ref-Gutsche:2017fpd-->
+O. Gutsche, **Dark Matter and Super Symmetry:
+Exploring and Explaining the Universe with Simulations at the LHC**, in:
+**Winter Simulation Conference: Simulating Complex Service Systems**,
+2017: pp. 4--13,
+doi:[10.1109/WSC.2016.7822075](https://doi.org/10.1109/WSC.2016.7822075)
 
 <!--#ref-Gutsche:2017weq-->
 O. Gutsche et al., **Big Data in HEP: A

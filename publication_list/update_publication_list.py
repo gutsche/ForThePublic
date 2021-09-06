@@ -1,5 +1,8 @@
 #!/urs/bin/env python
 # -*- coding: utf-8 -*-
+# 
+# hint: line 238
+#
 
 import sys, re, time, argparse, os, json
 from urllib.request import Request, urlopen
@@ -232,7 +235,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
             experiment_keys.remove(key)
 
     # add new keys to experiment
-    new_experiment_keys=['CMS:2021aly','CMS:2021far','CMS:2021few','CMS:2021gxc','CMS:2021eha']
+    new_experiment_keys=[]
     experiment_keys.extend(new_experiment_keys)
 
     # update all keys in physics_db
