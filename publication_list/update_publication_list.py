@@ -1,6 +1,6 @@
 #!/urs/bin/env python
 # -*- coding: utf-8 -*-
-# 
+#
 # hint: line 238
 #
 
