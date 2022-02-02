@@ -322,13 +322,6 @@ dilepton channel in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 07
 doi:[10.1007/JHEP07(2011)049](https://doi.org/10.1007/JHEP07(2011)049),
 arXiv:[1105.5661 \[hep-ex\]](http://arxiv.org/abs/1105.5661)
 
-<!--#ref-CMS:2011egr-->
-S. Chatrchyan et al., **Measurement of $W^+ W^-$
-production and search for the Higgs boson in pp collisions at
-$\sqrt s=7$ TeV**, *Phys. Lett. B*. 699 (2011) 25--47,
-doi:[10.1016/j.physletb.2011.03.056](https://doi.org/10.1016/j.physletb.2011.03.056),
-arXiv:[1102.5429 \[hep-ex\]](http://arxiv.org/abs/1102.5429)
-
 <!--#ref-CMS:2011gff-->
 S. Chatrchyan et al., **Search for Same-Sign
 Top-Quark Pair Production at $\sqrt{s}=7$ TeV and Limits on Flavour

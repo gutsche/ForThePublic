@@ -1,3 +1,95 @@
+<!--#ref-CMS:2022cot-->
+A. Tumasyan et al., **Observation of B
+$^0$$\to$$\psi$(2S)K $^0_{S}\pi^+\pi^-$ and B $^0_{S}$$\to$$\psi$(2S)K
+$^0_{S}$ decays**, (2022). <http://arxiv.org/abs/2201.09131>,
+arXiv:[2201.09131 \[hep-ex\]](http://arxiv.org/abs/2201.09131)
+
+<!--#ref-CMS:2022fut-->
+A. Tumasyan et al., **Search for long-lived heavy
+neutral leptons with displaced vertices in proton-proton collisions at
+$\sqrt{s}$ =13 TeV**, (2022). <http://arxiv.org/abs/2201.05578>,
+arXiv:[2201.05578 \[hep-ex\]](http://arxiv.org/abs/2201.05578)
+
+<!--#ref-CMS:2022lmh-->
+A. Tumasyan et al., **Measurement of the inclusive
+and differential ${t\bar{t}}\gamma$ cross sections in the dilepton
+channel and effective field theory interpretation in proton-proton
+collisions at $\sqrt{s}$ =13 TeV**, (2022).
+<http://arxiv.org/abs/2201.07301>, arXiv:[2201.07301
+\[hep-ex\]](http://arxiv.org/abs/2201.07301)
+
+<!--#ref-CMS:2022lqh-->
+A. Tumasyan et al., **Search for resonances
+decaying to three W bosons in proton-proton collisions at $\sqrt{s}$ =
+13 TeV**, (2022). <http://arxiv.org/abs/2201.08476>, arXiv:[2201.08476
+\[hep-ex\]](http://arxiv.org/abs/2201.08476)
+
+<!--#ref-CMS:2022mhs-->
+A. Tumasyan et al., **Precision measurement of the
+W boson decay branching fractions in proton-proton collisions at
+$\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2201.07861>,
+arXiv:[2201.07861 \[hep-ex\]](http://arxiv.org/abs/2201.07861)
+
+<!--#ref-CMS:2022prd-->
+A. Tumasyan et al., **Identification of hadronic
+tau lepton decays using a deep neural network**, (2022).
+<http://arxiv.org/abs/2201.08458>, arXiv:[2201.08458
+\[hep-ex\]](http://arxiv.org/abs/2201.08458)
+
+<!--#ref-CMS:2022qva-->
+A. Tumasyan et al., **Search for invisible decays
+of the Higgs boson produced via vector boson fusion in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2201.11585>, arXiv:[2201.11585
+\[hep-ex\]](http://arxiv.org/abs/2201.11585)
+
+<!--#ref-CMS:2022sxl-->
+A. Tumasyan et al., **Observation of the B $_{c}^+$
+meson in PbPb and pp collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
+(2022). <http://arxiv.org/abs/2201.02659>, arXiv:[2201.02659
+\[hep-ex\]](http://arxiv.org/abs/2201.02659)
+
+<!--#ref-CMS:2022tqn-->
+A. Tumasyan et al., **Search for high-mass
+resonances decaying to a jet and a Lorentz-boosted resonance in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2201.02140>, arXiv:[2201.02140
+\[hep-ex\]](http://arxiv.org/abs/2201.02140)
+
+<!--#ref-CMS:2022vpy-->
+A. Tumasyan et al., **Search for higgsinos decaying
+to two Higgs bosons and missing transverse momentum in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2201.04206>, arXiv:[2201.04206
+\[hep-ex\]](http://arxiv.org/abs/2201.04206)
+
+<!--#ref-CMS:2022yxp-->
+A. Tumasyan et al., **Search for single production
+of a vector-like T quark decaying to a top quark and a Z boson in the
+final state with jets and missing transverse momentum at $\sqrt{s}$ = 13
+TeV**, (2022). <http://arxiv.org/abs/2201.02227>, arXiv:[2201.02227
+\[hep-ex\]](http://arxiv.org/abs/2201.02227)
+
+<!--#ref-CMS:2022ztx-->
+A. Tumasyan et al., **Search for charged-lepton
+flavor violation in top quark production and decay in pp collisions at
+$\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2201.07859>,
+arXiv:[2201.07859 \[hep-ex\]](http://arxiv.org/abs/2201.07859)
+
+<!--#ref-CMS:2021puf-->
+A. Tumasyan et al., **Fragmentation of jets
+containing a prompt J/$\psi$ meson in PbPb and pp collisions at
+sNN=5.02TeV**, *Phys. Lett. B*. 825 (2022) 136842,
+doi:[10.1016/j.physletb.2021.136842](https://doi.org/10.1016/j.physletb.2021.136842),
+arXiv:[2106.13235 \[hep-ex\]](http://arxiv.org/abs/2106.13235)
+
+<!--#ref-CMS:2021znk-->
+A.M. Sirunyan et al., **Evidence for X(3872) in
+Pb-Pb Collisions and Studies of its Prompt Production at
+$\sqrt {s_{NN}}$=5.02  TeV**, *Phys. Rev. Lett.* 128 (2022) 032001,
+doi:[10.1103/PhysRevLett.128.032001](https://doi.org/10.1103/PhysRevLett.128.032001),
+arXiv:[2102.13048 \[hep-ex\]](http://arxiv.org/abs/2102.13048)
+
 <!--#ref-CMS:2021dzb-->
 A. Tumasyan et al., **Search for a right-handed W
 boson and a heavy neutrino in proton-proton collisions at $\sqrt{s}$ =
@@ -10,11 +102,25 @@ production of strongly coupled dark matter in proton-proton collisions
 at 13 TeV**, (2021). <http://arxiv.org/abs/2112.11125>,
 arXiv:[2112.11125 \[hep-ex\]](http://arxiv.org/abs/2112.11125)
 
+<!--#ref-CMS:2021gfa-->
+A. Tumasyan et al., **Search for flavor-changing
+neutral current interactions of the top quark and the Higgs boson
+decaying to a bottom quark-antiquark pair at $\sqrt{s}$ =13 TeV**,
+(2021). <http://arxiv.org/abs/2112.09734>, arXiv:[2112.09734
+\[hep-ex\]](http://arxiv.org/abs/2112.09734)
+
 <!--#ref-CMS:2021gwv-->
 A. Tumasyan et al., **Measurement of the inclusive
 ${t\bar{t}}$ production cross section in proton-proton collisions at
 $\sqrt{s}$ = 5.02 TeV**, (2021). <http://arxiv.org/abs/2112.09114>,
 arXiv:[2112.09114 \[hep-ex\]](http://arxiv.org/abs/2112.09114)
+
+<!--#ref-CMS:2021mjl-->
+A. Tumasyan et al., **Search for resonances
+decaying to three W bosons in the hadronic final state in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2021).
+<http://arxiv.org/abs/2112.13090>, arXiv:[2112.13090
+\[hep-ex\]](http://arxiv.org/abs/2112.13090)
 
 <!--#ref-CMS:2021oxn-->
 A. Tumasyan et al., **Measurements of the
@@ -52,8 +158,9 @@ leptons and a bottom quark pair at $\sqrt{s}$ = 13 TeV**, (2021).
 <!--#ref-CMS:2021sch-->
 A. Tumasyan et al., **Search for long-lived
 particles decaying into muon pairs in proton-proton collisions at
-$\sqrt{s}$ = 13 TeV**, (2021). <http://arxiv.org/abs/2112.13769>,
-arXiv:[2112.13769 \[hep-ex\]](http://arxiv.org/abs/2112.13769)
+$\sqrt{s}$ = 13 TeV collected with a dedicated high-rate data stream**,
+(2021). <http://arxiv.org/abs/2112.13769>, arXiv:[2112.13769
+\[hep-ex\]](http://arxiv.org/abs/2112.13769)
 
 <!--#ref-CMS:2021cxr-->
 A. Tumasyan et al., **Measurement of W $^\pm\gamma$
@@ -68,6 +175,12 @@ final states with two or three soft leptons and missing transverse
 momentum in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2021).
 <http://arxiv.org/abs/2111.06296>, arXiv:[2111.06296
 \[hep-ex\]](http://arxiv.org/abs/2111.06296)
+
+<!--#ref-CMS:2021ime-->
+A. Tumasyan et al., **Strategies and performance of
+the CMS silicon tracker alignment during LHC Run 2**, (2021).
+<http://arxiv.org/abs/2111.08757>, arXiv:[2111.08757
+\[physics.ins-det\]](http://arxiv.org/abs/2111.08757)
 
 <!--#ref-CMS:2021maw-->
 A. Tumasyan et al., **Study of dijet events with
@@ -177,32 +290,18 @@ to a pair of $\tau$ leptons in pp collisions at $\sqrt{s} =$ 13 TeV**,
 (2021). <http://arxiv.org/abs/2107.11486>, arXiv:[2107.11486
 \[hep-ex\]](http://arxiv.org/abs/2107.11486)
 
-<!--#ref-CMS:2021juv-->
-A. Tumasyan et al., **Search for long-lived
-particles decaying in the CMS endcap muon detectors in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, (2021).
-<http://arxiv.org/abs/2107.04838>, arXiv:[2107.04838
-\[hep-ex\]](http://arxiv.org/abs/2107.04838)
-
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak
 production of charginos and neutralinos in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV**, (2021). <http://arxiv.org/abs/2106.14246>,
 arXiv:[2106.14246 \[hep-ex\]](http://arxiv.org/abs/2106.14246)
 
-<!--#ref-CMS:2021puf-->
-A. Tumasyan et al., **Fragmentation of jets
-containing a prompt J $/\psi$ meson in PbPb and pp collisions at
-$\sqrt{s_{{NN}}} =$ 5.02 TeV**, (2021),
-doi:[10.1016/j.physletb.2021.136842](https://doi.org/10.1016/j.physletb.2021.136842),
-arXiv:[2106.13235 \[hep-ex\]](http://arxiv.org/abs/2106.13235)
-
 <!--#ref-CMS:2021zxu-->
 A. Tumasyan et al., **Search for W $\gamma$
 resonances in proton-proton collisions at $\sqrt{s} =$ 13 TeV using
-hadronic decays of Lorentz-boosted W bosons**, (2021).
-<http://arxiv.org/abs/2106.10509>, arXiv:[2106.10509
-\[hep-ex\]](http://arxiv.org/abs/2106.10509)
+hadronic decays of Lorentz-boosted W bosons**, (2021),
+doi:[10.1016/j.physletb.2022.136888](https://doi.org/10.1016/j.physletb.2022.136888),
+arXiv:[2106.10509 \[hep-ex\]](http://arxiv.org/abs/2106.10509)
 
 <!--#ref-CMS:2021rwb-->
 A. Tumasyan et al., **Search for strongly
@@ -216,13 +315,6 @@ A.M. Sirunyan et al., **Using Z boson events to
 study parton-medium interactions in PbPb collisions**, (2021).
 <http://arxiv.org/abs/2103.04377>, arXiv:[2103.04377
 \[hep-ex\]](http://arxiv.org/abs/2103.04377)
-
-<!--#ref-CMS:2021znk-->
-A.M. Sirunyan et al., **Evidence for X(3872) in
-PbPb collisions and studies of its prompt production at
-$\sqrt{s_{{NN}}}=$ 5.02 TeV**, (2021).
-<http://arxiv.org/abs/2102.13048>, arXiv:[2102.13048
-\[hep-ex\]](http://arxiv.org/abs/2102.13048)
 
 <!--#ref-CMS:2019lin-->
 A.M. Sirunyan et al., **Correlations of azimuthal
@@ -569,6 +661,14 @@ at $\sqrt{s}$ = 13 TeV**, *JHEP*. 12 (2021) 161,
 doi:[10.1007/JHEP12(2021)161](https://doi.org/10.1007/JHEP12(2021)161),
 arXiv:[2108.10407 \[hep-ex\]](http://arxiv.org/abs/2108.10407)
 
+<!--#ref-CMS:2021juv-->
+A. Tumasyan et al., **Search for Long-Lived
+Particles Decaying in the CMS End Cap Muon Detectors in Proton-Proton
+Collisions at $\sqrt s$ =13  TeV**, *Phys. Rev. Lett.* 127 (2021)
+261804,
+doi:[10.1103/PhysRevLett.127.261804](https://doi.org/10.1103/PhysRevLett.127.261804),
+arXiv:[2107.04838 \[hep-ex\]](http://arxiv.org/abs/2107.04838)
+
 <!--#ref-CMS:2021klw-->
 A. Tumasyan et al., **Measurement of the inclusive
 and differential ${t\overline{t}}\gamma$ cross sections in the
@@ -821,14 +921,6 @@ strength, top quark pole mass, and parton distribution functions**,
 *Eur. Phys. J. C*. 80 (2020) 658,
 doi:[10.1140/epjc/s10052-020-7917-7](https://doi.org/10.1140/epjc/s10052-020-7917-7),
 arXiv:[1904.05237 \[hep-ex\]](http://arxiv.org/abs/1904.05237)
-
-<!--#ref-CMS:2019fak-->
-A.M. Sirunyan et al., **Measurement of the Jet Mass
-Distribution and Top Quark Mass in Hadronic Decays of Boosted Top Quarks
-in $pp$ Collisions at $\sqrt{s} =$ TeV**, *Phys. Rev. Lett.* 124 (2020)
-202001,
-doi:[10.1103/PhysRevLett.124.202001](https://doi.org/10.1103/PhysRevLett.124.202001),
-arXiv:[1911.03800 \[hep-ex\]](http://arxiv.org/abs/1911.03800)
 
 <!--#ref-CMS:2019fur-->
 A.M. Sirunyan et al., **Bose-Einstein correlations
@@ -5904,6 +5996,13 @@ $\sqrt{s}=7$ TeV**, *Eur. Phys. J. C*. 73 (2013) 2339,
 doi:[10.1140/epjc/s10052-013-2339-4](https://doi.org/10.1140/epjc/s10052-013-2339-4),
 arXiv:[1211.2220 \[hep-ex\]](http://arxiv.org/abs/1211.2220)
 
+<!--#ref-CMS:2012ilh-->
+S. Chatrchyan et al., **Measurement of the
+Azimuthal Anisotropy of Neutral Pions in PbPb cCllisions at
+$\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Rev. Lett.* 110 (2013) 042301,
+doi:[10.1103/PhysRevLett.110.042301](https://doi.org/10.1103/PhysRevLett.110.042301),
+arXiv:[1208.2470 \[nucl-ex\]](http://arxiv.org/abs/1208.2470)
+
 <!--#ref-CMS:2012imo-->
 S. Chatrchyan et al., **Search for Exotic
 Resonances Decaying into $WZ/ZZ$ in $pp$ Collisions at $\sqrt{s}=7$
@@ -6055,6 +6154,13 @@ and Quantum Black Holes in Inclusive and $b$-Tagged Dijet Mass Spectra
 from $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 01 (2013) 013,
 doi:[10.1007/JHEP01(2013)013](https://doi.org/10.1007/JHEP01(2013)013),
 arXiv:[1210.2387 \[hep-ex\]](http://arxiv.org/abs/1210.2387)
+
+<!--#ref-CMS:2012yib-->
+S. Chatrchyan et al., **Inclusive Search for
+Supersymmetry Using the Razor Variables in $pp$ Collisions at
+$\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.* 111 (2013) 081802,
+doi:[10.1103/PhysRevLett.111.081802](https://doi.org/10.1103/PhysRevLett.111.081802),
+arXiv:[1212.6961 \[hep-ex\]](http://arxiv.org/abs/1212.6961)
 
 <!--#ref-CMS:2012ytf-->
 S. Chatrchyan et al., **Studies of jet quenching
@@ -6650,13 +6756,6 @@ Upsilon Suppression in PbPb Collisions**, *Phys. Rev. Lett.* 109 (2012)
 doi:[10.1103/PhysRevLett.109.222301](https://doi.org/10.1103/PhysRevLett.109.222301),
 arXiv:[1208.2826 \[nucl-ex\]](http://arxiv.org/abs/1208.2826)
 
-<!--#ref-CMS:2012hfp-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson decaying into two photons in $pp$ collisions at
-$\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012) 403--425,
-doi:[10.1016/j.physletb.2012.03.003](https://doi.org/10.1016/j.physletb.2012.03.003),
-arXiv:[1202.1487 \[hep-ex\]](http://arxiv.org/abs/1202.1487)
-
 <!--#ref-CMS:2012hzy-->
 S. Chatrchyan et al., **Measurement of the mass
 difference between top and antitop quarks**, *JHEP*. 06 (2012) 109,
@@ -6999,14 +7098,6 @@ $\sqrt{s}=0.9$, 2.76, and 7 TeV**, *Eur. Phys. J. C*. 72 (2012) 2164,
 doi:[10.1140/epjc/s10052-012-2164-1](https://doi.org/10.1140/epjc/s10052-012-2164-1),
 arXiv:[1207.4724 \[hep-ex\]](http://arxiv.org/abs/1207.4724)
 
-<!--#ref-CMS:2012yfb-->
-S. Chatrchyan et al., **Search for New Physics in
-the Multijet and Missing Transverse Momentum Final State in
-Proton-Proton Collisions at $\sqrt{s} = 7$ TeV**, *Phys. Rev. Lett.* 109
-(2012) 171803,
-doi:[10.1103/PhysRevLett.109.171803](https://doi.org/10.1103/PhysRevLett.109.171803),
-arXiv:[1207.1898 \[hep-ex\]](http://arxiv.org/abs/1207.1898)
-
 <!--#ref-CMS:2012zhx-->
 S. Chatrchyan et al., **Combined results of
 searches for the standard model Higgs boson in $pp$ collisions at
@@ -7207,13 +7298,6 @@ leptons in $pp$ Collisions at $\sqrt{s}=$ 7 TeV**, *Phys. Lett. B*. 704
 doi:[10.1016/j.physletb.2011.09.021](https://doi.org/10.1016/j.physletb.2011.09.021),
 arXiv:[1107.1773 \[hep-ex\]](http://arxiv.org/abs/1107.1773)
 
-<!--#ref-CMS:2011euv-->
-S. Chatrchyan et al., **Search for physics beyond
-the standard model using multilepton signatures in $pp$ collisions at
-$\sqrt{s}=$ 7 TeV**, *Phys. Lett. B*. 704 (2011) 411--433,
-doi:[10.1016/j.physletb.2011.09.047](https://doi.org/10.1016/j.physletb.2011.09.047),
-arXiv:[1106.0933 \[hep-ex\]](http://arxiv.org/abs/1106.0933)
-
 <!--#ref-CMS:2011eym-->
 V. Khachatryan et al., **Measurement of Dijet
 Angular Distributions and Search for Quark Compositeness in pp
@@ -7290,6 +7374,13 @@ Bottom-like Quark in $pp$ Collisions at $\sqrt{s} = 7$ TeV**, *Phys.
 Lett. B*. 701 (2011) 204--223,
 doi:[10.1016/j.physletb.2011.05.074](https://doi.org/10.1016/j.physletb.2011.05.074),
 arXiv:[1102.4746 \[hep-ex\]](http://arxiv.org/abs/1102.4746)
+
+<!--#ref-CMS:2011lzj-->
+S. Chatrchyan et al., **Search for Neutral MSSM
+Higgs Bosons Decaying to Tau Pairs in $pp$ Collisions at $\sqrt{s}=7$
+TeV**, *Phys. Rev. Lett.* 106 (2011) 231801,
+doi:[10.1103/PhysRevLett.106.231801](https://doi.org/10.1103/PhysRevLett.106.231801),
+arXiv:[1104.1619 \[hep-ex\]](http://arxiv.org/abs/1104.1619)
 
 <!--#ref-CMS:2011maz-->
 S. Chatrchyan et al., **Measurement of the ratio of
@@ -7577,13 +7668,6 @@ Filtering of Uncharacteristic Noise in the CMS Hadron Calorimeter**,
 *JINST*. 5 (2010) T03014,
 doi:[10.1088/1748-0221/5/03/T03014](https://doi.org/10.1088/1748-0221/5/03/T03014),
 arXiv:[0911.4881 \[physics.ins-det\]](http://arxiv.org/abs/0911.4881)
-
-<!--#ref-CMS:2009nle-->
-S. Chatrchyan et al., **Commissioning and
-Performance of the CMS Silicon Strip Tracker with Cosmic Ray Muons**,
-*JINST*. 5 (2010) T03008,
-doi:[10.1088/1748-0221/5/03/T03008](https://doi.org/10.1088/1748-0221/5/03/T03008),
-arXiv:[0911.4996 \[physics.ins-det\]](http://arxiv.org/abs/0911.4996)
 
 <!--#ref-CMS:2009nwd-->
 S. Chatrchyan et al., **Performance of CMS Hadron
@@ -8029,13 +8113,6 @@ dissociative diffractive photoproduction of vector mesons at large
 momentum transfer at HERA**, *Eur. Phys. J. C*. 26 (2003) 389--409,
 doi:[10.1140/epjc/s2002-01079-0](https://doi.org/10.1140/epjc/s2002-01079-0),
 arXiv:[hep-ex/0205081 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205081)
-
-<!--#ref-ZEUS:2002xjx-->
-S. Chekanov et al., **A ZEUS next-to-leading-order
-QCD analysis of data on deep inelastic scattering**, *Phys. Rev. D*. 67
-(2003) 012007,
-doi:[10.1103/PhysRevD.67.012007](https://doi.org/10.1103/PhysRevD.67.012007),
-arXiv:[hep-ex/0208023 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0208023)
 
 <!--#ref-ZEUS:2002ydc-->
 S. Chekanov et al., **Scaling violations and
