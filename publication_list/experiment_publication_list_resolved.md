@@ -20,6 +20,51 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2022cpr-->
+A. Tumasyan et al., **Search for Higgs boson pair
+production in the four b quark final state in proton-proton collisions
+at $\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2202.09617>,
+arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
+
+<!--#ref-CMS:2022ley-->
+A. Tumasyan et al., **First evidence for off-shell
+production of the Higgs boson and measurement of its width**, (2022).
+<http://arxiv.org/abs/2202.06923>, arXiv:[2202.06923
+\[hep-ex\]](http://arxiv.org/abs/2202.06923)
+
+<!--#ref-CMS:2022nty-->
+A. Tumasyan et al., **Inclusive nonresonant
+multilepton probes of new phenomena at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2202.08676>, arXiv:[2202.08676
+\[hep-ex\]](http://arxiv.org/abs/2202.08676)
+
+<!--#ref-CMS:2022tdo-->
+A. Tumasyan et al., **Search for a W' boson
+decaying to a vector-like quark and a top or bottom quark in the
+all-jets final state at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2202.12988>, arXiv:[2202.12988
+\[hep-ex\]](http://arxiv.org/abs/2202.12988)
+
+<!--#ref-CMS:2022uul-->
+A. Tumasyan et al., **Measurement of the Drell-Yan
+forward-backward asymmetry at high dilepton masses in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2202.12327>, arXiv:[2202.12327
+\[hep-ex\]](http://arxiv.org/abs/2202.12327)
+
+<!--#ref-CMS:2022wfi-->
+A. Tumasyan et al., **Nuclear modification of
+$\Upsilon$ states in pPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
+(2022). <http://arxiv.org/abs/2202.11807>, arXiv:[2202.11807
+\[hep-ex\]](http://arxiv.org/abs/2202.11807)
+
+<!--#ref-CMS:2022yjm-->
+A. Tumasyan et al., **Search for new physics in the
+lepton plus missing transverse momentum final state in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2202.06075>, arXiv:[2202.06075
+\[hep-ex\]](http://arxiv.org/abs/2202.06075)
+
 <!--#ref-CMS:2022cot-->
 A. Tumasyan et al., **Observation of B
 $^0$$\to$$\psi$(2S)K $^0_{S}\pi^+\pi^-$ and B $^0_{S}$$\to$$\psi$(2S)K
@@ -98,6 +143,13 @@ flavor violation in top quark production and decay in pp collisions at
 $\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2201.07859>,
 arXiv:[2201.07859 \[hep-ex\]](http://arxiv.org/abs/2201.07859)
 
+<!--#ref-CMS:2021iwu-->
+A. Tumasyan et al., **Study of quark and gluon jet
+substructure in Z+jet and dijet events from pp collisions**, *JHEP*. 01
+(2022) 188,
+doi:[10.1007/JHEP01(2022)188](https://doi.org/10.1007/JHEP01(2022)188),
+arXiv:[2109.03340 \[hep-ex\]](http://arxiv.org/abs/2109.03340)
+
 <!--#ref-CMS:2021puf-->
 A. Tumasyan et al., **Fragmentation of jets
 containing a prompt J/$\psi$ meson in PbPb and pp collisions at
@@ -105,12 +157,27 @@ sNN=5.02TeV**, *Phys. Lett. B*. 825 (2022) 136842,
 doi:[10.1016/j.physletb.2021.136842](https://doi.org/10.1016/j.physletb.2021.136842),
 arXiv:[2106.13235 \[hep-ex\]](http://arxiv.org/abs/2106.13235)
 
+<!--#ref-CMS:2021ugv-->
+A. Tumasyan et al., **Inclusive and differential
+cross section measurements of single top quark production in association
+with a Z boson in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
+*JHEP*. 02 (2022) 107,
+doi:[10.1007/JHEP02(2022)107](https://doi.org/10.1007/JHEP02(2022)107),
+arXiv:[2111.02860 \[hep-ex\]](http://arxiv.org/abs/2111.02860)
+
 <!--#ref-CMS:2021znk-->
 A.M. Sirunyan et al., **Evidence for X(3872) in
 Pb-Pb Collisions and Studies of its Prompt Production at
 $\sqrt {s_{NN}}$=5.02  TeV**, *Phys. Rev. Lett.* 128 (2022) 032001,
 doi:[10.1103/PhysRevLett.128.032001](https://doi.org/10.1103/PhysRevLett.128.032001),
 arXiv:[2102.13048 \[hep-ex\]](http://arxiv.org/abs/2102.13048)
+
+<!--#ref-CMS:2021zxu-->
+A. Tumasyan et al., **Search for W$\gamma$
+resonances in proton-proton collisions at s=13 TeV using hadronic decays
+of Lorentz-boosted W bosons**, *Phys. Lett. B*. 826 (2022) 136888,
+doi:[10.1016/j.physletb.2022.136888](https://doi.org/10.1016/j.physletb.2022.136888),
+arXiv:[2106.10509 \[hep-ex\]](http://arxiv.org/abs/2106.10509)
 
 <!--#ref-CMS:2021dzb-->
 A. Tumasyan et al., **Search for a right-handed W
@@ -278,12 +345,6 @@ collisions at $\sqrt{s}$ = 13 TeV**, (2021).
 <http://arxiv.org/abs/2109.08268>, arXiv:[2109.08268
 \[hep-ex\]](http://arxiv.org/abs/2109.08268)
 
-<!--#ref-CMS:2021iwu-->
-A. Tumasyan et al., **Study of quark and gluon jet
-substructure in Z+jet and dijet events from pp collisions**, (2021).
-<http://arxiv.org/abs/2109.03340>, arXiv:[2109.03340
-\[hep-ex\]](http://arxiv.org/abs/2109.03340)
-
 <!--#ref-CMS:2021klu-->
 A. Tumasyan et al., **Search for heavy resonances
 decaying to WW, WZ, or WH boson pairs in the lepton plus merged jet
@@ -317,13 +378,6 @@ A. Tumasyan et al., **Search for electroweak
 production of charginos and neutralinos in proton-proton collisions at
 $\sqrt{s} =$ 13 TeV**, (2021). <http://arxiv.org/abs/2106.14246>,
 arXiv:[2106.14246 \[hep-ex\]](http://arxiv.org/abs/2106.14246)
-
-<!--#ref-CMS:2021zxu-->
-A. Tumasyan et al., **Search for W $\gamma$
-resonances in proton-proton collisions at $\sqrt{s} =$ 13 TeV using
-hadronic decays of Lorentz-boosted W bosons**, (2021),
-doi:[10.1016/j.physletb.2022.136888](https://doi.org/10.1016/j.physletb.2022.136888),
-arXiv:[2106.10509 \[hep-ex\]](http://arxiv.org/abs/2106.10509)
 
 <!--#ref-CMS:2021rwb-->
 A. Tumasyan et al., **Search for strongly
@@ -943,6 +997,14 @@ strength, top quark pole mass, and parton distribution functions**,
 *Eur. Phys. J. C*. 80 (2020) 658,
 doi:[10.1140/epjc/s10052-020-7917-7](https://doi.org/10.1140/epjc/s10052-020-7917-7),
 arXiv:[1904.05237 \[hep-ex\]](http://arxiv.org/abs/1904.05237)
+
+<!--#ref-CMS:2019fak-->
+A.M. Sirunyan et al., **Measurement of the Jet Mass
+Distribution and Top Quark Mass in Hadronic Decays of Boosted Top Quarks
+in $pp$ Collisions at $\sqrt{s} =$ TeV**, *Phys. Rev. Lett.* 124 (2020)
+202001,
+doi:[10.1103/PhysRevLett.124.202001](https://doi.org/10.1103/PhysRevLett.124.202001),
+arXiv:[1911.03800 \[hep-ex\]](http://arxiv.org/abs/1911.03800)
 
 <!--#ref-CMS:2019fur-->
 A.M. Sirunyan et al., **Bose-Einstein correlations
@@ -6778,6 +6840,13 @@ Upsilon Suppression in PbPb Collisions**, *Phys. Rev. Lett.* 109 (2012)
 doi:[10.1103/PhysRevLett.109.222301](https://doi.org/10.1103/PhysRevLett.109.222301),
 arXiv:[1208.2826 \[nucl-ex\]](http://arxiv.org/abs/1208.2826)
 
+<!--#ref-CMS:2012hfp-->
+S. Chatrchyan et al., **Search for the standard
+model Higgs boson decaying into two photons in $pp$ collisions at
+$\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012) 403--425,
+doi:[10.1016/j.physletb.2012.03.003](https://doi.org/10.1016/j.physletb.2012.03.003),
+arXiv:[1202.1487 \[hep-ex\]](http://arxiv.org/abs/1202.1487)
+
 <!--#ref-CMS:2012hzy-->
 S. Chatrchyan et al., **Measurement of the mass
 difference between top and antitop quarks**, *JHEP*. 06 (2012) 109,
@@ -7120,6 +7189,14 @@ $\sqrt{s}=0.9$, 2.76, and 7 TeV**, *Eur. Phys. J. C*. 72 (2012) 2164,
 doi:[10.1140/epjc/s10052-012-2164-1](https://doi.org/10.1140/epjc/s10052-012-2164-1),
 arXiv:[1207.4724 \[hep-ex\]](http://arxiv.org/abs/1207.4724)
 
+<!--#ref-CMS:2012yfb-->
+S. Chatrchyan et al., **Search for New Physics in
+the Multijet and Missing Transverse Momentum Final State in
+Proton-Proton Collisions at $\sqrt{s} = 7$ TeV**, *Phys. Rev. Lett.* 109
+(2012) 171803,
+doi:[10.1103/PhysRevLett.109.171803](https://doi.org/10.1103/PhysRevLett.109.171803),
+arXiv:[1207.1898 \[hep-ex\]](http://arxiv.org/abs/1207.1898)
+
 <!--#ref-CMS:2012zhx-->
 S. Chatrchyan et al., **Combined results of
 searches for the standard model Higgs boson in $pp$ collisions at
@@ -7306,6 +7383,13 @@ TeV using the Kinematic Properties of Events with Leptons and Jets**,
 doi:[10.1140/epjc/s10052-011-1721-3](https://doi.org/10.1140/epjc/s10052-011-1721-3),
 arXiv:[1106.0902 \[hep-ex\]](http://arxiv.org/abs/1106.0902)
 
+<!--#ref-CMS:2011egr-->
+S. Chatrchyan et al., **Measurement of $W^+ W^-$
+production and search for the Higgs boson in pp collisions at
+$\sqrt s=7$ TeV**, *Phys. Lett. B*. 699 (2011) 25--47,
+doi:[10.1016/j.physletb.2011.03.056](https://doi.org/10.1016/j.physletb.2011.03.056),
+arXiv:[1102.5429 \[hep-ex\]](http://arxiv.org/abs/1102.5429)
+
 <!--#ref-CMS:2011esc-->
 S. Chatrchyan et al., **Search for New Physics with
 a Mono-Jet and Missing Transverse Energy in $pp$ Collisions at
@@ -7319,6 +7403,13 @@ leptons in $pp$ Collisions at $\sqrt{s}=$ 7 TeV**, *Phys. Lett. B*. 704
 (2011) 143--162,
 doi:[10.1016/j.physletb.2011.09.021](https://doi.org/10.1016/j.physletb.2011.09.021),
 arXiv:[1107.1773 \[hep-ex\]](http://arxiv.org/abs/1107.1773)
+
+<!--#ref-CMS:2011euv-->
+S. Chatrchyan et al., **Search for physics beyond
+the standard model using multilepton signatures in $pp$ collisions at
+$\sqrt{s}=$ 7 TeV**, *Phys. Lett. B*. 704 (2011) 411--433,
+doi:[10.1016/j.physletb.2011.09.047](https://doi.org/10.1016/j.physletb.2011.09.047),
+arXiv:[1106.0933 \[hep-ex\]](http://arxiv.org/abs/1106.0933)
 
 <!--#ref-CMS:2011eym-->
 V. Khachatryan et al., **Measurement of Dijet
@@ -7690,6 +7781,13 @@ Filtering of Uncharacteristic Noise in the CMS Hadron Calorimeter**,
 *JINST*. 5 (2010) T03014,
 doi:[10.1088/1748-0221/5/03/T03014](https://doi.org/10.1088/1748-0221/5/03/T03014),
 arXiv:[0911.4881 \[physics.ins-det\]](http://arxiv.org/abs/0911.4881)
+
+<!--#ref-CMS:2009nle-->
+S. Chatrchyan et al., **Commissioning and
+Performance of the CMS Silicon Strip Tracker with Cosmic Ray Muons**,
+*JINST*. 5 (2010) T03008,
+doi:[10.1088/1748-0221/5/03/T03008](https://doi.org/10.1088/1748-0221/5/03/T03008),
+arXiv:[0911.4996 \[physics.ins-det\]](http://arxiv.org/abs/0911.4996)
 
 <!--#ref-CMS:2009nwd-->
 S. Chatrchyan et al., **Performance of CMS Hadron
@@ -8135,6 +8233,13 @@ dissociative diffractive photoproduction of vector mesons at large
 momentum transfer at HERA**, *Eur. Phys. J. C*. 26 (2003) 389--409,
 doi:[10.1140/epjc/s2002-01079-0](https://doi.org/10.1140/epjc/s2002-01079-0),
 arXiv:[hep-ex/0205081 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0205081)
+
+<!--#ref-ZEUS:2002xjx-->
+S. Chekanov et al., **A ZEUS next-to-leading-order
+QCD analysis of data on deep inelastic scattering**, *Phys. Rev. D*. 67
+(2003) 012007,
+doi:[10.1103/PhysRevD.67.012007](https://doi.org/10.1103/PhysRevD.67.012007),
+arXiv:[hep-ex/0208023 \[hep-ex\]](http://arxiv.org/abs/hep-ex/0208023)
 
 <!--#ref-ZEUS:2002ydc-->
 S. Chekanov et al., **Scaling violations and
