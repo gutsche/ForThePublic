@@ -113,6 +113,12 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
+<!--#ref-Bhattacharya:2022qgj-->
+M. Bhattacharya et al., **Portability: A
+Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
+Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
+arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+
 <!--#ref-Smith:2020pxs-->
 N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,

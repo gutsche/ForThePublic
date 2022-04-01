@@ -1,3 +1,9 @@
+<!--#ref-Bhattacharya:2022qgj-->
+M. Bhattacharya et al., **Portability: A
+Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
+Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
+arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+
 <!--#ref-Gutsche:2020kmd-->
 O. Gutsche et al., **Striped Data Analysis
 Framework**, *EPJ Web Conf.* 245 (2020) 06042,
