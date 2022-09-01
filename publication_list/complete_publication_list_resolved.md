@@ -32,12 +32,6 @@ an extended Higgs sector with four b quarks in the final state at
 $\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2203.00480>,
 arXiv:[2203.00480 \[hep-ex\]](http://arxiv.org/abs/2203.00480)
 
-<!--#ref-CMS:2022cpr-->
-A. Tumasyan et al., **Search for Higgs boson pair
-production in the four b quark final state in proton-proton collisions
-at $\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2202.09617>,
-arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
-
 <!--#ref-CMS:2022ley-->
 A. Tumasyan et al., **First evidence for off-shell
 production of the Higgs boson and measurement of its width**, (2022).
@@ -338,6 +332,13 @@ $^0_{S}$ decays**, *Eur. Phys. J. C*. 82 (2022) 499,
 doi:[10.1140/epjc/s10052-022-10315-y](https://doi.org/10.1140/epjc/s10052-022-10315-y),
 arXiv:[2201.09131 \[hep-ex\]](http://arxiv.org/abs/2201.09131)
 
+<!--#ref-CMS:2022cpr-->
+A. Tumasyan et al., **Search for Higgs Boson Pair
+Production in the Four b Quark Final State in Proton-Proton Collisions
+at $\sqrt s$=13  TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
+doi:[10.1103/PhysRevLett.129.081802](https://doi.org/10.1103/PhysRevLett.129.081802),
+arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
+
 <!--#ref-CMS:2022fut-->
 A. Tumasyan et al., **Search for long-lived heavy
 neutral leptons with displaced vertices in proton-proton collisions at
@@ -399,8 +400,12 @@ arXiv:[2201.02659 \[hep-ex\]](http://arxiv.org/abs/2201.02659)
 <!--#ref-CMS:2022tqn-->
 A. Tumasyan et al., **Search for high-mass
 resonances decaying to a jet and a Lorentz-boosted resonance in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *Phys. Lett. B*. 832
-(2022) 137263,
+proton-proton collisions at $<$math
+altimg="si1.svg"$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo
+linebreak="goodbreak"
+linebreakstyle="after"$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mspace
+width="0.2em"/$>$$<$mtext$>$TeV$<$/mtext$>$$<$/math$>$**, *Phys. Lett.
+B*. 832 (2022) 137263,
 doi:[10.1016/j.physletb.2022.137263](https://doi.org/10.1016/j.physletb.2022.137263),
 arXiv:[2201.02140 \[hep-ex\]](http://arxiv.org/abs/2201.02140)
 

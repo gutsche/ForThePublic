@@ -1,3 +1,9 @@
+<!--#ref-Gutsche:2022aaa-->
+O. Gutsche, **Computing**, (2022), Lecture
+given at [17th Hadron Collider Physics Summer
+School](https://indico.fnal.gov/event/54596/),
+[(Material)](https://indico.fnal.gov/event/54596/contributions/248574/attachments/159000/208889/220819%20-%2017th%20Hadron%20Collider%20Physics%20Summer%20School%20-%20Gutsche%20-%20Computing.pdf)
+
 <!--#ref-Gutsche:2019aag-->
 O. Gutsche, **Exabytes and the Large Hadron
 Collider: the importance of computing excellence for scientific
