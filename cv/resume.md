@@ -113,6 +113,12 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
+<!--#ref-Cerati:2022wiv-->
+G. Cerati et al., **Snowmass Computational
+Frontier: Topical Group Report on Experimental Algorithm
+Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
+arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
+
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
 Necessary Approach for Future Scientific Software**, in: **2022 Snowmass

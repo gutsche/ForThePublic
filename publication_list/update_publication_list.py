@@ -118,6 +118,7 @@ def inspire_get_bibtex(number_of_records):
             entry['title'] = entry['title'].replace('\\mathrm {','\\mathrm{')
             entry['title'] = entry['title'].replace('_\mathrm{NN}','_{\\mathrm{NN}}')
             entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
+            entry['title'] = entry['title'].replace('\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}13\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}mspace width=''0.2em''/\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}TeV\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}/math\ensuremath{>}','$ \sqrt{{s}} $ = 13 TeV')
             entry['title'] = entry['title'].replace('$13','$ 13')
             entry['title'] = entry['title'].replace('$8','$ 8')
             entry['title'] = entry['title'].replace('\mathrm','')

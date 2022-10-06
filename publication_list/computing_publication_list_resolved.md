@@ -20,11 +20,47 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Cerati:2022wiv-->
+G. Cerati et al., **Snowmass Computational
+Frontier: Topical Group Report on Experimental Algorithm
+Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
+arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
+
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
 Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
 Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
 arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+
+<!--#ref-Bellis:2018hej-->
+M. Bellis et al., **HEP Software Foundation
+Community White Paper Working Group Visualization**, (2018).
+<http://arxiv.org/abs/1811.10309>, arXiv:[1811.10309
+\[physics.comp-ph\]](http://arxiv.org/abs/1811.10309)
+
+<!--#ref-Berzano:2018xaa-->
+D. Berzano et al., **HEP Software Foundation
+Community White Paper Working Group -- Data Organization, Management and
+Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
+arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+
+<!--#ref-HEPSoftwareFoundation:2018xvc-->
+L. Bauerdick et al., **HEP
+Software Foundation Community White Paper Working Group - Data Analysis
+and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
+arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+
+<!--#ref-Habib:2016sce-->
+S. Habib et al., **ASCR/HEP Exascale Requirements
+Review Report**, (2016). <http://arxiv.org/abs/1603.09303>,
+arXiv:[1603.09303 \[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
+
+<!--#ref-Habib:2015paq-->
+T. LeCompte et al., **High Energy Physics Forum
+for Computational Excellence: Working Group Reports (I. Applications
+Software II. Software Libraries and Tools III. Systems)**, (2015).
+<http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
+\[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 <!--#ref-Gutsche:2020kmd-->
 O. Gutsche et al., **Striped Data Analysis
@@ -60,24 +96,6 @@ D. Lange et al., **CMS Computing Resources:
 Meeting the Demands of the High-Luminosity LHC Physics Program**, *EPJ
 Web Conf.* 214 (2019) 03055,
 doi:[10.1051/epjconf/201921403055](https://doi.org/10.1051/epjconf/201921403055)
-
-<!--#ref-Bellis:2018hej-->
-M. Bellis et al., **HEP Software Foundation
-Community White Paper Working Group Visualization**, (2018).
-<http://arxiv.org/abs/1811.10309>, arXiv:[1811.10309
-\[physics.comp-ph\]](http://arxiv.org/abs/1811.10309)
-
-<!--#ref-Berzano:2018xaa-->
-D. Berzano et al., **HEP Software Foundation
-Community White Paper Working Group -- Data Organization, Management and
-Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
-arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
-
-<!--#ref-HEPSoftwareFoundation:2018xvc-->
-L. Bauerdick et al., **HEP
-Software Foundation Community White Paper Working Group - Data Analysis
-and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
-arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 <!--#ref-Chang:2017ske-->
 J. Chang et al., **Striped Data Server for
@@ -115,18 +133,6 @@ for HEP Facilities: CMS Amazon Web Services Investigation**, *Comput.
 Softw. Big Sci.* 1 (2017) 1,
 doi:[10.1007/s41781-017-0001-9](https://doi.org/10.1007/s41781-017-0001-9),
 arXiv:[1710.00100 \[cs.DC\]](http://arxiv.org/abs/1710.00100)
-
-<!--#ref-Habib:2016sce-->
-S. Habib et al., **ASCR/HEP Exascale Requirements
-Review Report**, (2016). <http://arxiv.org/abs/1603.09303>,
-arXiv:[1603.09303 \[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
-
-<!--#ref-Habib:2015paq-->
-T. LeCompte et al., **High Energy Physics Forum
-for Computational Excellence: Working Group Reports (I. Applications
-Software II. Software Libraries and Tools III. Systems)**, (2015).
-<http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
-\[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 <!--#ref-Apyan:2015wsa-->
 A. Apyan et al., **Pooling the resources of the

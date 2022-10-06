@@ -1,3 +1,9 @@
+<!--#ref-Cerati:2022wiv-->
+G. Cerati et al., **Snowmass Computational
+Frontier: Topical Group Report on Experimental Algorithm
+Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
+arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
+
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
 Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
@@ -16,13 +22,6 @@ production of the Higgs boson and measurement of its width**, (2022).
 <http://arxiv.org/abs/2202.06923>, arXiv:[2202.06923
 \[hep-ex\]](http://arxiv.org/abs/2202.06923)
 
-<!--#ref-CMS:2022tdo-->
-A. Tumasyan et al., **Search for a W' boson
-decaying to a vector-like quark and a top or bottom quark in the
-all-jets final state at $\sqrt{s}$ = 13 TeV**, (2022).
-<http://arxiv.org/abs/2202.12988>, arXiv:[2202.12988
-\[hep-ex\]](http://arxiv.org/abs/2202.12988)
-
 <!--#ref-CMS:2022uul-->
 A. Tumasyan et al., **Measurement of the Drell-Yan
 forward-backward asymmetry at high dilepton masses in proton-proton
@@ -33,8 +32,69 @@ collisions at $\sqrt{s}$ = 13 TeV**, (2022).
 <!--#ref-CMS:2022wfi-->
 A. Tumasyan et al., **Nuclear modification of
 $\Upsilon$ states in pPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
-(2022). <http://arxiv.org/abs/2202.11807>, arXiv:[2202.11807
-\[hep-ex\]](http://arxiv.org/abs/2202.11807)
+(2022),
+doi:[10.1016/j.physletb.2022.137397](https://doi.org/10.1016/j.physletb.2022.137397),
+arXiv:[2202.11807 \[hep-ex\]](http://arxiv.org/abs/2202.11807)
+
+<!--#ref-CMS:2021oxn-->
+A. Tumasyan et al., **Measurements of the
+associated production of a W boson and a charm quark in proton-proton
+collisions at $\sqrt{s}$ = 8 TeV**, (2021).
+<http://arxiv.org/abs/2112.00895>, arXiv:[2112.00895
+\[hep-ex\]](http://arxiv.org/abs/2112.00895)
+
+<!--#ref-CMS:2021qzz-->
+A. Tumasyan et al., **Evidence for WW/WZ vector
+boson scattering in the decay channel $\ell\nu$qq produced in
+association with two jets in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2021). <http://arxiv.org/abs/2112.05259>, arXiv:[2112.05259
+\[hep-ex\]](http://arxiv.org/abs/2112.05259)
+
+<!--#ref-CMS:2021qsn-->
+A. Tumasyan et al., **Observation of triple J/
+$\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2021). <http://arxiv.org/abs/2111.05370>, arXiv:[2111.05370
+\[hep-ex\]](http://arxiv.org/abs/2111.05370)
+
+<!--#ref-Bellis:2018hej-->
+M. Bellis et al., **HEP Software Foundation
+Community White Paper Working Group Visualization**, (2018).
+<http://arxiv.org/abs/1811.10309>, arXiv:[1811.10309
+\[physics.comp-ph\]](http://arxiv.org/abs/1811.10309)
+
+<!--#ref-Berzano:2018xaa-->
+D. Berzano et al., **HEP Software Foundation
+Community White Paper Working Group -- Data Organization, Management and
+Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
+arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+
+<!--#ref-HEPSoftwareFoundation:2018xvc-->
+L. Bauerdick et al., **HEP
+Software Foundation Community White Paper Working Group - Data Analysis
+and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
+arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+
+<!--#ref-CMS:2017cpm-->
+V. Khachatryan et al., **Exclusive and
+semi-exclusive pi+pi- production in proton-proton collisions at sqrt(s)
+= 7 TeV**, (2017). <http://arxiv.org/abs/1706.08310>, arXiv:[1706.08310
+\[hep-ex\]](http://arxiv.org/abs/1706.08310)
+
+<!--#ref-Habib:2016sce-->
+S. Habib et al., **ASCR/HEP Exascale Requirements
+Review Report**, (2016). <http://arxiv.org/abs/1603.09303>,
+arXiv:[1603.09303 \[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
+
+<!--#ref-Habib:2015paq-->
+T. LeCompte et al., **High Energy Physics Forum
+for Computational Excellence: Working Group Reports (I. Applications
+Software II. Software Libraries and Tools III. Systems)**, (2015).
+<http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
+\[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
+
+<!--#ref-CMS:2007nwy-->
+G.L. Bayatian et al., **CMS expression of interest
+in the SLHC**, (2007)
 
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak
@@ -375,15 +435,18 @@ Measurement of its Nuclear Modification Factor**, *Phys. Rev. Lett.* 128
 doi:[10.1103/PhysRevLett.128.252301](https://doi.org/10.1103/PhysRevLett.128.252301),
 arXiv:[2201.02659 \[hep-ex\]](http://arxiv.org/abs/2201.02659)
 
+<!--#ref-CMS:2022tdo-->
+A. Tumasyan et al., **Search for a W' boson
+decaying to a vector-like quark and a top or bottom quark in the
+all-jets final state at $\sqrt{{s}}$ = 13 TeV**, *JHEP*. 09 (2022) 088,
+doi:[10.1007/JHEP09(2022)088](https://doi.org/10.1007/JHEP09(2022)088),
+arXiv:[2202.12988 \[hep-ex\]](http://arxiv.org/abs/2202.12988)
+
 <!--#ref-CMS:2022tqn-->
 A. Tumasyan et al., **Search for high-mass
 resonances decaying to a jet and a Lorentz-boosted resonance in
-proton-proton collisions at $<$math
-altimg="si1.svg"$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo
-linebreak="goodbreak"
-linebreakstyle="after"$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mspace
-width="0.2em"/$>$$<$mtext$>$TeV$<$/mtext$>$$<$/math$>$**, *Phys. Lett.
-B*. 832 (2022) 137263,
+proton-proton collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Lett. B*.
+832 (2022) 137263,
 doi:[10.1016/j.physletb.2022.137263](https://doi.org/10.1016/j.physletb.2022.137263),
 arXiv:[2201.02140 \[hep-ex\]](http://arxiv.org/abs/2201.02140)
 
@@ -415,26 +478,6 @@ flavor violation in top quark production and decay in pp collisions at
 $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2022) 082,
 doi:[10.1007/JHEP06(2022)082](https://doi.org/10.1007/JHEP06(2022)082),
 arXiv:[2201.07859 \[hep-ex\]](http://arxiv.org/abs/2201.07859)
-
-<!--#ref-CMS:2021oxn-->
-A. Tumasyan et al., **Measurements of the
-associated production of a W boson and a charm quark in proton-proton
-collisions at $\sqrt{s}$ = 8 TeV**, (2021).
-<http://arxiv.org/abs/2112.00895>, arXiv:[2112.00895
-\[hep-ex\]](http://arxiv.org/abs/2112.00895)
-
-<!--#ref-CMS:2021qzz-->
-A. Tumasyan et al., **Evidence for WW/WZ vector
-boson scattering in the decay channel $\ell\nu$qq produced in
-association with two jets in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021). <http://arxiv.org/abs/2112.05259>, arXiv:[2112.05259
-\[hep-ex\]](http://arxiv.org/abs/2112.05259)
-
-<!--#ref-CMS:2021qsn-->
-A. Tumasyan et al., **Observation of triple J/
-$\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021). <http://arxiv.org/abs/2111.05370>, arXiv:[2111.05370
-\[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
 <!--#ref-CMS:2019lin-->
 A.M. Sirunyan et al., **Correlations of azimuthal
@@ -543,9 +586,10 @@ doi:[10.1103/PhysRevD.104.012015](https://doi.org/10.1103/PhysRevD.104.012015),
 arXiv:[2012.01581 \[hep-ex\]](http://arxiv.org/abs/2012.01581)
 
 <!--#ref-CMS:2020krr-->
-A.M. Sirunyan et al., **Search for dark photons in
-Higgs boson production via vector boson fusion in proton-proton
-collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 03 (2021) 011,
+T.C. Collaboration et al., **Search for dark
+photons in Higgs boson production via vector boson fusion in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 03 (2021)
+011,
 doi:[10.1007/JHEP03(2021)011](https://doi.org/10.1007/JHEP03(2021)011),
 arXiv:[2009.14009 \[hep-ex\]](http://arxiv.org/abs/2009.14009)
 
@@ -563,10 +607,10 @@ doi:[10.1088/1748-0221/16/02/P02010](https://doi.org/10.1088/1748-0221/16/02/P02
 arXiv:[2011.01185 \[physics.ins-det\]](http://arxiv.org/abs/2011.01185)
 
 <!--#ref-CMS:2020lrr-->
-A.M. Sirunyan et al., **Search for new physics in
-top quark production with additional leptons in proton-proton collisions
-at $\sqrt{s} =$ 13 TeV using effective field theory**, *JHEP*. 03 (2021)
-095,
+T.C. Collaboration et al., **Search for new physics
+in top quark production with additional leptons in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV using effective field theory**,
+*JHEP*. 03 (2021) 095,
 doi:[10.1007/JHEP03(2021)095](https://doi.org/10.1007/JHEP03(2021)095),
 arXiv:[2012.04120 \[hep-ex\]](http://arxiv.org/abs/2012.04120)
 
@@ -1292,7 +1336,7 @@ A.M. Sirunyan et al., **A Deep Neural Network for
 Simultaneous Estimation of b Jet Energy and Resolution**, *Comput.
 Softw. Big Sci.* 4 (2020) 10,
 doi:[10.1007/s41781-020-00041-z](https://doi.org/10.1007/s41781-020-00041-z),
-arXiv:[1912.06046 \[hep-ex\]](http://arxiv.org/abs/1912.06046)
+arXiv:[1912.06046 \[physics.data-an\]](http://arxiv.org/abs/1912.06046)
 
 <!--#ref-CMS:2019wiy-->
 A.M. Sirunyan et al., **Multiparticle correlation
@@ -1451,10 +1495,10 @@ doi:[10.1007/JHEP08(2020)139](https://doi.org/10.1007/JHEP08(2020)139),
 arXiv:[2005.08694 \[hep-ex\]](http://arxiv.org/abs/2005.08694)
 
 <!--#ref-CMS:2020fia-->
-A.M. Sirunyan et al., **Search for supersymmetry in
-proton-proton collisions at $\sqrt{s} =$ 13 TeV in events with
-high-momentum Z bosons and missing transverse momentum**, *JHEP*. 09
-(2020) 149,
+T.C. Collaboration et al., **Search for
+supersymmetry in proton-proton collisions at $\sqrt{s} =$ 13 TeV in
+events with high-momentum Z bosons and missing transverse momentum**,
+*JHEP*. 09 (2020) 149,
 doi:[10.1007/JHEP09(2020)149](https://doi.org/10.1007/JHEP09(2020)149),
 arXiv:[2008.04422 \[hep-ex\]](http://arxiv.org/abs/2008.04422)
 
@@ -2473,9 +2517,9 @@ doi:[10.1140/epjc/s10052-019-7387-y](https://doi.org/10.1140/epjc/s10052-019-738
 arXiv:[1903.11144 \[hep-ex\]](http://arxiv.org/abs/1903.11144)
 
 <!--#ref-CMS:2019zmd-->
-A.M. Sirunyan et al., **Search for supersymmetry in
-proton-proton collisions at 13 TeV in final states with jets and missing
-transverse momentum**, *JHEP*. 10 (2019) 244,
+T.C. Collaboration et al., **Search for
+supersymmetry in proton-proton collisions at 13 TeV in final states with
+jets and missing transverse momentum**, *JHEP*. 10 (2019) 244,
 doi:[10.1007/JHEP10(2019)244](https://doi.org/10.1007/JHEP10(2019)244),
 arXiv:[1908.04722 \[hep-ex\]](http://arxiv.org/abs/1908.04722)
 
@@ -2516,24 +2560,6 @@ D. Lange et al., **CMS Computing Resources:
 Meeting the Demands of the High-Luminosity LHC Physics Program**, *EPJ
 Web Conf.* 214 (2019) 03055,
 doi:[10.1051/epjconf/201921403055](https://doi.org/10.1051/epjconf/201921403055)
-
-<!--#ref-Bellis:2018hej-->
-M. Bellis et al., **HEP Software Foundation
-Community White Paper Working Group Visualization**, (2018).
-<http://arxiv.org/abs/1811.10309>, arXiv:[1811.10309
-\[physics.comp-ph\]](http://arxiv.org/abs/1811.10309)
-
-<!--#ref-Berzano:2018xaa-->
-D. Berzano et al., **HEP Software Foundation
-Community White Paper Working Group -- Data Organization, Management and
-Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
-arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
-
-<!--#ref-HEPSoftwareFoundation:2018xvc-->
-L. Bauerdick et al., **HEP
-Software Foundation Community White Paper Working Group - Data Analysis
-and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
-arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
 <!--#ref-ATLAS:2017gkv-->
 M. Aaboud et al., **Combination of inclusive and
@@ -3603,12 +3629,6 @@ Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
 doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
 arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
 
-<!--#ref-CMS:2017cpm-->
-V. Khachatryan et al., **Exclusive and
-semi-exclusive pi+pi- production in proton-proton collisions at sqrt(s)
-= 7 TeV**, (2017). <http://arxiv.org/abs/1706.08310>, arXiv:[1706.08310
-\[hep-ex\]](http://arxiv.org/abs/1706.08310)
-
 <!--#ref-CMS:2016cfx-->
 V. Khachatryan et al., **Search for narrow
 resonances in dilepton mass spectra in proton-proton collisions at
@@ -4510,11 +4530,6 @@ Softw. Big Sci.* 1 (2017) 1,
 doi:[10.1007/s41781-017-0001-9](https://doi.org/10.1007/s41781-017-0001-9),
 arXiv:[1710.00100 \[cs.DC\]](http://arxiv.org/abs/1710.00100)
 
-<!--#ref-Habib:2016sce-->
-S. Habib et al., **ASCR/HEP Exascale Requirements
-Review Report**, (2016). <http://arxiv.org/abs/1603.09303>,
-arXiv:[1603.09303 \[physics.comp-ph\]](http://arxiv.org/abs/1603.09303)
-
 <!--#ref-ATLAS:2016neq-->
 G. Aad et al., **Measurements of the Higgs boson
 production and decay rates and constraints on its couplings from a
@@ -5231,13 +5246,6 @@ TeV in final states with 0-4 leptons**, *Phys. Rev. D*. 94 (2016)
 112009,
 doi:[10.1103/PhysRevD.94.112009](https://doi.org/10.1103/PhysRevD.94.112009),
 arXiv:[1606.08076 \[hep-ex\]](http://arxiv.org/abs/1606.08076)
-
-<!--#ref-Habib:2015paq-->
-T. LeCompte et al., **High Energy Physics Forum
-for Computational Excellence: Working Group Reports (I. Applications
-Software II. Software Libraries and Tools III. Systems)**, (2015).
-<http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
-\[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
 <!--#ref-Apyan:2015wsa-->
 A. Apyan et al., **Pooling the resources of the
@@ -8558,10 +8566,6 @@ D. Spiga et al., **CRAB: The CMS distributed
 analysis tool development and design**, *Nucl. Phys. B Proc. Suppl.*
 177-178 (2008) 267--268,
 doi:[10.1016/j.nuclphysbps.2007.11.124](https://doi.org/10.1016/j.nuclphysbps.2007.11.124)
-
-<!--#ref-CMS:2007nwy-->
-G.L. Bayatian et al., **CMS expression of interest
-in the SLHC**, (2007)
 
 <!--#ref-CMS:2007eug-->
 G.L. Bayatian et al., **CMS physics technical
