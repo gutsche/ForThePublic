@@ -102,43 +102,49 @@ def inspire_get_bibtex(number_of_records):
             quit()
 
         parser = BibTexParser()
-        tmp_db = bibtexparser.loads(BiBTeX, parser=parser)
-        for entry in tmp_db.entries:
-            # repair some broken output
-            entry['title'] = entry['title'].replace('\n',' ')
-            entry['title'] = entry['title'].replace('\sqrts','\sqrt{s}')
-            entry['title'] = entry['title'].replace(' $','$')
-            entry['title'] = entry['title'].replace('amp;','')
-            entry['title'] = entry['title'].replace('text {','text{')
-            entry['title'] = re.sub(r"\\text\{(.*?)\}",r"\\mathrm{\1}",entry['title'])
-            entry['title'] = re.sub(r"([^ ])\$",r"\1 $",entry['title'])
-            entry['title'] = entry['title'].replace('\\,\\mathrm','\\mathrm')
-            entry['title'] = entry['title'].replace('\\;\\mathrm','\\mathrm')
-            entry['title'] = entry['title'].replace('=\\ ','=')
-            entry['title'] = entry['title'].replace('\\mathrm {','\\mathrm{')
-            entry['title'] = entry['title'].replace('_\mathrm{NN}','_{\\mathrm{NN}}')
-            entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
-            entry['title'] = entry['title'].replace('\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}13\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}mspace width=''0.2em''/\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}TeV\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}/math\ensuremath{>}','$ \sqrt{{s}} $ = 13 TeV')
-            entry['title'] = entry['title'].replace('$13','$ 13')
-            entry['title'] = entry['title'].replace('$8','$ 8')
-            entry['title'] = entry['title'].replace('\mathrm','')
-            entry['title'] = entry['title'].replace('\mathit','')
-            if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
-
-            if 'eprint' in entry.keys():
-                eprint = entry['eprint']
-                prefix = 'arXiv'
-                if 'archiveprefix' in entry.keys(): prefix = entry['archiveprefix']
-                primaryclass = 'hep-ex'
-                if 'primaryclass' in entry.keys(): primaryclass = entry['primaryclass']
-                url = 'http://arxiv.org/abs/' + eprint
-                urltext = eprint + ' [' + primaryclass +']'
-                note = prefix + ':\\href{' + url + '}{' + urltext + '}'
-                entry['note'] = note
-
+        tmp_db = CorrectBibTexEntries(bibtexparser.loads(BiBTeX, parser=parser))
         db.entries.extend(tmp_db.entries)
     print("OLI's publication db has: %i entries" % len(db.entries))
     return db
+
+def CorrectBibTexEntries(input_db):
+    output_db = BibDatabase()
+    for entry in input_db.entries:
+        # repair some broken output
+        entry['title'] = entry['title'].replace('\n',' ')
+        entry['title'] = entry['title'].replace("\ensuremath{<}math display=''inline''\ensuremath{>}\ensuremath{<}mi\ensuremath{>}b\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/math\ensuremath{>} Quark Final State in Proton-Proton Collisions at \ensuremath{<}math display=''inline''\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}13\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}\,\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}\,\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}mi\ensuremath{>}TeV\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/math\ensuremath{>}",'Quark Final State in Proton-Proton Collisions at $ \sqrt{{s}} $ = 13 TeV')
+        entry['title'] = entry['title'].replace("\ensuremath{<}math altimg=''si1.svg''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mrow\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/mrow\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo linebreak=''goodbreak'' linebreakstyle=''after''\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}13\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}mspace width=''0.2em''/\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}TeV\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}/math\ensuremath{>}",'$ \sqrt{{s}} $ = 13 TeV')
+        entry['title'] = entry['title'].replace("\ensuremath{<}math display=''inline''\ensuremath{>}\ensuremath{<}msqrt\ensuremath{>}\ensuremath{<}mi\ensuremath{>}s\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/msqrt\ensuremath{>}\ensuremath{<}mo\ensuremath{>}=\ensuremath{<}/mo\ensuremath{>}\ensuremath{<}mn\ensuremath{>}13\ensuremath{<}/mn\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}\,\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}mtext\ensuremath{>}\,\ensuremath{<}/mtext\ensuremath{>}\ensuremath{<}mi\ensuremath{>}TeV\ensuremath{<}/mi\ensuremath{>}\ensuremath{<}/math\ensuremath{>}",'$ \sqrt{{s}} $ = 13 TeV')
+        entry['title'] = entry['title'].replace('\sqrts','\sqrt{s}')
+        entry['title'] = entry['title'].replace(' $','$')
+        entry['title'] = entry['title'].replace('amp;','')
+        entry['title'] = entry['title'].replace('text {','text{')
+        entry['title'] = re.sub(r"\\text\{(.*?)\}",r"\\mathrm{\1}",entry['title'])
+        entry['title'] = re.sub(r"([^ ])\$",r"\1 $",entry['title'])
+        entry['title'] = entry['title'].replace('\\,\\mathrm','\\mathrm')
+        entry['title'] = entry['title'].replace('\\;\\mathrm','\\mathrm')
+        entry['title'] = entry['title'].replace('=\\ ','=')
+        entry['title'] = entry['title'].replace('\\mathrm {','\\mathrm{')
+        entry['title'] = entry['title'].replace('_\mathrm{NN}','_{\\mathrm{NN}}')
+        entry['title'] = entry['title'].replace('$\sigma_\mathrm{t \\bar{t} b \\bar{b}} / \sigma_\mathrm{t \\bar{t}  jj } $','$\sigma_{\mathrm{t \\bar{t} b \\bar{b}}} / \sigma_{\mathrm{t \\bar{t}  jj }} $')
+        entry['title'] = entry['title'].replace('$13','$ 13')
+        entry['title'] = entry['title'].replace('$8','$ 8')
+        entry['title'] = entry['title'].replace('\mathrm','')
+        entry['title'] = entry['title'].replace('\mathit','')
+        if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
+
+        if 'eprint' in entry.keys():
+            eprint = entry['eprint']
+            prefix = 'arXiv'
+            if 'archiveprefix' in entry.keys(): prefix = entry['archiveprefix']
+            primaryclass = 'hep-ex'
+            if 'primaryclass' in entry.keys(): primaryclass = entry['primaryclass']
+            url = 'http://arxiv.org/abs/' + eprint
+            urltext = eprint + ' [' + primaryclass +']'
+            note = prefix + ':\\href{' + url + '}{' + urltext + '}'
+            entry['note'] = note
+    output_db.entries.extend(input_db.entries)
+    return output_db
 
 def write_bibtex_file(filename,db):
     """
@@ -163,8 +169,8 @@ def load_bibtex_file(filename,create=False):
             open(filename, 'a').close()
 
     with open(filename) as bibtex_file:
-        bib_database = bibtexparser.load(bibtex_file)
-    print("Loaded BiBTeX database from file '%s' with %i entries" % (filename,len(bib_database.entries)))
+        bib_database = CorrectBibTexEntries(bibtexparser.load(bibtex_file))
+    print("Loaded Bi    BTeX database from file '%s' with %i entries" % (filename,len(bib_database.entries)))
     return bib_database
 
 def add_additional_records(db,filename):
