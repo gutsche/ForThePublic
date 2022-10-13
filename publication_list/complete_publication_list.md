@@ -372,11 +372,8 @@ arXiv:[2201.09131 \[hep-ex\]](http://arxiv.org/abs/2201.09131)
 
 <!--#ref-CMS:2022cpr-->
 A. Tumasyan et al., **Search for Higgs Boson Pair
-Production in the Four $<$math
-display="inline"$>$$<$mi$>$b$<$/mi$>$$<$/math$>$ Quark Final State in
-Proton-Proton Collisions at $<$math
-display="inline"$>$$<$mrow$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mtext$>$ $<$/mtext$>$$<$mtext$>$ $<$/mtext$>$$<$mi$>$TeV$<$/mi$>$$<$/mrow$>$$<$/math$>$**,
-*Phys. Rev. Lett.* 129 (2022) 081802,
+Production in the Four Quark Final State in Proton-Proton Collisions at
+$\sqrt{{s}}$ = 13 TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
 doi:[10.1103/PhysRevLett.129.081802](https://doi.org/10.1103/PhysRevLett.129.081802),
 arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
 
@@ -426,9 +423,8 @@ arXiv:[2201.08458 \[hep-ex\]](http://arxiv.org/abs/2201.08458)
 <!--#ref-CMS:2022qva-->
 A. Tumasyan et al., **Search for invisible decays
 of the Higgs boson produced via vector boson fusion in proton-proton
-collisions at $<$math
-display="inline"$>$$<$msqrt$>$$<$mi$>$s$<$/mi$>$$<$/msqrt$>$$<$mo$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mtext$>$ $<$/mtext$>$$<$mtext$>$ $<$/mtext$>$$<$mi$>$TeV$<$/mi$>$$<$/math$>$**,
-*Phys. Rev. D*. 105 (2022) 092007,
+collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Rev. D*. 105 (2022)
+092007,
 doi:[10.1103/PhysRevD.105.092007](https://doi.org/10.1103/PhysRevD.105.092007),
 arXiv:[2201.11585 \[hep-ex\]](http://arxiv.org/abs/2201.11585)
 
@@ -450,12 +446,8 @@ arXiv:[2202.12988 \[hep-ex\]](http://arxiv.org/abs/2202.12988)
 <!--#ref-CMS:2022tqn-->
 A. Tumasyan et al., **Search for high-mass
 resonances decaying to a jet and a Lorentz-boosted resonance in
-proton-proton collisions at $<$math
-altimg="si1.svg"$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo
-linebreak="goodbreak"
-linebreakstyle="after"$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mspace
-width="0.2em"/$>$$<$mtext$>$TeV$<$/mtext$>$$<$/math$>$**, *Phys. Lett.
-B*. 832 (2022) 137263,
+proton-proton collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Lett. B*.
+832 (2022) 137263,
 doi:[10.1016/j.physletb.2022.137263](https://doi.org/10.1016/j.physletb.2022.137263),
 arXiv:[2201.02140 \[hep-ex\]](http://arxiv.org/abs/2201.02140)
 

@@ -269,6 +269,12 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 ## Computing Publications with Major Personal Contributions
+<!--#ref-topicalgroupconveners:2022uyr-->
+V.D. Elvira et al., **The Future
+of High Energy Physics Software and Computing**, in: 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+\[hep-ex\]](http://arxiv.org/abs/2210.05822)
+
 <!--#ref-Cerati:2022wiv-->
 G. Cerati et al., **Snowmass Computational
 Frontier: Topical Group Report on Experimental Algorithm
