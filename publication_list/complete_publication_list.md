@@ -1,3 +1,9 @@
+<!--#ref-topicalgroupconveners:2022uyr-->
+V.D. Elvira et al., **The Future
+of High Energy Physics Software and Computing**, in: 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+\[hep-ex\]](http://arxiv.org/abs/2210.05822)
+
 <!--#ref-Cerati:2022wiv-->
 G. Cerati et al., **Snowmass Computational
 Frontier: Topical Group Report on Experimental Algorithm
@@ -42,13 +48,6 @@ associated production of a W boson and a charm quark in proton-proton
 collisions at $\sqrt{s}$ = 8 TeV**, (2021).
 <http://arxiv.org/abs/2112.00895>, arXiv:[2112.00895
 \[hep-ex\]](http://arxiv.org/abs/2112.00895)
-
-<!--#ref-CMS:2021qzz-->
-A. Tumasyan et al., **Evidence for WW/WZ vector
-boson scattering in the decay channel $\ell\nu$qq produced in
-association with two jets in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021). <http://arxiv.org/abs/2112.05259>, arXiv:[2112.05259
-\[hep-ex\]](http://arxiv.org/abs/2112.05259)
 
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple J/
@@ -226,8 +225,9 @@ arXiv:[2111.04605 \[hep-ex\]](http://arxiv.org/abs/2111.04605)
 
 <!--#ref-CMS:2021mjl-->
 A. Tumasyan et al., **Search for resonances
-decaying to three W bosons in the hadronic final state in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, *Phys. Rev. D*. 106 (2022) 012002,
+decaying to three $W$ bosons in the hadronic final state in
+proton-proton collisions at $\sqrt s$ =13 TeV**, *Phys. Rev. D*. 106
+(2022) 012002,
 doi:[10.1103/PhysRevD.106.012002](https://doi.org/10.1103/PhysRevD.106.012002),
 arXiv:[2112.13090 \[hep-ex\]](http://arxiv.org/abs/2112.13090)
 
@@ -259,14 +259,6 @@ cross section for Z+b jets in proton-proton collisions at $\sqrt s$ =
 doi:[10.1103/PhysRevD.105.092014](https://doi.org/10.1103/PhysRevD.105.092014),
 arXiv:[2112.09659 \[hep-ex\]](http://arxiv.org/abs/2112.09659)
 
-<!--#ref-CMS:2021plq-->
-A. Tumasyan et al., **First search for exclusive
-diphoton production at high mass with tagged protons in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, *Phys. Rev. Lett.* 129 (2022)
-011801,
-doi:[10.1103/PhysRevLett.129.011801](https://doi.org/10.1103/PhysRevLett.129.011801),
-arXiv:[2110.05916 \[hep-ex\]](http://arxiv.org/abs/2110.05916)
-
 <!--#ref-CMS:2021puf-->
 A. Tumasyan et al., **Fragmentation of jets
 containing a prompt J $/\psi$ meson in PbPb and pp collisions at
@@ -280,6 +272,14 @@ via Multiparticle Correlations in Pb-Pb Collisions at $\sqrt{s_{{NN}}}$
 =5.02 TeV**, *Phys. Rev. Lett.* 129 (2022) 022001,
 doi:[10.1103/PhysRevLett.129.022001](https://doi.org/10.1103/PhysRevLett.129.022001),
 arXiv:[2112.12236 \[hep-ex\]](http://arxiv.org/abs/2112.12236)
+
+<!--#ref-CMS:2021qzz-->
+A. Tumasyan et al., **Evidence for WW/WZ vector
+boson scattering in the decay channel $\ell\nu$qq produced in
+association with two jets in proton-proton collisions at $\sqrt{s} =$ 13
+TeV**, *Phys. Lett. B*. 834 (2022) 137438,
+doi:[10.1016/j.physletb.2022.137438](https://doi.org/10.1016/j.physletb.2022.137438),
+arXiv:[2112.05259 \[hep-ex\]](http://arxiv.org/abs/2112.05259)
 
 <!--#ref-CMS:2021roc-->
 A. Tumasyan et al., **Search for heavy resonances
@@ -372,8 +372,11 @@ arXiv:[2201.09131 \[hep-ex\]](http://arxiv.org/abs/2201.09131)
 
 <!--#ref-CMS:2022cpr-->
 A. Tumasyan et al., **Search for Higgs Boson Pair
-Production in the Four b Quark Final State in Proton-Proton Collisions
-at $\sqrt s$=13  TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
+Production in the Four $<$math
+display="inline"$>$$<$mi$>$b$<$/mi$>$$<$/math$>$ Quark Final State in
+Proton-Proton Collisions at $<$math
+display="inline"$>$$<$mrow$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mtext$>$ $<$/mtext$>$$<$mtext$>$ $<$/mtext$>$$<$mi$>$TeV$<$/mi$>$$<$/mrow$>$$<$/math$>$**,
+*Phys. Rev. Lett.* 129 (2022) 081802,
 doi:[10.1103/PhysRevLett.129.081802](https://doi.org/10.1103/PhysRevLett.129.081802),
 arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
 
@@ -423,7 +426,9 @@ arXiv:[2201.08458 \[hep-ex\]](http://arxiv.org/abs/2201.08458)
 <!--#ref-CMS:2022qva-->
 A. Tumasyan et al., **Search for invisible decays
 of the Higgs boson produced via vector boson fusion in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, *Phys. Rev. D*. 105 (2022) 092007,
+collisions at $<$math
+display="inline"$>$$<$msqrt$>$$<$mi$>$s$<$/mi$>$$<$/msqrt$>$$<$mo$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mtext$>$ $<$/mtext$>$$<$mtext$>$ $<$/mtext$>$$<$mi$>$TeV$<$/mi$>$$<$/math$>$**,
+*Phys. Rev. D*. 105 (2022) 092007,
 doi:[10.1103/PhysRevD.105.092007](https://doi.org/10.1103/PhysRevD.105.092007),
 arXiv:[2201.11585 \[hep-ex\]](http://arxiv.org/abs/2201.11585)
 
@@ -445,8 +450,12 @@ arXiv:[2202.12988 \[hep-ex\]](http://arxiv.org/abs/2202.12988)
 <!--#ref-CMS:2022tqn-->
 A. Tumasyan et al., **Search for high-mass
 resonances decaying to a jet and a Lorentz-boosted resonance in
-proton-proton collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Lett. B*.
-832 (2022) 137263,
+proton-proton collisions at $<$math
+altimg="si1.svg"$>$$<$msqrt$>$$<$mrow$>$$<$mi$>$s$<$/mi$>$$<$/mrow$>$$<$/msqrt$>$$<$mo
+linebreak="goodbreak"
+linebreakstyle="after"$>$=$<$/mo$>$$<$mn$>$13$<$/mn$>$$<$mspace
+width="0.2em"/$>$$<$mtext$>$TeV$<$/mtext$>$$<$/math$>$**, *Phys. Lett.
+B*. 832 (2022) 137263,
 doi:[10.1016/j.physletb.2022.137263](https://doi.org/10.1016/j.physletb.2022.137263),
 arXiv:[2201.02140 \[hep-ex\]](http://arxiv.org/abs/2201.02140)
 
@@ -478,6 +487,14 @@ flavor violation in top quark production and decay in pp collisions at
 $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2022) 082,
 doi:[10.1007/JHEP06(2022)082](https://doi.org/10.1007/JHEP06(2022)082),
 arXiv:[2201.07859 \[hep-ex\]](http://arxiv.org/abs/2201.07859)
+
+<!--#ref-TOTEMCollaboration:2021xam-->
+A. Tumasyan et al., **First Search
+for Exclusive Diphoton Production at High Mass with Tagged Protons in
+Proton-Proton Collisions at $\sqrt s$ = 13 TeV**, *Phys. Rev. Lett.* 129
+(2022) 011801,
+doi:[10.1103/PhysRevLett.129.011801](https://doi.org/10.1103/PhysRevLett.129.011801),
+arXiv:[2110.05916 \[hep-ex\]](http://arxiv.org/abs/2110.05916)
 
 <!--#ref-CMS:2019lin-->
 A.M. Sirunyan et al., **Correlations of azimuthal
