@@ -20,10 +20,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-topicalgroupconveners:2022uyr-->
-V.D. Elvira et al., **The Future
-of High Energy Physics Software and Computing**, in: 2022.
-<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+<!--#ref-Elvira:2022wyn-->
+V.D. Elvira et al., **The Future of High Energy
+Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
+2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -45,24 +45,11 @@ $\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2203.00480>,
 arXiv:[2203.00480 \[hep-ex\]](http://arxiv.org/abs/2203.00480)
 
 <!--#ref-CMS:2022ley-->
-A. Tumasyan et al., **First evidence for off-shell
-production of the Higgs boson and measurement of its width**, (2022).
-<http://arxiv.org/abs/2202.06923>, arXiv:[2202.06923
-\[hep-ex\]](http://arxiv.org/abs/2202.06923)
-
-<!--#ref-CMS:2022uul-->
-A. Tumasyan et al., **Measurement of the Drell-Yan
-forward-backward asymmetry at high dilepton masses in proton-proton
-collisions at $\sqrt{s}$ = 13 TeV**, (2022).
-<http://arxiv.org/abs/2202.12327>, arXiv:[2202.12327
-\[hep-ex\]](http://arxiv.org/abs/2202.12327)
-
-<!--#ref-CMS:2022wfi-->
-A. Tumasyan et al., **Nuclear modification of
-$\Upsilon$ states in pPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
-(2022),
-doi:[10.1016/j.physletb.2022.137397](https://doi.org/10.1016/j.physletb.2022.137397),
-arXiv:[2202.11807 \[hep-ex\]](http://arxiv.org/abs/2202.11807)
+A. Tumasyan et al., **Measurement of the Higgs
+boson width and evidence of its off-shell contributions to ZZ
+production**, (2022),
+doi:[10.1038/s41567-022-01682-0](https://doi.org/10.1038/s41567-022-01682-0),
+arXiv:[2202.06923 \[hep-ex\]](http://arxiv.org/abs/2202.06923)
 
 <!--#ref-CMS:2021oxn-->
 A. Tumasyan et al., **Measurements of the
@@ -297,9 +284,9 @@ arXiv:[2112.12236 \[hep-ex\]](http://arxiv.org/abs/2112.12236)
 
 <!--#ref-CMS:2021qzz-->
 A. Tumasyan et al., **Evidence for WW/WZ vector
-boson scattering in the decay channel $\ell\nu$qq produced in
-association with two jets in proton-proton collisions at $\sqrt{s} =$ 13
-TeV**, *Phys. Lett. B*. 834 (2022) 137438,
+boson scattering in the decay channel $\ell$$\nu$qq produced in
+association with two jets in proton-proton collisions at s=13 TeV**,
+*Phys. Lett. B*. 834 (2022) 137438,
 doi:[10.1016/j.physletb.2022.137438](https://doi.org/10.1016/j.physletb.2022.137438),
 arXiv:[2112.05259 \[hep-ex\]](http://arxiv.org/abs/2112.05259)
 
@@ -394,8 +381,8 @@ arXiv:[2201.09131 \[hep-ex\]](http://arxiv.org/abs/2201.09131)
 
 <!--#ref-CMS:2022cpr-->
 A. Tumasyan et al., **Search for Higgs Boson Pair
-Production in the Four Quark Final State in Proton-Proton Collisions at
-$\sqrt{{s}}$ = 13 TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
+Production in the Four b Quark Final State in Proton-Proton Collisions
+at s=13  TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
 doi:[10.1103/PhysRevLett.129.081802](https://doi.org/10.1103/PhysRevLett.129.081802),
 arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
 
@@ -445,8 +432,7 @@ arXiv:[2201.08458 \[hep-ex\]](http://arxiv.org/abs/2201.08458)
 <!--#ref-CMS:2022qva-->
 A. Tumasyan et al., **Search for invisible decays
 of the Higgs boson produced via vector boson fusion in proton-proton
-collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Rev. D*. 105 (2022)
-092007,
+collisions at s=13  TeV**, *Phys. Rev. D*. 105 (2022) 092007,
 doi:[10.1103/PhysRevD.105.092007](https://doi.org/10.1103/PhysRevD.105.092007),
 arXiv:[2201.11585 \[hep-ex\]](http://arxiv.org/abs/2201.11585)
 
@@ -468,10 +454,17 @@ arXiv:[2202.12988 \[hep-ex\]](http://arxiv.org/abs/2202.12988)
 <!--#ref-CMS:2022tqn-->
 A. Tumasyan et al., **Search for high-mass
 resonances decaying to a jet and a Lorentz-boosted resonance in
-proton-proton collisions at $\sqrt{{s}}$ = 13 TeV**, *Phys. Lett. B*.
-832 (2022) 137263,
+proton-proton collisions at s=13TeV**, *Phys. Lett. B*. 832 (2022)
+137263,
 doi:[10.1016/j.physletb.2022.137263](https://doi.org/10.1016/j.physletb.2022.137263),
 arXiv:[2201.02140 \[hep-ex\]](http://arxiv.org/abs/2201.02140)
+
+<!--#ref-CMS:2022uul-->
+A. Tumasyan et al., **Measurement of the Drell-Yan
+forward-backward asymmetry at high dilepton masses in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 2022 (2022) 063,
+doi:[10.1007/JHEP08(2022)063](https://doi.org/10.1007/JHEP08(2022)063),
+arXiv:[2202.12327 \[hep-ex\]](http://arxiv.org/abs/2202.12327)
 
 <!--#ref-CMS:2022vpy-->
 A. Tumasyan et al., **Search for higgsinos decaying
@@ -479,6 +472,13 @@ to two Higgs bosons and missing transverse momentum in proton-proton
 collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 05 (2022) 014,
 doi:[10.1007/JHEP05(2022)014](https://doi.org/10.1007/JHEP05(2022)014),
 arXiv:[2201.04206 \[hep-ex\]](http://arxiv.org/abs/2201.04206)
+
+<!--#ref-CMS:2022wfi-->
+A. Tumasyan et al., **Nuclear modification of
+$\Upsilon$ states in pPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
+*Phys. Lett. B*. 835 (2022) 137397,
+doi:[10.1016/j.physletb.2022.137397](https://doi.org/10.1016/j.physletb.2022.137397),
+arXiv:[2202.11807 \[hep-ex\]](http://arxiv.org/abs/2202.11807)
 
 <!--#ref-CMS:2022yjm-->
 A. Tumasyan et al., **Search for new physics in the
@@ -1599,6 +1599,12 @@ collisions at $\sqrt{s}=$ 13 TeV**, *Phys. Rev. D*. 102 (2020) 032003,
 doi:[10.1103/PhysRevD.102.032003](https://doi.org/10.1103/PhysRevD.102.032003),
 arXiv:[2006.06391 \[hep-ex\]](http://arxiv.org/abs/2006.06391)
 
+<!--#ref-CMS:2020kpn-->
+N. Smith et al., **Coffea: Columnar Object
+Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
+doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
+arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
+
 <!--#ref-CMS:2020mce-->
 A.M. Sirunyan et al., **Measurements with silicon
 photomultipliers of dose-rate effects in the radiation damage of plastic
@@ -1713,12 +1719,6 @@ arXiv:[2001.06533 \[hep-ex\]](http://arxiv.org/abs/2001.06533)
 O. Gutsche et al., **Striped Data Analysis
 Framework**, *EPJ Web Conf.* 245 (2020) 06042,
 doi:[10.1051/epjconf/202024506042](https://doi.org/10.1051/epjconf/202024506042)
-
-<!--#ref-Smith:2020pxs-->
-N. Smith et al., **Coffea: Columnar Object
-Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
-doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
-arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
 
 <!--#ref-ATLAS:2019hhu-->
 M. Aaboud et al., **Combinations of

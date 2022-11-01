@@ -20,10 +20,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-topicalgroupconveners:2022uyr-->
-V.D. Elvira et al., **The Future
-of High Energy Physics Software and Computing**, in: 2022.
-<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+<!--#ref-Elvira:2022wyn-->
+V.D. Elvira et al., **The Future of High Energy
+Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
+2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -50,7 +50,7 @@ Software Foundation Community White Paper Working Group - Data Analysis
 and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
 arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
 
-<!--#ref-Smith:2020pxs-->
+<!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),

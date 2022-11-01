@@ -20,10 +20,10 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-topicalgroupconveners:2022uyr-->
-V.D. Elvira et al., **The Future
-of High Energy Physics Software and Computing**, in: 2022.
-<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+<!--#ref-Elvira:2022wyn-->
+V.D. Elvira et al., **The Future of High Energy
+Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
+2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -68,16 +68,16 @@ Software II. Software Libraries and Tools III. Systems)**, (2015).
 <http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
-<!--#ref-Gutsche:2020kmd-->
-O. Gutsche et al., **Striped Data Analysis
-Framework**, *EPJ Web Conf.* 245 (2020) 06042,
-doi:[10.1051/epjconf/202024506042](https://doi.org/10.1051/epjconf/202024506042)
-
-<!--#ref-Smith:2020pxs-->
+<!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object
 Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
 doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
 arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
+
+<!--#ref-Gutsche:2020kmd-->
+O. Gutsche et al., **Striped Data Analysis
+Framework**, *EPJ Web Conf.* 245 (2020) 06042,
+doi:[10.1051/epjconf/202024506042](https://doi.org/10.1051/epjconf/202024506042)
 
 <!--#ref-Cremonesi:2019pdq-->
 M. Cremonesi et al., **Using Big Data
