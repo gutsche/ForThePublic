@@ -16,6 +16,20 @@ Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
 Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
 arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
+<!--#ref-Amundson:2019ohm-->
+J. Amundson et al., **Response to NITRD, NCO,
+NSF Request for Information on "Update to the 2016 National Artificial
+Intelligence Research and Development Strategic Plan"**, (2019).
+<http://arxiv.org/abs/1911.05796>, arXiv:[1911.05796
+\[astro-ph.IM\]](http://arxiv.org/abs/1911.05796)
+
+<!--#ref-Ahmed:2019sim-->
+Z. Ahmed et al., **New Technologies for
+Discovery**, in: **CPAD Instrumentation Frontier Workshop 2018: New
+Technologies for Discovery IV**, 2019.
+<http://arxiv.org/abs/1908.00194>, arXiv:[1908.00194
+\[physics.ins-det\]](http://arxiv.org/abs/1908.00194)
+
 <!--#ref-Bellis:2018hej-->
 M. Bellis et al., **HEP Software Foundation
 Community White Paper Working Group Visualization**, (2018).

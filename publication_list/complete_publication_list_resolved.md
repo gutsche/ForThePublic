@@ -38,19 +38,6 @@ Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
 Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
 arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
-<!--#ref-CMS:2022qww-->
-A. Tumasyan et al., **Search for new particles in
-an extended Higgs sector with four b quarks in the final state at
-$\sqrt{s}$ = 13 TeV**, (2022). <http://arxiv.org/abs/2203.00480>,
-arXiv:[2203.00480 \[hep-ex\]](http://arxiv.org/abs/2203.00480)
-
-<!--#ref-CMS:2022ley-->
-A. Tumasyan et al., **Measurement of the Higgs
-boson width and evidence of its off-shell contributions to ZZ
-production**, (2022),
-doi:[10.1038/s41567-022-01682-0](https://doi.org/10.1038/s41567-022-01682-0),
-arXiv:[2202.06923 \[hep-ex\]](http://arxiv.org/abs/2202.06923)
-
 <!--#ref-CMS:2021oxn-->
 A. Tumasyan et al., **Measurements of the
 associated production of a W boson and a charm quark in proton-proton
@@ -63,6 +50,20 @@ A. Tumasyan et al., **Observation of triple J/
 $\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
 TeV**, (2021). <http://arxiv.org/abs/2111.05370>, arXiv:[2111.05370
 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
+
+<!--#ref-Amundson:2019ohm-->
+J. Amundson et al., **Response to NITRD, NCO,
+NSF Request for Information on "Update to the 2016 National Artificial
+Intelligence Research and Development Strategic Plan"**, (2019).
+<http://arxiv.org/abs/1911.05796>, arXiv:[1911.05796
+\[astro-ph.IM\]](http://arxiv.org/abs/1911.05796)
+
+<!--#ref-Ahmed:2019sim-->
+Z. Ahmed et al., **New Technologies for
+Discovery**, in: **CPAD Instrumentation Frontier Workshop 2018: New
+Technologies for Discovery IV**, 2019.
+<http://arxiv.org/abs/1908.00194>, arXiv:[1908.00194
+\[physics.ins-det\]](http://arxiv.org/abs/1908.00194)
 
 <!--#ref-Bellis:2018hej-->
 M. Bellis et al., **HEP Software Foundation
@@ -268,6 +269,14 @@ cross section for Z+b jets in proton-proton collisions at $\sqrt s$ =
 doi:[10.1103/PhysRevD.105.092014](https://doi.org/10.1103/PhysRevD.105.092014),
 arXiv:[2112.09659 \[hep-ex\]](http://arxiv.org/abs/2112.09659)
 
+<!--#ref-CMS:2021pcy-->
+A. Tumasyan et al., **Search for low-mass dilepton
+resonances in Higgs boson decays to four-lepton final states in
+protonproton collisions at $\sqrt{s}=13{TeV}$**, *Eur. Phys. J. C*. 82
+(2022) 290,
+doi:[10.1140/epjc/s10052-022-10127-0](https://doi.org/10.1140/epjc/s10052-022-10127-0),
+arXiv:[2111.01299 \[hep-ex\]](http://arxiv.org/abs/2111.01299)
+
 <!--#ref-CMS:2021puf-->
 A. Tumasyan et al., **Fragmentation of jets
 containing a prompt J $/\psi$ meson in PbPb and pp collisions at
@@ -393,6 +402,13 @@ $\sqrt{{s}}$ =13 TeV**, *JHEP*. 07 (2022) 081,
 doi:[10.1007/JHEP07(2022)081](https://doi.org/10.1007/JHEP07(2022)081),
 arXiv:[2201.05578 \[hep-ex\]](http://arxiv.org/abs/2201.05578)
 
+<!--#ref-CMS:2022ley-->
+A. Tumasyan et al., **Measurement of the Higgs
+boson width and evidence of its off-shell contributions to ZZ
+production**, *Nature Phys.* 18 (2022) 1329--1334,
+doi:[10.1038/s41567-022-01682-0](https://doi.org/10.1038/s41567-022-01682-0),
+arXiv:[2202.06923 \[hep-ex\]](http://arxiv.org/abs/2202.06923)
+
 <!--#ref-CMS:2022lmh-->
 A. Tumasyan et al., **Measurement of the inclusive
 and differential ${t\bar{t}}\gamma$ cross sections in the dilepton
@@ -435,6 +451,13 @@ of the Higgs boson produced via vector boson fusion in proton-proton
 collisions at s=13  TeV**, *Phys. Rev. D*. 105 (2022) 092007,
 doi:[10.1103/PhysRevD.105.092007](https://doi.org/10.1103/PhysRevD.105.092007),
 arXiv:[2201.11585 \[hep-ex\]](http://arxiv.org/abs/2201.11585)
+
+<!--#ref-CMS:2022qww-->
+A. Tumasyan et al., **Search for new particles in
+an extended Higgs sector with four b quarks in the final state at
+s=13TeV**, *Phys. Lett. B*. 835 (2022) 137566,
+doi:[10.1016/j.physletb.2022.137566](https://doi.org/10.1016/j.physletb.2022.137566),
+arXiv:[2203.00480 \[hep-ex\]](http://arxiv.org/abs/2203.00480)
 
 <!--#ref-CMS:2022sxl-->
 A. Tumasyan et al., **Observation of the $B_c^+$
@@ -2604,6 +2627,13 @@ J. Chang et al., **Striped Data Server for
 Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
 042035,
 doi:[10.1088/1742-6596/1085/4/042035](https://doi.org/10.1088/1742-6596/1085/4/042035)
+
+<!--#ref-CMS:2017asf-->
+A.M. Sirunyan et al., **Search for vectorlike
+light-flavor quark partners in proton-proton collisions at $\sqrt s$ =8
+TeV**, *Phys. Rev. D*. 97 (2018) 072008,
+doi:[10.1103/PhysRevD.97.072008](https://doi.org/10.1103/PhysRevD.97.072008),
+arXiv:[1708.02510 \[hep-ex\]](http://arxiv.org/abs/1708.02510)
 
 <!--#ref-CMS:2017aza-->
 A.M. Sirunyan et al., **Search for a massive
