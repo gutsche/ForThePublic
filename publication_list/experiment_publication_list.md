@@ -1,9 +1,9 @@
-<!--#ref-CMS:2021oxn-->
-A. Tumasyan et al., **Measurements of the
-associated production of a W boson and a charm quark in proton-proton
-collisions at $\sqrt{s}$ = 8 TeV**, (2021).
-<http://arxiv.org/abs/2112.00895>, arXiv:[2112.00895
-\[hep-ex\]](http://arxiv.org/abs/2112.00895)
+<!--#ref-CMS:2022krd-->
+A. Tumasyan et al., **Search for new physics in the
+$\tau$ lepton plus missing transverse momentum final state in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2022).
+<http://arxiv.org/abs/2212.12604>, arXiv:[2212.12604
+\[hep-ex\]](http://arxiv.org/abs/2212.12604)
 
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple J/
@@ -178,6 +178,13 @@ Lett.* 128 (2022) 122301,
 doi:[10.1103/PhysRevLett.128.122301](https://doi.org/10.1103/PhysRevLett.128.122301),
 arXiv:[2103.04377 \[hep-ex\]](http://arxiv.org/abs/2103.04377)
 
+<!--#ref-CMS:2021oxn-->
+A. Tumasyan et al., **Measurements of the
+associated production of a W boson and a charm quark in protonproton
+collisions at $\sqrt{s}=8{TeV}$**, *Eur. Phys. J. C*. 82 (2022) 1094,
+doi:[10.1140/epjc/s10052-022-10897-7](https://doi.org/10.1140/epjc/s10052-022-10897-7),
+arXiv:[2112.00895 \[hep-ex\]](http://arxiv.org/abs/2112.00895)
+
 <!--#ref-CMS:2021pcj-->
 A. Tumasyan et al., **Measurement of the production
 cross section for Z+b jets in proton-proton collisions at $\sqrt s$ =
@@ -276,10 +283,11 @@ doi:[10.1007/JHEP03(2022)160](https://doi.org/10.1007/JHEP03(2022)160),
 arXiv:[2110.13218 \[hep-ex\]](http://arxiv.org/abs/2110.13218)
 
 <!--#ref-CMS:2021yzl-->
-A. Tumasyan et al., **Measurement and QCD analysis
-of double-differential inclusive jet cross sections in proton-proton
-collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 02 (2022) 142,
-doi:[10.1007/JHEP02(2022)142](https://doi.org/10.1007/JHEP02(2022)142),
+A. Tumasyan et al., **Addendum to: Measurement and
+QCD analysis of double-differential inclusive jet cross sections in
+proton-proton collisions at $\sqrt{\textrm{s}}$ = 13 TeV**, *JHEP*. 12
+(2022) 035,
+doi:[10.1007/JHEP12(2022)035](https://doi.org/10.1007/JHEP12(2022)035),
 arXiv:[2111.10431 \[hep-ex\]](http://arxiv.org/abs/2111.10431)
 
 <!--#ref-CMS:2021znk-->
