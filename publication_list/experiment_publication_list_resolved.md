@@ -20,13 +20,6 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-CMS:2022krd-->
-A. Tumasyan et al., **Search for new physics in the
-$\tau$ lepton plus missing transverse momentum final state in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2022).
-<http://arxiv.org/abs/2212.12604>, arXiv:[2212.12604
-\[hep-ex\]](http://arxiv.org/abs/2212.12604)
-
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple J/
 $\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
@@ -305,11 +298,10 @@ doi:[10.1007/JHEP03(2022)160](https://doi.org/10.1007/JHEP03(2022)160),
 arXiv:[2110.13218 \[hep-ex\]](http://arxiv.org/abs/2110.13218)
 
 <!--#ref-CMS:2021yzl-->
-A. Tumasyan et al., **Addendum to: Measurement and
-QCD analysis of double-differential inclusive jet cross sections in
-proton-proton collisions at $\sqrt{\textrm{s}}$ = 13 TeV**, *JHEP*. 12
-(2022) 035,
-doi:[10.1007/JHEP12(2022)035](https://doi.org/10.1007/JHEP12(2022)035),
+A. Tumasyan et al., **Measurement and QCD analysis
+of double-differential inclusive jet cross sections in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 02 (2022) 142,
+doi:[10.1007/JHEP02(2022)142](https://doi.org/10.1007/JHEP02(2022)142),
 arXiv:[2111.10431 \[hep-ex\]](http://arxiv.org/abs/2111.10431)
 
 <!--#ref-CMS:2021znk-->
@@ -347,6 +339,13 @@ neutral leptons with displaced vertices in proton-proton collisions at
 $\sqrt{{s}}$ =13 TeV**, *JHEP*. 07 (2022) 081,
 doi:[10.1007/JHEP07(2022)081](https://doi.org/10.1007/JHEP07(2022)081),
 arXiv:[2201.05578 \[hep-ex\]](http://arxiv.org/abs/2201.05578)
+
+<!--#ref-CMS:2022krd-->
+A. Tumasyan et al., **Search for new physics in the
+lepton plus missing transverse momentum final state in proton-proton
+collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 07 (2022) 067,
+doi:[10.1007/JHEP07(2022)067](https://doi.org/10.1007/JHEP07(2022)067),
+arXiv:[2202.06075 \[hep-ex\]](http://arxiv.org/abs/2202.06075)
 
 <!--#ref-CMS:2022ley-->
 A. Tumasyan et al., **Measurement of the Higgs
@@ -448,13 +447,6 @@ $\Upsilon$ states in pPb collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV**,
 *Phys. Lett. B*. 835 (2022) 137397,
 doi:[10.1016/j.physletb.2022.137397](https://doi.org/10.1016/j.physletb.2022.137397),
 arXiv:[2202.11807 \[hep-ex\]](http://arxiv.org/abs/2202.11807)
-
-<!--#ref-CMS:2022yjm-->
-A. Tumasyan et al., **Search for new physics in the
-lepton plus missing transverse momentum final state in proton-proton
-collisions at $\sqrt{s} =$ 13 TeV**, *JHEP*. 07 (2022) 067,
-doi:[10.1007/JHEP07(2022)067](https://doi.org/10.1007/JHEP07(2022)067),
-arXiv:[2202.06075 \[hep-ex\]](http://arxiv.org/abs/2202.06075)
 
 <!--#ref-CMS:2022yxp-->
 A. Tumasyan et al., **Search for single production
