@@ -1,3 +1,9 @@
+<!--#ref-Bockelman:2023gbj-->
+B. Bockelman et al., **IRIS-HEP Strategic
+Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
+(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
+\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
 Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
@@ -19,8 +25,9 @@ arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple J/
 $\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021). <http://arxiv.org/abs/2111.05370>, arXiv:[2111.05370
-\[hep-ex\]](http://arxiv.org/abs/2111.05370)
+TeV**, (2021),
+doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
+arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
 <!--#ref-Amundson:2019ohm-->
 J. Amundson et al., **Response to NITRD, NCO,

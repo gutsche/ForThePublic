@@ -20,6 +20,12 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Bockelman:2023gbj-->
+B. Bockelman et al., **IRIS-HEP Strategic
+Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
+(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
+\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
 Physics Software and Computing**, in: **2022 Snowmass Summer Study**,

@@ -23,8 +23,9 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple J/
 $\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021). <http://arxiv.org/abs/2111.05370>, arXiv:[2111.05370
-\[hep-ex\]](http://arxiv.org/abs/2111.05370)
+TeV**, (2021),
+doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
+arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
 <!--#ref-CMS:2017cpm-->
 V. Khachatryan et al., **Exclusive and
