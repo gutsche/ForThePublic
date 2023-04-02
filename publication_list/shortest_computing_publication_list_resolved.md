@@ -28,8 +28,8 @@ Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
 
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
-2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+Physics Software and Computing**, in: **Snowmass 2021**, 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -40,9 +40,9 @@ arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
-Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
-arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+Necessary Approach for Future Scientific Software**, in: **Snowmass
+2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
+\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
 <!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object

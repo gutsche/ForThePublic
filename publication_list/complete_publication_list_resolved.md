@@ -28,8 +28,8 @@ Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
 
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
-2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+Physics Software and Computing**, in: **Snowmass 2021**, 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -40,16 +40,9 @@ arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
-Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
-arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
-
-<!--#ref-CMS:2021qsn-->
-A. Tumasyan et al., **Observation of triple J/
-$\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021),
-doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
-arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
+Necessary Approach for Future Scientific Software**, in: **Snowmass
+2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
+\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
 <!--#ref-Amundson:2019ohm-->
 J. Amundson et al., **Response to NITRD, NCO,
@@ -104,6 +97,13 @@ Software II. Software Libraries and Tools III. Systems)**, (2015).
 <!--#ref-CMS:2007nwy-->
 G.L. Bayatian et al., **CMS expression of interest
 in the SLHC**, (2007)
+
+<!--#ref-CMS:2021qsn-->
+A. Tumasyan et al., **Observation of triple
+J/$\psi$ meson production in proton-proton collisions**, *Nature Phys.*
+19 (2023) 338--350,
+doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
+arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak
@@ -401,6 +401,13 @@ Production in the Four b Quark Final State in Proton-Proton Collisions
 at s=13  TeV**, *Phys. Rev. Lett.* 129 (2022) 081802,
 doi:[10.1103/PhysRevLett.129.081802](https://doi.org/10.1103/PhysRevLett.129.081802),
 arXiv:[2202.09617 \[hep-ex\]](http://arxiv.org/abs/2202.09617)
+
+<!--#ref-CMS:2022dwd-->
+A. Tumasyan et al., **A portrait of the Higgs boson
+by the CMS experiment ten years after the discovery**, *Nature*. 607
+(2022) 60--68,
+doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
+arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
 
 <!--#ref-CMS:2022fut-->
 A. Tumasyan et al., **Search for long-lived heavy

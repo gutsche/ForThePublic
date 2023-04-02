@@ -20,13 +20,6 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-CMS:2021qsn-->
-A. Tumasyan et al., **Observation of triple J/
-$\psi$ meson production in proton-proton collisions at $\sqrt{s}$ = 13
-TeV**, (2021),
-doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
-arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
-
 <!--#ref-CMS:2017cpm-->
 V. Khachatryan et al., **Exclusive and
 semi-exclusive pi+pi- production in proton-proton collisions at sqrt(s)
@@ -36,6 +29,13 @@ semi-exclusive pi+pi- production in proton-proton collisions at sqrt(s)
 <!--#ref-CMS:2007nwy-->
 G.L. Bayatian et al., **CMS expression of interest
 in the SLHC**, (2007)
+
+<!--#ref-CMS:2021qsn-->
+A. Tumasyan et al., **Observation of triple
+J/$\psi$ meson production in proton-proton collisions**, *Nature Phys.*
+19 (2023) 338--350,
+doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
+arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak

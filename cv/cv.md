@@ -43,7 +43,7 @@ I am part of a worldwide community process to prepare the software and computing
 
 I held many management positions within the international CMS collaboration and at the Fermi National Accelerator Laboratory, supervising up to 100 individuals across many time zones. In March 2019, I was appointed U.S.CMS Software and Computing Operations Program manager overseeing the U.S. CMS Tier-1 and Tier-2 facilities as well as software maintenance and development efforts for core software, computing infrastructure software and analysis systems. The operations program receives both funding from the National Science Foundation (NSF) and the Department of Energy (DOE). In this context, I am working together with DOE and NSF and partners at the universities and other labs to enable analysis of LHC particle collisions in the U.S. for the CMS collaboration, and prepare for HL-LHC. To plan the R&D needed for HL-LHC, I co-authored a strategic plan outlining four grand challenges. 
 
-I regularly speak at interational conferences and workshops and am member of the editorial board of the journal for [Computing and Software for Big Science](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true).
+I regularly speak at international conferences and workshops and am member of the editorial board of the journal for [Computing and Software for Big Science](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true).
 
 
 ## Research Positions
@@ -216,6 +216,13 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 
 
 ## Physics Publications with Major Personal Contributions
+<!--#ref-CMS:2022dwd-->
+A. Tumasyan et al., **A portrait of the Higgs boson
+by the CMS experiment ten years after the discovery**, *Nature*. 607
+(2022) 60--68,
+doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
+arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
+
 <!--#ref-CMS:2018zjv-->
 A.M. Sirunyan et al., **Search for dark matter
 produced in association with a Higgs boson decaying to a pair of bottom
@@ -277,8 +284,8 @@ Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
 
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **2022 Snowmass Summer Study**,
-2022. <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
+Physics Software and Computing**, in: **Snowmass 2021**, 2022.
+<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Cerati:2022wiv-->
@@ -289,9 +296,9 @@ arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **2022 Snowmass
-Summer Study**, 2022. <http://arxiv.org/abs/2203.09945>,
-arXiv:[2203.09945 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+Necessary Approach for Future Scientific Software**, in: **Snowmass
+2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
+\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
 
 <!--#ref-Berzano:2018xaa-->
 D. Berzano et al., **HEP Software Foundation
