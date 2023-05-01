@@ -20,6 +20,19 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2023yzg-->
+A. Tumasyan et al., **Search for top squark pair
+production in a final state with at least one hadronically decaying tau
+lepton in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2023).
+<http://arxiv.org/abs/2304.07174>, arXiv:[2304.07174
+\[hep-ex\]](http://arxiv.org/abs/2304.07174)
+
+<!--#ref-CMS:2023qyl-->
+A. Tumasyan et al., **First measurement of the top
+quark pair production cross section in proton-proton collisions at
+$\sqrt{s}$ = 13.6 TeV**, (2023). <http://arxiv.org/abs/2303.10680>,
+arXiv:[2303.10680 \[hep-ex\]](http://arxiv.org/abs/2303.10680)
+
 <!--#ref-CMS:2017cpm-->
 V. Khachatryan et al., **Exclusive and
 semi-exclusive pi+pi- production in proton-proton collisions at sqrt(s)
