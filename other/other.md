@@ -8,7 +8,7 @@
 	* Regular question-and-answer sessions for high school classes visiting Fermilab.
 * Active in mentorship programs
 	* Since January 2020, I am mentoring a postdoc in the Fermilab Neutrino Division in the context of the inter-divisonal mentoring program of Fermilab.
-	* Since April 2022, I am mentoring a postdoc from UCSD in the context of the U.S. CMS collaboration mentoring program.
+	* Since April 2022, I am mentoring a postdoc from UCSD in the context of the U.S. CMS collaboration mentoring program. The postdoc has been apppointed a faculty position at UFL and I continue to mentor them.
 
 [1]:	https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true
 [2]:	https://www.aps.org/units/dpf/

@@ -7,4 +7,5 @@
 * 03/2019 - ONGOING: [Openscience Grid Council](https://opensciencegrid.org/council/)
 * 10/2019 - 01/2022: Fermilab's [Wilson Fellowship](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/) hiring committee
 * 01/2020 - 01/2022: Co-lead of the [Computational Frontier](https://snowmass21.org/computational/start) of the [Particle Physics Snowmass 2021 process](https://snowmass21.org)
+* 02/2023 - present: Co-lead of Software & Computing group in U.S. FCC coordination team
 

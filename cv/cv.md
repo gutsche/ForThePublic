@@ -80,7 +80,9 @@ I regularly speak at international conferences and workshops and am member of th
 ## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
-| 10/2019 - present | [Associate Head of the Scientific Computing Division for CMS](https://computing.fnal.gov/organization/)         |
+| 09/2022 - present | [Department Head for Computing Resource Evolution Strategy Department](https://computing.fnal.gov/organization/)         |
+| 09/2022 - present | [CMS Software & Computing Coordinator](https://computing.fnal.gov/organization/)         |
+| 10/2019 - 08/2022 | Associate Head of the Scientific Computing Division for CMS         |
 | 10/2016 - 09/2019 | Deputy Head of the Scientific Services Quadrant                     |
 | 10/2014 – 09/2016 | Assistant Head of the Scientific Computing Division for Science Operations and Workflows |
 | 10/2014 – 12/2014 | Interim Department Head of the Scientific Data Processing (SDP)Department of the Scientific Services Quadrant |
@@ -139,6 +141,7 @@ I regularly speak at international conferences and workshops and am member of th
 * 03/2019 - ONGOING: [Openscience Grid Council](https://opensciencegrid.org/council/)
 * 10/2019 - 01/2022: Fermilab's [Wilson Fellowship](https://www.fnal.gov/pub/forphysicists/fellowships/robert_wilson/) hiring committee
 * 01/2020 - 01/2022: Co-lead of the [Computational Frontier](https://snowmass21.org/computational/start) of the [Particle Physics Snowmass 2021 process](https://snowmass21.org)
+* 02/2023 - present: Co-lead of Software & Computing group in U.S. FCC coordination team
 
 
 
@@ -153,7 +156,7 @@ I regularly speak at international conferences and workshops and am member of th
 	* Regular question-and-answer sessions for high school classes visiting Fermilab.
 * Active in mentorship programs
 	* Since January 2020, I am mentoring a postdoc in the Fermilab Neutrino Division in the context of the inter-divisonal mentoring program of Fermilab.
-	* Since April 2022, I am mentoring a postdoc from UCSD in the context of the U.S. CMS collaboration mentoring program.
+	* Since April 2022, I am mentoring a postdoc from UCSD in the context of the U.S. CMS collaboration mentoring program. The postdoc has been apppointed a faculty position at UFL and I continue to mentor them.
 
 [1]:	https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true
 [2]:	https://www.aps.org/units/dpf/
@@ -351,6 +354,17 @@ arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)
 
 
 ## List of Presentation and Talks
+<!--#ref-Gutsche:2023aaa-->
+O. Gutsche, (2023), Parallel Session Talk at
+the [26th International Conference on Computing in High Energy & Nuclear
+Physics (CHEP2023)](https://indico.jlab.org/event/459/),
+[(Material)](https://indico.jlab.org/event/459/contributions/11470/)
+
+<!--#ref-Gutsche:2022aab-->
+O. Gutsche, **Computing**, (2022), Plenary talk
+given at the DOE/HEP Review of the Energy Frontier Laboratory Research
+Program, (Material available upon request)
+
 <!--#ref-Gutsche:2022aaa-->
 O. Gutsche, **Computing**, (2022), Lecture
 given at [17th Hadron Collider Physics Summer
