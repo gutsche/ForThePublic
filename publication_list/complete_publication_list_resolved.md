@@ -20,6 +20,32 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2023ftu-->
+A. Hayrapetyan et al., **Observation of four top
+quark production in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
+(2023). <http://arxiv.org/abs/2305.13439>, arXiv:[2305.13439
+\[hep-ex\]](http://arxiv.org/abs/2305.13439)
+
+<!--#ref-CMS:2023mtk-->
+A. Tumasyan et al., **Measurements of the azimuthal
+anisotropy of prompt and nonprompt charmonia in PbPb collisions at
+$\sqrt{s_{{NN}}}$ = 5.02 TeV**, (2023).
+<http://arxiv.org/abs/2305.16928>, arXiv:[2305.16928
+\[hep-ex\]](http://arxiv.org/abs/2305.16928)
+
+<!--#ref-CMS:2023pte-->
+A. Hayrapetyan et al., **Search for the
+lepton-flavor violating decay of the Higgs boson and additional Higgs
+bosons in the e $\mu$ final state in proton-proton collisions at
+$\sqrt{s}$ = 13 TeV**, (2023). <http://arxiv.org/abs/2305.18106>,
+arXiv:[2305.18106 \[hep-ex\]](http://arxiv.org/abs/2305.18106)
+
+<!--#ref-CMS:2023twl-->
+A. Tumasyan et al., **Search for resonances in
+events with photon and jet final states in proton-proton collisions at
+$\sqrt{s}$= 13 TeV**, (2023). <http://arxiv.org/abs/2305.07998>,
+arXiv:[2305.07998 \[hep-ex\]](http://arxiv.org/abs/2305.07998)
+
 <!--#ref-CMS:2023yzg-->
 A. Tumasyan et al., **Search for top squark pair
 production in a final state with at least one hadronically decaying tau
@@ -117,6 +143,20 @@ J/$\psi$ meson production in proton-proton collisions**, *Nature Phys.*
 19 (2023) 338--350,
 doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
 arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
+
+<!--#ref-CMS:2022bmk-->
+A. Tumasyan et al., **Strange hadron collectivity
+in pPb and PbPb collisions**, *JHEP*. 05 (2023) 007,
+doi:[10.1007/JHEP05(2023)007](https://doi.org/10.1007/JHEP05(2023)007),
+arXiv:[2205.00080 \[nucl-ex\]](http://arxiv.org/abs/2205.00080)
+
+<!--#ref-CMS:2022mgd-->
+A. Tumasyan et al., **Measurement of the
+Bs0$\mu$+$\mu$$-$ decay properties and search for the B0  $\mu$+$\mu$$-$
+decay in proton-proton collisions at s=13TeV**, *Phys. Lett. B*. 842
+(2023) 137955,
+doi:[10.1016/j.physletb.2023.137955](https://doi.org/10.1016/j.physletb.2023.137955),
+arXiv:[2212.10311 \[hep-ex\]](http://arxiv.org/abs/2212.10311)
 
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak
@@ -552,11 +592,11 @@ $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2022) 082,
 doi:[10.1007/JHEP06(2022)082](https://doi.org/10.1007/JHEP06(2022)082),
 arXiv:[2201.07859 \[hep-ex\]](http://arxiv.org/abs/2201.07859)
 
-<!--#ref-TOTEMCollaboration:2021xam-->
-A. Tumasyan et al., **First Search
-for Exclusive Diphoton Production at High Mass with Tagged Protons in
-Proton-Proton Collisions at $\sqrt s$ = 13 TeV**, *Phys. Rev. Lett.* 129
-(2022) 011801,
+<!--#ref-TOTEM:2021zxa-->
+A. Tumasyan et al., **First Search for Exclusive
+Diphoton Production at High Mass with Tagged Protons in Proton-Proton
+Collisions at $\sqrt s$ = 13 TeV**, *Phys. Rev. Lett.* 129 (2022)
+011801,
 doi:[10.1103/PhysRevLett.129.011801](https://doi.org/10.1103/PhysRevLett.129.011801),
 arXiv:[2110.05916 \[hep-ex\]](http://arxiv.org/abs/2110.05916)
 
@@ -667,10 +707,9 @@ doi:[10.1103/PhysRevD.104.012015](https://doi.org/10.1103/PhysRevD.104.012015),
 arXiv:[2012.01581 \[hep-ex\]](http://arxiv.org/abs/2012.01581)
 
 <!--#ref-CMS:2020krr-->
-T.C. Collaboration et al., **Search for dark
-photons in Higgs boson production via vector boson fusion in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 03 (2021)
-011,
+A.M. Sirunyan et al., **Search for dark photons in
+Higgs boson production via vector boson fusion in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 03 (2021) 011,
 doi:[10.1007/JHEP03(2021)011](https://doi.org/10.1007/JHEP03(2021)011),
 arXiv:[2009.14009 \[hep-ex\]](http://arxiv.org/abs/2009.14009)
 
@@ -1576,10 +1615,10 @@ doi:[10.1007/JHEP08(2020)139](https://doi.org/10.1007/JHEP08(2020)139),
 arXiv:[2005.08694 \[hep-ex\]](http://arxiv.org/abs/2005.08694)
 
 <!--#ref-CMS:2020fia-->
-T.C. Collaboration et al., **Search for
-supersymmetry in proton-proton collisions at $\sqrt{s} =$ 13 TeV in
-events with high-momentum Z bosons and missing transverse momentum**,
-*JHEP*. 09 (2020) 149,
+A.M. Sirunyan et al., **Search for supersymmetry in
+proton-proton collisions at $\sqrt{s} =$ 13 TeV in events with
+high-momentum Z bosons and missing transverse momentum**, *JHEP*. 09
+(2020) 149,
 doi:[10.1007/JHEP09(2020)149](https://doi.org/10.1007/JHEP09(2020)149),
 arXiv:[2008.04422 \[hep-ex\]](http://arxiv.org/abs/2008.04422)
 
