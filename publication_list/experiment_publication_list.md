@@ -1,3 +1,16 @@
+<!--#ref-CMS:2023lqq-->
+A. Tumasyan et al., **Performance of the local
+reconstruction algorithms for the CMS hadron calorimeter with Run 2
+data**, (2023). <http://arxiv.org/abs/2306.10355>, arXiv:[2306.10355
+\[hep-ex\]](http://arxiv.org/abs/2306.10355)
+
+<!--#ref-CMS:2023xyd-->
+A. Tumasyan et al., **Two-particle Bose-Einstein
+correlations and their Lévy parameters in PbPb collisions at
+$\sqrt{s_{{NN}}}$ = 5.02 TeV**, (2023).
+<http://arxiv.org/abs/2306.11574>, arXiv:[2306.11574
+\[nucl-ex\]](http://arxiv.org/abs/2306.11574)
+
 <!--#ref-CMS:2023ftu-->
 A. Hayrapetyan et al., **Observation of four top
 quark production in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
@@ -54,19 +67,77 @@ J/$\psi$ meson production in proton-proton collisions**, *Nature Phys.*
 doi:[10.1038/s41567-022-01838-y](https://doi.org/10.1038/s41567-022-01838-y),
 arXiv:[2111.05370 \[hep-ex\]](http://arxiv.org/abs/2111.05370)
 
+<!--#ref-CMS:2022ahq-->
+A. Tumasyan et al., **Search for Higgs boson decays
+to a Z boson and a photon in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, *JHEP*. 05 (2023) 233,
+doi:[10.1007/JHEP05(2023)233](https://doi.org/10.1007/JHEP05(2023)233),
+arXiv:[2204.12945 \[hep-ex\]](http://arxiv.org/abs/2204.12945)
+
 <!--#ref-CMS:2022bmk-->
 A. Tumasyan et al., **Strange hadron collectivity
 in pPb and PbPb collisions**, *JHEP*. 05 (2023) 007,
 doi:[10.1007/JHEP05(2023)007](https://doi.org/10.1007/JHEP05(2023)007),
 arXiv:[2205.00080 \[nucl-ex\]](http://arxiv.org/abs/2205.00080)
 
+<!--#ref-CMS:2022chw-->
+A. Tumasyan et al., **Search for a heavy composite
+Majorana neutrino in events with dilepton signatures from proton-proton
+collisions at s=13 TeV**, *Phys. Lett. B*. 843 (2023) 137803,
+doi:[10.1016/j.physletb.2023.137803](https://doi.org/10.1016/j.physletb.2023.137803),
+arXiv:[2210.03082 \[hep-ex\]](http://arxiv.org/abs/2210.03082)
+
+<!--#ref-CMS:2022ett-->
+A. Tumasyan et al., **Precision measurement of the
+Z boson invisible width in pp collisions at s=13 TeV**, *Phys. Lett. B*.
+842 (2023) 137563,
+doi:[10.1016/j.physletb.2022.137563](https://doi.org/10.1016/j.physletb.2022.137563),
+arXiv:[2206.07110 \[hep-ex\]](http://arxiv.org/abs/2206.07110)
+
+<!--#ref-CMS:2022fsw-->
+A. Tumasyan et al., **Search for heavy resonances
+and quantum black holes in e$\mu$, e$\tau$, and $\mu$$\tau$ final states
+in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 05 (2023)
+227,
+doi:[10.1007/JHEP05(2023)227](https://doi.org/10.1007/JHEP05(2023)227),
+arXiv:[2205.06709 \[hep-ex\]](http://arxiv.org/abs/2205.06709)
+
 <!--#ref-CMS:2022mgd-->
-A. Tumasyan et al., **Measurement of the
-Bs0$\mu$+$\mu$$-$ decay properties and search for the B0  $\mu$+$\mu$$-$
-decay in proton-proton collisions at s=13TeV**, *Phys. Lett. B*. 842
-(2023) 137955,
+A. Tumasyan et al., **Measurement of the B
+$^0_{S}$$\to$$\mu^+\mu^-$ decay properties and search for the B
+$^0$$\to$$\mu^+\mu^-$ decay in proton-proton collisions at $\sqrt{s}$ =
+13 TeV**, *Phys. Lett. B*. 842 (2023) 137955,
 doi:[10.1016/j.physletb.2023.137955](https://doi.org/10.1016/j.physletb.2023.137955),
 arXiv:[2212.10311 \[hep-ex\]](http://arxiv.org/abs/2212.10311)
+
+<!--#ref-CMS:2022omp-->
+A. Tumasyan et al., **Search for nonresonant Higgs
+boson pair production in the four leptons plus twob jets final state in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2023)
+130,
+doi:[10.1007/JHEP06(2023)130](https://doi.org/10.1007/JHEP06(2023)130),
+arXiv:[2206.10657 \[hep-ex\]](http://arxiv.org/abs/2206.10657)
+
+<!--#ref-CMS:2022qej-->
+A. Tumasyan et al., **Search for long-lived
+particles decaying to a pair of muons in proton-proton collisions at
+$\sqrt{s}$ = 13 TeV**, *JHEP*. 05 (2023) 228,
+doi:[10.1007/JHEP05(2023)228](https://doi.org/10.1007/JHEP05(2023)228),
+arXiv:[2205.08582 \[hep-ex\]](http://arxiv.org/abs/2205.08582)
+
+<!--#ref-CMS:2022voq-->
+A. Tumasyan et al., **Search for CP violation using
+$\textrm{t}\overline{\textrm{t}}$ events in the lepton+jets channel in
+pp collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2023) 081,
+doi:[10.1007/JHEP06(2023)081](https://doi.org/10.1007/JHEP06(2023)081),
+arXiv:[2205.02314 \[hep-ex\]](http://arxiv.org/abs/2205.02314)
+
+<!--#ref-CMS:2023ktc-->
+A. Tumasyan et al., **Search for top squarks in the
+four-body decay mode with single lepton final states in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 06 (2023) 060,
+doi:[10.1007/JHEP06(2023)060](https://doi.org/10.1007/JHEP06(2023)060),
+arXiv:[2301.08096 \[hep-ex\]](http://arxiv.org/abs/2301.08096)
 
 <!--#ref-CMS:2021cox-->
 A. Tumasyan et al., **Search for electroweak
@@ -6360,15 +6431,15 @@ doi:[10.1103/PhysRevLett.111.081802](https://doi.org/10.1103/PhysRevLett.111.081
 arXiv:[1212.6961 \[hep-ex\]](http://arxiv.org/abs/1212.6961)
 
 <!--#ref-CMS:2012ytf-->
-S. Chatrchyan et al., **Studies of jet quenching
-using isolated-photon+jet correlations in PbPb and $pp$ collisions at
+S. Chatrchyan et al., **Studies of Jet Quenching
+using Isolated-Photon + Jet Correlations in PbPb and $pp$ Collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Lett. B*. 718 (2013) 773--794,
 doi:[10.1016/j.physletb.2012.11.003](https://doi.org/10.1016/j.physletb.2012.11.003),
 arXiv:[1205.0206 \[nucl-ex\]](http://arxiv.org/abs/1205.0206)
 
 <!--#ref-CMS:2012zex-->
-S. Chatrchyan et al., **Measurement of the elliptic
-anisotropy of charged particles produced in PbPb collisions at
+S. Chatrchyan et al., **Measurement of the Elliptic
+Anisotropy of Charged Particles Produced in PbPb Collisions at
 $\sqrt{s}_{NN}$=2.76 TeV**, *Phys. Rev. C*. 87 (2013) 014902,
 doi:[10.1103/PhysRevC.87.014902](https://doi.org/10.1103/PhysRevC.87.014902),
 arXiv:[1204.1409 \[nucl-ex\]](http://arxiv.org/abs/1204.1409)
@@ -6792,16 +6863,16 @@ doi:[10.1007/JHEP01(2012)133](https://doi.org/10.1007/JHEP01(2012)133),
 arXiv:[1110.6461 \[hep-ex\]](http://arxiv.org/abs/1110.6461)
 
 <!--#ref-CMS:2012aa-->
-S. Chatrchyan et al., **Study of high-pT charged
-particle suppression in PbPb compared to $pp$ collisions at
+S. Chatrchyan et al., **Study of High-pT Charged
+Particle Suppression in PbPb Compared to $pp$ Collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *Eur. Phys. J. C*. 72 (2012) 1945,
 doi:[10.1140/epjc/s10052-012-1945-x](https://doi.org/10.1140/epjc/s10052-012-1945-x),
 arXiv:[1202.2554 \[nucl-ex\]](http://arxiv.org/abs/1202.2554)
 
 <!--#ref-CMS:2012ahl-->
-S. Chatrchyan et al., **Measurement of the top
-quark pair production cross section in $pp$ collisions at $\sqrt{s} = 7$
-TeV in dilepton final states containing a $\tau$**, *Phys. Rev. D*. 85
+S. Chatrchyan et al., **Measurement of the Top
+Quark Pair Production Cross Section in $pp$ Collisions at $\sqrt{s} = 7$
+TeV in Dilepton Final States Containing a $\tau$**, *Phys. Rev. D*. 85
 (2012) 112007,
 doi:[10.1103/PhysRevD.85.112007](https://doi.org/10.1103/PhysRevD.85.112007),
 arXiv:[1203.6810 \[hep-ex\]](http://arxiv.org/abs/1203.6810)
@@ -6821,15 +6892,15 @@ doi:[10.1103/PhysRevLett.109.251801](https://doi.org/10.1103/PhysRevLett.109.251
 arXiv:[1208.3477 \[hep-ex\]](http://arxiv.org/abs/1208.3477)
 
 <!--#ref-CMS:2012bkm-->
-S. Chatrchyan et al., **Search for neutral Higgs
-bosons decaying to tau pairs in $pp$ collisions at $\sqrt{s}=7$ TeV**,
+S. Chatrchyan et al., **Search for Neutral Higgs
+Bosons Decaying to Tau Pairs in $pp$ Collisions at $\sqrt{s}=7$ TeV**,
 *Phys. Lett. B*. 713 (2012) 68--90,
 doi:[10.1016/j.physletb.2012.05.028](https://doi.org/10.1016/j.physletb.2012.05.028),
 arXiv:[1202.4083 \[hep-ex\]](http://arxiv.org/abs/1202.4083)
 
 <!--#ref-CMS:2012bms-->
-S. Chatrchyan et al., **Suppression of non-prompt
-$J/\psi$, prompt $J/\psi$, and Y(1S) in PbPb collisions at
+S. Chatrchyan et al., **Suppression of Non-Prompt
+$J/\psi$, Prompt $J/\psi$, and Y(1S) in PbPb Collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *JHEP*. 05 (2012) 063,
 doi:[10.1007/JHEP05(2012)063](https://doi.org/10.1007/JHEP05(2012)063),
 arXiv:[1201.5069 \[nucl-ex\]](http://arxiv.org/abs/1201.5069)
@@ -6878,8 +6949,8 @@ arXiv:[1207.2666 \[hep-ex\]](http://arxiv.org/abs/1207.2666)
 
 <!--#ref-CMS:2012esl-->
 S. Chatrchyan et al., **Measurement of the Z/
-$\gamma$\*+b-jet cross section in pp collisions at $\sqrt{s}$ = 7 TeV**,
-*JHEP*. 06 (2012) 126,
+$\gamma$\*+b-jet Cross Section in $pp$ Collisions at
+$\sqrt{s} = 7 TeV$**, *JHEP*. 06 (2012) 126,
 doi:[10.1007/JHEP06(2012)126](https://doi.org/10.1007/JHEP06(2012)126),
 arXiv:[1204.1643 \[hep-ex\]](http://arxiv.org/abs/1204.1643)
 
@@ -6898,29 +6969,29 @@ doi:[10.1103/PhysRevLett.109.121801](https://doi.org/10.1103/PhysRevLett.109.121
 arXiv:[1206.6326 \[hep-ex\]](http://arxiv.org/abs/1206.6326)
 
 <!--#ref-CMS:2012fgk-->
-S. Chatrchyan et al., **Study of $W$ boson
-production in PbPb and $pp$ collisions at $\sqrt{s_{NN}}=2.76$ TeV**,
+S. Chatrchyan et al., **Study of $W$ Boson
+Production in PbPb and $pp$ Collisions at $\sqrt{s_{NN}}=2.76$ TeV**,
 *Phys. Lett. B*. 715 (2012) 66--87,
 doi:[10.1016/j.physletb.2012.07.025](https://doi.org/10.1016/j.physletb.2012.07.025),
 arXiv:[1205.6334 \[nucl-ex\]](http://arxiv.org/abs/1205.6334)
 
 <!--#ref-CMS:2012fgz-->
-S. Chatrchyan et al., **Search for a light charged
-Higgs boson in top quark decays in $pp$ collisions at $\sqrt{s}=7$
+S. Chatrchyan et al., **Search for a Light Charged
+Higgs Boson in Top Quark Decays in $pp$ Collisions at $\sqrt{s}=7$
 TeV**, *JHEP*. 07 (2012) 143,
 doi:[10.1007/JHEP07(2012)143](https://doi.org/10.1007/JHEP07(2012)143),
 arXiv:[1205.5736 \[hep-ex\]](http://arxiv.org/abs/1205.5736)
 
 <!--#ref-CMS:2012foj-->
 S. Chatrchyan et al., **Search for a $W^\prime$ or
-Techni- $\rho$ Decaying into $WZ$ in $pp$ Collisions at $\sqrt{s}=7$
-TeV**, *Phys. Rev. Lett.* 109 (2012) 141801,
+$\rho_{TC}$ Decaying into $WZ$ in $pp$ Collisions at $\sqrt{s}=7$ TeV**,
+*Phys. Rev. Lett.* 109 (2012) 141801,
 doi:[10.1103/PhysRevLett.109.141801](https://doi.org/10.1103/PhysRevLett.109.141801),
 arXiv:[1206.0433 \[hep-ex\]](http://arxiv.org/abs/1206.0433)
 
 <!--#ref-CMS:2012frl-->
-S. Chatrchyan et al., **Observation of a new Xi(b)
-baryon**, *Phys. Rev. Lett.* 108 (2012) 252002,
+S. Chatrchyan et al., **Observation of a new
+$\Xi_{b}$ Baryon**, *Phys. Rev. Lett.* 108 (2012) 252002,
 doi:[10.1103/PhysRevLett.108.252002](https://doi.org/10.1103/PhysRevLett.108.252002),
 arXiv:[1204.5955 \[hep-ex\]](http://arxiv.org/abs/1204.5955)
 
@@ -6940,8 +7011,8 @@ doi:[10.1016/j.physletb.2012.09.048](https://doi.org/10.1016/j.physletb.2012.09.
 arXiv:[1206.3921 \[hep-ex\]](http://arxiv.org/abs/1206.3921)
 
 <!--#ref-CMS:2012grf-->
-S. Chatrchyan et al., **Search for microscopic
-black holes in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012)
+S. Chatrchyan et al., **Search for Microscopic
+Black Holes in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012)
 061,
 doi:[10.1007/JHEP04(2012)061](https://doi.org/10.1007/JHEP04(2012)061),
 arXiv:[1202.6396 \[hep-ex\]](http://arxiv.org/abs/1202.6396)
@@ -6954,15 +7025,15 @@ doi:[10.1103/PhysRevLett.109.222301](https://doi.org/10.1103/PhysRevLett.109.222
 arXiv:[1208.2826 \[nucl-ex\]](http://arxiv.org/abs/1208.2826)
 
 <!--#ref-CMS:2012hfp-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson decaying into two photons in $pp$ collisions at
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson Decaying into Two Photons in $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012) 403--425,
 doi:[10.1016/j.physletb.2012.03.003](https://doi.org/10.1016/j.physletb.2012.03.003),
 arXiv:[1202.1487 \[hep-ex\]](http://arxiv.org/abs/1202.1487)
 
 <!--#ref-CMS:2012hzy-->
-S. Chatrchyan et al., **Measurement of the mass
-difference between top and antitop quarks**, *JHEP*. 06 (2012) 109,
+S. Chatrchyan et al., **Measurement of the Mass
+Difference between Top and Antitop Quarks**, *JHEP*. 06 (2012) 109,
 doi:[10.1007/JHEP06(2012)109](https://doi.org/10.1007/JHEP06(2012)109),
 arXiv:[1204.2807 \[hep-ex\]](http://arxiv.org/abs/1204.2807)
 
@@ -6995,9 +7066,9 @@ doi:[10.1007/JHEP12(2012)015](https://doi.org/10.1007/JHEP12(2012)015),
 arXiv:[1209.4397 \[hep-ex\]](http://arxiv.org/abs/1209.4397)
 
 <!--#ref-CMS:2012jki-->
-S. Chatrchyan et al., **Search for heavy
-bottom-like quarks in 4.9 inverse femtobarns of $pp$ collisions at
-$\sqrt{s}=7$ TeV**, *JHEP*. 05 (2012) 123,
+S. Chatrchyan et al., **Search for Heavy
+Bottom-like Quarks in 4.9 $fb^{-1}$ of $pp$ Collisions at $\sqrt{s}=7$
+TeV**, *JHEP*. 05 (2012) 123,
 doi:[10.1007/JHEP05(2012)123](https://doi.org/10.1007/JHEP05(2012)123),
 arXiv:[1204.1088 \[hep-ex\]](http://arxiv.org/abs/1204.1088)
 
@@ -7010,8 +7081,8 @@ arXiv:[1207.1798 \[hep-ex\]](http://arxiv.org/abs/1207.1798)
 
 <!--#ref-CMS:2012krf-->
 S. Chatrchyan et al., **Measurement of the
-pseudorapidity and centrality dependence of the transverse energy
-density in PbPb collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Rev.
+Pseudorapidity and Centrality Dependence of the Transverse Energy
+Density in PbPb Collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Rev.
 Lett.* 109 (2012) 152303,
 doi:[10.1103/PhysRevLett.109.152303](https://doi.org/10.1103/PhysRevLett.109.152303),
 arXiv:[1205.2488 \[nucl-ex\]](http://arxiv.org/abs/1205.2488)
@@ -7039,9 +7110,9 @@ doi:[10.1016/j.physletb.2012.10.038](https://doi.org/10.1016/j.physletb.2012.10.
 arXiv:[1209.0471 \[hep-ex\]](http://arxiv.org/abs/1209.0471)
 
 <!--#ref-CMS:2012mwz-->
-S. Chatrchyan et al., **Search for leptonic decays
-of $W$ ' bosons in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 08
-(2012) 023,
+S. Chatrchyan et al., **Search for Leptonic Decays
+of $W^{\prime}$ Bosons in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*.
+08 (2012) 023,
 doi:[10.1007/JHEP08(2012)023](https://doi.org/10.1007/JHEP08(2012)023),
 arXiv:[1204.4764 \[hep-ex\]](http://arxiv.org/abs/1204.4764)
 
@@ -7052,8 +7123,8 @@ S. Chatrchyan et al., **A New Boson with a Mass of
 doi:[10.1126/science.1230816](https://doi.org/10.1126/science.1230816)
 
 <!--#ref-CMS:2012nro-->
-S. Chatrchyan et al., **Measurement of jet
-fragmentation into charged particles in $pp$ and PbPb collisions at
+S. Chatrchyan et al., **Measurement of Jet
+Fragmentation into Charged Particles in $pp$ and PbPb Collisions at
 $\sqrt{s_{NN}}=2.76$ TeV**, *JHEP*. 10 (2012) 087,
 doi:[10.1007/JHEP10(2012)087](https://doi.org/10.1007/JHEP10(2012)087),
 arXiv:[1205.5872 \[nucl-ex\]](http://arxiv.org/abs/1205.5872)
@@ -7066,9 +7137,10 @@ doi:[10.1088/1748-0221/7/10/P10002](https://doi.org/10.1088/1748-0221/7/10/P1000
 arXiv:[1206.4071 \[physics.ins-det\]](http://arxiv.org/abs/1206.4071)
 
 <!--#ref-CMS:2012oar-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson in the $H$ to $Z Z$ to $\ell \ell \tau \tau$ decay
-channel in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2012) 081,
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson in the $H \to ZZ \to \ell^+ \ell^- \tau^+ \tau^-$
+Decay Channel in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03
+(2012) 081,
 doi:[10.1007/JHEP03(2012)081](https://doi.org/10.1007/JHEP03(2012)081),
 arXiv:[1202.3617 \[hep-ex\]](http://arxiv.org/abs/1202.3617)
 
@@ -7081,15 +7153,15 @@ doi:[10.1016/j.physletb.2012.09.028](https://doi.org/10.1016/j.physletb.2012.09.
 arXiv:[1207.0065 \[hep-ex\]](http://arxiv.org/abs/1207.0065)
 
 <!--#ref-CMS:2012oiv-->
-S. Chatrchyan et al., **Measurement of isolated
-photon production in $pp$ and PbPb collisions at $\sqrt{s_{NN}}=2.76$
+S. Chatrchyan et al., **Measurement of Isolated
+Photon Production in $pp$ and PbPb Collisions at $\sqrt{s_{NN}}=2.76$
 TeV**, *Phys. Lett. B*. 710 (2012) 256--277,
 doi:[10.1016/j.physletb.2012.02.077](https://doi.org/10.1016/j.physletb.2012.02.077),
 arXiv:[1201.3093 \[nucl-ex\]](http://arxiv.org/abs/1201.3093)
 
 <!--#ref-CMS:2012oqb-->
 S. Chatrchyan et al., **Measurement of the
-underlying event in the Drell-Yan process in proton-proton collisions at
+Underlying Event in the Drell-Yan Process in Proton-Proton Collisions at
 $\sqrt{s}=7$ TeV**, *Eur. Phys. J. C*. 72 (2012) 2080,
 doi:[10.1140/epjc/s10052-012-2080-4](https://doi.org/10.1140/epjc/s10052-012-2080-4),
 arXiv:[1204.1411 \[hep-ex\]](http://arxiv.org/abs/1204.1411)
@@ -7102,8 +7174,8 @@ doi:[10.1007/JHEP06(2012)160](https://doi.org/10.1007/JHEP06(2012)160),
 arXiv:[1204.3170 \[hep-ex\]](http://arxiv.org/abs/1204.3170)
 
 <!--#ref-CMS:2012pgw-->
-S. Chatrchyan et al., **Inclusive $b$-jet
-production in $pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012)
+S. Chatrchyan et al., **Inclusive $b$-Jet
+Production in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012)
 084,
 doi:[10.1007/JHEP04(2012)084](https://doi.org/10.1007/JHEP04(2012)084),
 arXiv:[1202.4617 \[hep-ex\]](http://arxiv.org/abs/1202.4617)
@@ -7123,16 +7195,16 @@ doi:[10.1016/j.physletb.2012.10.070](https://doi.org/10.1016/j.physletb.2012.10.
 arXiv:[1210.1797 \[hep-ex\]](http://arxiv.org/abs/1210.1797)
 
 <!--#ref-CMS:2012rdk-->
-S. Chatrchyan et al., **Search for anomalous
-production of multilepton events in $pp$ collisions at $\sqrt{s}=7$
+S. Chatrchyan et al., **Search for Anomalous
+Production of Multilepton Events in $pp$ Collisions at $\sqrt{s}=7$
 TeV**, *JHEP*. 06 (2012) 169,
 doi:[10.1007/JHEP06(2012)169](https://doi.org/10.1007/JHEP06(2012)169),
 arXiv:[1204.5341 \[hep-ex\]](http://arxiv.org/abs/1204.5341)
 
 <!--#ref-CMS:2012rfo-->
 S. Chatrchyan et al., **Measurement of the
-inclusive production cross sections for forward jets and for dijet
-events with one forward and one central jet in $pp$ collisions at
+Inclusive Production Cross Sections for Forward Jets and for Dijet
+Events with One Forward and One Central Jet in $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *JHEP*. 06 (2012) 036,
 doi:[10.1007/JHEP06(2012)036](https://doi.org/10.1007/JHEP06(2012)036),
 arXiv:[1202.0704 \[hep-ex\]](http://arxiv.org/abs/1202.0704)
@@ -7145,15 +7217,15 @@ doi:[10.1007/JHEP08(2012)130](https://doi.org/10.1007/JHEP08(2012)130),
 arXiv:[1207.2392 \[hep-ex\]](http://arxiv.org/abs/1207.2392)
 
 <!--#ref-CMS:2012rth-->
-S. Chatrchyan et al., **Search for a Higgs boson in
-the decay channel $H$ to ZZ(\*) to $q$ qbar $\ell^-$ l+ in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012) 036,
+S. Chatrchyan et al., **Search for a Higgs Boson in
+the Decay Channel $H \to ZZ^* \to q\bar{q}\ell^- \ell^+$ in $pp$
+Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 04 (2012) 036,
 doi:[10.1007/JHEP04(2012)036](https://doi.org/10.1007/JHEP04(2012)036),
 arXiv:[1202.1416 \[hep-ex\]](http://arxiv.org/abs/1202.1416)
 
 <!--#ref-CMS:2012sap-->
-S. Chatrchyan et al., **Search for quark
-compositeness in dijet angular distributions from $pp$ collisions at
+S. Chatrchyan et al., **Search for Quark
+Compositeness in Dijet Angular Distributions from $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *JHEP*. 05 (2012) 055,
 doi:[10.1007/JHEP05(2012)055](https://doi.org/10.1007/JHEP05(2012)055),
 arXiv:[1202.5535 \[hep-ex\]](http://arxiv.org/abs/1202.5535)
@@ -7180,9 +7252,9 @@ doi:[10.1140/epjc/s10052-012-2202-z](https://doi.org/10.1140/epjc/s10052-012-220
 arXiv:[1209.2393 \[hep-ex\]](http://arxiv.org/abs/1209.2393)
 
 <!--#ref-CMS:2012tqw-->
-S. Chatrchyan et al., **Azimuthal anisotropy of
-charged particles at high transverse momenta in PbPb collisions at
-$\sqrt{s_{NN}}=2.76$ TeV**, *Phys. Rev. Lett.* 109 (2012) 022301,
+S. Chatrchyan et al., **Azimuthal Anisotropy of
+Charged Particles at High Transverse Momenta in PbPb Collisions at
+$\sqrt{s_{NN}}= 2.76$ TeV**, *Phys. Rev. Lett.* 109 (2012) 022301,
 doi:[10.1103/PhysRevLett.109.022301](https://doi.org/10.1103/PhysRevLett.109.022301),
 arXiv:[1204.1850 \[nucl-ex\]](http://arxiv.org/abs/1204.1850)
 
@@ -7194,36 +7266,36 @@ doi:[10.1007/JHEP09(2012)094](https://doi.org/10.1007/JHEP09(2012)094),
 arXiv:[1206.5663 \[hep-ex\]](http://arxiv.org/abs/1206.5663)
 
 <!--#ref-CMS:2012ulu-->
-S. Chatrchyan et al., **Jet momentum dependence of
-jet quenching in PbPb collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Phys.
+S. Chatrchyan et al., **Jet Momentum Dependence of
+Jet Quenching in PbPb Collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Phys.
 Lett. B*. 712 (2012) 176--197,
 doi:[10.1016/j.physletb.2012.04.058](https://doi.org/10.1016/j.physletb.2012.04.058),
 arXiv:[1202.5022 \[nucl-ex\]](http://arxiv.org/abs/1202.5022)
 
 <!--#ref-CMS:2012uyg-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson in the decay channel $H$ to $Z Z$ to 4 leptons in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.* 108 (2012) 111804,
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson in the Decay Channel $H$ to $Z Z$ to 4 Leptons in $pp$
+Collisions at $\sqrt{s}=7$ TeV**, *Phys. Rev. Lett.* 108 (2012) 111804,
 doi:[10.1103/PhysRevLett.108.111804](https://doi.org/10.1103/PhysRevLett.108.111804),
 arXiv:[1202.1997 \[hep-ex\]](http://arxiv.org/abs/1202.1997)
 
 <!--#ref-CMS:2012vsj-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson decaying to bottom quarks in $pp$ collisions at
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson Decaying to Bottom Quarks in $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012) 284--306,
 doi:[10.1016/j.physletb.2012.02.085](https://doi.org/10.1016/j.physletb.2012.02.085),
 arXiv:[1202.4195 \[hep-ex\]](http://arxiv.org/abs/1202.4195)
 
 <!--#ref-CMS:2012vzw-->
-S. Chatrchyan et al., **Search for large extra
-dimensions in dimuon and dielectron events in pp collisions at
+S. Chatrchyan et al., **Search for Large Extra
+Dimensions in Dimuon and Dielectron Events in $pp$ Collisions at
 $\sqrt{s} = 7$ TeV**, *Phys. Lett. B*. 711 (2012) 15--34,
 doi:[10.1016/j.physletb.2012.03.029](https://doi.org/10.1016/j.physletb.2012.03.029),
 arXiv:[1202.3827 \[hep-ex\]](http://arxiv.org/abs/1202.3827)
 
 <!--#ref-CMS:2012wcg-->
-S. Chatrchyan et al., **Search for heavy long-lived
-charged particles in $pp$ collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.
+S. Chatrchyan et al., **Search for Heavy Long-Lived
+Charged Particles in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.
 B*. 713 (2012) 408--433,
 doi:[10.1016/j.physletb.2012.06.023](https://doi.org/10.1016/j.physletb.2012.06.023),
 arXiv:[1205.0272 \[hep-ex\]](http://arxiv.org/abs/1205.0272)
@@ -7237,8 +7309,8 @@ arXiv:[1209.1062 \[hep-ex\]](http://arxiv.org/abs/1209.1062)
 
 <!--#ref-CMS:2012wje-->
 S. Chatrchyan et al., **Measurement of the
-$\Lambda_b$ cross section and the $_{\bar{\Lambda}_b}$ to $\Lambda_b$
-ratio with $J/\Psi \Lambda$ decays in $pp$ collisions at $\sqrt{s}=7$
+$\Lambda_b$ Cross Section and the ${\bar{\Lambda}_b}$ to $\Lambda_b$
+Ratio with $J/\Psi \Lambda$ Decays in $pp$ Collisions at $\sqrt{s}=7$
 TeV**, *Phys. Lett. B*. 714 (2012) 136--157,
 doi:[10.1016/j.physletb.2012.05.063](https://doi.org/10.1016/j.physletb.2012.05.063),
 arXiv:[1205.0594 \[hep-ex\]](http://arxiv.org/abs/1205.0594)
@@ -7259,9 +7331,9 @@ doi:[10.1103/PhysRevD.86.072010](https://doi.org/10.1103/PhysRevD.86.072010),
 arXiv:[1208.4859 \[hep-ex\]](http://arxiv.org/abs/1208.4859)
 
 <!--#ref-CMS:2012xfg-->
-S. Chatrchyan et al., **Ratios of dijet production
-cross sections as a function of the absolute difference in rapidity
-between jets in proton-proton collisions at $\sqrt{s}=7$ TeV**, *Eur.
+S. Chatrchyan et al., **Ratios of Dijet Production
+Cross Sections as a Function of the Absolute Difference in Rapidity
+between Jets in Proton-Proton Collisions at $\sqrt{s}=7$ TeV**, *Eur.
 Phys. J. C*. 72 (2012) 2216,
 doi:[10.1140/epjc/s10052-012-2216-6](https://doi.org/10.1140/epjc/s10052-012-2216-6),
 arXiv:[1204.0696 \[hep-ex\]](http://arxiv.org/abs/1204.0696)
@@ -7281,16 +7353,17 @@ doi:[10.1007/JHEP09(2012)111](https://doi.org/10.1007/JHEP09(2012)111),
 arXiv:[1207.1130 \[hep-ex\]](http://arxiv.org/abs/1207.1130)
 
 <!--#ref-CMS:2012xsp-->
-S. Chatrchyan et al., **Measurement of the cross
-section for production of $b b^-$ bar $X$, decaying to muons in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 06 (2012) 110,
+S. Chatrchyan et al., **Measurement of the
+Inclusive Cross Section
+$\sigma (pp \to b\bar{b} X \to \mu \mu X^{\prime}$ at $\sqrt{s}=7$
+TeV**, *JHEP*. 06 (2012) 110,
 doi:[10.1007/JHEP06(2012)110](https://doi.org/10.1007/JHEP06(2012)110),
 arXiv:[1203.3458 \[hep-ex\]](http://arxiv.org/abs/1203.3458)
 
 <!--#ref-CMS:2012xss-->
-S. Chatrchyan et al., **Centrality dependence of
-dihadron correlations and azimuthal anisotropy harmonics in PbPb
-collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Eur. Phys. J. C*. 72 (2012)
+S. Chatrchyan et al., **Centrality Dependence of
+Dihadron Correlations and Azimuthal anisotropy Harmonics in PbPb
+Collisions at $\sqrt{s_{NN}}=2.76$ TeV**, *Eur. Phys. J. C*. 72 (2012)
 2012,
 doi:[10.1140/epjc/s10052-012-2012-3](https://doi.org/10.1140/epjc/s10052-012-2012-3),
 arXiv:[1201.3158 \[nucl-ex\]](http://arxiv.org/abs/1201.3158)
@@ -7311,8 +7384,8 @@ doi:[10.1103/PhysRevLett.109.171803](https://doi.org/10.1103/PhysRevLett.109.171
 arXiv:[1207.1898 \[hep-ex\]](http://arxiv.org/abs/1207.1898)
 
 <!--#ref-CMS:2012zhx-->
-S. Chatrchyan et al., **Combined results of
-searches for the standard model Higgs boson in $pp$ collisions at
+S. Chatrchyan et al., **Combined Results of
+Searches for the Standard Model Higgs Boson in $pp$ Collisions at
 $\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012) 26--48,
 doi:[10.1016/j.physletb.2012.02.064](https://doi.org/10.1016/j.physletb.2012.02.064),
 arXiv:[1202.1488 \[hep-ex\]](http://arxiv.org/abs/1202.1488)

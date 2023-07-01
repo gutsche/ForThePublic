@@ -1,3 +1,15 @@
+<!--#ref-Apresyan:2023frr-->
+A. Apresyan et al., **Detector R&D needs for
+the next generation $e^+e^-$ collider**, (2023).
+<http://arxiv.org/abs/2306.13567>, arXiv:[2306.13567
+\[hep-ex\]](http://arxiv.org/abs/2306.13567)
+
+<!--#ref-Atif:2023zcw-->
+M. Atif et al., **Evaluating Portable
+Parallelization Strategies for Heterogeneous Architectures in High
+Energy Physics**, (2023). <http://arxiv.org/abs/2306.15869>,
+arXiv:[2306.15869 \[hep-ex\]](http://arxiv.org/abs/2306.15869)
+
 <!--#ref-Bockelman:2023gbj-->
 B. Bockelman et al., **IRIS-HEP Strategic
 Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
@@ -52,21 +64,3 @@ for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
 Sci.* 3 (2019) 7,
 doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
 arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
-
-<!--#ref-Chang:2017ske-->
-J. Chang et al., **Striped Data Server for
-Scalable Parallel Data Analysis**, *J. Phys. Conf. Ser.* 1085 (2018)
-042035,
-doi:[10.1088/1742-6596/1085/4/042035](https://doi.org/10.1088/1742-6596/1085/4/042035)
-
-<!--#ref-Gutsche:2017ccj-->
-O. Gutsche et al., **CMS Analysis and Data
-Reduction with Apache Spark**, *J. Phys. Conf. Ser.* 1085 (2018) 042030,
-doi:[10.1088/1742-6596/1085/4/042030](https://doi.org/10.1088/1742-6596/1085/4/042030),
-arXiv:[1711.00375 \[cs.DC\]](http://arxiv.org/abs/1711.00375)
-
-<!--#ref-Gutsche:2017weq-->
-O. Gutsche et al., **Big Data in HEP: A
-comprehensive use case study**, *J. Phys. Conf. Ser.* 898 (2017) 072012,
-doi:[10.1088/1742-6596/898/7/072012](https://doi.org/10.1088/1742-6596/898/7/072012),
-arXiv:[1703.04171 \[cs.DC\]](http://arxiv.org/abs/1703.04171)

@@ -257,22 +257,22 @@ doi:[10.1016/j.physletb.2013.03.027](https://doi.org/10.1016/j.physletb.2013.03.
 arXiv:[1301.4698 \[hep-ex\]](http://arxiv.org/abs/1301.4698)
 
 <!--#ref-CMS:2012ab-->
-S. Chatrchyan et al., **Search for heavy, top-like
-quark pair production in the dilepton final state in $pp$ collisions at
+S. Chatrchyan et al., **Search for Heavy, Top-Like
+Quark Pair Production in the Dilepton Final State in $pp$ Collisions at
 $\sqrt{s} = 7$ TeV**, *Phys. Lett. B*. 716 (2012) 103--121,
 doi:[10.1016/j.physletb.2012.07.059](https://doi.org/10.1016/j.physletb.2012.07.059),
 arXiv:[1203.5410 \[hep-ex\]](http://arxiv.org/abs/1203.5410)
 
 <!--#ref-CMS:2012baj-->
-S. Chatrchyan et al., **Search for new physics with
-same-sign isolated dilepton events with jets and missing transverse
-energy**, *Phys. Rev. Lett.* 109 (2012) 071803,
+S. Chatrchyan et al., **Search for New Physics with
+Same-Sign Isolated Dilepton Events with Jets and Missing Transverse
+Energy**, *Phys. Rev. Lett.* 109 (2012) 071803,
 doi:[10.1103/PhysRevLett.109.071803](https://doi.org/10.1103/PhysRevLett.109.071803),
 arXiv:[1205.6615 \[hep-ex\]](http://arxiv.org/abs/1205.6615)
 
 <!--#ref-CMS:2012ggh-->
-S. Chatrchyan et al., **Search for new physics in
-events with same-sign dileptons and $b$-tagged jets in $pp$ collisions
+S. Chatrchyan et al., **Search for New Physics in
+Events with Same-Sign Dileptons and $b$-Tagged Jets in $pp$ Collisions
 at $\sqrt{s}=7$ TeV**, *JHEP*. 08 (2012) 110,
 doi:[10.1007/JHEP08(2012)110](https://doi.org/10.1007/JHEP08(2012)110),
 arXiv:[1205.3933 \[hep-ex\]](http://arxiv.org/abs/1205.3933)
@@ -285,9 +285,9 @@ doi:[10.1007/JHEP11(2012)147](https://doi.org/10.1007/JHEP11(2012)147),
 arXiv:[1209.6620 \[hep-ex\]](http://arxiv.org/abs/1209.6620)
 
 <!--#ref-CMS:2012iqa-->
-S. Chatrchyan et al., **Search for physics beyond
-the standard model in events with a $Z$ boson, jets, and missing
-transverse energy in $pp$ collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.
+S. Chatrchyan et al., **Search for Physics Beyond
+the Standard Model in Events with a $Z$ Boson, Jets, and Missing
+Transverse Energy in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett.
 B*. 716 (2012) 260--284,
 doi:[10.1016/j.physletb.2012.08.026](https://doi.org/10.1016/j.physletb.2012.08.026),
 arXiv:[1204.3774 \[hep-ex\]](http://arxiv.org/abs/1204.3774)
@@ -300,16 +300,16 @@ doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.
 arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 <!--#ref-CMS:2012qjb-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson in the $H$ to $Z Z$ to 2 $\ell 2 \nu$ channel in $pp$
-collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2012) 040,
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson in the $H \to ZZ \to 2\ell2\nu$ Channel in $pp$
+Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 03 (2012) 040,
 doi:[10.1007/JHEP03(2012)040](https://doi.org/10.1007/JHEP03(2012)040),
 arXiv:[1202.3478 \[hep-ex\]](http://arxiv.org/abs/1202.3478)
 
 <!--#ref-CMS:2012zbs-->
-S. Chatrchyan et al., **Search for the standard
-model Higgs boson decaying to $W^+W^−$ in the fully leptonic final state
-in pp collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012)
+S. Chatrchyan et al., **Search for the Standard
+Model Higgs Boson Decaying to $W^+W^−$ in the Fully Leptonic Final State
+in $pp$ Collisions at $\sqrt{s}=7$ TeV**, *Phys. Lett. B*. 710 (2012)
 91--113,
 doi:[10.1016/j.physletb.2012.02.076](https://doi.org/10.1016/j.physletb.2012.02.076),
 arXiv:[1202.1489 \[hep-ex\]](http://arxiv.org/abs/1202.1489)

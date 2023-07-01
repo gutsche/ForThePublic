@@ -1,3 +1,15 @@
+<!--#ref-Apresyan:2023frr-->
+A. Apresyan et al., **Detector R&D needs for
+the next generation $e^+e^-$ collider**, (2023).
+<http://arxiv.org/abs/2306.13567>, arXiv:[2306.13567
+\[hep-ex\]](http://arxiv.org/abs/2306.13567)
+
+<!--#ref-Atif:2023zcw-->
+M. Atif et al., **Evaluating Portable
+Parallelization Strategies for Heterogeneous Architectures in High
+Energy Physics**, (2023). <http://arxiv.org/abs/2306.15869>,
+arXiv:[2306.15869 \[hep-ex\]](http://arxiv.org/abs/2306.15869)
+
 <!--#ref-Bockelman:2023gbj-->
 B. Bockelman et al., **IRIS-HEP Strategic
 Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
