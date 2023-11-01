@@ -221,7 +221,7 @@ During my graduate student time at DESY from 2001 to 2005, I was one of the prop
 ## Physics Publications with Major Personal Contributions
 <!--#ref-CMS:2022dwd-->
 A. Tumasyan et al., **A portrait of the Higgs boson
-by the CMS experiment ten years after the discovery**, *Nature*. 607
+by the CMS experiment ten years after the discovery.**, *Nature*. 607
 (2022) 60--68,
 doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
 arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
