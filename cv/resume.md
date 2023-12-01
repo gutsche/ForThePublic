@@ -111,6 +111,12 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
+<!--#ref-Smith:2023mrq-->
+N. Smith et al., **A Ceph S3 Object Data Store
+for HEP**, in: **26th International Conference on Computing in High
+Energy & Nuclear Physics**, 2023. <http://arxiv.org/abs/2311.16321>,
+arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
+
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
@@ -134,12 +140,6 @@ V.D. Elvira et al., **The Future of High Energy
 Physics Software and Computing**, in: **Snowmass 2021**, 2022.
 <http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
-
-<!--#ref-Cerati:2022wiv-->
-G. Cerati et al., **Snowmass Computational
-Frontier: Topical Group Report on Experimental Algorithm
-Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
-arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A
