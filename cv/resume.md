@@ -111,6 +111,13 @@ doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.
 arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
 
 
+<!--#ref-Gutsche:2023cth-->
+O. Gutsche et al., **The U.S. CMS HL-LHC R&D
+Strategic Plan**, in: **26th International Conference on Computing in
+High Energy & Nuclear Physics**, 2023.
+<http://arxiv.org/abs/2312.00772>, arXiv:[2312.00772
+\[hep-ex\]](http://arxiv.org/abs/2312.00772)
+
 <!--#ref-Smith:2023mrq-->
 N. Smith et al., **A Ceph S3 Object Data Store
 for HEP**, in: **26th International Conference on Computing in High

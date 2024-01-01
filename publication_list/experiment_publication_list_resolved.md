@@ -20,6 +20,54 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2023bjm-->
+A. Hayrapetyan et al., **Search for flavor changing
+neutral current interactions of the top quark in final states with a
+photon and additional jets in proton-proton collisions at $\sqrt{s}$ =
+13 TeV**, (2023). <http://arxiv.org/abs/2312.08229>, arXiv:[2312.08229
+\[hep-ex\]](http://arxiv.org/abs/2312.08229)
+
+<!--#ref-CMS:2023fix-->
+A. Hayrapetyan et al., **Measurement of
+multidifferential cross sections for dijet production in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2023).
+<http://arxiv.org/abs/2312.16669>, arXiv:[2312.16669
+\[hep-ex\]](http://arxiv.org/abs/2312.16669)
+
+<!--#ref-CMS:2023iam-->
+A. Hayrapetyan et al., **Observation of enhanced
+long-range elliptic anisotropies inside high-multiplicity jets in pp
+collisions at $\sqrt{s}$ = 13 TeV**, (2023).
+<http://arxiv.org/abs/2312.17103>, arXiv:[2312.17103
+\[hep-ex\]](http://arxiv.org/abs/2312.17103)
+
+<!--#ref-CMS:2023iqy-->
+A. Hayrapetyan et al., **Search for the lepton
+flavor violating $\tau \to$ 3 $\mu$ decay in proton-proton collisions at
+$\sqrt{s}$ = 13 TeV**, (2023). <http://arxiv.org/abs/2312.02371>,
+arXiv:[2312.02371 \[hep-ex\]](http://arxiv.org/abs/2312.02371)
+
+<!--#ref-CMS:2023iul-->
+A. Hayrapetyan et al., **Search for charged-lepton
+flavor violation in the production and decay of top quarks using
+trilepton final states in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2023). <http://arxiv.org/abs/2312.03199>, arXiv:[2312.03199
+\[hep-ex\]](http://arxiv.org/abs/2312.03199)
+
+<!--#ref-CMS:2023krq-->
+A. Hayrapetyan et al., **Evidence for tWZ
+production in proton-proton collisions at $\sqrt{s}$ = 13 TeV in
+multilepton final states**, (2023). <http://arxiv.org/abs/2312.11668>,
+arXiv:[2312.11668 \[hep-ex\]](http://arxiv.org/abs/2312.11668)
+
+<!--#ref-CMS:2023vzh-->
+A. Tumasyan et al., **Measurement of simplified
+template cross sections of the Higgs boson produced in association with
+W or Z bosons in the H $\to$${b\bar{b}}$ decay channel in proton-proton
+collisions at $\sqrt{s}$ =13 TeV**, (2023).
+<http://arxiv.org/abs/2312.07562>, arXiv:[2312.07562
+\[hep-ex\]](http://arxiv.org/abs/2312.07562)
+
 <!--#ref-CMS:2023bvg-->
 A. Tumasyan et al., **Higher-order moments of the
 elliptic flow distribution in PbPb collisions at $\sqrt{s_{{NN}}}$ =
