@@ -279,6 +279,14 @@ arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
 
 
 ## Computing Publications with Major Personal Contributions
+<!--#ref-Kwok:2024dgx-->
+K.H.M. Kwok et al., **Application of performance
+portability solutions for GPUs and many-core CPUs to track
+reconstruction kernels**, in: **26th International Conference on
+Computing in High Energy & Nuclear Physics**, 2024.
+<http://arxiv.org/abs/2401.14221>, arXiv:[2401.14221
+\[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
+
 <!--#ref-Gutsche:2023cth-->
 O. Gutsche et al., **The U.S. CMS HL-LHC R&D
 Strategic Plan**, in: **26th International Conference on Computing in
