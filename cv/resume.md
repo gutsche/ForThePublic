@@ -19,13 +19,13 @@ centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
-# Resume of Oliver Gutsche
+<span style="font-size:24px;">Resume of Oliver Gutsche</span>
 
 
 
 | | |
 |:----|-:|
-| Oliver Gutsche                                                        | ![](letter.png){ height=10px } [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
+| Dr. Oliver Gutsche                                                    | ![](letter.png){ height=10px } [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
 | Fermi National Accelerator Laboratory / Scientific Computing Division | ![](www.png){ height=10px } [gutsche.github.io](https://gutsche.github.io) |
 | P.O. Box 500 / MS. 205, Batavia, IL, 60510                            |  ![](linkedin.png){ height=10px } [LinkedIn](https://www.linkedin.com/in/gutsche)|
 | +1-630-840-8909                                                       | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
@@ -33,67 +33,69 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 
 <!--  ------------------- -->
 
+I am a **leader in scientific computing** with over 15 years of experience and have acquired deep knowledge and expertise in scientific software and computing infrastructure. 
 
-* Particle physicist conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics
-    * Multiple years of experience in analyzing high-energy collisions using a multitude of different techniques. One of my most noticeable publications is the [Observation of the Higgs Boson in 2012](https://doi.org/10.1016/j.physletb.2012.08.021).
-* **Leader in scientific computing**
-    * Expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
-    * Deep experience in planning, developing, and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and hundreds of petabytes of disk space.
-    * Intimately familiar with scientific grid sites, academic and commercial clouds and U.S. supercomputers.
-    * Part of a worldwide community planning process for the software and computing infrastructure of the High Luminosity LHC (HL-LHC, 2016). Contributed to the [overview white paper of the community](http://arxiv.org/abs/1712.06982) and editor of the topical white paper about the future of [data analysis in High Energy Physics](http://arxiv.org/abs/1804.03983). My expertise in the community was acknowledged in 2020 when I was called upon to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Particle Physics Snowmass 2021 process](https://snowmass21.org).
-* **U.S.CMS Software and Computing Operations Program manager** enabling analysis of LHC particle collisions in the U.S. for the 2500 physicist strong CMS collaboration.
+I am intimately familiar with scientific grid sites, academic and commercial clouds and the largest U.S. supercomputers. I am also an expert in object-oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques. 
 
+I am part of a worldwide community process to prepare the software and computing infrastructure for the High Luminosity LHC (HL-LHC, 2029), which will require many times the computing resources as today. In 2020 when I was called upon to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Particle Physics Snowmass 2021 process](https://snowmass21.org), the particle physics community planning exercise to document a scientific vision for the future of particle physics in the U.S. and its international partners.
 
-<!--  ------------------- -->
+In March 2019, I was appointed U.S.CMS Software and Computing Operations Program manager overseeing the U.S. CMS Tier-1 and Tier-2 facilities as well as software maintenance and development efforts for core software, computing infrastructure software and analysis systems. To plan the R&D needed for HL-LHC, I co-authored a strategic plan outlining four grand challenges. For Fermilab, I created the Computing Resources Evolution STrategy (CREST) process. The goal is to document a strategy for the evolution of Fermilab's computing resources in the light of current experiment needs and future anticipated needs of DUNE and HL-LHC with a planning horizon of 10 years.
 
+I am a particle physicist and am conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics as well as precision Standard Model measurements.
 
-| _Research Positions:_ |                         |                                                      |
-|:----------------------|:------------------------|:-----------------------------------------------------|
-| **09/2019 - Present** | Senior Scientist        | Fermi National Accelerator Laboratory (Fermilab)     |
-| 09/2014 - 08/2019     | Scientist               | Fermi National Accelerator Laboratory (Fermilab)     |
-| 06/2009 – 09/2014     | Application Physicist I | Fermi National Accelerator Laboratory (Fermilab)     |
-| 06/2005 – 05/2009     | Research Associate      | Fermi National Accelerator Laboratory (Fermilab)     |
-| 09/2001 – 02/2005     | Doctoral Candidate      | Deutsches Elektronen Synchrotron (DESY)              |
+I have multiple years of experience in analyzing high-energy collisions at different particle colliders using a multitude of different techniques. In my recent studies at the LHC, I have lead searches for evidence of physics beyond the Standard Model using top quarks, and contributed to searches for Supersymmetry and Dark Matter. One of my most noticeable publications is the [Observation of the Higgs Boson in 2012](https://doi.org/10.1016/j.physletb.2012.08.021).
 
 
 <!--  ------------------- -->
 
 
-| _Education:_          |                                                                                |
-|-----------------------|--------------------------------------------------------------------------------|
-| 2001-2005             | University of Hamburg, _Doctor of Natural Sciences_, Hamburg, Germany          |
-| Thesis title          | _Measurement of beauty quark cross sections in photoproduction with the ZEUS experiment at the electron proton collider HERA_ [(thesis)](http://inspirehep.net/record/680951/files/desy-thesis-05-010.ps.gz) |
-| Advisors              | Prof. Dr. Robert Klanner, Dr. Achim Geiser                                     |
+# Managerial Experience
+
+I have gained extensive managerial experience managing large scientific projects like the U.S. CMS Software & Computing Operations Program and organizations like the international CMS collaboration at the LHC and the Computational, Science and Artificial Intelligence Directorate (CSAID) at Fermilab. 
+
+Since 2019 I am the U.S. CMS Software and Computing Operations Program manager providing for the software and computing infrastructure for U.S. CMS researchers to maintain physics leadership in CMS. Under my leadership, the program's budget increased from $15M in 2019 to almost $20M in 2024, supporting more than 60 FTE of scientists and technical staff and computing hardware deployed at Fermilab and 7 U.S. university sites.
+
+I am holding a senior management position in the Fermilab CSAI Directorate and held many management position in the CMS collaboration. 
+
+I am active in pro-active recruiting of a diverse work force through long running Internship programs and mentoring of junior technical staff as well as junior scientists and postdoctoral researchers.
+
+<!--  ------------------- -->
+
+
+# Leadership Experience
+
+I am employing my extensive knowledge of scientific software and computing infrastructure in contributing to the worldwide community efforts to plan for the software and computing for the future of science, with emphasis on the High Luminosity LHC (HL-LHC). The goal is to provide the means to enable scientific discoveries that are groundbreaking through strategic leadership and vision.
+
+For HL-LHC, I co-authored a strategic plan for the U.S. CMS Software & Computing Operations Program outlining four grand challenges: Modernizing Physics Software and Improving Algorithms; Building Infrastructure for Exabyte-Scale Datasets; Transforming the Scientific Data Analysis Process; and Transition from R\&D to Operations ([arXiv:2312.00772](https://arxiv.org/abs/2312.00772)). This included previous contributions to a variety of community planning exercises like the [Roadmap for HEP Software and Computing R&D for the 2020s](http://arxiv.org/abs/1712.06982). I am the CMS Collaboration Board co-lead of the Sub-Committee for Offline & Computing for HL-LHC. This sub-committee is a novelty for the CMS collaboration and is my approach to introduce coordination and planning of Offline & Computing effort into the CMS collaboration that didn't exist before. To realize the strategic plan, I created an [Research Initiative](https://uscms-software-and-computing.github.io/postdocs) in the U.S. CMS Software & Computing Operations program to provide partial funding for postdoctoral researches to investigate novel and forward-looking software and computing solutions for the 4 grand challenges of HL-LHC.
+
+For Fermilab, I created the Computing Resources Evolution STrategy (CREST) process. The goal is to document a strategy for the evolution of Fermilab's computing resources in the light of current experiment needs and future anticipated needs of DUNE and HL-LHC with a planning horizon of 10 years.
+
+For the DOE [Center for Computational Excellence (HEP-CCE)](https://www.anl.gov/hep-cce/activities) I co-wrote the proposal to execute 4 sub-projects to (1) investigate parallel portability solutions (PPS) to develop algorithmic code once and compile it transparently for the various CPU and accelerator-based architectures; (2) Fine-Grained I/O and Storage (IOS) to optimize data structures on disk and in memory and optimize data access on large shared storage systems at HPC systems; (3) Event Generators (EG) to optimize HEP theory code for execution on HPC systems; (4) Complex Workflows (CW) to orchestrate workflows whose steps need different hardware platforms. I was appointed technical lead of the PPS sub-project.
+
+I am recognized nationally and internationally through membership of various committees, being selected to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Snowmass 2021 process](https://snowmass21.org), and asked to be a member of the editorial board of the journal for ["Computing and Software for Big Science"](https://www.springer.com/physics/particle+and+nuclear+physics/journal/41781?countryChanged=true).
 
 
 <!--  ------------------- -->
 
 
-| _Assignments:_        |                                                                                |
-|-----------------------|--------------------------------------------------------------------------------|
-| 03/2019 - present     | U.S. CMS Software and Computing Operations Program manager                     |
-| 10/2019 - present     | [Associate Head of the Scientific Computing Division for CMS](https://computing.fnal.gov/organization/)                    |
+# Technical Experience
 
+I have deep knowledge of planning, developing, maintaining and operating distributed computing infrastructures that provide access to several hundred-thousand computing cores and many hundred of petabytes of disk space. I am versed in storing and retrieving data from permanent storage on tape. I am intimately familiar with both HTC and HPC, with scientific grid sites, academic and commercial clouds and the largest supercomputers at High Performance Computing centers in the U.S. and across the world. This infrastructure executes scientific software consisting of millions of lines of C++ and python code that is needed to extract physics results. I am an expert in object oriented software development, statistical data analysis methods and Monte Carlo simulation techniques as well as various optimization and machine learning techniques.
+
+The technical aspects of my work are closely connected to physics research, as they enable the analysis of particle physics detector data and simulations as a basis to extract physics results. My active involvement in HEP science allows me to guide the science community to benefit from the latest computing developments, bridging the worlds of science and scientific computing.
+
+My current R&D projects revolutionize the utilization of wide area network connections by managing data movements through dynamic SDN channels (ESnet [SENSE/Rucio](https://indico.jlab.org/event/459/contributions/11306/) project), enabling CMS to utilize the latest supercomputers with emphasis on the DOE leadership class facilities based on GPUs, and changing the end-user analysis paradigm to adapt the usage of the industry based pythonic analysis ecosystem and employ columnar analysis techniques.
 
 <!-- \newpage -->
 
-## Research and Technical Experience
+# Research Experience
 
-* Joined the CMS collaboration in 2005. Research focus: search for physics beyond the Standard Model at the LHC, especially for Supersymmetry and Dark Matter.
-    * Founding member of an analysis group with members from Fermilab/UCSD/UCSB, focusing on final states with leptons.
-    * Supervised several Fermilab postdoctoral researchers:
-        * Jacob Linac measuring top quark properties and searching for heavy top-like particles.
-        * Matteo Cremonesi searching for Dark Matter.
-        * Nick Smith analyzing Higgs boson decay channels, starting with the decay into two bottom quarks, and two charm quarks.
+I am a particle physicist and am conducting **leading edge research** for New Physics Beyond the Standard Model of Particle Physics as well as precision Standard Model measurements.
+
+I have multiple years of experience in analyzing high-energy collisions at different particle colliders using a multitude of different techniques. I have [published many papers in leading journals](https://github.com/gutsche/ForThePublic/raw/master/publication_list/complete_publication_list.pdf) and am currently a member of the [CMS collaboration](https://cms.cern/) that is operating one of the 4 detectors at the Large Hadron Collider (LHC) at [CERN](https://home.cern/) in Geneva, Switzerland. The CMS collaboration spans the whole globe and encompasses more than [3000 physicists from more than 50 countries out of which over 1000 are students](https://cms.cern/index.php/collaboration/people-statistics). In my recent studies at the LHC, I have lead searches for evidence of physics beyond the Standard Model using top quarks, and contributed to searches for Supersymmetry and Dark Matter. One of my most noticeable publications is the [Observation of the Higgs Boson in 2012](https://doi.org/10.1016/j.physletb.2012.08.021).
 
 
-* Extensive experience in operating large distributed computing infrastructures: operated the entire CMS computing resources in LHC Run 1 leading up to the Higgs discovery with a team of 60 individuals distributed across the world
-* Part of the worldwide community efforts to plan for the software and computing infrastucture for the High Luminosity LHC (HL-LHC): I was an integral part of the community planning process and my input was documented in the [Roadmap for HEP Software and Computing R&D for the 2020s](http://arxiv.org/abs/1712.06982). I was editor of the [HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation](http://arxiv.org/abs/1804.03983). My expertise in the community was acknowledged in 2020 when I was called upon to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Particle Physics Snowmass 2021 process](https://snowmass21.org). Because the Snowmass process was delayed by one year, I needed to resign in 2022 due to previous high priority committments. I oversaw the process till a successor was appointed.
-* My recent research interest in computing infrastructure explores if analysis in HEP can be conducted more efficiently using tools developed and used by industry. I am exploring using toolkits like [Apache Spark](https://spark.apache.org/) and similar technologies. I created a research group spanning researchers from Fermilab, CERN and the Universities Princeton, Padova and Vanderbilt. The [CMS Big Data Project](https://cms-big-data.github.io/) also very closely works together with industry in a project with [Intel](https://www.intel.com/) in the context of [CERN openlab](https://openlab.cern/). I also managed a Laboratory Directed Research and Development project (LDRD) to develop innovative technology for Big Data delivery to array-based analysis code, the [Striped Data Server for Scalable Parallel Data Analysis](https://doi.org/10.1088/1742-6596/1085/4/042035). These projects lead to various projects like a user front-end to columnar data tools [COFFEA](https://github.com/CoffeaTeam) and supporting analysis activities funded through [IRIS-HEP](https://iris-hep.org/as.html).
-* I am currently the U.S. CMS Software and Computing Operations Program manager enabling analysis of U.S. collaborators of the CMS experiment. I am overseeing the operation of the U.S. CMS Tier-1 site at Fermilab and 7 U.S. Tier-2 sites at Caltech, Florida University, MIT, University of Nebraska-Lincoln, Purdue University, UC San Diego, Unversity of Wisconsin-Madison. I lead effort to administer the sites, maintain the computing infrastructure and conduct strategic R&D projects.
-* In January 2020, the DOE [Center for Computational Excellence](https://www.anl.gov/hep-cce/activities) was funded for a 3-year project to enable HEP experiments like ATLAS, CMS, DUNE, LSST, DESI and others to efficiently use HPC installations in the U.S. at the leadership class facilities at Argonne and Oakridge National Laboratories and NERSC at Lawrence Berkeley National Laboratory. I co-wrote the proposal to execute 4 sub-projects and I was appointed technical lead of the sub-project to investigate parallel portability solutions.
-
-## Selected Recent Publications in Physics and Computing
+# Selected Recent Publications in Physics and Computing
 
 <!--#ref-CMS:2018zjv-->
 A.M. Sirunyan et al., **Search for dark matter

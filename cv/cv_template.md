@@ -19,67 +19,37 @@ centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
-# Curriculum Vitae of Oliver Gutsche
+Curriculum Vitae of Oliver Gutsche
 
 changequote(`{{{{', `}}}}')
 
-include({{{{whoami.md}}}})
+include({{{{../cv/whoami.md}}}})
 
-include({{{{overview.md}}}})
+include({{{{../cv/overview.md}}}})
 
-## Research Positions
-include({{{{research.md}}}})
+include({{{{../cv/managerial_experience.md}}}})
 
-## Education
-include({{{{education.md}}}})
+include({{{{../cv/leadership_experience.md}}}})
 
-## Assignments: U.S. CMS Software and Computing Operations Program
-include({{{{assignments_ops.md}}}})
+include({{{{../cv/technical_experience.md}}}})
 
-## Assignments: Fermi National Accelerator Laboratory - Scientific Computing Division
-include({{{{assignments_scd.md}}}})
+include({{{{../cv/research_experience.md}}}})
 
-## Assignments: CMS Collaboration - Offline & Computing Project
-include({{{{assignments_cms_offcomp.md}}}})
+# Physics Publications with Major Personal Contributions
 
-## Supervision
-include({{{{supervision.md}}}})
-
-## Scholarships and Awards
-include({{{{awards.md}}}})
-
-## Committees
-include({{{{committees.md}}}})
-
-## Other Professional Activities
-include({{{{../other/other.md}}}})
-
-## Research Experience
-### CMS collaboration: 2005 – Present
-include({{{{research_experience_cms.md}}}})
-#### ZEUS collaboration: 2001 – 2005
-include({{{{research_experience_zeus.md}}}})
-
-## Technical Experience
-include({{{{technical_experience.md}}}})
-
-### Computing Infrastructure
-include({{{{technical_experience_comp.md}}}})
-
-### Software
-include({{{{technical_experience_soft.md}}}})
-
-## Physics Publications with Major Personal Contributions
 include({{{{../publication_list/short_physics_publication_list.md}}}})
 
-## Computing Publications with Major Personal Contributions
+# Computing Publications with Major Personal Contributions
+
 include({{{{../publication_list/short_computing_publication_list.md}}}})
 
-## List of Presentation and Talks
+# List of Presentation and Talks
+
 include({{{{../talk_list/short_talk_list.md}}}})
 
-## List of Media Articles and Mentionings
-include({{{{../media_list/short_media_list.md}}}})
+<!-- ## List of Media Articles
+
+include({{{{../media_list/short_media_list.md}}}}) -->
 
 ----------
 
@@ -87,4 +57,4 @@ include({{{{../media_list/short_media_list.md}}}})
 * Full List of Computing Publications with Major Personal Contributions can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/computing_publication_list.pdf).
 * Full List of Publications from all Collaborations and Experiments can be found [here](https://github.com/gutsche/ForThePublic/raw/master/publication_list/experiment_publication_list.pdf).
 * Full List of Presentations and Talks can be found [here](https://github.com/gutsche/ForThePublic/raw/master/talk_list/talk_list.pdf).
-* Full List of Articles and Media Mentionings can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).
+* Full List of Articles can be found [here](https://github.com/gutsche/ForThePublic/raw/master/media_list/media_list.pdf).

@@ -12,7 +12,7 @@ title: "List of Articles and Media Mentionings"
 author: "Oliver Gutsche"
 footer: true
 leftheader: ""
-centerheader: "List of Articles and Media Mentionings of Oliver Gutsche"
+centerheader: "List of Articles about Oliver Gutsche"
 rightheader: ""
 leftfooter: "\\today"
 centerfooter: ""

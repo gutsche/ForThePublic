@@ -19,41 +19,36 @@ centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
-# Resume of Oliver Gutsche
+<span style="font-size:24px;">Resume of Oliver Gutsche</span>
 
 changequote(`{{{{', `}}}}')
 
-include({{{{whoami.md}}}})
+include({{{{../cv/whoami.md}}}})
+
+<!--  ------------------- -->
+
+include({{{{../cv/short_overview.md}}}})
 
 <!--  ------------------- -->
 
 
-include({{{{short_overview.md}}}})
+include({{{{../cv/managerial_experience_introduction.md}}}})
 
 <!--  ------------------- -->
 
 
-include({{{{short_research.md}}}})
+include({{{{../cv/leadership_experience_introduction.md}}}})
 
 <!--  ------------------- -->
 
 
-include({{{{short_education.md}}}})
-
-<!--  ------------------- -->
-
-
-include({{{{short_assignments.md}}}})
+include({{{{../cv/technical_experience_introduction.md}}}})
 
 <!-- \newpage -->
 
-## Research and Technical Experience
+include({{{{../cv/research_experience_introduction.md}}}})
 
-include({{{{short_research_experience_cms.md}}}})
-
-include({{{{short_technical_experience.md}}}})
-
-## Selected Recent Publications in Physics and Computing
+# Selected Recent Publications in Physics and Computing
 
 include({{{{../publication_list/shortest_physics_publication_list.md}}}})
 
