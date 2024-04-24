@@ -1,0 +1,31 @@
+include({{{{../cv/leadership_experience_introduction.md}}}})
+
+## High-Luminosity LHC
+
+Starting in 2029, the HL-LHC will produce many times the amount of data of the current LHC running periods. In addition, the collisions and the corresponding simulations will be many times as complex as today. I was an integral part of the community planning process and my input was documented in the [Roadmap for HEP Software and Computing R&D for the 2020s](http://arxiv.org/abs/1712.06982). In addition, I was co-editor of the [HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation](http://arxiv.org/abs/1804.03983). My expertise in the community was acknowledged in 2020 when I was called upon to co-lead the [Computational Frontier](https://snowmass21.org/computational/start) of the [Snowmass 2021 process](https://snowmass21.org). Because the Snowmass process was delayed by one year, I needed to resign in 2022 due to other high priority commitments. I oversaw the process till a successor was appointed. 
+
+In 2023, the CMS collaboration embarked on documenting the current state of the software and computing preparation for the HL-LHC by starting the creation of a Conceptual Design Report (CDR) for Offline & Computing. The CDR is planned to be published by the end of 2024. I was asked by the collaboration to co-lead the computing model chapter, the central piece of the conceptual design including resource needs projections and general guidance of processes and workflows that will govern software and computing in HL-LHC. The capacity planning for the HL-LHC and especially the computing model will outline the integration of many traditional and new computing infrastructure forms in a seamless globally integrated system.
+
+In February 2024, I was appointed by the CMS Collaboration Board to co-lead the Sub-Committee for Offline & Computing for HL-LHC. This sub-committee is a novelty for the CMS collaboration, as it provides a home for discussing and coordinating effort needs of the Offline & Computing Coordination area in CMS. Detector components have a projectize structure with defined contributions from institutes all over the world, which also includes the operation and maintenance of these detectors after completion of construction. Offline & Computing does not have a similar projectize structure, except for computing hardware contributions through WLCG. The CB Sub-Committee is my approach to introduce coordination and planning of Offline & Computing effort into the CMS collaboration. 
+
+To plan the R&D needed for HL-LHC, I co-authored a strategic plan for the U.S. CMS Software & Computing Operations Program outlining four grand challenges: Modernizing Physics Software and Improving Algorithms; Building Infrastructure for Exabyte-Scale Datasets; Transforming the Scientific Data Analysis Process; and Transition from R\&D to Operations. The plan is updated yearly by the management team of the operations program. I also documented the plan in the proceedings for CHEP 2023 ([arXiv:2312.00772](https://arxiv.org/abs/2312.00772)).
+
+Under my leadership, the U.S. CMS Software & Computing Operations program created an [Research Initiative](https://uscms-software-and-computing.github.io/postdocs) to provide partial funding for postdoctoral researches to investigate novel and forward-looking software and computing solutions for the 4 grand challenges of HL-LHC. The R&D initiative is very successful in engaging new members of the collaboration and enlarging the solution phase space for the HL-LHC R&D challenges.
+
+## Fermilab's Computing Resources Evolution STrategy (CREST)
+
+In March 2023 I created Fermilab's Computing Resources Evolution STrategy (CREST) process. The goal is to document a strategy for the evolution of Fermilab's computing resources in the light of current experiment needs and future anticipated needs of DUNE and HL-LHC. The process enables the staff of the Scientific Computing Systems and Services Division (SCSS) in CSAID to document a strategy how to provide for the computing needs with a planning horizon of 10 years. It has also the goal of enabling operations expert to develop a strategy for the future that they own and execute. I am leading the creation of the first version of the plan that will be widely discussed with the scientific community at Fermilab. The plan will be updated yearly to account for changes in the scientific program and technical landscape.
+
+## DOE Center for Computational Excellence
+
+In January 2020, the DOE [Center for Computational Excellence (HEP-CCE)](https://www.anl.gov/hep-cce/activities) was funded for a 3-year project to enable HEP experiments like ATLAS, CMS, DUNE, LSST, DESI and others to efficiently use HPC installations in the U.S. at the leadership class facilities at Argonne and Oakridge National Laboratories and NERSC at Lawrence Berkeley National Laboratory. I co-wrote the proposal to execute 4 sub-projects to (1) investigate parallel portability solutions (PPS) to develop algorithmic code once and compile it transparently for the various CPU and accelerator-based architectures; (2) Fine-Grained I/O and Storage (IOS) to optimize data structures on disk and in memory and optimize data access on large shared storage systems at HPC systems; (3) Event Generators (EG) to optimize HEP theory code for execution on HPC systems; (4) Complex Workflows (CW) to orchestrate workflows whose steps need different hardware platforms. I was appointed technical lead of the PPS sub-project and am also point-of-contact for the CMS experiment. With my postdoc Martin Kwok and staff members from the DOE laboratories BNL, LBNL and Fermilab, I was working on [portability solutions and their applications to HEP software](https://www.anl.gov/hep-cce/portable-parallelization-strategies).
+
+## National and International Recognition
+
+I am recognized nationally and internationally for my leadership in software and computing through membership in the following journals, conference committees and mentoring opportunities:
+
+include({{{{../other/other.md}}}})
+
+and I am serving or served on the following committees:
+
+include({{{{../cv/committees.md}}}})
