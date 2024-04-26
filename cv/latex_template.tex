@@ -373,6 +373,15 @@ $endif$
 \renewcommand{\footrulewidth}{0pt}
 \fancypagestyle{plain}{
    \fancyhf{}
+   $if(leftheader)$
+   \fancyhead[L]{$leftheader$}
+   $endif$
+   $if(centerheader)$
+   \fancyhead[C]{$centerheader$}
+   $endif$
+   $if(rightheader)$
+   \fancyhead[R]{$rightheader$}
+   $endif$
    $if(leftfooter)$
    \fancyfoot[L]{$leftfooter$}
    $endif$

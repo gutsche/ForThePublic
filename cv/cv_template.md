@@ -10,6 +10,7 @@ margin-bottom: .6in
 fontsize: 11pt
 # title: "Curriculum Vitae"
 # author: "Oliver Gutsche"
+header: true
 footer: true
 leftheader: ""
 centerheader: "Curriculum Vitae of Oliver Gutsche"
@@ -18,8 +19,6 @@ leftfooter: "\\today"
 centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
-
-Curriculum Vitae of Oliver Gutsche
 
 changequote(`{{{{', `}}}}')
 
@@ -46,10 +45,6 @@ include({{{{../publication_list/short_computing_publication_list.md}}}})
 # List of Presentation and Talks
 
 include({{{{../talk_list/short_talk_list.md}}}})
-
-<!-- ## List of Media Articles
-
-include({{{{../media_list/short_media_list.md}}}}) -->
 
 ----------
 

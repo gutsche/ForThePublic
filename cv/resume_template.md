@@ -19,8 +19,6 @@ centerfooter: ""
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
-<span style="font-size:24px;">Resume of Oliver Gutsche</span>
-
 changequote(`{{{{', `}}}}')
 
 include({{{{../cv/whoami.md}}}})
