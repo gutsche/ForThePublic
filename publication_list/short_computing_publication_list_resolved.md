@@ -20,27 +20,6 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
-<!--#ref-Kwok:2024dgx-->
-K.H.M. Kwok et al., **Application of performance
-portability solutions for GPUs and many-core CPUs to track
-reconstruction kernels**, in: **26th International Conference on
-Computing in High Energy & Nuclear Physics**, 2024.
-<http://arxiv.org/abs/2401.14221>, arXiv:[2401.14221
-\[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
-
-<!--#ref-Gutsche:2023cth-->
-O. Gutsche et al., **The U.S. CMS HL-LHC R&D
-Strategic Plan**, in: **26th International Conference on Computing in
-High Energy & Nuclear Physics**, 2023.
-<http://arxiv.org/abs/2312.00772>, arXiv:[2312.00772
-\[hep-ex\]](http://arxiv.org/abs/2312.00772)
-
-<!--#ref-Smith:2023mrq-->
-N. Smith et al., **A Ceph S3 Object Data Store
-for HEP**, in: **26th International Conference on Computing in High
-Energy & Nuclear Physics**, 2023. <http://arxiv.org/abs/2311.16321>,
-arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
-
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
@@ -88,6 +67,25 @@ L. Bauerdick et al., **HEP
 Software Foundation Community White Paper Working Group - Data Analysis
 and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
 arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+
+<!--#ref-Gutsche:2023cth-->
+O. Gutsche et al., **The U.S. CMS HL-LHC R&D
+Strategic Plan**, *EPJ Web Conf.* 295 (2024) 04050,
+doi:[10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050),
+arXiv:[2312.00772 \[hep-ex\]](http://arxiv.org/abs/2312.00772)
+
+<!--#ref-Kwok:2024dgx-->
+K.H.M. Kwok et al., **Application of performance
+portability solutions for GPUs and many-core CPUs to track
+reconstruction kernels**, *EPJ Web Conf.* 295 (2024) 11003,
+doi:[10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003),
+arXiv:[2401.14221 \[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
+
+<!--#ref-Smith:2023mrq-->
+N. Smith et al., **A Ceph S3 Object Data Store
+for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
+doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
+arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
 
 <!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object
