@@ -300,9 +300,9 @@ doi:[10.1007/JHEP08(2012)110](https://doi.org/10.1007/JHEP08(2012)110),
 arXiv:[1205.3933 \[hep-ex\]](http://arxiv.org/abs/1205.3933)
 
 <!--#ref-CMS:2012hnc-->
-S. Chatrchyan et al., **Search for electroweak
-production of charginos and neutralinos using leptonic final states in
-$pp$ collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 11 (2012) 147,
+S. Chatrchyan et al., **Search for Electroweak
+Production of Charginos and Neutralinos using Leptonic Final States in
+$pp$ Collisions at $\sqrt{s}=7$ TeV**, *JHEP*. 11 (2012) 147,
 doi:[10.1007/JHEP11(2012)147](https://doi.org/10.1007/JHEP11(2012)147),
 arXiv:[1209.6620 \[hep-ex\]](http://arxiv.org/abs/1209.6620)
 
