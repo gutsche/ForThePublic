@@ -1,3 +1,38 @@
+<!--#ref-CMS:2024okz-->
+A. Hayrapetyan et al., **Measurement of inclusive
+and differential cross sections of single top quark production in
+association with a W boson in proton-proton collisions at $\sqrt{s}$ =
+13.6 TeV**, (2024). <http://arxiv.org/abs/2409.06444>, arXiv:[2409.06444
+\[hep-ex\]](http://arxiv.org/abs/2409.06444)
+
+<!--#ref-CMS:2024vip-->
+A. Hayrapetyan et al., **Bottom quark energy loss
+and hadronization with B $^+$ and B $^0_{s}$ nuclear modification
+factors using pp and \\PbPb collisions at $\sqrt{s_{{NN}}}$ = 5.02
+TeV**, (2024). <http://arxiv.org/abs/2409.07258>, arXiv:[2409.07258
+\[nucl-ex\]](http://arxiv.org/abs/2409.07258)
+
+<!--#ref-CMS:2024xzb-->
+A. Hayrapetyan et al., **Search for light
+long-lived particles decaying to displaced jets in proton-proton
+collisions at $\sqrt{s}$ = 13.6 TeV**, (2024).
+<http://arxiv.org/abs/2409.10806>, arXiv:[2409.10806
+\[hep-ex\]](http://arxiv.org/abs/2409.10806)
+
+<!--#ref-CMS:2024ykx-->
+A. Hayrapetyan et al., **Pseudorapidity
+distributions of charged hadrons in lead-lead collisions at
+$\sqrt{s_{{NN}}}$ = 5.36 TeV**, (2024).
+<http://arxiv.org/abs/2409.00838>, arXiv:[2409.00838
+\[hep-ex\]](http://arxiv.org/abs/2409.00838)
+
+<!--#ref-CMS:2024zkc-->
+A. Hayrapetyan et al., **Measurements of
+polarization and spin correlation and observation of entanglement in top
+quark pairs using lepton+jets events from proton-proton collisions at
+$\sqrt{s}$ = 13 TeV**, (2024). <http://arxiv.org/abs/2409.11067>,
+arXiv:[2409.11067 \[hep-ex\]](http://arxiv.org/abs/2409.11067)
+
 <!--#ref-CMS:2024goa-->
 A. Hayrapetyan et al., **Search for bottom quark
 associated production of the standard model Higgs boson in final states
@@ -18,6 +53,13 @@ Drell--Yan forward-backward asymmetry and of the effective leptonic weak
 mixing angle in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 (2024). <http://arxiv.org/abs/2408.07622>, arXiv:[2408.07622
 \[hep-ex\]](http://arxiv.org/abs/2408.07622)
+
+<!--#ref-CMS:2024rkj-->
+A. Hayrapetyan et al., **Search for dark matter
+produced in association with a pair of bottom quarks in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2024).
+<http://arxiv.org/abs/2408.17336>, arXiv:[2408.17336
+\[hep-ex\]](http://arxiv.org/abs/2408.17336)
 
 <!--#ref-CMS:2024seh-->
 A. Hayrapetyan et al., **Test of lepton flavor
@@ -148,25 +190,12 @@ QCD studies with the CMS experiment at the LHC**, (2024).
 <http://arxiv.org/abs/2405.10785>, arXiv:[2405.10785
 \[nucl-ex\]](http://arxiv.org/abs/2405.10785)
 
-<!--#ref-CMS:2024nht-->
-A. Hayrapetyan et al., **Search for new physics in
-high-mass diphoton events from proton-proton collisions at $\sqrt{s}$ =
-13 TeV**, (2024). <http://arxiv.org/abs/2405.09320>, arXiv:[2405.09320
-\[hep-ex\]](http://arxiv.org/abs/2405.09320)
-
 <!--#ref-CMS:2024qdd-->
 A. Hayrapetyan et al., **Search for production of a
 single vector-like quark decaying to tH or tZ in the all-hadronic final
 state in pp collisions at $\sqrt{s}$ = 13 TeV**, (2024).
 <http://arxiv.org/abs/2405.05071>, arXiv:[2405.05071
 \[hep-ex\]](http://arxiv.org/abs/2405.05071)
-
-<!--#ref-CMS:2024rcv-->
-A. Hayrapetyan et al., **Searches for violation of
-Lorentz invariance in ${t\bar{t}}$ production using dilepton events in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2024).
-<http://arxiv.org/abs/2405.14757>, arXiv:[2405.14757
-\[hep-ex\]](http://arxiv.org/abs/2405.14757)
 
 <!--#ref-CMS:2024srp-->
 A. Hayrapetyan et al., **Study of WH production
@@ -225,12 +254,6 @@ Analysis and Combination Tool: COMBINE**, (2024).
 <http://arxiv.org/abs/2404.06614>, arXiv:[2404.06614
 \[physics.data-an\]](http://arxiv.org/abs/2404.06614)
 
-<!--#ref-CMS:2024qgs-->
-A. Hayrapetyan et al., **Performance of CMS muon
-reconstruction from proton-proton to heavy ion collisions**, (2024).
-<http://arxiv.org/abs/2404.17377>, arXiv:[2404.17377
-\[hep-ex\]](http://arxiv.org/abs/2404.17377)
-
 <!--#ref-CMS:2024uqa-->
 A. Hayrapetyan et al., **Search for the Z boson
 decay to $\tau\tau\mu\mu$ in proton-proton collisions at $\sqrt{s}$ = 13
@@ -254,12 +277,6 @@ Production through Decays of Heavy Resonances**, (2024).
 <http://arxiv.org/abs/2403.16926>, arXiv:[2403.16926
 \[hep-ex\]](http://arxiv.org/abs/2403.16926)
 
-<!--#ref-CMS:2024ppo-->
-A. Hayrapetyan et al., **Performance of the CMS
-electromagnetic calorimeter in pp collisions at $\sqrt{s}$ = 13 TeV**,
-(2024). <http://arxiv.org/abs/2403.15518>, arXiv:[2403.15518
-\[physics.ins-det\]](http://arxiv.org/abs/2403.15518)
-
 <!--#ref-CMS:2024zhe-->
 A. Hayrapetyan et al., **Enriching the Physics
 Program of the CMS Experiment via Data Scouting and Data Parking**,
@@ -278,19 +295,6 @@ A. Hayrapetyan et al., **Search for fractionally
 charged particles in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 (2024). <http://arxiv.org/abs/2402.09932>, arXiv:[2402.09932
 \[hep-ex\]](http://arxiv.org/abs/2402.09932)
-
-<!--#ref-CMS:2024twn-->
-A. Hayrapetyan et al., **Portable acceleration of
-CMS computing workflows with coprocessors as a service**, (2024).
-<http://arxiv.org/abs/2402.15366>, arXiv:[2402.15366
-\[physics.ins-det\]](http://arxiv.org/abs/2402.15366)
-
-<!--#ref-CMS:2024xbc-->
-A. Hayrapetyan et al., **A search for bottom-type
-vector-like quark pair production in dileptonic and fully hadronic final
-states in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2024).
-<http://arxiv.org/abs/2402.13808>, arXiv:[2402.13808
-\[hep-ex\]](http://arxiv.org/abs/2402.13808)
 
 <!--#ref-CMS:2024iaa-->
 A. Hayrapetyan et al., **Measurement of the
@@ -311,13 +315,6 @@ multidifferential cross sections for dijet production in proton-proton
 collisions at $\sqrt{s}$ = 13 TeV**, (2023).
 <http://arxiv.org/abs/2312.16669>, arXiv:[2312.16669
 \[hep-ex\]](http://arxiv.org/abs/2312.16669)
-
-<!--#ref-CMS:2023iam-->
-A. Hayrapetyan et al., **Observation of enhanced
-long-range elliptic anisotropies inside high-multiplicity jets in pp
-collisions at $\sqrt{s}$ = 13 TeV**, (2023).
-<http://arxiv.org/abs/2312.17103>, arXiv:[2312.17103
-\[hep-ex\]](http://arxiv.org/abs/2312.17103)
 
 <!--#ref-CMS:2023iul-->
 A. Hayrapetyan et al., **Search for Charged-Lepton
@@ -543,12 +540,27 @@ proton-proton collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 05 (2024)
 doi:[10.1007/JHEP05(2024)046](https://doi.org/10.1007/JHEP05(2024)046),
 arXiv:[2310.19893 \[hep-ex\]](http://arxiv.org/abs/2310.19893)
 
+<!--#ref-CMS:2023iam-->
+A. Hayrapetyan et al., **Observation of enhanced
+long-range elliptic anisotropies inside high-multiplicity jets in pp
+collisions at $\sqrt{s}$ = 13 TeV**, *Phys. Rev. Lett.* 133 (2024)
+142301,
+doi:[10.1103/PhysRevLett.133.142301](https://doi.org/10.1103/PhysRevLett.133.142301),
+arXiv:[2312.17103 \[hep-ex\]](http://arxiv.org/abs/2312.17103)
+
 <!--#ref-CMS:2023iqy-->
 A. Hayrapetyan et al., **Search for the lepton
 flavor violating $\tau$  3$\mu$ decay in proton-proton collisions at
 s=13TeV**, *Phys. Lett. B*. 853 (2024) 138633,
 doi:[10.1016/j.physletb.2024.138633](https://doi.org/10.1016/j.physletb.2024.138633),
 arXiv:[2312.02371 \[hep-ex\]](http://arxiv.org/abs/2312.02371)
+
+<!--#ref-CMS:2023jjt-->
+A. Tumasyan et al., **KS0 and $\Lambda$($\Lambda$‾)
+two-particle femtoscopic correlations in PbPb collisions at
+sNN=5.02TeV**, *Phys. Lett. B*. 857 (2024) 138936,
+doi:[10.1016/j.physletb.2024.138936](https://doi.org/10.1016/j.physletb.2024.138936),
+arXiv:[2301.05290 \[nucl-ex\]](http://arxiv.org/abs/2301.05290)
 
 <!--#ref-CMS:2023jqi-->
 A. Hayrapetyan et al., **Search for Long-Lived
@@ -772,6 +784,35 @@ $\alpha$S(mZ)**, *Phys. Rev. Lett.* 133 (2024) 071903,
 doi:[10.1103/PhysRevLett.133.071903](https://doi.org/10.1103/PhysRevLett.133.071903),
 arXiv:[2402.13864 \[hep-ex\]](http://arxiv.org/abs/2402.13864)
 
+<!--#ref-CMS:2024nht-->
+A. Hayrapetyan et al., **Search for new physics in
+high-mass diphoton events from proton-proton collisions at
+$\sqrt{\textrm{s}}$ = 13 TeV**, *JHEP*. 08 (2024) 215,
+doi:[10.1007/JHEP08(2024)215](https://doi.org/10.1007/JHEP08(2024)215),
+arXiv:[2405.09320 \[hep-ex\]](http://arxiv.org/abs/2405.09320)
+
+<!--#ref-CMS:2024ppo-->
+A. Hayrapetyan et al., **Performance of the CMS
+electromagnetic calorimeter in pp collisions at $\sqrt{}$ $_{s}$ = 13
+TeV**, *JINST*. 19 (2024) P09004,
+doi:[10.1088/1748-0221/19/09/P09004](https://doi.org/10.1088/1748-0221/19/09/P09004),
+arXiv:[2403.15518 \[physics.ins-det\]](http://arxiv.org/abs/2403.15518)
+
+<!--#ref-CMS:2024qgs-->
+A. Hayrapetyan et al., **Performance of CMS muon
+reconstruction from proton-proton to heavy ion collisions**, *JINST*. 19
+(2024) P09012,
+doi:[10.1088/1748-0221/19/09/P09012](https://doi.org/10.1088/1748-0221/19/09/P09012),
+arXiv:[2404.17377 \[hep-ex\]](http://arxiv.org/abs/2404.17377)
+
+<!--#ref-CMS:2024qjo-->
+A. Hayrapetyan et al., **Observation of
+$\gamma\gamma\to\tau\tau$ in proton-proton collisions and limits on the
+anomalous electromagnetic moments of the $\tau$ lepton**, *Rept. Prog.
+Phys.* 87 (2024) 107801,
+doi:[10.1088/1361-6633/ad6fcb](https://doi.org/10.1088/1361-6633/ad6fcb),
+arXiv:[2406.03975 \[hep-ex\]](http://arxiv.org/abs/2406.03975)
+
 <!--#ref-CMS:2024qxz-->
 A. Hayrapetyan et al., **Search for long-lived
 particles decaying to final states with a pair of muons in proton-proton
@@ -781,11 +822,18 @@ arXiv:[2402.14491 \[hep-ex\]](http://arxiv.org/abs/2402.14491)
 
 <!--#ref-CMS:2024rbi-->
 A. Hayrapetyan et al., **Observation of the
-$\Xi^-_{b}$$\to$$\psi$(2S) $\Xi^-$ decay and studies of the
-$\Xi_{b}^{\ast{}0}$ baryon in proton-proton collisions at $\sqrt{s}$ =
-13 TeV**, *Phys. Rev. D*. 110 (2024) 012002,
+$\Xi$b-$\psi$(2S)$\Xi$- decay and studies of the $\Xi$b(5945)0 baryon in
+proton-proton collisions at s=13  TeV**, *Phys. Rev. D*. 110 (2024)
+012002,
 doi:[10.1103/PhysRevD.110.012002](https://doi.org/10.1103/PhysRevD.110.012002),
 arXiv:[2402.17738 \[hep-ex\]](http://arxiv.org/abs/2402.17738)
+
+<!--#ref-CMS:2024rcv-->
+A. Hayrapetyan et al., **Searches for violation of
+Lorentz invariance in top quark pair production using dilepton events in
+13 TeV proton-proton collisions**, *Phys. Lett. B*. 857 (2024) 138979,
+doi:[10.1016/j.physletb.2024.138979](https://doi.org/10.1016/j.physletb.2024.138979),
+arXiv:[2405.14757 \[hep-ex\]](http://arxiv.org/abs/2405.14757)
 
 <!--#ref-CMS:2024rgy-->
 A. Hayrapetyan et al., **Search for Higgs boson
@@ -828,6 +876,13 @@ proton-proton collisions at s=13  TeV**, *Phys. Rev. D*. 109 (2024)
 doi:[10.1103/PhysRevD.109.112005](https://doi.org/10.1103/PhysRevD.109.112005),
 arXiv:[2402.15804 \[hep-ex\]](http://arxiv.org/abs/2402.15804)
 
+<!--#ref-CMS:2024twn-->
+A. Hayrapetyan et al., **Portable Acceleration of
+CMS Computing Workflows with Coprocessors as a Service**, *Comput.
+Softw. Big Sci.* 8 (2024) 17,
+doi:[10.1007/s41781-024-00124-1](https://doi.org/10.1007/s41781-024-00124-1),
+arXiv:[2402.15366 \[physics.ins-det\]](http://arxiv.org/abs/2402.15366)
+
 <!--#ref-CMS:2024ulc-->
 A. Tumasyan et al., **Search for a scalar or
 pseudoscalar dilepton resonance produced in association with a massive
@@ -842,6 +897,14 @@ of the Higgs boson to a pair of pseudoscalars in the $\mu\mu$bb and
 $\tau\tau$bb final states**, *Eur. Phys. J. C*. 84 (2024) 493,
 doi:[10.1140/epjc/s10052-024-12727-4](https://doi.org/10.1140/epjc/s10052-024-12727-4),
 arXiv:[2402.13358 \[hep-ex\]](http://arxiv.org/abs/2402.13358)
+
+<!--#ref-CMS:2024xbc-->
+A. Hayrapetyan et al., **Search for bottom-type
+vectorlike quark pair production in dileptonic and fully hadronic final
+states in proton-proton collisions at s=13  TeV**, *Phys. Rev. D*. 110
+(2024) 052004,
+doi:[10.1103/PhysRevD.110.052004](https://doi.org/10.1103/PhysRevD.110.052004),
+arXiv:[2402.13808 \[hep-ex\]](http://arxiv.org/abs/2402.13808)
 
 <!--#ref-CMS:2024xdq-->
 A. Hayrapetyan et al., **Search for heavy neutral
