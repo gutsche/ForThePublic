@@ -100,6 +100,11 @@ Software II. Software Libraries and Tools III. Systems)**, (2015).
 <http://arxiv.org/abs/1510.08545>, arXiv:[1510.08545
 \[physics.comp-ph\]](http://arxiv.org/abs/1510.08545)
 
+<!--#ref-CMS:2024juo-->
+J. Balcas et al., **Automated Network Services for
+Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
+doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
+
 <!--#ref-Gutsche:2023cth-->
 O. Gutsche et al., **The U.S. CMS HL-LHC R&D
 Strategic Plan**, *EPJ Web Conf.* 295 (2024) 04050,
@@ -118,11 +123,6 @@ N. Smith et al., **A Ceph S3 Object Data Store
 for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
 doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
 arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
-
-<!--#ref-CMS:2024juo-->
-J. Balcas et al., **Automated Network Services for
-Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
-doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
 
 <!--#ref-CMS:2020kpn-->
 N. Smith et al., **Coffea: Columnar Object
