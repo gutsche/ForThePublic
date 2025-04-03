@@ -1,3 +1,17 @@
+<!--#ref-Gutsche:2025aab-->
+O. Gutsche, **Scientific Computing and
+Scientific Software Infrastructure - High Performance Computing (HPC)**,
+(2025), Presentation for the [Chicagoland Computational Traineeship in
+High Energy Particle Physics](https://www.c2thep2.org),
+[(Material)](https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%202.pdf)
+
+<!--#ref-Gutsche:2025aaa-->
+O. Gutsche, **Scientific Computing and
+Scientific Software Infrastructure - Particle Physics Overview**,
+(2025), Presentation for the [Chicagoland Computational Traineeship in
+High Energy Particle Physics](https://www.c2thep2.org),
+[(Material)](https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%201.pdf)
+
 <!--#ref-Gutsche:2024aaa-->
 O. Gutsche, **Computing and Software
 Infrastructure**, (2024), Presentation at the [Fermilab-CERN HCP Summer
