@@ -44,8 +44,8 @@ arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
 
 <!--#ref-CMS:2014rdf-->
 S. Chatrchyan et al., **Measurements of the
-$t\bar{t}$ charge asymmetry using the dilepton decay channel in pp
-collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
+$t\bar{t}$ Charge Asymmetry Using the Dilepton Decay Channel in pp
+Collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
 doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
 arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
 
