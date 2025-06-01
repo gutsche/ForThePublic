@@ -190,9 +190,9 @@ doi:[10.1007/JHEP01(2014)096](https://doi.org/10.1007/JHEP01(2014)096),
 arXiv:[1312.1129 \[hep-ex\]](http://arxiv.org/abs/1312.1129)
 
 <!--#ref-CMS:2014ewg-->
-V. Khachatryan et al., **Searches for electroweak
-production of charginos, neutralinos, and sleptons decaying to leptons
-and W, Z, and Higgs bosons in pp collisions at 8 TeV**, *Eur. Phys. J.
+V. Khachatryan et al., **Searches for Electroweak
+Production of Charginos, Neutralinos, and Sleptons Decaying to Leptons
+and W, Z, and Higgs Bosons in pp Collisions at 8 TeV**, *Eur. Phys. J.
 C*. 74 (2014) 3036,
 doi:[10.1140/epjc/s10052-014-3036-7](https://doi.org/10.1140/epjc/s10052-014-3036-7),
 arXiv:[1405.7570 \[hep-ex\]](http://arxiv.org/abs/1405.7570)
