@@ -20,6 +20,25 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2025dua-->
+V. Chekhovsky et al., **Evidence of medium response
+to hard probes using correlations of Z bosons with hadrons in heavy ion
+collisions**, (2025). <http://arxiv.org/abs/2507.09307>,
+arXiv:[2507.09307 \[nucl-ex\]](http://arxiv.org/abs/2507.09307)
+
+<!--#ref-CMS:2025dzq-->
+A. Hayrapetyan et al., **Search for heavy
+pseudoscalar and scalar bosons decaying to a top quark pair in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+<http://arxiv.org/abs/2507.05119>, arXiv:[2507.05119
+\[hep-ex\]](http://arxiv.org/abs/2507.05119)
+
+<!--#ref-CMS:2025eyd-->
+A. Hayrapetyan et al., **A method for correcting
+the substructure of multiprong jets using the Lund jet plane**, (2025).
+<http://arxiv.org/abs/2507.07775>, arXiv:[2507.07775
+\[hep-ex\]](http://arxiv.org/abs/2507.07775)
+
 <!--#ref-CMS:2025bxo-->
 V. Chekhovsky et al., **Search for top squarks in
 final states with many light-flavor jets and 0, 1, or 2 charged leptons
@@ -62,8 +81,8 @@ with b-tagged jets in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 <!--#ref-CMS:2025tqi-->
 A. Hayrapetyan et al., **Search for the nonresonant
 and resonant production of a Higgs boson in association with an
-additional scalar boson in the $\gamma\gamma\pi$ final state in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+additional scalar boson in the $γγττ$ final state in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2025).
 <http://arxiv.org/abs/2506.23012>, arXiv:[2506.23012
 \[hep-ex\]](http://arxiv.org/abs/2506.23012)
 
@@ -99,12 +118,6 @@ interpretation of differential Higgs boson production cross sections in
 proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
 <http://arxiv.org/abs/2504.13081>, arXiv:[2504.13081
 \[hep-ex\]](http://arxiv.org/abs/2504.13081)
-
-<!--#ref-CMS:2025jbv-->
-V. Chekhovsky et al., **Search for jet quenching
-with dijets from high-multiplicity pPb collisions at $\sqrt{s_{{NN}}}$ =
-8.16 TeV**, (2025). <http://arxiv.org/abs/2504.08507>, arXiv:[2504.08507
-\[nucl-ex\]](http://arxiv.org/abs/2504.08507)
 
 <!--#ref-CMS:2025lsm-->
 V. Chekhovsky et al., **Observation of coherent
@@ -146,13 +159,6 @@ A. Hayrapetyan et al., **Observation of a
 pseudoscalar excess at the top quark pair production threshold**,
 (2025). <http://arxiv.org/abs/2503.22382>, arXiv:[2503.22382
 \[hep-ex\]](http://arxiv.org/abs/2503.22382)
-
-<!--#ref-CMS:2025oey-->
-V. Chekhovsky et al., **Observation of WZ $\gamma$
-production and constraints on new physics scenarios in proton-proton
-collisions at $\sqrt{s}$ = 13 TeV**, (2025).
-<http://arxiv.org/abs/2503.21977>, arXiv:[2503.21977
-\[hep-ex\]](http://arxiv.org/abs/2503.21977)
 
 <!--#ref-CMS:2025oqe-->
 V. Chekhovsky et al., **Observation of the
@@ -293,13 +299,6 @@ A. Tumasyan et al., **Correlations between
 azimuthal anisotropy and mean transverse momentum in pp, pPb, and
 peripheral PbPb collisions**, (2024). <http://arxiv.org/abs/2410.04578>,
 arXiv:[2410.04578 \[nucl-ex\]](http://arxiv.org/abs/2410.04578)
-
-<!--#ref-CMS:2024tjo-->
-A. Hayrapetyan et al., **Multiplicity dependence of
-charm baryon and baryon meson production in pPb collisions at
-$\sqrt{s_{{NN}}}$ = 8.16 TeV**, (2024).
-<http://arxiv.org/abs/2407.13615>, arXiv:[2407.13615
-\[nucl-ex\]](http://arxiv.org/abs/2407.13615)
 
 <!--#ref-CMS:2024ubt-->
 A. Hayrapetyan et al., **Search for flavor-changing
@@ -683,6 +682,13 @@ collisions at s=13TeV**, *Phys. Lett. B*. 862 (2025) 139296,
 doi:[10.1016/j.physletb.2025.139296](https://doi.org/10.1016/j.physletb.2025.139296),
 arXiv:[2410.18289 \[hep-ex\]](http://arxiv.org/abs/2410.18289)
 
+<!--#ref-CMS:2024tjo-->
+A. Hayrapetyan et al., **Multiplicity dependence of
+charm baryon and charm meson production in pPb collisions at
+sNN=8.16TeV**, *Phys. Lett. B*. 868 (2025) 139672,
+doi:[10.1016/j.physletb.2025.139672](https://doi.org/10.1016/j.physletb.2025.139672),
+arXiv:[2407.13615 \[nucl-ex\]](http://arxiv.org/abs/2407.13615)
+
 <!--#ref-CMS:2024trs-->
 V. Chekhovsky et al., **Determination of the strong
 coupling and its running from measurements of inclusive jet
@@ -799,6 +805,20 @@ extended Higgs sector in b quark final states in proton-proton
 collisions at $\sqrt{\textrm{s}}$ = 13 TeV**, *JHEP*. 06 (2025) 144,
 doi:[10.1007/JHEP06(2025)144](https://doi.org/10.1007/JHEP06(2025)144),
 arXiv:[2502.06568 \[hep-ex\]](http://arxiv.org/abs/2502.06568)
+
+<!--#ref-CMS:2025jbv-->
+V. Chekhovsky et al., **Search for jet quenching
+with dijets from high-multiplicity pPb collisions at $\sqrt{{s}_{{NN}}}$
+= 8.16 TeV**, *JHEP*. 07 (2025) 118,
+doi:[10.1007/JHEP07(2025)118](https://doi.org/10.1007/JHEP07(2025)118),
+arXiv:[2504.08507 \[nucl-ex\]](http://arxiv.org/abs/2504.08507)
+
+<!--#ref-CMS:2025oey-->
+V. Chekhovsky et al., **Observation of WZ $\gamma$
+production and constraints on new physics scenarios in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *Phys. Rev. D*. 112 (2025) 012009,
+doi:[10.1103/cm24-665b](https://doi.org/10.1103/cm24-665b),
+arXiv:[2503.21977 \[hep-ex\]](http://arxiv.org/abs/2503.21977)
 
 <!--#ref-CMS:2025wnr-->
 V. Chekhovsky et al., **Measurements of the Higgs
