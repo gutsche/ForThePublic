@@ -2,7 +2,11 @@ include({{{{../cv/technical_experience_introduction.md}}}})
 
 ## Managed networks
 
-Distributed data-intensive computing relies on very fast wide-area network connectivity to move data to where it is needed, either for processing workflows or end-user analysis. I am investing in networking R&D both by being part of the [DOE ASCR's ESnet](https://www.es.net) [requirements review](https://escholarship.org/uc/item/78j3c9v40) and contributing actively with my team to networking R&D topics. Especially of interest are dynamically managed network paths. The ESnet [SENSE/Rucio](https://indico.jlab.org/event/459/contributions/11306/) project works on a solution that the data management system [Rucio](https://rucio.cern.ch) can dynamically create network paths between storage endpoints and through this guarantee quality of service and improve predictability and reduce contention of organized data flows.
+Distributed data-intensive computing relies on very fast wide-area network connectivity to move data to where it is needed, either for processing workflows or end-user analysis. I am investing in networking R&D both by being part of the [DOE ASCR's ESnet](https://www.es.net) [requirements review](https://escholarship.org/uc/item/78j3c9v40) and contributing actively with my team to networking R&D topics. Especially of interest are dynamically managed network paths. The ESnet [SENSE/Rucio](https://indico.jlab.org/event/459/contributions/11306/) project works on a solution that the data management system [Rucio](https://rucio.cern.ch) can dynamically create network paths between storage endpoints and through this guarantee quality of service and improve predictability and reduce contention of organized data flows. 
+
+## AI-based flow characterization
+
+Together with ESnet researchers, I am working on characterizing network flows at the site border using packet headers. We are deploying sophisticated AI techniques to learn the patterns of streaming vs. file transfers vs. other flow types. This will enable us to deploy managed network paths using SENSE without having to instrument the application layer.
 
 ## Enabling HPC utilization
 
