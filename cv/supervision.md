@@ -10,13 +10,14 @@
 |                 | - 09/2015-09/2019: CMS L3 manager for processing and production      |
 |                 | - 12/2016-01/2019: Co-lead of [CERN openlab/Intel Big Data project](https://cms-big-data.github.io) |
 |                 | - 01/2019-present: Co-lead of [Coffea](https://github.com/CoffeaTeam/coffea0) project using python industry tools for CMS analysis |
-|                 | now Faculty at [Carnegie Mellon University](https://www.cmu.edu)  |
+|                 | now Faculty at [Carnegie Mellon University](https://www.cmu.edu)     |
 | 10/2018-04/2024 | Nick Smith - Fermilab Postdoc in CMS                                 |
 |                 | - Higgs precision measurements in b-quark and other final states     |
 |                 | - 03/2019-12/2019: CMS L3 manager for data management                |
 |                 | - 01/2020-01/2022: CMS L2 manager for Computing Operations           |
 |                 | - 09/2021-09/2023: CMS Higgs Combination Sub-Group coordinator       |
 |                 | - 01/2022-01/2023: U.S. CMS Storage R&D project: Ceph                |
-|                 | Now offered staff position at Fermilab                               |
+|                 | Now staff at Fermilab                                                |
 | 11/2020-09/2023 | Martin Kwok - Fermilab Postdoc in CMS                                |
 |                 | - [HEP-CCE Portable Parallelization Strategies](https://www.anl.gov/hep-cce/portable-parallelization-strategies) |
+|                 | Now staff at U Nebraska-Lincoln.                                     |
