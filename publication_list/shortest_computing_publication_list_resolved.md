@@ -40,9 +40,9 @@ Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
 
 <!--#ref-Elvira:2022wyn-->
 V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **Snowmass 2021**, 2022.
-<http://arxiv.org/abs/2210.05822>, arXiv:[2210.05822
-\[hep-ex\]](http://arxiv.org/abs/2210.05822)
+Physics Software and Computing**, in: **Snowmass 2021**, 2022,
+doi:[10.2172/1898754](https://doi.org/10.2172/1898754),
+arXiv:[2210.05822 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
 
 <!--#ref-Bhattacharya:2022qgj-->
 M. Bhattacharya et al., **Portability: A

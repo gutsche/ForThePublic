@@ -242,7 +242,7 @@ def update(inspire_db,physics_db,computing_db,experiment_db,short_physics_db,sho
             experiment_keys.remove(key)
 
     # add new keys to experiment
-    new_experiment_keys=['CMS:2025dua','CMS:2025eyd','CMS:2025dzq']
+    new_experiment_keys=[]
     experiment_keys.extend(new_experiment_keys)
 
     # update all keys in physics_db
