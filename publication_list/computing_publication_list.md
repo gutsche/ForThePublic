@@ -37,9 +37,9 @@ Necessary Approach for Future Scientific Software**, in: **Snowmass
 <!--#ref-Amundson:2019ohm-->
 J. Amundson et al., **Response to NITRD, NCO,
 NSF Request for Information on "Update to the 2016 National Artificial
-Intelligence Research and Development Strategic Plan"**, (2019).
-<http://arxiv.org/abs/1911.05796>, arXiv:[1911.05796
-\[astro-ph.IM\]](http://arxiv.org/abs/1911.05796)
+Intelligence Research and Development Strategic Plan"**, (2019),
+doi:[10.2172/1592156](https://doi.org/10.2172/1592156),
+arXiv:[1911.05796 \[astro-ph.IM\]](http://arxiv.org/abs/1911.05796)
 
 <!--#ref-Ahmed:2019sim-->
 Z. Ahmed et al., **New Technologies for
