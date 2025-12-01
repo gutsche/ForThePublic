@@ -20,6 +20,73 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-CMS:2025cgw-->
+A. Hayrapetyan et al., **Search for new physics in
+the final state with a single photon and large missing transverse
+momentum in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+<http://arxiv.org/abs/2511.17310>, arXiv:[2511.17310
+\[hep-ex\]](http://arxiv.org/abs/2511.17310)
+
+<!--#ref-CMS:2025dsz-->
+V. Chekhovsky et al., **Jet fragmentation function
+and groomed substructure of bottom quark jets in proton-proton
+collisions at 5.02 TeV**, (2025). <http://arxiv.org/abs/2511.10666>,
+arXiv:[2511.10666 \[hep-ex\]](http://arxiv.org/abs/2511.10666)
+
+<!--#ref-CMS:2025fnr-->
+A. Hayrapetyan et al., **Search for low-mass
+hidden-valley dark showers with non-prompt muon pairs in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+<http://arxiv.org/abs/2511.11888>, arXiv:[2511.11888
+\[hep-ex\]](http://arxiv.org/abs/2511.11888)
+
+<!--#ref-CMS:2025kgf-->
+A. Hayrapetyan et al., **Identification of tau
+leptons using a convolutional neural network with domain adaptation**,
+(2025). <http://arxiv.org/abs/2511.05468>, arXiv:[2511.05468
+\[hep-ex\]](http://arxiv.org/abs/2511.05468)
+
+<!--#ref-CMS:2025mie-->
+A. Hayrapetyan et al., **Search for Higgsinos in
+final states with low-momentum lepton-track pairs at 13 TeV**, (2025).
+<http://arxiv.org/abs/2511.16394>, arXiv:[2511.16394
+\[hep-ex\]](http://arxiv.org/abs/2511.16394)
+
+<!--#ref-CMS:2025qkk-->
+A. Hayrapetyan et al., **Search for long-lived
+particles using displaced vertices with low-momentum tracks in
+proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+<http://arxiv.org/abs/2511.08212>, arXiv:[2511.08212
+\[hep-ex\]](http://arxiv.org/abs/2511.08212)
+
+<!--#ref-CMS:2025rqr-->
+A. Hayrapetyan et al., **Search for heavy H $γ$ and
+Z $γ$ resonances with a bottom quark-antiquark pair in the final state
+in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
+<http://arxiv.org/abs/2511.14583>, arXiv:[2511.14583
+\[hep-ex\]](http://arxiv.org/abs/2511.14583)
+
+<!--#ref-CMS:2025xvx-->
+V. Chekhovsky et al., **Search for a new neutral
+gauge boson produced in association with one or two b jets and decaying
+into a pair of muons in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2025). <http://arxiv.org/abs/2511.11853>, arXiv:[2511.11853
+\[hep-ex\]](http://arxiv.org/abs/2511.11853)
+
+<!--#ref-CMS:2025zbe-->
+A. Hayrapetyan et al., **Inclusive and differential
+measurements of the ${t\bar{t}}γ$ cross section and the
+${t\bar{t}}γ/{t\bar{t}}$ cross section ratio in proton-proton collisions
+at $\sqrt{s}$ = 13 TeV**, (2025). <http://arxiv.org/abs/2511.01995>,
+arXiv:[2511.01995 \[hep-ex\]](http://arxiv.org/abs/2511.01995)
+
+<!--#ref-CMS:2025zwc-->
+A. Hayrapetyan et al., **Search for light
+pseudoscalar bosons, pair-produced in Higgs boson decays in the
+four-electron final state in proton-proton collisions at $\sqrt{s}$ = 13
+TeV**, (2025). <http://arxiv.org/abs/2511.19563>, arXiv:[2511.19563
+\[hep-ex\]](http://arxiv.org/abs/2511.19563)
+
 <!--#ref-CMS:2025bta-->
 A. Hayrapetyan et al., **Discovery of suppressed
 charged-particle production in ultrarelativistic oxygen-oxygen
@@ -32,13 +99,6 @@ the B $_{c}^+$$\to$ J/ $ψ$$τ^+ν_τ$ and B $_{c}^+$$\to$ J/ $ψ$$μ^+ν_μ$
 branching fractions using three-prong $τ$ lepton decays**, (2025).
 <http://arxiv.org/abs/2510.21559>, arXiv:[2510.21559
 \[hep-ex\]](http://arxiv.org/abs/2510.21559)
-
-<!--#ref-CMS:2025kje-->
-A. Hayrapetyan et al., **Performance of
-heavy-flavour jet identification in Lorentz-boosted topologies in
-proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
-<http://arxiv.org/abs/2510.10228>, arXiv:[2510.10228
-\[physics.ins-det\]](http://arxiv.org/abs/2510.10228)
 
 <!--#ref-CMS:2025opi-->
 A. Hayrapetyan et al., **Characterizing the initial
@@ -186,12 +246,6 @@ proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
 <http://arxiv.org/abs/2507.05119>, arXiv:[2507.05119
 \[hep-ex\]](http://arxiv.org/abs/2507.05119)
 
-<!--#ref-CMS:2025eyd-->
-A. Hayrapetyan et al., **A method for correcting
-the substructure of multiprong jets using the Lund jet plane**, (2025).
-<http://arxiv.org/abs/2507.07775>, arXiv:[2507.07775
-\[hep-ex\]](http://arxiv.org/abs/2507.07775)
-
 <!--#ref-CMS:2025hpa-->
 A. Hayrapetyan et al., **Search for resonant
 production of pairs of dijet resonances through broad mediators in
@@ -206,13 +260,6 @@ proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
 <http://arxiv.org/abs/2507.17498>, arXiv:[2507.17498
 \[hep-ex\]](http://arxiv.org/abs/2507.17498)
 
-<!--#ref-CMS:2025bxo-->
-V. Chekhovsky et al., **Search for top squarks in
-final states with many light-flavor jets and 0, 1, or 2 charged leptons
-in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
-<http://arxiv.org/abs/2506.08825>, arXiv:[2506.08825
-\[hep-ex\]](http://arxiv.org/abs/2506.08825)
-
 <!--#ref-CMS:2025cvw-->
 A. Hayrapetyan et al., **Machine learning method
 for enforcing variable independence in background estimation with LHC
@@ -224,13 +271,6 @@ A. Hayrapetyan et al., **Determination of the spin
 and parity of all-charm tetraquarks**, (2025).
 <http://arxiv.org/abs/2506.07944>, arXiv:[2506.07944
 \[hep-ex\]](http://arxiv.org/abs/2506.07944)
-
-<!--#ref-CMS:2025idq-->
-V. Chekhovsky et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a $\tau$ lepton
-pair in proton-proton collisions at $\sqrt{s}$ = 13 TeV**, (2025).
-<http://arxiv.org/abs/2506.04431>, arXiv:[2506.04431
-\[hep-ex\]](http://arxiv.org/abs/2506.04431)
 
 <!--#ref-CMS:2025tlo-->
 V. Chekhovsky et al., **Search for nonresonant new
@@ -252,6 +292,12 @@ V. Chekhovsky et al., **Measurement of event shapes
 in minimum-bias events from proton-proton collisions at $\sqrt{s}$ = 13
 TeV**, (2025). <http://arxiv.org/abs/2505.17850>, arXiv:[2505.17850
 \[hep-ex\]](http://arxiv.org/abs/2505.17850)
+
+<!--#ref-ATLAS:2025eii-->
+G. Aad et al., **Highlights of the HL-LHC physics
+projections by ATLAS and CMS**, (2025).
+<http://arxiv.org/abs/2504.00672>, arXiv:[2504.00672
+\[hep-ex\]](http://arxiv.org/abs/2504.00672)
 
 <!--#ref-CMS:2025ihj-->
 V. Chekhovsky et al., **Combination and
@@ -288,13 +334,6 @@ dielectron spectra in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 (2025). <http://arxiv.org/abs/2503.20023>, arXiv:[2503.20023
 \[hep-ex\]](http://arxiv.org/abs/2503.20023)
 
-<!--#ref-CMS:2025qmm-->
-V. Chekhovsky et al., **Search for the associated
-production of a Higgs boson with a charm quark in the diphoton decay
-channel in pp collisions at $\sqrt{s}$ = 13 TeV**, (2025).
-<http://arxiv.org/abs/2503.08797>, arXiv:[2503.08797
-\[hep-ex\]](http://arxiv.org/abs/2503.08797)
-
 <!--#ref-CMS:2025rzq-->
 V. Chekhovsky et al., **Luminosity measurement for
 lead-lead collisions at $\sqrt{s_{{NN}}}$ = 5.02 TeV in 2015 and 2018 at
@@ -314,12 +353,6 @@ jet scaling patterns of multilepton events at $\sqrt{s}$ = 13 TeV**,
 (2025). <http://arxiv.org/abs/2503.06726>, arXiv:[2503.06726
 \[hep-ex\]](http://arxiv.org/abs/2503.06726)
 
-<!--#ref-CMS:2025cwy-->
-V. Chekhovsky et al., **Development of systematic
-uncertainty-aware neural network trainings for binned-likelihood
-analyses at the LHC**, (2025). <http://arxiv.org/abs/2502.13047>,
-arXiv:[2502.13047 \[hep-ex\]](http://arxiv.org/abs/2502.13047)
-
 <!--#ref-CMS:2025xkn-->
 V. Chekhovsky et al., **Search for $\gamma$H
 production and constraints on the Yukawa couplings of light quarks to
@@ -338,13 +371,6 @@ violation and measurement of $CP$-violating parameters in B
 $^0_{s}$$\to$ J/ $\psi\,\phi$(1020) decays in pp collisions at
 $\sqrt{s} =$ 13 TeV**, (2024). <http://arxiv.org/abs/2412.19952>,
 arXiv:[2412.19952 \[hep-ex\]](http://arxiv.org/abs/2412.19952)
-
-<!--#ref-CMS:2024jvu-->
-A. Hayrapetyan et al., **Study of same-sign W boson
-scattering and anomalous couplings in events with one tau lepton from pp
-collisions at $\sqrt{s}$ = 13 TeV**, (2024).
-<http://arxiv.org/abs/2410.04210>, arXiv:[2410.04210
-\[hep-ex\]](http://arxiv.org/abs/2410.04210)
 
 <!--#ref-CMS:2024rvk-->
 A. Tumasyan et al., **Correlations between
@@ -618,6 +644,13 @@ events using machine-learning techniques in the CMS experiment**, *Eur.
 Phys. J. C*. 85 (2025) 495,
 doi:[10.1140/epjc/s10052-025-14097-x](https://doi.org/10.1140/epjc/s10052-025-14097-x),
 arXiv:[2411.03023 \[hep-ex\]](http://arxiv.org/abs/2411.03023)
+
+<!--#ref-CMS:2024jvu-->
+A. Hayrapetyan et al., **Study of same-sign W boson
+scattering and anomalous couplings in events with one tau lepton from pp
+collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 10 (2025) 219,
+doi:[10.1007/JHEP10(2025)219](https://doi.org/10.1007/JHEP10(2025)219),
+arXiv:[2410.04210 \[hep-ex\]](http://arxiv.org/abs/2410.04210)
 
 <!--#ref-CMS:2024krd-->
 A. Hayrapetyan et al., **Overview of high-density
@@ -898,6 +931,21 @@ collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 10 (2025) 074,
 doi:[10.1007/JHEP10(2025)074](https://doi.org/10.1007/JHEP10(2025)074),
 arXiv:[2501.14825 \[hep-ex\]](http://arxiv.org/abs/2501.14825)
 
+<!--#ref-CMS:2025bxo-->
+V. Chekhovsky et al., **Search for top squarks in
+final states with many light-flavor jets and 0, 1, or 2 charged leptons
+in proton-proton collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 10 (2025)
+236,
+doi:[10.1007/JHEP10(2025)236](https://doi.org/10.1007/JHEP10(2025)236),
+arXiv:[2506.08825 \[hep-ex\]](http://arxiv.org/abs/2506.08825)
+
+<!--#ref-CMS:2025cwy-->
+V. Chekhovsky et al., **Development of systematic
+uncertainty-aware neural network trainings for binned-likelihood
+analyses at the LHC**, *Eur. Phys. J. C*. 85 (2025) 1360,
+doi:[10.1140/epjc/s10052-025-14713-w](https://doi.org/10.1140/epjc/s10052-025-14713-w),
+arXiv:[2502.13047 \[hep-ex\]](http://arxiv.org/abs/2502.13047)
+
 <!--#ref-CMS:2025dnx-->
 V. Chekhovsky et al., **Search for medium effects
 using jet axis decorrelation in inclusive jets from PbPb collisions at
@@ -911,6 +959,13 @@ in events with top quarks and Z bosons at $\sqrt{s}$ = 13 and 13.6
 TeV**, *Phys. Lett. B*. 869 (2025) 139857,
 doi:[10.1016/j.physletb.2025.139857](https://doi.org/10.1016/j.physletb.2025.139857),
 arXiv:[2505.21206 \[hep-ex\]](http://arxiv.org/abs/2505.21206)
+
+<!--#ref-CMS:2025eyd-->
+A. Hayrapetyan et al., **A method for correcting
+the substructure of multiprong jets using the Lund jet plane**, *JHEP*.
+11 (2025) 038,
+doi:[10.1007/JHEP11(2025)038](https://doi.org/10.1007/JHEP11(2025)038),
+arXiv:[2507.07775 \[hep-ex\]](http://arxiv.org/abs/2507.07775)
 
 <!--#ref-CMS:2025fmx-->
 V. Chekhovsky et al., **Search for the Rare Decay
@@ -941,6 +996,14 @@ Production Cross Sections at s=13 and 13.6 TeV**, *Phys. Rev. Lett.* 135
 doi:[10.1103/6z3d-zjw4](https://doi.org/10.1103/6z3d-zjw4),
 arXiv:[2505.20483 \[hep-ex\]](http://arxiv.org/abs/2505.20483)
 
+<!--#ref-CMS:2025idq-->
+V. Chekhovsky et al., **Search for dark matter
+produced in association with a Higgs boson decaying to a $\tau$ lepton
+pair in proton-proton collisions at $\sqrt{s}=13$ TeV**, *JHEP*. 10
+(2025) 170,
+doi:[10.1007/JHEP10(2025)170](https://doi.org/10.1007/JHEP10(2025)170),
+arXiv:[2506.04431 \[hep-ex\]](http://arxiv.org/abs/2506.04431)
+
 <!--#ref-CMS:2025izi-->
 V. Chekhovsky et al., **Search for dark matter
 production in association with a single top quark in proton-proton
@@ -954,6 +1017,14 @@ with dijets from high-multiplicity pPb collisions at $\sqrt{{s}_{{NN}}}$
 = 8.16 TeV**, *JHEP*. 07 (2025) 118,
 doi:[10.1007/JHEP07(2025)118](https://doi.org/10.1007/JHEP07(2025)118),
 arXiv:[2504.08507 \[nucl-ex\]](http://arxiv.org/abs/2504.08507)
+
+<!--#ref-CMS:2025kje-->
+A. Hayrapetyan et al., **Performance of
+heavy-flavour jet identification in Lorentz-boosted topologies in
+proton-proton collisions at $\sqrt{}$(s) = 13 TeV**, *JINST*. 20 (2025)
+P11006,
+doi:[10.1088/1748-0221/20/11/P11006](https://doi.org/10.1088/1748-0221/20/11/P11006),
+arXiv:[2510.10228 \[physics.ins-det\]](http://arxiv.org/abs/2510.10228)
 
 <!--#ref-CMS:2025kzg-->
 V. Chekhovsky et al., **Evidence for Similar
@@ -1005,6 +1076,14 @@ J/$\psi$ Photoproduction in Ultraperipheral PbPb Collisions**, *Phys.
 Rev. Lett.* 135 (2025) 112301,
 doi:[10.1103/w9kp-f8xr](https://doi.org/10.1103/w9kp-f8xr),
 arXiv:[2503.08903 \[nucl-ex\]](http://arxiv.org/abs/2503.08903)
+
+<!--#ref-CMS:2025qmm-->
+V. Chekhovsky et al., **Search for a cH signal in
+the associated production of at least one charm quark with a Higgs boson
+in the diphoton decay channel in pp collisions at $\sqrt{s}=13$ TeV**,
+*JHEP*. 11 (2025) 060,
+doi:[10.1007/JHEP11(2025)060](https://doi.org/10.1007/JHEP11(2025)060),
+arXiv:[2503.08797 \[hep-ex\]](http://arxiv.org/abs/2503.08797)
 
 <!--#ref-CMS:2025urb-->
 V. Chekhovsky et al., **Search for vector-like
@@ -1715,6 +1794,13 @@ data at $\sqrt{s}$ = 7 and 8 TeV**, *JHEP*. 07 (2023) 213,
 doi:[10.1007/JHEP07(2023)213](https://doi.org/10.1007/JHEP07(2023)213),
 arXiv:[2205.13830 \[hep-ex\]](http://arxiv.org/abs/2205.13830)
 
+<!--#ref-CMS:2020zti-->
+A. Tumasyan et al., **Search for resonant and
+nonresonant production of pairs of dijet resonances in proton-proton
+collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 07 (2023) 161,
+doi:[10.1007/JHEP07(2023)161](https://doi.org/10.1007/JHEP07(2023)161),
+arXiv:[2206.09997 \[hep-ex\]](http://arxiv.org/abs/2206.09997)
+
 <!--#ref-CMS:2021qsn-->
 A. Tumasyan et al., **Observation of triple
 J/$\psi$ meson production in proton-proton collisions**, *Nature Phys.*
@@ -2108,13 +2194,6 @@ decay to a pair of electrons in proton-proton collisions at s=13TeV**,
 *Phys. Lett. B*. 846 (2023) 137783,
 doi:[10.1016/j.physletb.2023.137783](https://doi.org/10.1016/j.physletb.2023.137783),
 arXiv:[2208.00265 \[hep-ex\]](http://arxiv.org/abs/2208.00265)
-
-<!--#ref-CMS:2022usq-->
-A. Tumasyan et al., **Search for resonant and
-nonresonant production of pairs of dijet resonances in proton-proton
-collisions at $\sqrt{s}$ = 13 TeV**, *JHEP*. 07 (2023) 161,
-doi:[10.1007/JHEP07(2023)161](https://doi.org/10.1007/JHEP07(2023)161),
-arXiv:[2206.09997 \[hep-ex\]](http://arxiv.org/abs/2206.09997)
 
 <!--#ref-CMS:2022vkb-->
 A. Tumasyan et al., **Azimuthal correlations in Z
