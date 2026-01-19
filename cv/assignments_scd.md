@@ -1,8 +1,9 @@
 |                   |                                                                     |
 |-------------------|---------------------------------------------------------------------|
-| 08/2024 - present | [Deputy Associate Lab Director for CSAID (interim)](https://computing.fnal.gov/organization/) |
-| 11/2024 - present | Acting Deputy Division Director SCSS                                |
-| 11/2024 - present | Facility Evolution Department Head                                  |
+| 01/2026 - present | [Deputy Associate Lab Director for CSAID](https://computing.fnal.gov/organization/) |
+| 08/2024 - 12/2025 | [Deputy Associate Lab Director for CSAID (interim)](https://computing.fnal.gov/organization/) |
+| 11/2024 - 12/2025 | Acting Deputy Division Director SCSS                                |
+| 11/2024 - 12/2025 | Facility Evolution Department Head                                  |
 | 09/2022 - 07/2024 | Department Head for Computing Resource Evolution Strategy Department |
 | 09/2022 - 07/2024 | CMS Software & Computing Coordinator in the Scientific Computing Division |
 | 10/2019 - 08/2022 | Associate Head of the Scientific Computing Division for CMS         |
