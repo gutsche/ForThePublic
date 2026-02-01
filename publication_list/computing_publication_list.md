@@ -1,3 +1,9 @@
+<!--#ref-Atif:2026iab-->
+M. Atif et al., **Evaluating Application
+Characteristics for GPU Portability Layer Selection**, (2026).
+<http://arxiv.org/abs/2601.17526>, arXiv:[2601.17526
+\[hep-ex\]](http://arxiv.org/abs/2601.17526)
+
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
