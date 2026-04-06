@@ -20,6 +20,12 @@ rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
+<!--#ref-Aarrestad:2026xrs-->
+T.K. Aarrestad et al., **Building an
+AI-native Research Ecosystem for Experimental Particle Physics: A
+Community Vision**, (2026). <http://arxiv.org/abs/2602.17582>,
+arXiv:[2602.17582 \[hep-ex\]](http://arxiv.org/abs/2602.17582)
+
 <!--#ref-Apresyan:2023frr-->
 A. Apresyan et al., **Detector R&D needs for
 the next generation $e^+e^-$ collider**, (2023).
@@ -49,6 +55,12 @@ M. Bhattacharya et al., **Portability: A
 Necessary Approach for Future Scientific Software**, in: **Snowmass
 2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
 \[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+
+<!--#ref-Giannakou:2026sip-->
+A. Giannakou et al., **Interpretable Models
+for Workflow Differentiation in High-Performance Scientific Networks**,
+(2026),
+doi:[10.1109/ICNC68183.2026.11416957](https://doi.org/10.1109/ICNC68183.2026.11416957)
 
 <!--#ref-CMS:2024juo-->
 J. Balcas et al., **Automated Network Services for

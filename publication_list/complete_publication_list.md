@@ -230,9 +230,7 @@ final state in proton-proton collisions at $\sqrt{s}$ = 13 TeV**,
 \[hep-ex\]](http://arxiv.org/abs/2601.20011)
 
 <!--#ref-CMS:2026shw-->
-A. Hayrapetyan et al., **Search for heavy scalar
-resonances decaying to Lorentz-boosted Higgs and Higgs-like bosons in
-the ${b\bar{b}}$4q final state at $\sqrt{s}$ = 13 TeV**, (2026).
+A. Hayrapetyan et al., (2026).
 <http://arxiv.org/abs/2602.00273>, arXiv:[2602.00273
 \[hep-ex\]](http://arxiv.org/abs/2602.00273)
 

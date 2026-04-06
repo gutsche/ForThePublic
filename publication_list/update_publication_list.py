@@ -131,6 +131,7 @@ def CorrectBibTexEntries(input_db):
         entry['title'] = entry['title'].replace('$8','$ 8')
         entry['title'] = entry['title'].replace('\mathrm','')
         entry['title'] = entry['title'].replace('\mathit','')
+        entry['title'] = entry['title'].replace('$4q','4q')
         if 'doi' in entry.keys(): entry['doi'] = entry['doi'].split(',')[0].strip()
 
         if 'eprint' in entry.keys():
