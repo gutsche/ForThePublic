@@ -1,0 +1,614 @@
+{
+  "author": "O.Gutsche.1",
+  "source": "bib/short_physics_publication_list.bib",
+  "total": 8,
+  "fetched": 8,
+  "records": [
+    {
+      "created": "2012-07-31T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1124338?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1124338?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1124338?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1124338?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1124338?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1124338?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124338"
+      },
+      "id": "1124338",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "716",
+            "page_end": "61",
+            "year": 2012,
+            "page_start": "30",
+            "journal_title": "Phys.Lett.B"
+          }
+        ],
+        "first_author": {
+          "full_name": "Chatrchyan, Serguei",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00165402"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-513913"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "S.Chatrchyan.1"
+            }
+          ],
+          "last_name": "Chatrchyan",
+          "first_name": "Serguei",
+          "recid": 1063896
+        },
+        "control_number": 1124338,
+        "dois": [
+          {
+            "value": "10.1016/j.physletb.2012.08.021"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1207.7235"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Observation of a New Boson at a Mass of 125 GeV with the CMS Experiment at the LHC"
+          },
+          {
+            "source": "arXiv",
+            "title": "Observation of a new boson at a mass of 125 GeV with the CMS experiment at the LHC"
+          }
+        ],
+        "earliest_date": "2012-07"
+      },
+      "updated": "2025-12-11T15:25:40.965420+00:00"
+    },
+    {
+      "created": "2013-11-18T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1264662?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1264662?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1264662?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1264662?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1264662?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1264662?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1264662"
+      },
+      "id": "1264662",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "112",
+            "artid": "182001",
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1214495"
+            },
+            "journal_issue": "18",
+            "journal_title": "Phys.Rev.Lett."
+          }
+        ],
+        "first_author": {
+          "full_name": "Chatrchyan, Serguei",
+          "last_name": "Chatrchyan",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00165402"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-513913"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "S.Chatrchyan.1"
+            }
+          ],
+          "first_name": "Serguei",
+          "recid": 1063896
+        },
+        "control_number": 1264662,
+        "dois": [
+          {
+            "value": "10.1103/PhysRevLett.112.182001"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1311.3924"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Measurements of $t\\bar{t}$ Spin Correlations and Top-Quark Polarization Using Dilepton Final States in $pp$ Collisions at $\\sqrt{s}$ = 7 TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Measurements of t t-bar spin correlations and top-quark polarization using dilepton final states in pp collisions at 7 TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Measurements of t t-bar spin correlations and top-quark polarization using dilepton final states in pp collisions at sqrt(s) = 7 TeV"
+          }
+        ],
+        "earliest_date": "2013-11-15"
+      },
+      "updated": "2026-01-15T11:26:46.206613+00:00"
+    },
+    {
+      "created": "2014-02-18T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1281538?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1281538?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1281538?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1281538?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1281538?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1281538?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1281538"
+      },
+      "id": "1281538",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "04",
+            "artid": "191",
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213103"
+            },
+            "page_start": "191",
+            "journal_title": "JHEP"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
+          "full_name": "Chatrchyan, Serguei",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00165402"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-513913"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "S.Chatrchyan.1"
+            }
+          ],
+          "last_name": "Chatrchyan",
+          "first_name": "Serguei",
+          "recid": 1063896
+        },
+        "control_number": 1281538,
+        "dois": [
+          {
+            "value": "10.1007/JHEP04(2014)191"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1402.3803"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Measurements of the $t\\bar{t}$ Charge Asymmetry Using the Dilepton Decay Channel in pp Collisions at $\\sqrt{s} =$ 7 TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Measurements of the t t-bar charge asymmetry using the dilepton decay channel in pp collisions at sqrt(s) = 7 TeV"
+          }
+        ],
+        "earliest_date": "2014-02-16"
+      },
+      "updated": "2026-01-15T11:26:47.296418+00:00"
+    },
+    {
+      "created": "2016-01-07T00:00:00+00:00",
+      "id": "1413748",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413748?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413748?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413748?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413748?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413748?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413748?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413748"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "93",
+            "artid": "052007",
+            "year": 2016,
+            "journal_issue": "5",
+            "journal_title": "Phys.Rev.D"
+          }
+        ],
+        "first_author": {
+          "full_name": "Khachatryan, V.",
+          "last_name": "Khachatryan",
+          "first_name": "V.",
+          "recid": 2036526
+        },
+        "control_number": 1413748,
+        "dois": [
+          {
+            "value": "10.1103/PhysRevD.93.052007"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1601.01107"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Measurements of t t-bar spin correlations and top quark polarization using dilepton final states in pp collisions at sqrt(s) = 8 TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Measurements of t-tbar spin correlations and top quark polarization using dilepton final states in pp collisions at sqrt(s) = 8 TeV"
+          }
+        ],
+        "earliest_date": "2016-01-06"
+      },
+      "updated": "2026-01-15T11:26:14.719268+00:00"
+    },
+    {
+      "created": "2016-03-22T00:00:00+00:00",
+      "id": "1430892",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1430892?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1430892?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1430892?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1430892?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1430892?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1430892?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1430892"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "760",
+            "page_end": "386",
+            "year": 2016,
+            "page_start": "365",
+            "journal_title": "Phys.Lett.B"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
+          "full_name": "Khachatryan, Vardan",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00314584"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-667227"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "V.Khachatryan.1"
+            }
+          ],
+          "last_name": "Khachatryan",
+          "first_name": "Vardan",
+          "recid": 1064492
+        },
+        "control_number": 1430892,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1016/j.physletb.2016.07.006"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1603.06221"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Measurements of $t \\bar t$ charge asymmetry using dilepton final states in pp collisions at $\\sqrt s=8$ TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Measurements of t t-bar charge asymmetry using dilepton final states in pp collisions at sqrt(s) = 8 TeV"
+          }
+        ],
+        "earliest_date": "2016-03-20"
+      },
+      "updated": "2026-01-15T11:23:24.841776+00:00"
+    },
+    {
+      "created": "2018-01-26T00:00:00+00:00",
+      "id": "1650462",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1650462?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1650462?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1650462?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1650462?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1650462?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1650462?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1650462"
+      },
+      "updated": "2026-01-15T11:20:51.625779+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "06",
+            "pubinfo_freetext": "JHEP 06 (2018) 027",
+            "artid": "027",
+            "year": 2018,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213103"
+            },
+            "page_start": "027",
+            "journal_title": "JHEP"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "GRID",
+              "value": "grid.48507.3e"
+            },
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
+          "full_name": "Sirunyan, Albert M",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00312131"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-432142"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "A.M.Sirunyan.1"
+            }
+          ],
+          "last_name": "Sirunyan",
+          "first_name": "Albert M",
+          "recid": 1064002
+        },
+        "control_number": 1650462,
+        "dois": [
+          {
+            "value": "10.1007/JHEP06(2018)027"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1801.08427"
+          }
+        ],
+        "titles": [
+          {
+            "source": "Springer",
+            "title": "Search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum at $ \\sqrt{s}=13 $ TeV"
+          },
+          {
+            "source": "arXiv",
+            "title": "Search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum at $\\sqrt{s}=$ 13 TeV"
+          }
+        ],
+        "earliest_date": "2018-01-25"
+      }
+    },
+    {
+      "created": "2018-11-19T00:00:00+00:00",
+      "id": "1703980",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1703980?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1703980?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1703980?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1703980?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1703980?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1703980?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1703980"
+      },
+      "updated": "2026-04-06T09:53:15.418052+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "79",
+            "artid": "280",
+            "year": 2019,
+            "page_start": "280",
+            "journal_issue": "3",
+            "journal_title": "Eur.Phys.J.C"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "GRID",
+              "value": "grid.48507.3e"
+            },
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
+          "full_name": "Sirunyan, Albert M",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00312131"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-432142"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "A.M.Sirunyan.1"
+            }
+          ],
+          "last_name": "Sirunyan",
+          "first_name": "Albert M",
+          "recid": 1064002
+        },
+        "control_number": 1703980,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1140/epjc/s10052-019-6730-7"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1811.06562"
+          }
+        ],
+        "titles": [
+          {
+            "source": "Springer",
+            "title": "Search for dark matter produced in association with a Higgs boson decaying to a pair of bottom quarks in proton\u2013proton collisions at $\\sqrt{s}=13\\,\\text {Te}\\text {V} $"
+          }
+        ],
+        "earliest_date": "2018-11-15"
+      }
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "607",
+            "material": "publication",
+            "page_end": "68",
+            "year": 2022,
+            "curated_relation": true,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1214565"
+            },
+            "page_start": "60",
+            "journal_issue": "7917",
+            "journal_title": "Nature"
+          },
+          {
+            "journal_volume": "623",
+            "material": "erratum",
+            "year": 2023,
+            "curated_relation": true,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1214565"
+            },
+            "page_start": "E4",
+            "journal_issue": "7985",
+            "journal_title": "Nature"
+          }
+        ],
+        "first_author": {
+          "full_name": "Tumasyan, Armen",
+          "last_name": "Tumasyan",
+          "first_name": "Armen",
+          "recid": 1065519
+        },
+        "control_number": 2104672,
+        "dois": [
+          {
+            "material": "publication",
+            "source": "Springer",
+            "value": "10.1038/s41586-022-04892-x"
+          },
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1038/s41586-022-04892-x"
+          },
+          {
+            "material": "erratum",
+            "source": "Springer",
+            "value": "10.1038/s41586-023-06164-8"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2207.00043"
+          }
+        ],
+        "titles": [
+          {
+            "source": "Springer",
+            "title": "A portrait of the Higgs boson by the CMS experiment ten years after the discovery."
+          },
+          {
+            "source": "arXiv",
+            "title": "A portrait of the Higgs boson by the CMS experiment ten years after the discovery"
+          },
+          {
+            "title": "Author Correction: A portrait of the Higgs boson by the CMS experiment ten years after the discovery [doi: 10.1038/s41586-022-04892-x]"
+          }
+        ],
+        "earliest_date": "2022-06-30"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2104672?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2104672?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2104672?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2104672?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2104672?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2104672?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2104672"
+      },
+      "id": "2104672",
+      "created": "2022-07-04T02:40:19.654088+00:00",
+      "updated": "2026-04-08T19:31:05.035715+00:00"
+    }
+  ]
+}

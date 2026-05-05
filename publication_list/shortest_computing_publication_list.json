@@ -1,0 +1,744 @@
+{
+  "author": "O.Gutsche.1",
+  "source": "bib/shortest_computing_publication_list.bib",
+  "total": 12,
+  "fetched": 12,
+  "records": [
+    {
+      "updated": "2026-04-14T19:24:47.595323+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1644100?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1644100?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1644100?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1644100?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1644100?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1644100?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1644100"
+      },
+      "id": "1644100",
+      "created": "2017-12-20T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "3",
+            "pubinfo_freetext": "Comput Softw Big Sci (2019) 3, 7",
+            "artid": "7",
+            "material": "publication",
+            "year": 2019,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1516529"
+            },
+            "page_start": "7",
+            "journal_issue": "1",
+            "journal_title": "Comput.Softw.Big Sci."
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "GRID",
+              "value": "grid.5675.1"
+            }
+          ],
+          "full_name": "Albrecht, Johannes",
+          "last_name": "Albrecht",
+          "first_name": "Johannes",
+          "recid": 1071729
+        },
+        "control_number": 1644100,
+        "dois": [
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1007/s41781-018-0018-8"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex"
+            ],
+            "value": "1712.06982"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "A Roadmap for HEP Software and Computing R&D for the 2020s"
+          }
+        ],
+        "earliest_date": "2017-12-18"
+      }
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "245",
+            "pubinfo_freetext": "EPJ Web of Conferences 245, 06012 (2020)",
+            "artid": "06012",
+            "material": "publication",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1732179"
+            },
+            "year": 2020,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1830716"
+            },
+            "cnum": "C19-11-04"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "nick.smith@cern.ch"
+          ],
+          "full_name": "Smith, Nicholas",
+          "last_name": "Smith",
+          "first_name": "Nicholas",
+          "recid": 1279678
+        },
+        "control_number": 1813893,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1051/epjconf/202024506012"
+          },
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1051/epjconf/202024506012"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC",
+              "hep-ex"
+            ],
+            "value": "2008.12712"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Coffea: Columnar Object Framework For Effective Analysis"
+          },
+          {
+            "source": "arXiv",
+            "title": "Coffea -- Columnar Object Framework For Effective Analysis"
+          }
+        ],
+        "earliest_date": "2020-08-28"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1813893?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1813893?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1813893?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1813893?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1813893?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1813893?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1813893"
+      },
+      "id": "1813893",
+      "updated": "2024-10-16T18:25:58.228700+00:00",
+      "created": "2020-08-31T00:00:00+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1803127"
+            },
+            "cnum": "C21-07-11"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Bhattacharya, Meghna",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0001-6395-546X"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Meghna.Bhattacharya.1"
+            }
+          ],
+          "last_name": "Bhattacharya",
+          "first_name": "Meghna",
+          "recid": 1614933
+        },
+        "control_number": 2054702,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex",
+              "physics.data-an",
+              "physics.ins-det"
+            ],
+            "value": "2203.09945"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Portability: A Necessary Approach for Future Scientific Software"
+          }
+        ],
+        "earliest_date": "2022-03-15"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2054702?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2054702?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2054702?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2054702?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2054702?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2054702?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2054702"
+      },
+      "id": "2054702",
+      "created": "2022-03-21T02:39:20.620195+00:00",
+      "updated": "2026-02-09T12:19:46.615118+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1803127"
+            },
+            "cnum": "C21-07-11"
+          }
+        ],
+        "first_author": {
+          "full_name": "Elvira, V. Daniel",
+          "last_name": "Elvira",
+          "first_name": "V. Daniel",
+          "recid": 1010791
+        },
+        "control_number": 2164496,
+        "dois": [
+          {
+            "source": "OSTI",
+            "value": "10.2172/1898754"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "hep-lat",
+              "hep-ph",
+              "hep-th"
+            ],
+            "value": "2210.05822"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "The Future of High Energy Physics Software and Computing"
+          }
+        ],
+        "earliest_date": "2022-10-11"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2164496?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2164496?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2164496?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2164496?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2164496?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2164496?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2164496"
+      },
+      "id": "2164496",
+      "created": "2022-10-13T02:46:20.872797+00:00",
+      "updated": "2025-08-19T20:54:17.870870+00:00"
+    },
+    {
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Apresyan, A.",
+          "last_name": "Apresyan",
+          "first_name": "A.",
+          "recid": 1049113
+        },
+        "control_number": 2671215,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Detector R&D needs for the next generation $e^+e^-$ collider"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "physics.ins-det"
+            ],
+            "value": "2306.13567"
+          }
+        ],
+        "earliest_date": "2023-06-23"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2671215?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2671215?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2671215?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2671215?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2671215?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2671215?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2671215"
+      },
+      "id": "2671215",
+      "created": "2023-06-26T02:36:37.544476+00:00",
+      "updated": "2025-07-08T17:38:06.117987+00:00"
+    },
+    {
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/02ex6cf31"
+            }
+          ],
+          "full_name": "Atif, Mohammad",
+          "last_name": "Atif",
+          "first_name": "Mohammad",
+          "recid": 2922368
+        },
+        "control_number": 2672556,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Evaluating Portable Parallelization Strategies for Heterogeneous Architectures in High Energy Physics"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "cs.DC"
+            ],
+            "value": "2306.15869"
+          }
+        ],
+        "earliest_date": "2023-06-27"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2672556?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2672556?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2672556?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2672556?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2672556?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2672556?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2672556"
+      },
+      "id": "2672556",
+      "created": "2023-06-29T02:46:38.640792+00:00",
+      "updated": "2026-04-14T19:24:46.673822+00:00"
+    },
+    {
+      "metadata": {
+        "first_author": {
+          "full_name": "Bockelman, Brian",
+          "last_name": "Bockelman",
+          "first_name": "Brian",
+          "recid": 1055098
+        },
+        "control_number": 2628983,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "physics.acc-ph",
+              "physics.comp-ph",
+              "physics.ins-det"
+            ],
+            "value": "2302.01317"
+          }
+        ],
+        "earliest_date": "2023-02-02"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2628983?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2628983?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2628983?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2628983?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2628983?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2628983?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2628983"
+      },
+      "id": "2628983",
+      "created": "2023-02-03T02:43:59.917280+00:00",
+      "updated": "2025-08-19T18:38:54.299593+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "01009",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "full_name": "Balcas, Justas",
+          "last_name": "Balcas",
+          "first_name": "Justas",
+          "recid": 1281471
+        },
+        "control_number": 2785604,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429501009"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "Automated Network Services for Exascale Data Movement"
+          }
+        ],
+        "earliest_date": "2024"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2785604?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2785604?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2785604?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2785604?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2785604?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2785604?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2785604"
+      },
+      "id": "2785604",
+      "created": "2024-05-13T09:03:02.210529+00:00",
+      "updated": "2024-11-01T20:06:29.847492+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "04050",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
+          "last_name": "Gutsche",
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 2729222,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429504050"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2312.00772"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "The U.S. CMS HL-LHC R&D Strategic Plan"
+          },
+          {
+            "source": "arXiv",
+            "title": "The U.S. CMS HL-LHC R&D Strategic Plan"
+          }
+        ],
+        "earliest_date": "2023-12-01"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2729222?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2729222?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2729222?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2729222?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2729222?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2729222?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2729222"
+      },
+      "id": "2729222",
+      "created": "2023-12-04T03:37:06.335032+00:00",
+      "updated": "2024-10-29T15:48:35.574529+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "11003",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "kkwok@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Kwok, Ka Hei Martin",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8693-6146"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Ka.Hei.Martin.Kwok.1"
+            }
+          ],
+          "last_name": "Kwok",
+          "first_name": "Ka Hei Martin",
+          "recid": 1380817
+        },
+        "control_number": 2751450,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429511003"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.acc-ph"
+            ],
+            "value": "2401.14221"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels"
+          },
+          {
+            "source": "arXiv",
+            "title": "Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels"
+          }
+        ],
+        "earliest_date": "2024-01-25"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2751450?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2751450?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2751450?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2751450?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2751450?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2751450?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2751450"
+      },
+      "id": "2751450",
+      "created": "2024-01-26T03:51:36.801124+00:00",
+      "updated": "2024-12-05T15:56:06.195981+00:00"
+    },
+    {
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "01003",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "ncsmith@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Smith, Nick",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-0324-3054"
+            }
+          ],
+          "last_name": "Smith",
+          "first_name": "Nick",
+          "recid": 1279678
+        },
+        "control_number": 2727375,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429501003"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.data-an",
+              "hep-ex"
+            ],
+            "value": "2311.16321"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "A Ceph S3 Object Data Store for HEP"
+          },
+          {
+            "source": "arXiv",
+            "title": "A Ceph S3 Object Data Store for HEP"
+          }
+        ],
+        "earliest_date": "2023-11-27"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2727375?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2727375?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2727375?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2727375?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2727375?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2727375?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2727375"
+      },
+      "id": "2727375",
+      "created": "2023-11-29T03:58:26.316705+00:00",
+      "updated": "2025-04-08T19:07:24.327153+00:00"
+    },
+    {
+      "metadata": {
+        "first_author": {
+          "full_name": "Aarrestad, Thea Klaeboe",
+          "last_name": "Aarrestad",
+          "first_name": "Thea Klaeboe",
+          "recid": 1345387
+        },
+        "control_number": 3121595,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2602.17582"
+          }
+        ],
+        "earliest_date": "2026-02-19"
+      },
+      "id": "3121595",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/3121595?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/3121595?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/3121595?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/3121595?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/3121595?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/3121595?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3121595"
+      },
+      "created": "2026-02-20T04:11:14.688633+00:00",
+      "updated": "2026-04-14T17:49:58.515359+00:00"
+    }
+  ]
+}

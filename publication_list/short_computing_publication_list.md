@@ -1,108 +1,67 @@
-<!--#ref-Aarrestad:2026xrs-->
-T.K. Aarrestad et al., **Building an
-AI-native Research Ecosystem for Experimental Particle Physics: A
-Community Vision**, (2026). <http://arxiv.org/abs/2602.17582>,
-arXiv:[2602.17582 \[hep-ex\]](http://arxiv.org/abs/2602.17582)
+1. **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
+   Aarrestad, Thea Klaeboe et al.  
+   [arXiv:2602.17582](https://arxiv.org/abs/2602.17582) | 2026-02-19
 
-<!--#ref-Atif:2026iab-->
-M. Atif et al., **Evaluating Application
-Characteristics for GPU Portability Layer Selection**, (2026).
-<http://arxiv.org/abs/2601.17526>, arXiv:[2601.17526
-\[hep-ex\]](http://arxiv.org/abs/2601.17526)
+2. **Evaluating Application Characteristics for GPU Portability Layer Selection**  
+   Atif, Mohammad et al.  
+   [arXiv:2601.17526](https://arxiv.org/abs/2601.17526) | 2026-01-24
 
-<!--#ref-Apresyan:2023frr-->
-A. Apresyan et al., **Detector R&D needs for
-the next generation $e^+e^-$ collider**, (2023).
-<http://arxiv.org/abs/2306.13567>, arXiv:[2306.13567
-\[hep-ex\]](http://arxiv.org/abs/2306.13567)
+3. **Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels**  
+   Kwok, Ka Hei Martin et al.  
+   [EPJ Web Conf. 295 (2024) 11003](https://doi.org/10.1051/epjconf/202429511003) | [arXiv:2401.14221](https://arxiv.org/abs/2401.14221) | [DOI:10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003) | 2024-01-25
 
-<!--#ref-Atif:2023zcw-->
-M. Atif et al., **Evaluating Portable
-Parallelization Strategies for Heterogeneous Architectures in High
-Energy Physics**, (2023). <http://arxiv.org/abs/2306.15869>,
-arXiv:[2306.15869 \[hep-ex\]](http://arxiv.org/abs/2306.15869)
+4. **The U.S. CMS HL-LHC R   D Strategic Plan**  
+   Gutsche, Oliver et al.  
+   [EPJ Web Conf. 295 (2024) 04050](https://doi.org/10.1051/epjconf/202429504050) | [arXiv:2312.00772](https://arxiv.org/abs/2312.00772) | [DOI:10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050) | 2023-12-01
 
-<!--#ref-Bockelman:2023gbj-->
-B. Bockelman et al., **IRIS-HEP Strategic
-Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
-(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
-\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+5. **A Ceph S3 Object Data Store for HEP**  
+   Smith, Nick et al.  
+   [EPJ Web Conf. 295 (2024) 01003](https://doi.org/10.1051/epjconf/202429501003) | [arXiv:2311.16321](https://arxiv.org/abs/2311.16321) | [DOI:10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003) | 2023-11-27
 
-<!--#ref-Elvira:2022wyn-->
-V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **Snowmass 2021**, 2022,
-doi:[10.2172/1898754](https://doi.org/10.2172/1898754),
-arXiv:[2210.05822 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
+6. **Evaluating Portable Parallelization Strategies for Heterogeneous Architectures in High Energy Physics**  
+   Atif, Mohammad et al.  
+   [arXiv:2306.15869](https://arxiv.org/abs/2306.15869) | 2023-06-27
 
-<!--#ref-Cerati:2022wiv-->
-G. Cerati et al., **Snowmass Computational
-Frontier: Topical Group Report on Experimental Algorithm
-Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
-arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
+7. **Detector R   D needs for the next generation e^+e^- collider**  
+   Apresyan, A. et al.  
+   [arXiv:2306.13567](https://arxiv.org/abs/2306.13567) | 2023-06-23
 
-<!--#ref-Bhattacharya:2022qgj-->
-M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **Snowmass
-2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
-\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+8. **Automated Network Services for Exascale Data Movement**  
+   Balcas, Justas et al.  
+   [EPJ Web Conf. 295 (2024) 01009](https://doi.org/10.1051/epjconf/202429501009) | [DOI:10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009) | 2024
 
-<!--#ref-Berzano:2018xaa-->
-D. Berzano et al., **HEP Software Foundation
-Community White Paper Working Group -- Data Organization, Management and
-Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
-arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+9. **IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics**  
+   Bockelman, Brian et al.  
+   [arXiv:2302.01317](https://arxiv.org/abs/2302.01317) | 2023-02-02
 
-<!--#ref-HEPSoftwareFoundation:2018xvc-->
-L. Bauerdick et al., **HEP
-Software Foundation Community White Paper Working Group - Data Analysis
-and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
-arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+10. **The Future of High Energy Physics Software and Computing**  
+   Elvira, V. Daniel et al.  
+   [arXiv:2210.05822](https://arxiv.org/abs/2210.05822) | [DOI:10.2172/1898754](https://doi.org/10.2172/1898754) | 2022-10-11
 
-<!--#ref-Giannakou:2026sip-->
-A. Giannakou et al., **Interpretable Models
-for Workflow Differentiation in High-Performance Scientific Networks**,
-(2026),
-doi:[10.1109/ICNC68183.2026.11416957](https://doi.org/10.1109/ICNC68183.2026.11416957)
+11. **Snowmass Computational Frontier: Topical Group Report on Experimental Algorithm Parallelization**  
+   Cerati, G. et al.  
+   [arXiv:2209.07356](https://arxiv.org/abs/2209.07356) | 2022-09-15
 
-<!--#ref-CMS:2024juo-->
-J. Balcas et al., **Automated Network Services for
-Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
-doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
+12. **Portability: A Necessary Approach for Future Scientific Software**  
+   Bhattacharya, Meghna et al.  
+   [arXiv:2203.09945](https://arxiv.org/abs/2203.09945) | 2022-03-15
 
-<!--#ref-Gutsche:2023cth-->
-O. Gutsche et al., **The U.S. CMS HL-LHC R&D
-Strategic Plan**, *EPJ Web Conf.* 295 (2024) 04050,
-doi:[10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050),
-arXiv:[2312.00772 \[hep-ex\]](http://arxiv.org/abs/2312.00772)
+13. **Coffea: Columnar Object Framework For Effective Analysis**  
+   Smith, Nicholas et al.  
+   [EPJ Web Conf. 245 (2020) 06012](https://doi.org/10.1051/epjconf/202024506012) | [arXiv:2008.12712](https://arxiv.org/abs/2008.12712) | [DOI:10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012) | 2020-08-28
 
-<!--#ref-Kwok:2024dgx-->
-K.H.M. Kwok et al., **Application of performance
-portability solutions for GPUs and many-core CPUs to track
-reconstruction kernels**, *EPJ Web Conf.* 295 (2024) 11003,
-doi:[10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003),
-arXiv:[2401.14221 \[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
+14. **Using Big Data Technologies for HEP Analysis**  
+   Cremonesi, Matteo et al.  
+   [EPJ Web Conf. 214 (2019) 06030](https://doi.org/10.1051/epjconf/201921406030) | [arXiv:1901.07143](https://arxiv.org/abs/1901.07143) | [DOI:10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030) | 2019-01-21
 
-<!--#ref-Smith:2023mrq-->
-N. Smith et al., **A Ceph S3 Object Data Store
-for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
-doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
-arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
+15. **HEP Software Foundation Community White Paper Working Group – Data Organization, Management and Access (DOMA)**  
+   Berzano, Dario et al.  
+   [arXiv:1812.00761](https://arxiv.org/abs/1812.00761) | 2018-11-30
 
-<!--#ref-CMS:2020kpn-->
-N. Smith et al., **Coffea: Columnar Object
-Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
-doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
-arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
+16. **HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation**  
+   Bauerdick, Lothar et al.  
+   [arXiv:1804.03983](https://arxiv.org/abs/1804.03983) | 2018-04-09
 
-<!--#ref-Cremonesi:2019pdq-->
-M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, *EPJ Web Conf.* 214 (2019) 06030,
-doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
-arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
-
-<!--#ref-HEPSoftwareFoundation:2017ggl-->
-J. Albrecht et al., **A Roadmap
-for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
-Sci.* 3 (2019) 7,
-doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
-arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+17. **A Roadmap for HEP Software and Computing R   D for the 2020s**  
+   Albrecht, Johannes et al.  
+   [Comput.Softw.Big Sci. 3 (2019) 7](https://doi.org/10.1007/s41781-018-0018-8) | [arXiv:1712.06982](https://arxiv.org/abs/1712.06982) | [DOI:10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8) | 2017-12-18
