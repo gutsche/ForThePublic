@@ -116,100 +116,62 @@ In my past LHC research, I have led searches for evidence of physics beyond the 
 
 # Selected Recent Publications in Physics and Computing
 
-<!--#ref-CMS:2018zjv-->
-A.M. Sirunyan et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a pair of bottom
-quarks in protonproton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur. Phys.
-J. C*. 79 (2019) 280,
-doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
-arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
+1. **Search for dark matter produced in association with a Higgs boson decaying to a pair of bottom quarks in proton–proton collisions at √(s)=13 TeV**  
+   Sirunyan, Albert M et al.  
+   [Eur.Phys.J.C 79 (2019) 280](https://doi.org/10.1140/epjc/s10052-019-6730-7) | [arXiv:1811.06562](https://arxiv.org/abs/1811.06562) | [DOI:10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7) | 2018-11-15
 
-<!--#ref-CMS:2016ypc-->
-V. Khachatryan et al., **Measurements of $t \bar t$
-charge asymmetry using dilepton final states in pp collisions at
-$\sqrt s=8$ TeV**, *Phys. Lett. B*. 760 (2016) 365--386,
-doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
-arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
+2. **Measurements of t t̅ charge asymmetry using dilepton final states in pp collisions at √(s)=8 TeV**  
+   Khachatryan, Vardan et al.  
+   [Phys.Lett.B 760 (2016) 365](https://doi.org/10.1016/j.physletb.2016.07.006) | [arXiv:1603.06221](https://arxiv.org/abs/1603.06221) | [DOI:10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006) | 2016-03-20
 
 
-<!--#ref-Aarrestad:2026xrs-->
-T.K. Aarrestad et al., **Building an
-AI-native Research Ecosystem for Experimental Particle Physics: A
-Community Vision**, (2026). <http://arxiv.org/abs/2602.17582>,
-arXiv:[2602.17582 \[hep-ex\]](http://arxiv.org/abs/2602.17582)
+1. **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
+   Aarrestad, Thea Klaeboe et al.  
+   [arXiv:2602.17582](https://arxiv.org/abs/2602.17582) | 2026-02-19
 
-<!--#ref-Apresyan:2023frr-->
-A. Apresyan et al., **Detector R&D needs for
-the next generation $e^+e^-$ collider**, (2023).
-<http://arxiv.org/abs/2306.13567>, arXiv:[2306.13567
-\[hep-ex\]](http://arxiv.org/abs/2306.13567)
+2. **Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels**  
+   Kwok, Ka Hei Martin et al.  
+   [EPJ Web Conf. 295 (2024) 11003](https://doi.org/10.1051/epjconf/202429511003) | [arXiv:2401.14221](https://arxiv.org/abs/2401.14221) | [DOI:10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003) | 2024-01-25
 
-<!--#ref-Atif:2023zcw-->
-M. Atif et al., **Evaluating Portable
-Parallelization Strategies for Heterogeneous Architectures in High
-Energy Physics**, (2023). <http://arxiv.org/abs/2306.15869>,
-arXiv:[2306.15869 \[hep-ex\]](http://arxiv.org/abs/2306.15869)
+3. **The U.S. CMS HL-LHC R   D Strategic Plan**  
+   Gutsche, Oliver et al.  
+   [EPJ Web Conf. 295 (2024) 04050](https://doi.org/10.1051/epjconf/202429504050) | [arXiv:2312.00772](https://arxiv.org/abs/2312.00772) | [DOI:10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050) | 2023-12-01
 
-<!--#ref-Bockelman:2023gbj-->
-B. Bockelman et al., **IRIS-HEP Strategic
-Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
-(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
-\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+4. **A Ceph S3 Object Data Store for HEP**  
+   Smith, Nick et al.  
+   [EPJ Web Conf. 295 (2024) 01003](https://doi.org/10.1051/epjconf/202429501003) | [arXiv:2311.16321](https://arxiv.org/abs/2311.16321) | [DOI:10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003) | 2023-11-27
 
-<!--#ref-Elvira:2022wyn-->
-V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **Snowmass 2021**, 2022,
-doi:[10.2172/1898754](https://doi.org/10.2172/1898754),
-arXiv:[2210.05822 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
+5. **Evaluating Portable Parallelization Strategies for Heterogeneous Architectures in High Energy Physics**  
+   Atif, Mohammad et al.  
+   [arXiv:2306.15869](https://arxiv.org/abs/2306.15869) | 2023-06-27
 
-<!--#ref-Bhattacharya:2022qgj-->
-M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **Snowmass
-2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
-\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+6. **Detector R   D needs for the next generation e^+e^- collider**  
+   Apresyan, A. et al.  
+   [arXiv:2306.13567](https://arxiv.org/abs/2306.13567) | 2023-06-23
 
-<!--#ref-Giannakou:2026sip-->
-A. Giannakou et al., **Interpretable Models
-for Workflow Differentiation in High-Performance Scientific Networks**,
-(2026),
-doi:[10.1109/ICNC68183.2026.11416957](https://doi.org/10.1109/ICNC68183.2026.11416957)
+7. **Automated Network Services for Exascale Data Movement**  
+   Balcas, Justas et al.  
+   [EPJ Web Conf. 295 (2024) 01009](https://doi.org/10.1051/epjconf/202429501009) | [DOI:10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009) | 2024
 
-<!--#ref-CMS:2024juo-->
-J. Balcas et al., **Automated Network Services for
-Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
-doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
+8. **IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics**  
+   Bockelman, Brian et al.  
+   [arXiv:2302.01317](https://arxiv.org/abs/2302.01317) | 2023-02-02
 
-<!--#ref-Gutsche:2023cth-->
-O. Gutsche et al., **The U.S. CMS HL-LHC R&D
-Strategic Plan**, *EPJ Web Conf.* 295 (2024) 04050,
-doi:[10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050),
-arXiv:[2312.00772 \[hep-ex\]](http://arxiv.org/abs/2312.00772)
+9. **The Future of High Energy Physics Software and Computing**  
+   Elvira, V. Daniel et al.  
+   [arXiv:2210.05822](https://arxiv.org/abs/2210.05822) | [DOI:10.2172/1898754](https://doi.org/10.2172/1898754) | 2022-10-11
 
-<!--#ref-Kwok:2024dgx-->
-K.H.M. Kwok et al., **Application of performance
-portability solutions for GPUs and many-core CPUs to track
-reconstruction kernels**, *EPJ Web Conf.* 295 (2024) 11003,
-doi:[10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003),
-arXiv:[2401.14221 \[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
+10. **Portability: A Necessary Approach for Future Scientific Software**  
+   Bhattacharya, Meghna et al.  
+   [arXiv:2203.09945](https://arxiv.org/abs/2203.09945) | 2022-03-15
 
-<!--#ref-Smith:2023mrq-->
-N. Smith et al., **A Ceph S3 Object Data Store
-for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
-doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
-arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
+11. **Coffea: Columnar Object Framework For Effective Analysis**  
+   Smith, Nicholas et al.  
+   [EPJ Web Conf. 245 (2020) 06012](https://doi.org/10.1051/epjconf/202024506012) | [arXiv:2008.12712](https://arxiv.org/abs/2008.12712) | [DOI:10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012) | 2020-08-28
 
-<!--#ref-CMS:2020kpn-->
-N. Smith et al., **Coffea: Columnar Object
-Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
-doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
-arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
-
-<!--#ref-HEPSoftwareFoundation:2017ggl-->
-J. Albrecht et al., **A Roadmap
-for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
-Sci.* 3 (2019) 7,
-doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
-arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+12. **A Roadmap for HEP Software and Computing R   D for the 2020s**  
+   Albrecht, Johannes et al.  
+   [Comput.Softw.Big Sci. 3 (2019) 7](https://doi.org/10.1007/s41781-018-0018-8) | [arXiv:1712.06982](https://arxiv.org/abs/1712.06982) | [DOI:10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8) | 2017-12-18
 
 
 ----------

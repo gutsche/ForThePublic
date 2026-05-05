@@ -345,220 +345,159 @@ I have supervised several Fermilab postdoctoral researchers in pursuit of these 
 
 # Physics Publications with Major Personal Contributions
 
-<!--#ref-CMS:2022dwd-->
-A. Tumasyan et al., **A portrait of the Higgs boson
-by the CMS experiment ten years after the discovery.**, *Nature*. 607
-(2022) 60--68,
-doi:[10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x),
-arXiv:[2207.00043 \[hep-ex\]](http://arxiv.org/abs/2207.00043)
+1. **A portrait of the Higgs boson by the CMS experiment ten years after the discovery.**  
+   Tumasyan, Armen et al.  
+   [Nature 607 (2022) 60](https://doi.org/10.1038/s41586-022-04892-x) | [arXiv:2207.00043](https://arxiv.org/abs/2207.00043) | [DOI:10.1038/s41586-022-04892-x](https://doi.org/10.1038/s41586-022-04892-x) | 2022-06-30
 
-<!--#ref-CMS:2018zjv-->
-A.M. Sirunyan et al., **Search for dark matter
-produced in association with a Higgs boson decaying to a pair of bottom
-quarks in protonproton collisions at $\sqrt{s}=13{Te}{V}$**, *Eur. Phys.
-J. C*. 79 (2019) 280,
-doi:[10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7),
-arXiv:[1811.06562 \[hep-ex\]](http://arxiv.org/abs/1811.06562)
+2. **Search for dark matter produced in association with a Higgs boson decaying to a pair of bottom quarks in proton–proton collisions at √(s)=13 TeV**  
+   Sirunyan, Albert M et al.  
+   [Eur.Phys.J.C 79 (2019) 280](https://doi.org/10.1140/epjc/s10052-019-6730-7) | [arXiv:1811.06562](https://arxiv.org/abs/1811.06562) | [DOI:10.1140/epjc/s10052-019-6730-7](https://doi.org/10.1140/epjc/s10052-019-6730-7) | 2018-11-15
 
-<!--#ref-CMS:2018gbj-->
-A.M. Sirunyan et al., **Search for dark matter in
-events with energetic, hadronically decaying top quarks and missing
-transverse momentum at $\sqrt{s}=13$ TeV**, *JHEP*. 06 (2018) 027,
-doi:[10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027),
-arXiv:[1801.08427 \[hep-ex\]](http://arxiv.org/abs/1801.08427)
+3. **Search for dark matter in events with energetic, hadronically decaying top quarks and missing transverse momentum at √(s)=13 TeV**  
+   Sirunyan, Albert M et al.  
+   [JHEP 06 (2018) 027](https://doi.org/10.1007/JHEP06(2018)027) | [arXiv:1801.08427](https://arxiv.org/abs/1801.08427) | [DOI:10.1007/JHEP06(2018)027](https://doi.org/10.1007/JHEP06(2018)027) | 2018-01-25
 
-<!--#ref-CMS:2016piu-->
-V. Khachatryan et al., **Measurements of t t-bar
-spin correlations and top quark polarization using dilepton final states
-in pp collisions at sqrt(s) = 8 TeV**, *Phys. Rev. D*. 93 (2016) 052007,
-doi:[10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007),
-arXiv:[1601.01107 \[hep-ex\]](http://arxiv.org/abs/1601.01107)
+4. **Measurements of t t̅ charge asymmetry using dilepton final states in pp collisions at √(s)=8 TeV**  
+   Khachatryan, Vardan et al.  
+   [Phys.Lett.B 760 (2016) 365](https://doi.org/10.1016/j.physletb.2016.07.006) | [arXiv:1603.06221](https://arxiv.org/abs/1603.06221) | [DOI:10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006) | 2016-03-20
 
-<!--#ref-CMS:2016ypc-->
-V. Khachatryan et al., **Measurements of $t \bar t$
-charge asymmetry using dilepton final states in pp collisions at
-$\sqrt s=8$ TeV**, *Phys. Lett. B*. 760 (2016) 365--386,
-doi:[10.1016/j.physletb.2016.07.006](https://doi.org/10.1016/j.physletb.2016.07.006),
-arXiv:[1603.06221 \[hep-ex\]](http://arxiv.org/abs/1603.06221)
+5. **Measurements of t t-bar spin correlations and top quark polarization using dilepton final states in pp collisions at sqrt(s) = 8 TeV**  
+   Khachatryan, V. et al.  
+   [Phys.Rev.D 93 (2016) 052007](https://doi.org/10.1103/PhysRevD.93.052007) | [arXiv:1601.01107](https://arxiv.org/abs/1601.01107) | [DOI:10.1103/PhysRevD.93.052007](https://doi.org/10.1103/PhysRevD.93.052007) | 2016-01-06
 
-<!--#ref-CMS:2013roq-->
-S. Chatrchyan et al., **Measurements of $t\bar{t}$
-Spin Correlations and Top-Quark Polarization Using Dilepton Final States
-in $pp$ Collisions at $\sqrt{s}$ = 7 TeV**, *Phys. Rev. Lett.* 112
-(2014) 182001,
-doi:[10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001),
-arXiv:[1311.3924 \[hep-ex\]](http://arxiv.org/abs/1311.3924)
+6. **Measurements of the tt̅ Charge Asymmetry Using the Dilepton Decay Channel in pp Collisions at √(s) = 7 TeV**  
+   Chatrchyan, Serguei et al.  
+   [JHEP 04 (2014) 191](https://doi.org/10.1007/JHEP04(2014)191) | [arXiv:1402.3803](https://arxiv.org/abs/1402.3803) | [DOI:10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191) | 2014-02-16
 
-<!--#ref-CMS:2014rdf-->
-S. Chatrchyan et al., **Measurements of the
-$t\bar{t}$ Charge Asymmetry Using the Dilepton Decay Channel in pp
-Collisions at $\sqrt{s} =$ 7 TeV**, *JHEP*. 04 (2014) 191,
-doi:[10.1007/JHEP04(2014)191](https://doi.org/10.1007/JHEP04(2014)191),
-arXiv:[1402.3803 \[hep-ex\]](http://arxiv.org/abs/1402.3803)
+7. **Measurements of tt̅ Spin Correlations and Top-Quark Polarization Using Dilepton Final States in pp Collisions at √(s) = 7 TeV**  
+   Chatrchyan, Serguei et al.  
+   [Phys.Rev.Lett. 112 (2014) 182001](https://doi.org/10.1103/PhysRevLett.112.182001) | [arXiv:1311.3924](https://arxiv.org/abs/1311.3924) | [DOI:10.1103/PhysRevLett.112.182001](https://doi.org/10.1103/PhysRevLett.112.182001) | 2013-11-15
 
-<!--#ref-CMS:2012qbp-->
-S. Chatrchyan et al., **Observation of a New Boson
-at a Mass of 125 GeV with the CMS Experiment at the LHC**, *Phys. Lett.
-B*. 716 (2012) 30--61,
-doi:[10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021),
-arXiv:[1207.7235 \[hep-ex\]](http://arxiv.org/abs/1207.7235)
+8. **Observation of a New Boson at a Mass of 125 GeV with the CMS Experiment at the LHC**  
+   Chatrchyan, Serguei et al.  
+   [Phys.Lett.B 716 (2012) 30](https://doi.org/10.1016/j.physletb.2012.08.021) | [arXiv:1207.7235](https://arxiv.org/abs/1207.7235) | [DOI:10.1016/j.physletb.2012.08.021](https://doi.org/10.1016/j.physletb.2012.08.021) | 2012-07
 
 
 # Computing Publications with Major Personal Contributions
 
-<!--#ref-Aarrestad:2026xrs-->
-T.K. Aarrestad et al., **Building an
-AI-native Research Ecosystem for Experimental Particle Physics: A
-Community Vision**, (2026). <http://arxiv.org/abs/2602.17582>,
-arXiv:[2602.17582 \[hep-ex\]](http://arxiv.org/abs/2602.17582)
+1. **Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision**  
+   Aarrestad, Thea Klaeboe et al.  
+   [arXiv:2602.17582](https://arxiv.org/abs/2602.17582) | 2026-02-19
 
-<!--#ref-Atif:2026iab-->
-M. Atif et al., **Evaluating Application
-Characteristics for GPU Portability Layer Selection**, (2026).
-<http://arxiv.org/abs/2601.17526>, arXiv:[2601.17526
-\[hep-ex\]](http://arxiv.org/abs/2601.17526)
+2. **Evaluating Application Characteristics for GPU Portability Layer Selection**  
+   Atif, Mohammad et al.  
+   [arXiv:2601.17526](https://arxiv.org/abs/2601.17526) | 2026-01-24
 
-<!--#ref-Apresyan:2023frr-->
-A. Apresyan et al., **Detector R&D needs for
-the next generation $e^+e^-$ collider**, (2023).
-<http://arxiv.org/abs/2306.13567>, arXiv:[2306.13567
-\[hep-ex\]](http://arxiv.org/abs/2306.13567)
+3. **Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels**  
+   Kwok, Ka Hei Martin et al.  
+   [EPJ Web Conf. 295 (2024) 11003](https://doi.org/10.1051/epjconf/202429511003) | [arXiv:2401.14221](https://arxiv.org/abs/2401.14221) | [DOI:10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003) | 2024-01-25
 
-<!--#ref-Atif:2023zcw-->
-M. Atif et al., **Evaluating Portable
-Parallelization Strategies for Heterogeneous Architectures in High
-Energy Physics**, (2023). <http://arxiv.org/abs/2306.15869>,
-arXiv:[2306.15869 \[hep-ex\]](http://arxiv.org/abs/2306.15869)
+4. **The U.S. CMS HL-LHC R   D Strategic Plan**  
+   Gutsche, Oliver et al.  
+   [EPJ Web Conf. 295 (2024) 04050](https://doi.org/10.1051/epjconf/202429504050) | [arXiv:2312.00772](https://arxiv.org/abs/2312.00772) | [DOI:10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050) | 2023-12-01
 
-<!--#ref-Bockelman:2023gbj-->
-B. Bockelman et al., **IRIS-HEP Strategic
-Plan for the Next Phase of Software Upgrades for HL-LHC Physics**,
-(2023). <http://arxiv.org/abs/2302.01317>, arXiv:[2302.01317
-\[hep-ex\]](http://arxiv.org/abs/2302.01317)
+5. **A Ceph S3 Object Data Store for HEP**  
+   Smith, Nick et al.  
+   [EPJ Web Conf. 295 (2024) 01003](https://doi.org/10.1051/epjconf/202429501003) | [arXiv:2311.16321](https://arxiv.org/abs/2311.16321) | [DOI:10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003) | 2023-11-27
 
-<!--#ref-Elvira:2022wyn-->
-V.D. Elvira et al., **The Future of High Energy
-Physics Software and Computing**, in: **Snowmass 2021**, 2022,
-doi:[10.2172/1898754](https://doi.org/10.2172/1898754),
-arXiv:[2210.05822 \[hep-ex\]](http://arxiv.org/abs/2210.05822)
+6. **Evaluating Portable Parallelization Strategies for Heterogeneous Architectures in High Energy Physics**  
+   Atif, Mohammad et al.  
+   [arXiv:2306.15869](https://arxiv.org/abs/2306.15869) | 2023-06-27
 
-<!--#ref-Cerati:2022wiv-->
-G. Cerati et al., **Snowmass Computational
-Frontier: Topical Group Report on Experimental Algorithm
-Parallelization**, (2022). <http://arxiv.org/abs/2209.07356>,
-arXiv:[2209.07356 \[hep-ex\]](http://arxiv.org/abs/2209.07356)
+7. **Detector R   D needs for the next generation e^+e^- collider**  
+   Apresyan, A. et al.  
+   [arXiv:2306.13567](https://arxiv.org/abs/2306.13567) | 2023-06-23
 
-<!--#ref-Bhattacharya:2022qgj-->
-M. Bhattacharya et al., **Portability: A
-Necessary Approach for Future Scientific Software**, in: **Snowmass
-2021**, 2022. <http://arxiv.org/abs/2203.09945>, arXiv:[2203.09945
-\[physics.comp-ph\]](http://arxiv.org/abs/2203.09945)
+8. **Automated Network Services for Exascale Data Movement**  
+   Balcas, Justas et al.  
+   [EPJ Web Conf. 295 (2024) 01009](https://doi.org/10.1051/epjconf/202429501009) | [DOI:10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009) | 2024
 
-<!--#ref-Berzano:2018xaa-->
-D. Berzano et al., **HEP Software Foundation
-Community White Paper Working Group -- Data Organization, Management and
-Access (DOMA)**, (2018). <http://arxiv.org/abs/1812.00761>,
-arXiv:[1812.00761 \[physics.comp-ph\]](http://arxiv.org/abs/1812.00761)
+9. **IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics**  
+   Bockelman, Brian et al.  
+   [arXiv:2302.01317](https://arxiv.org/abs/2302.01317) | 2023-02-02
 
-<!--#ref-HEPSoftwareFoundation:2018xvc-->
-L. Bauerdick et al., **HEP
-Software Foundation Community White Paper Working Group - Data Analysis
-and Interpretation**, (2018). <http://arxiv.org/abs/1804.03983>,
-arXiv:[1804.03983 \[physics.comp-ph\]](http://arxiv.org/abs/1804.03983)
+10. **The Future of High Energy Physics Software and Computing**  
+   Elvira, V. Daniel et al.  
+   [arXiv:2210.05822](https://arxiv.org/abs/2210.05822) | [DOI:10.2172/1898754](https://doi.org/10.2172/1898754) | 2022-10-11
 
-<!--#ref-Giannakou:2026sip-->
-A. Giannakou et al., **Interpretable Models
-for Workflow Differentiation in High-Performance Scientific Networks**,
-(2026),
-doi:[10.1109/ICNC68183.2026.11416957](https://doi.org/10.1109/ICNC68183.2026.11416957)
+11. **Snowmass Computational Frontier: Topical Group Report on Experimental Algorithm Parallelization**  
+   Cerati, G. et al.  
+   [arXiv:2209.07356](https://arxiv.org/abs/2209.07356) | 2022-09-15
 
-<!--#ref-CMS:2024juo-->
-J. Balcas et al., **Automated Network Services for
-Exascale Data Movement**, *EPJ Web Conf.* 295 (2024) 01009,
-doi:[10.1051/epjconf/202429501009](https://doi.org/10.1051/epjconf/202429501009)
+12. **Portability: A Necessary Approach for Future Scientific Software**  
+   Bhattacharya, Meghna et al.  
+   [arXiv:2203.09945](https://arxiv.org/abs/2203.09945) | 2022-03-15
 
-<!--#ref-Gutsche:2023cth-->
-O. Gutsche et al., **The U.S. CMS HL-LHC R&D
-Strategic Plan**, *EPJ Web Conf.* 295 (2024) 04050,
-doi:[10.1051/epjconf/202429504050](https://doi.org/10.1051/epjconf/202429504050),
-arXiv:[2312.00772 \[hep-ex\]](http://arxiv.org/abs/2312.00772)
+13. **Coffea: Columnar Object Framework For Effective Analysis**  
+   Smith, Nicholas et al.  
+   [EPJ Web Conf. 245 (2020) 06012](https://doi.org/10.1051/epjconf/202024506012) | [arXiv:2008.12712](https://arxiv.org/abs/2008.12712) | [DOI:10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012) | 2020-08-28
 
-<!--#ref-Kwok:2024dgx-->
-K.H.M. Kwok et al., **Application of performance
-portability solutions for GPUs and many-core CPUs to track
-reconstruction kernels**, *EPJ Web Conf.* 295 (2024) 11003,
-doi:[10.1051/epjconf/202429511003](https://doi.org/10.1051/epjconf/202429511003),
-arXiv:[2401.14221 \[physics.acc-ph\]](http://arxiv.org/abs/2401.14221)
+14. **Using Big Data Technologies for HEP Analysis**  
+   Cremonesi, Matteo et al.  
+   [EPJ Web Conf. 214 (2019) 06030](https://doi.org/10.1051/epjconf/201921406030) | [arXiv:1901.07143](https://arxiv.org/abs/1901.07143) | [DOI:10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030) | 2019-01-21
 
-<!--#ref-Smith:2023mrq-->
-N. Smith et al., **A Ceph S3 Object Data Store
-for HEP**, *EPJ Web Conf.* 295 (2024) 01003,
-doi:[10.1051/epjconf/202429501003](https://doi.org/10.1051/epjconf/202429501003),
-arXiv:[2311.16321 \[physics.data-an\]](http://arxiv.org/abs/2311.16321)
+15. **HEP Software Foundation Community White Paper Working Group – Data Organization, Management and Access (DOMA)**  
+   Berzano, Dario et al.  
+   [arXiv:1812.00761](https://arxiv.org/abs/1812.00761) | 2018-11-30
 
-<!--#ref-CMS:2020kpn-->
-N. Smith et al., **Coffea: Columnar Object
-Framework For Effective Analysis**, *EPJ Web Conf.* 245 (2020) 06012,
-doi:[10.1051/epjconf/202024506012](https://doi.org/10.1051/epjconf/202024506012),
-arXiv:[2008.12712 \[cs.DC\]](http://arxiv.org/abs/2008.12712)
+16. **HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation**  
+   Bauerdick, Lothar et al.  
+   [arXiv:1804.03983](https://arxiv.org/abs/1804.03983) | 2018-04-09
 
-<!--#ref-Cremonesi:2019pdq-->
-M. Cremonesi et al., **Using Big Data
-Technologies for HEP Analysis**, *EPJ Web Conf.* 214 (2019) 06030,
-doi:[10.1051/epjconf/201921406030](https://doi.org/10.1051/epjconf/201921406030),
-arXiv:[1901.07143 \[cs.DC\]](http://arxiv.org/abs/1901.07143)
-
-<!--#ref-HEPSoftwareFoundation:2017ggl-->
-J. Albrecht et al., **A Roadmap
-for HEP Software and Computing R&D for the 2020s**, *Comput. Softw. Big
-Sci.* 3 (2019) 7,
-doi:[10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8),
-arXiv:[1712.06982 \[physics.comp-ph\]](http://arxiv.org/abs/1712.06982)
+17. **A Roadmap for HEP Software and Computing R   D for the 2020s**  
+   Albrecht, Johannes et al.  
+   [Comput.Softw.Big Sci. 3 (2019) 7](https://doi.org/10.1007/s41781-018-0018-8) | [arXiv:1712.06982](https://arxiv.org/abs/1712.06982) | [DOI:10.1007/s41781-018-0018-8](https://doi.org/10.1007/s41781-018-0018-8) | 2017-12-18
 
 
 # List of Presentation and Talks
 
-<!--#ref-Gutsche:2025aab-->
-O. Gutsche, **Scientific Computing and
-Scientific Software Infrastructure - High Performance Computing (HPC)**,
-(2025), Presentation for the [Chicagoland Computational Traineeship in
-High Energy Particle Physics](https://www.c2thep2.org),
+O. Gutsche,
+
+**Scientific Computing and Scientific Software Infrastructure - High
+Performance Computing (HPC)**, (2025), Presentation for the [Chicagoland
+Computational Traineeship in High Energy Particle
+Physics](https://www.c2thep2.org),
 [(Material)](https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%202.pdf)
 
-<!--#ref-Gutsche:2025aaa-->
-O. Gutsche, **Scientific Computing and
-Scientific Software Infrastructure - Particle Physics Overview**,
-(2025), Presentation for the [Chicagoland Computational Traineeship in
-High Energy Particle Physics](https://www.c2thep2.org),
+O. Gutsche,
+
+**Scientific Computing and Scientific Software Infrastructure - Particle
+Physics Overview**, (2025), Presentation for the [Chicagoland
+Computational Traineeship in High Energy Particle
+Physics](https://www.c2thep2.org),
 [(Material)](https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%201.pdf)
 
-<!--#ref-Gutsche:2024aaa-->
-O. Gutsche, **Computing and Software
-Infrastructure**, (2024), Presentation at the [Fermilab-CERN HCP Summer
-School 2024](https://indico.fnal.gov/event/63696/),
+O. Gutsche,
+
+**Computing and Software Infrastructure**, (2024), Presentation at the
+[Fermilab-CERN HCP Summer School
+2024](https://indico.fnal.gov/event/63696/),
 [(Material)](https://indico.fnal.gov/event/63696/contributions/292540/attachments/180212/246716/240725-240726%20-%20HCPS%20-%20Gutsche%20-%20Computing%20and%20Software%20Infrastructure.pdf)
 
-<!--#ref-Gutsche:2023aab-->
-O. Gutsche, **HL-LHC Computing**, (2023),
-Presentation at the [USCMS Undergraduate Summer Internship
+O. Gutsche,
+
+**HL-LHC Computing**, (2023), Presentation at the [USCMS Undergraduate
+Summer Internship
 2023](https://indico.cern.ch/event/1269936/timetable/),
 [(Material)](https://indico.cern.ch/event/1269936/contributions/5446918/attachments/2679448/4647763/230705%20-%20USCMS%20Undergraduate%20Summer%20Internship%202023%20-%20Oliver%20Gutsche%20-%20HL-LHC%20Computing.pdf)
 
-<!--#ref-Gutsche:2023aaa-->
-O. Gutsche, (2023), Parallel Session Talk at
-the [26th International Conference on Computing in High Energy & Nuclear
-Physics (CHEP2023)](https://indico.jlab.org/event/459/),
+O. Gutsche,
+
+(2023), Parallel Session Talk at the [26th International Conference on
+Computing in High Energy & Nuclear Physics
+(CHEP2023)](https://indico.jlab.org/event/459/),
 [(Material)](https://indico.jlab.org/event/459/contributions/11470/)
 
-<!--#ref-Gutsche:2022aab-->
-O. Gutsche, **Computing**, (2022), Plenary talk
-given at the DOE/HEP Review of the Energy Frontier Laboratory Research
-Program, (Material available upon request)
+O. Gutsche,
 
-<!--#ref-Gutsche:2022aaa-->
-O. Gutsche, **Computing**, (2022), Lecture
-given at [17th Hadron Collider Physics Summer
-School](https://indico.fnal.gov/event/54596/),
+**Computing**, (2022), Plenary talk given at the DOE/HEP Review of the
+Energy Frontier Laboratory Research Program, (Material available upon
+request)
+
+O. Gutsche,
+
+**Computing**, (2022), Lecture given at [17th Hadron Collider Physics
+Summer School](https://indico.fnal.gov/event/54596/),
 [(Material)](https://indico.fnal.gov/event/54596/contributions/248574/attachments/159000/208889/220819%20-%2017th%20Hadron%20Collider%20Physics%20Summer%20School%20-%20Gutsche%20-%20Computing.pdf)
 
 

@@ -1,0 +1,3592 @@
+{
+  "author": "O.Gutsche.1",
+  "source": "bib/computing_publication_list.bib",
+  "total": 58,
+  "fetched": 58,
+  "records": [
+    {
+      "updated": "2023-03-06T14:52:49.749537+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/619728?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/619728?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/619728?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/619728?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/619728?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/619728?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A619728"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "C0303241",
+            "artid": "MOLT002",
+            "year": 2003,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213107"
+            },
+            "journal_title": "eConf"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/974974"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/634021"
+            },
+            "cnum": "C03-03-24.1"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/041nas322"
+            }
+          ],
+          "full_name": "Kind, O.",
+          "last_name": "Kind",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-7880-9665"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Kind.1"
+            }
+          ],
+          "first_name": "O.",
+          "recid": 1029745
+        },
+        "control_number": 619728,
+        "titles": [
+          {
+            "title": "A ROOT based client server event display for the ZEUS experiment"
+          },
+          {
+            "source": "arXiv",
+            "title": "A ROOT-based client-server event display for the ZEUS experiment."
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "hep-ex/0305095"
+          }
+        ],
+        "earliest_date": "2003-05"
+      },
+      "id": "619728",
+      "created": "2003-05-29T00:00:00+00:00"
+    },
+    {
+      "id": "808557",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "4873",
+            "page_end": "586",
+            "year": 2007,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212891"
+            },
+            "page_start": "580",
+            "journal_title": "Lect.Notes Comput.Sci."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/980152"
+            },
+            "cnum": "C07-12-18"
+          }
+        ],
+        "first_author": {
+          "full_name": "Spiga, D.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00030379"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "D.Spiga.1"
+            }
+          ],
+          "last_name": "Spiga",
+          "first_name": "D.",
+          "recid": 1040998
+        },
+        "control_number": 808557,
+        "dois": [
+          {
+            "value": "10.1007/978-3-540-77220-0_52"
+          }
+        ],
+        "titles": [
+          {
+            "title": "The CMS Remote Analysis Builder (CRAB)"
+          }
+        ],
+        "earliest_date": "2007"
+      },
+      "updated": "2023-03-10T02:57:02.897225+00:00",
+      "created": "2009-02-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/808557?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/808557?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/808557?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/808557?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/808557?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/808557?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A808557"
+      }
+    },
+    {
+      "id": "775577",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "ACAT",
+            "artid": "020",
+            "year": 2007,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213080"
+            },
+            "page_start": "020",
+            "journal_title": "PoS"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/978214"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/775365"
+            },
+            "cnum": "C07-04-23.1"
+          }
+        ],
+        "first_author": {
+          "full_name": "Farina, Fabio",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00308829"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "F.M.Farina.1"
+            }
+          ],
+          "last_name": "Farina",
+          "first_name": "Fabio",
+          "recid": 1064316
+        },
+        "control_number": 775577,
+        "dois": [
+          {
+            "value": "10.22323/1.050.0020"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Status and evolution of CRAB"
+          }
+        ],
+        "earliest_date": "2007"
+      },
+      "updated": "2023-03-07T01:54:11.174504+00:00",
+      "created": "2008-11-25T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/775577?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/775577?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/775577?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/775577?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/775577?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/775577?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A775577"
+      }
+    },
+    {
+      "id": "858290",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "ACAT08",
+            "artid": "032",
+            "year": 2008,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213080"
+            },
+            "page_start": "032",
+            "journal_title": "PoS"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/980090"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/839708"
+            },
+            "cnum": "C08-11-03.1"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Evans, D.",
+          "last_name": "Evans",
+          "first_name": "D.",
+          "recid": 1021402
+        },
+        "control_number": 858290,
+        "dois": [
+          {
+            "value": "10.22323/1.070.0032"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Large scale job management and experience in recent data challenges within the LHC CMS experiment"
+          }
+        ],
+        "earliest_date": "2008"
+      },
+      "updated": "2023-11-30T15:14:03.889711+00:00",
+      "created": "2010-06-15T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/858290?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/858290?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/858290?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/858290?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/858290?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/858290?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A858290"
+      }
+    },
+    {
+      "id": "803947",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "119",
+            "artid": "062033",
+            "year": 2008,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/977850"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/880523"
+            },
+            "cnum": "C07-09-02.1"
+          }
+        ],
+        "first_author": {
+          "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00319172"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            }
+          ],
+          "last_name": "Gutsche",
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 803947,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/119/6/062033"
+          }
+        ],
+        "titles": [
+          {
+            "title": "WLCG scale testing during CMS data challenges"
+          }
+        ],
+        "earliest_date": "2008"
+      },
+      "updated": "2023-03-07T01:36:54.728725+00:00",
+      "created": "2008-12-02T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/803947?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/803947?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/803947?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/803947?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/803947?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/803947?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A803947"
+      }
+    },
+    {
+      "id": "788140",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "177-178",
+            "page_end": "268",
+            "year": 2008,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1213378"
+            },
+            "page_start": "267",
+            "journal_title": "Nucl.Phys.B Proc.Suppl."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/978308"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/783770"
+            },
+            "cnum": "C07-05-20"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00x27da85"
+            },
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/05478fx36"
+            }
+          ],
+          "full_name": "Spiga, D.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00030379"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "D.Spiga.1"
+            }
+          ],
+          "last_name": "Spiga",
+          "first_name": "D.",
+          "recid": 1040998
+        },
+        "control_number": 788140,
+        "dois": [
+          {
+            "value": "10.1016/j.nuclphysbps.2007.11.124"
+          }
+        ],
+        "titles": [
+          {
+            "title": "CRAB: The CMS distributed analysis tool development and design"
+          },
+          {
+            "source": "arXiv",
+            "title": "CRAB: The CMS distributed analysis tool development and design"
+          }
+        ],
+        "earliest_date": "2008"
+      },
+      "updated": "2023-03-07T01:50:58.585511+00:00",
+      "created": "2008-06-15T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/788140?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/788140?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/788140?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/788140?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/788140?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/788140?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A788140"
+      }
+    },
+    {
+      "id": "813070",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "4",
+            "artid": "P05004",
+            "year": 2009,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212215"
+            },
+            "journal_title": "JINST"
+          }
+        ],
+        "first_author": {
+          "full_name": "Adam, W.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00060887"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "W.Adam.2"
+            }
+          ],
+          "last_name": "Adam",
+          "first_name": "W.",
+          "recid": 1018973
+        },
+        "control_number": 813070,
+        "dois": [
+          {
+            "value": "10.1088/1748-0221/4/05/P05004"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.ins-det"
+            ],
+            "value": "0902.1860"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Stand-alone Cosmic Muon Reconstruction Before Installation of the CMS Silicon Strip Tracker"
+          },
+          {
+            "source": "arXiv",
+            "title": "Stand-alone Cosmic Muon Reconstruction Before Installation of the CMS Silicon Strip Tracker"
+          }
+        ],
+        "earliest_date": "2009-02"
+      },
+      "updated": "2026-04-03T13:38:31.995949+00:00",
+      "created": "2009-02-11T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/813070?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/813070?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/813070?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/813070?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/813070?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/813070?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A813070"
+      }
+    },
+    {
+      "id": "860219",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "219",
+            "artid": "072035",
+            "year": 2010,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/978278"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/858752"
+            },
+            "cnum": "C09-03-21"
+          }
+        ],
+        "first_author": {
+          "full_name": "Albert, M.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00202253"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "M.Albert.1"
+            }
+          ],
+          "last_name": "Albert",
+          "first_name": "M.",
+          "recid": 1069056
+        },
+        "control_number": 860219,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/219/7/072035"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Experience Building and Operating the CMS Tier-1 Computing Centres"
+          }
+        ],
+        "earliest_date": "2010"
+      },
+      "updated": "2025-12-11T15:25:35.021725+00:00",
+      "created": "2010-07-01T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/860219?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/860219?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/860219?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/860219?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/860219?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/860219?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860219"
+      }
+    },
+    {
+      "id": "860238",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "219",
+            "artid": "072013",
+            "year": 2010,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/978278"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/858752"
+            },
+            "cnum": "C09-03-21"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/01y2jtd41"
+            }
+          ],
+          "full_name": "Bradley, D.",
+          "last_name": "Bradley",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00046810"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "D.C.Bradley.1"
+            }
+          ],
+          "first_name": "D.",
+          "recid": 1024033
+        },
+        "control_number": 860238,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/219/7/072013"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Use of glide-ins in CMS for production and analysis"
+          }
+        ],
+        "earliest_date": "2010"
+      },
+      "updated": "2025-03-05T18:20:34.293964+00:00",
+      "created": "2010-07-01T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/860238?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/860238?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/860238?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/860238?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/860238?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/860238?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860238"
+      }
+    },
+    {
+      "id": "817506",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "219",
+            "artid": "042040",
+            "year": 2010,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/978278"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/858752"
+            },
+            "cnum": "C09-03-21"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00319172"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
+          "last_name": "Gutsche",
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 817506,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/219/4/042040"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Validation of Software Releases for CMS"
+          }
+        ],
+        "earliest_date": "2009-03"
+      },
+      "updated": "2023-03-10T15:36:44.525839+00:00",
+      "created": "2009-04-08T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/817506?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/817506?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/817506?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/817506?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/817506?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/817506?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A817506"
+      }
+    },
+    {
+      "id": "1111392",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "331",
+            "artid": "072019",
+            "year": 2011,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/981515"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1092858"
+            },
+            "cnum": "C10-10-18.4"
+          }
+        ],
+        "first_author": {
+          "full_name": "Adelman-McCarthy, Jennifer",
+          "last_name": "Adelman-McCarthy",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00147594"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.K.Adelman.McCarthy.1"
+            }
+          ],
+          "first_name": "Jennifer",
+          "recid": 1038961
+        },
+        "control_number": 1111392,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/331/7/072019"
+          }
+        ],
+        "titles": [
+          {
+            "title": "CMS distributed computing workflow experience"
+          }
+        ],
+        "earliest_date": "2011"
+      },
+      "updated": "2025-03-05T18:16:16.563977+00:00",
+      "created": "2012-02-03T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1111392?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1111392?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1111392?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1111392?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1111392?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1111392?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1111392"
+      }
+    },
+    {
+      "id": "1211500",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "396",
+            "artid": "032089",
+            "year": 2012,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1115389"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1207932"
+            },
+            "cnum": "C12-05-21.3"
+          }
+        ],
+        "first_author": {
+          "full_name": "Chwalek, T.",
+          "last_name": "Chwalek",
+          "first_name": "T.",
+          "recid": 1048017
+        },
+        "control_number": 1211500,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/396/3/032089"
+          }
+        ],
+        "titles": [
+          {
+            "title": "No File Left Behind - Monitoring Transfer Latencies in PhEDEx"
+          }
+        ],
+        "earliest_date": "2012"
+      },
+      "updated": "2023-03-07T01:04:08.478147+00:00",
+      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211500?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211500?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211500?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211500?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211500?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211500?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211500"
+      }
+    },
+    {
+      "created": "2012-06-28T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1124264?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1124264?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1124264?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1124264?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1124264?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1124264?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124264"
+      },
+      "id": "1124264",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "396",
+            "artid": "042018",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1115389"
+            },
+            "year": 2012,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1207932"
+            },
+            "cnum": "C12-05-21.3"
+          }
+        ],
+        "first_author": {
+          "full_name": "Fajardo, E.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00280760"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "E.Fajardo.1"
+            }
+          ],
+          "last_name": "Fajardo",
+          "first_name": "E.",
+          "recid": 1073769
+        },
+        "control_number": 1124264,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/396/4/042018"
+          }
+        ],
+        "titles": [
+          {
+            "title": "A New Era for Central Processing and Production in CMS"
+          }
+        ],
+        "earliest_date": "2012-06-27"
+      },
+      "updated": "2025-02-24T19:39:27.420578+00:00"
+    },
+    {
+      "id": "1211485",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "396",
+            "artid": "042033",
+            "year": 2012,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1115389"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1207932"
+            },
+            "cnum": "C12-05-21.3"
+          }
+        ],
+        "first_author": {
+          "full_name": "Kaselis, Rapolas",
+          "last_name": "Kaselis",
+          "first_name": "Rapolas",
+          "recid": 2307393
+        },
+        "control_number": 1211485,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/396/4/042033"
+          }
+        ],
+        "titles": [
+          {
+            "title": "CMS Data Transfer Operations After the First Years of LHC Collisions"
+          }
+        ],
+        "earliest_date": "2012"
+      },
+      "updated": "2023-03-07T01:05:58.474227+00:00",
+      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211485?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211485?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211485?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211485?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211485?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211485?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211485"
+      }
+    },
+    {
+      "id": "1211477",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "396",
+            "artid": "042041",
+            "year": 2012,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser."
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1115389"
+            },
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1207932"
+            },
+            "cnum": "C12-05-21.3"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/01ggx4157"
+            },
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/0168r3w48"
+            }
+          ],
+          "full_name": "Molina-Perez, J.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00320901"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.Molina.2"
+            }
+          ],
+          "last_name": "Molina-Perez",
+          "first_name": "J.",
+          "recid": 1064713
+        },
+        "control_number": 1211477,
+        "dois": [
+          {
+            "value": "10.1088/1742-6596/396/4/042041"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Monitoring Techniques and Alarm Procedures for CMS Services and Sites in WLCG"
+          }
+        ],
+        "earliest_date": "2012"
+      },
+      "updated": "2023-03-10T14:38:14.628237+00:00",
+      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211477?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211477?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211477?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211477?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211477?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211477?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211477"
+      }
+    },
+    {
+      "created": "2014-06-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1302010?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1302010?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1302010?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1302010?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1302010?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1302010?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302010"
+      },
+      "id": "1302010",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "032041",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "full_name": "Belforte, S.",
+          "last_name": "Belforte",
+          "first_name": "S.",
+          "recid": 1016895
+        },
+        "control_number": 1302010,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/513/3/032041"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Evolution of the Pilot Infrastructure of CMS: Towards a Single GlideinWMS Pool"
+          }
+        ],
+        "earliest_date": "2014"
+      },
+      "updated": "2024-01-18T14:31:29.536709+00:00"
+    },
+    {
+      "created": "2014-06-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1302168?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1302168?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1302168?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1302168?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1302168?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1302168?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302168"
+      },
+      "id": "1302168",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "062008",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/01ggx4157"
+            }
+          ],
+          "full_name": "Campana, S.",
+          "last_name": "Campana",
+          "first_name": "S.",
+          "recid": 1020392
+        },
+        "control_number": 1302168,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/513/6/062008"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Deployment of a WLCG network monitoring infrastructure based on the perfSONAR-PS technology"
+          }
+        ],
+        "earliest_date": "2014"
+      },
+      "updated": "2023-03-06T13:33:50.084200+00:00"
+    },
+    {
+      "created": "2014-02-25T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1282389?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1282389?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1282389?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1282389?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1282389?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1282389?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1282389"
+      },
+      "id": "1282389",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "032040",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "full_name": "Adelman, J.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00147594"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.A.Adelman.1"
+            }
+          ],
+          "last_name": "Adelman",
+          "first_name": "J.",
+          "recid": 1028646
+        },
+        "control_number": 1282389,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1088/1742-6596/513/3/032040"
+          }
+        ],
+        "titles": [
+          {
+            "title": "CMS Computing Operations During Run 1"
+          }
+        ],
+        "earliest_date": "2013-10-30"
+      },
+      "updated": "2025-04-07T14:58:46.768999+00:00"
+    },
+    {
+      "created": "2014-06-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1302187?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1302187?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1302187?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1302187?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1302187?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1302187?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302187"
+      },
+      "id": "1302187",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "062028",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/04xfq0f34"
+            }
+          ],
+          "full_name": "Kreuzer, Peter",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00320858"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "P.Kreuzer.1"
+            }
+          ],
+          "last_name": "Kreuzer",
+          "first_name": "Peter",
+          "recid": 1001821
+        },
+        "control_number": 1302187,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/513/6/062028"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Opportunistic Resource Usage in CMS"
+          }
+        ],
+        "earliest_date": "2014"
+      },
+      "updated": "2025-04-07T14:58:46.496245+00:00"
+    },
+    {
+      "created": "2014-06-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1301999?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1301999?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1301999?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1301999?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1301999?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1301999?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1301999"
+      },
+      "id": "1301999",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "032028",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "idzhunov@cern.ch"
+          ],
+          "full_name": "Dzhunov, I.",
+          "last_name": "Dzhunov",
+          "first_name": "I.",
+          "recid": 2318822
+        },
+        "control_number": 1301999,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/513/3/032028"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Towards a Centralized Grid Speedometer"
+          }
+        ],
+        "earliest_date": "2014"
+      },
+      "updated": "2023-03-07T00:51:35.612399+00:00"
+    },
+    {
+      "created": "2014-06-23T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1302055?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1302055?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1302055?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1302055?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1302055?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1302055?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302055"
+      },
+      "id": "1302055",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "513",
+            "artid": "032086",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1253773"
+            },
+            "year": 2014,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1302855"
+            },
+            "cnum": "C13-10-14.1"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/0168r3w48"
+            }
+          ],
+          "full_name": "Sfiligoi, I.",
+          "last_name": "Sfiligoi",
+          "first_name": "I.",
+          "recid": 1058663
+        },
+        "control_number": 1302055,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/513/3/032086"
+          }
+        ],
+        "titles": [
+          {
+            "title": "CMS experience of running glideinWMS in High Availability mode"
+          }
+        ],
+        "earliest_date": "2014"
+      },
+      "updated": "2024-01-18T14:31:29.552989+00:00"
+    },
+    {
+      "id": "1413883",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "664",
+            "artid": "042056",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1320679"
+            },
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "4",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1412138"
+            },
+            "cnum": "C15-04-13"
+          }
+        ],
+        "first_author": {
+          "full_name": "Apyan, A.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00283963"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "A.B.Apyan.1"
+            }
+          ],
+          "last_name": "Apyan",
+          "first_name": "A.",
+          "recid": 1018213
+        },
+        "control_number": 1413883,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/664/4/042056"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Pooling the resources of the CMS Tier-1 sites"
+          }
+        ],
+        "earliest_date": "2015-12-23"
+      },
+      "created": "2016-01-07T00:00:00+00:00",
+      "updated": "2024-10-16T18:25:24.497456+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413883?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413883?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413883?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413883?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413883?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413883?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413883"
+      }
+    },
+    {
+      "id": "1413952",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "664",
+            "artid": "062031",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1320679"
+            },
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "6",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1412138"
+            },
+            "cnum": "C15-04-13"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/03nadee84"
+            }
+          ],
+          "full_name": "Balcas, J.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00570098"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.Balcas.1"
+            }
+          ],
+          "last_name": "Balcas",
+          "first_name": "J.",
+          "recid": 1281471
+        },
+        "control_number": 1413952,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/664/6/062031"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Using the GlideinWMS System as a Common Resource Provisioning Layer in CMS"
+          }
+        ],
+        "earliest_date": "2015-12-23"
+      },
+      "created": "2016-01-07T00:00:00+00:00",
+      "updated": "2024-10-16T18:25:21.703658+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413952?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413952?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413952?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413952?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413952?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413952?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413952"
+      }
+    },
+    {
+      "id": "1413951",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "664",
+            "artid": "062030",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1320679"
+            },
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "6",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1412138"
+            },
+            "cnum": "C15-04-13"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/03nadee84"
+            }
+          ],
+          "full_name": "Balcas, J.",
+          "last_name": "Balcas",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00570098"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.Balcas.1"
+            }
+          ],
+          "first_name": "J.",
+          "recid": 1281471
+        },
+        "control_number": 1413951,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/664/6/062030"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Pushing HTCondor and glideinWMS to 200K+ Jobs in a Global Pool for CMS before Run 2"
+          }
+        ],
+        "earliest_date": "2015-12-23"
+      },
+      "created": "2016-01-07T00:00:00+00:00",
+      "updated": "2024-10-16T18:25:24.416331+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413951?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413951?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413951?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413951?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413951?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413951?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413951"
+      }
+    },
+    {
+      "id": "1413172",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "664",
+            "artid": "012001",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1320679"
+            },
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "1",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1412138"
+            },
+            "cnum": "C15-04-13"
+          }
+        ],
+        "first_author": {
+          "full_name": "Garzoglio, G.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00083879"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "G.Garzoglio.1"
+            }
+          ],
+          "last_name": "Garzoglio",
+          "first_name": "G.",
+          "recid": 1008815
+        },
+        "control_number": 1413172,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/664/1/012001"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Diversity in Computing Technologies and Strategies for Dynamic Resource Allocation"
+          }
+        ],
+        "earliest_date": "2015-12-23"
+      },
+      "created": "2016-01-06T00:00:00+00:00",
+      "updated": "2024-01-18T14:44:40.036555+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413172?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413172?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413172?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413172?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413172?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413172?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413172"
+      }
+    },
+    {
+      "id": "1413813",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "664",
+            "artid": "032012",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1320679"
+            },
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "3",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1412138"
+            },
+            "cnum": "C15-04-13"
+          }
+        ],
+        "first_author": {
+          "full_name": "Group, Craig",
+          "last_name": "Group",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00041175"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-4097-5254"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Robert.C.Group.1"
+            }
+          ],
+          "first_name": "Craig",
+          "recid": 1028678
+        },
+        "control_number": 1413813,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/664/3/032012"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Fermilab Computing at the Intensity Frontier"
+          }
+        ],
+        "earliest_date": "2015-12-23"
+      },
+      "created": "2016-01-07T00:00:00+00:00",
+      "updated": "2023-08-01T17:22:10.091491+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413813?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413813?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413813?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413813?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413813?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413813?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413813"
+      }
+    },
+    {
+      "id": "1401370",
+      "metadata": {
+        "first_author": {
+          "full_name": "Habib, Salman",
+          "last_name": "Habib",
+          "first_name": "Salman",
+          "recid": 1007083
+        },
+        "control_number": 1401370,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex"
+            ],
+            "value": "1510.08545"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "High Energy Physics Forum for Computational Excellence: Working Group Reports (I. Applications Software II. Software Libraries and Tools III. Systems)"
+          }
+        ],
+        "earliest_date": "2015-10-28"
+      },
+      "created": "2015-10-30T00:00:00+00:00",
+      "updated": "2026-04-14T19:25:22.712807+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1401370?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1401370?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1401370?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1401370?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1401370?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1401370?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1401370"
+      }
+    },
+    {
+      "id": "1436553",
+      "metadata": {
+        "first_author": {
+          "full_name": "Habib, Salman",
+          "last_name": "Habib",
+          "first_name": "Salman",
+          "recid": 1007083
+        },
+        "control_number": 1436553,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph"
+            ],
+            "value": "1603.09303"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "ASCR/HEP Exascale Requirements Review Report"
+          }
+        ],
+        "earliest_date": "2016-03-30"
+      },
+      "created": "2016-03-31T00:00:00+00:00",
+      "updated": "2026-04-14T19:25:12.888232+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1436553?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1436553?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1436553?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1436553?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1436553?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1436553?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1436553"
+      }
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1638477?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1638477?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1638477?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1638477?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1638477?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1638477?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1638477"
+      },
+      "updated": "2025-12-11T15:25:35.262680+00:00",
+      "created": "2017-11-27T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "898",
+            "artid": "052019",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1477480"
+            },
+            "year": 2017,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "5",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1638116"
+            },
+            "cnum": "C16-10-14"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Bauerdick, L.",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00065219"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "L.A.T.Bauerdick.1"
+            }
+          ],
+          "last_name": "Bauerdick",
+          "first_name": "L.",
+          "recid": 1017092
+        },
+        "control_number": 1638477,
+        "dois": [
+          {
+            "source": "IOP",
+            "value": "10.1088/1742-6596/898/5/052019"
+          }
+        ],
+        "titles": [
+          {
+            "source": "IOP",
+            "title": "Experience in using commercial clouds in CMS"
+          }
+        ],
+        "earliest_date": "2017-11-22"
+      },
+      "id": "1638477"
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1507029?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1507029?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1507029?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1507029?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1507029?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1507029?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1507029"
+      },
+      "updated": "2023-03-09T23:17:42.808855+00:00",
+      "created": "2016-12-29T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "page_end": "13",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1497676"
+            },
+            "year": 2017,
+            "page_start": "4",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1593832"
+            },
+            "cnum": "C16-12-11.1"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "gutsche@fnal.go"
+          ],
+          "full_name": "Gutsche, Oliver",
+          "last_name": "Gutsche",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00319172"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            }
+          ],
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 1507029,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1109/WSC.2016.7822075"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Dark Matter and Super Symmetry: Exploring and Explaining the Universe with Simulations at the LHC"
+          }
+        ],
+        "earliest_date": "2017-01-19"
+      },
+      "id": "1507029"
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1517266?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1517266?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1517266?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1517266?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1517266?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1517266?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1517266"
+      },
+      "updated": "2024-10-29T15:48:30.164996+00:00",
+      "created": "2017-03-14T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "898",
+            "artid": "072012",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1477480"
+            },
+            "year": 2017,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "7",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1638116"
+            },
+            "cnum": "C16-10-14"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "last_name": "Gutsche",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00319172"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            }
+          ],
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 1517266,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1088/1742-6596/898/7/072012"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC"
+            ],
+            "value": "1703.04171"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Big Data in HEP: A comprehensive use case study"
+          }
+        ],
+        "earliest_date": "2017-03-12"
+      },
+      "id": "1517266"
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1628463?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1628463?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1628463?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1628463?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1628463?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1628463?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1628463"
+      },
+      "updated": "2025-12-11T15:25:34.815673+00:00",
+      "created": "2017-10-04T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "1",
+            "pubinfo_freetext": "Comput Softw Big Sci (2017) 1:1",
+            "artid": "1",
+            "material": "publication",
+            "year": 2017,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1516529"
+            },
+            "page_start": "1",
+            "journal_issue": "1",
+            "journal_title": "Comput.Softw.Big Sci."
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "GRID",
+              "value": "grid.417851.e"
+            },
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Holzman, Burt",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00090844"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0001-5235-6314"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "B.Holzman.1"
+            }
+          ],
+          "last_name": "Holzman",
+          "first_name": "Burt",
+          "recid": 1005675
+        },
+        "control_number": 1628463,
+        "dois": [
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1007/s41781-017-0001-9"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC",
+              "physics.comp-ph"
+            ],
+            "value": "1710.00100"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "HEPCloud, a New Paradigm for HEP Facilities: CMS Amazon Web Services Investigation"
+          }
+        ],
+        "earliest_date": "2017-09-29"
+      },
+      "id": "1628463"
+    },
+    {
+      "updated": "2026-02-09T11:06:41.745569+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1705067?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1705067?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1705067?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1705067?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1705067?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1705067?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1705067"
+      },
+      "created": "2018-11-27T00:00:00+00:00",
+      "id": "1705067",
+      "metadata": {
+        "first_author": {
+          "full_name": "Bellis, Matthew",
+          "last_name": "Bellis",
+          "first_name": "Matthew",
+          "recid": 1020399
+        },
+        "control_number": 1705067,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex"
+            ],
+            "value": "1811.10309"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "HEP Software Foundation Community White Paper Working Group \u2013 Visualization"
+          }
+        ],
+        "earliest_date": "2018-11-26"
+      }
+    },
+    {
+      "updated": "2023-12-13T18:17:30.921200+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1706274?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1706274?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1706274?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1706274?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1706274?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1706274?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1706274"
+      },
+      "created": "2018-12-04T00:00:00+00:00",
+      "id": "1706274",
+      "metadata": {
+        "first_author": {
+          "full_name": "Berzano, Dario",
+          "last_name": "Berzano",
+          "first_name": "Dario",
+          "recid": 1069041
+        },
+        "control_number": 1706274,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph"
+            ],
+            "value": "1812.00761"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "HEP Software Foundation Community White Paper Working Group -- Data Organization, Management and Access (DOMA)"
+          }
+        ],
+        "earliest_date": "2018-11-30"
+      }
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1676675?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1676675?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1676675?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1676675?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1676675?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1676675?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1676675"
+      },
+      "updated": "2024-10-16T18:25:57.998006+00:00",
+      "created": "2018-06-07T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "1085",
+            "artid": "042035",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1507175"
+            },
+            "year": 2018,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "4",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1700028"
+            },
+            "cnum": "C17-08-21"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Chang, Jin",
+          "last_name": "Chang",
+          "first_name": "Jin",
+          "recid": 1087401
+        },
+        "control_number": 1676675,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1088/1742-6596/1085/4/042035"
+          }
+        ],
+        "titles": [
+          {
+            "title": "Striped Data Server for Scalable Parallel Data Analysis"
+          }
+        ],
+        "earliest_date": "2017"
+      },
+      "id": "1676675"
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1633859?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1633859?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1633859?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1633859?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1633859?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1633859?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1633859"
+      },
+      "updated": "2024-10-29T15:48:29.038728+00:00",
+      "created": "2017-11-02T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "1085",
+            "artid": "042030",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1507175"
+            },
+            "year": 2018,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1212279"
+            },
+            "journal_issue": "4",
+            "journal_title": "J.Phys.Conf.Ser.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1700028"
+            },
+            "cnum": "C17-08-21"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "gutsche@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
+          "last_name": "Gutsche",
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 1633859,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1088/1742-6596/1085/4/042030"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC"
+            ],
+            "value": "1711.00375"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "CMS Analysis and Data Reduction with Apache Spark"
+          }
+        ],
+        "earliest_date": "2017-10-31"
+      },
+      "id": "1633859"
+    },
+    {
+      "updated": "2023-03-06T13:20:29.421404+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1667193?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1667193?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1667193?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1667193?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1667193?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1667193?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1667193"
+      },
+      "created": "2018-04-12T00:00:00+00:00",
+      "id": "1667193",
+      "metadata": {
+        "first_author": {
+          "emails": [
+            "bauerdick@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Bauerdick, Lothar",
+          "last_name": "Bauerdick",
+          "first_name": "Lothar",
+          "recid": 1017092
+        },
+        "control_number": 1667193,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex"
+            ],
+            "value": "1804.03983"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "HEP Software Foundation Community White Paper Working Group - Data Analysis and Interpretation"
+          }
+        ],
+        "earliest_date": "2018-04-09"
+      }
+    },
+    {
+      "updated": "2026-02-09T11:18:17.873478+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1747536?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1747536?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1747536?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1747536?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1747536?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1747536?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1747536"
+      },
+      "created": "2019-08-02T00:00:00+00:00",
+      "id": "1747536",
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1689371"
+            },
+            "cnum": "C18-12-09"
+          }
+        ],
+        "first_author": {
+          "full_name": "Ahmed, Z.",
+          "last_name": "Ahmed",
+          "first_name": "Z.",
+          "recid": 1744411
+        },
+        "control_number": 1747536,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.ins-det",
+              "hep-ex",
+              "nucl-ex"
+            ],
+            "value": "1908.00194"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "New Technologies for Discovery"
+          },
+          {
+            "source": "arXiv",
+            "title": "New Technologies For Discovery"
+          }
+        ],
+        "earliest_date": "2019-07-31"
+      }
+    },
+    {
+      "created": "2019-11-18T00:00:00+00:00",
+      "metadata": {
+        "first_author": {
+          "full_name": "Amundson, J.",
+          "last_name": "Amundson",
+          "first_name": "J.",
+          "recid": 1018468
+        },
+        "control_number": 1765615,
+        "dois": [
+          {
+            "source": "OSTI",
+            "value": "10.2172/1592156"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Response to NITRD, NCO, NSF Request for Information on \"Update to the 2016 National Artificial Intelligence Research and Development Strategic Plan\""
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "astro-ph.IM",
+              "cs.AI",
+              "physics.soc-ph"
+            ],
+            "value": "1911.05796"
+          }
+        ],
+        "earliest_date": "2019-11-04"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1765615?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1765615?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1765615?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1765615?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1765615?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1765615?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1765615"
+      },
+      "updated": "2025-11-26T21:05:07.544992+00:00",
+      "id": "1765615"
+    },
+    {
+      "updated": "2024-10-16T18:25:59.511181+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1716266?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1716266?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1716266?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1716266?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1716266?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1716266?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1716266"
+      },
+      "created": "2019-01-23T00:00:00+00:00",
+      "id": "1716266",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "214",
+            "artid": "06030",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1685062"
+            },
+            "year": 2019,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1760333"
+            },
+            "cnum": "C18-07-09.6"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Cremonesi, Matteo",
+          "last_name": "Cremonesi",
+          "first_name": "Matteo",
+          "recid": 1074807
+        },
+        "control_number": 1716266,
+        "dois": [
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1051/epjconf/201921406030"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC"
+            ],
+            "value": "1901.07143"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Using Big Data Technologies for HEP Analysis"
+          }
+        ],
+        "earliest_date": "2019-01-21"
+      }
+    },
+    {
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1644100?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1644100?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1644100?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1644100?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1644100?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1644100?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1644100"
+      },
+      "updated": "2026-04-14T19:24:47.595323+00:00",
+      "created": "2017-12-20T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "3",
+            "pubinfo_freetext": "Comput Softw Big Sci (2019) 3, 7",
+            "artid": "7",
+            "material": "publication",
+            "year": 2019,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1516529"
+            },
+            "page_start": "7",
+            "journal_issue": "1",
+            "journal_title": "Comput.Softw.Big Sci."
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "GRID",
+              "value": "grid.5675.1"
+            }
+          ],
+          "full_name": "Albrecht, Johannes",
+          "last_name": "Albrecht",
+          "first_name": "Johannes",
+          "recid": 1071729
+        },
+        "control_number": 1644100,
+        "dois": [
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1007/s41781-018-0018-8"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex"
+            ],
+            "value": "1712.06982"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "A Roadmap for HEP Software and Computing R&D for the 2020s"
+          }
+        ],
+        "earliest_date": "2017-12-18"
+      },
+      "id": "1644100"
+    },
+    {
+      "updated": "2025-12-11T15:25:35.303897+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1722477?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1722477?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1722477?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1722477?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1722477?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1722477?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1722477"
+      },
+      "created": "2019-02-28T00:00:00+00:00",
+      "id": "1722477",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "214",
+            "artid": "03031",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1685062"
+            },
+            "year": 2019,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1760333"
+            },
+            "cnum": "C18-07-09.6"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "hufnagel@fnal.gov"
+          ],
+          "full_name": "Hufnagel, Dirk",
+          "last_name": "Hufnagel",
+          "first_name": "Dirk",
+          "recid": 1028381
+        },
+        "control_number": 1722477,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1051/epjconf/201921403031"
+          }
+        ],
+        "titles": [
+          {
+            "title": "HPC resource integration into CMS Computing via HEPCloud"
+          }
+        ],
+        "earliest_date": "2018-10-16"
+      }
+    },
+    {
+      "created": "2019-10-25T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "214",
+            "artid": "03055",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1685062"
+            },
+            "year": 2019,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1760333"
+            },
+            "cnum": "C18-07-09.6"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "David.Lange@cern.ch"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00hx57361"
+            }
+          ],
+          "full_name": "Lange, David",
+          "last_name": "Lange",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00099961"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "D.J.Lange.1"
+            }
+          ],
+          "first_name": "David",
+          "recid": 1001122
+        },
+        "control_number": 1760952,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/201921403055"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "CMS Computing Resources: Meeting the Demands of the High-Luminosity LHC Physics Program"
+          }
+        ],
+        "earliest_date": "2019-09-17"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1760952?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1760952?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1760952?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1760952?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1760952?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1760952?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1760952"
+      },
+      "updated": "2023-03-07T01:05:10.470100+00:00",
+      "id": "1760952"
+    },
+    {
+      "created": "2020-08-31T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "245",
+            "pubinfo_freetext": "EPJ Web of Conferences 245, 06012 (2020)",
+            "artid": "06012",
+            "material": "publication",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1732179"
+            },
+            "year": 2020,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1830716"
+            },
+            "cnum": "C19-11-04"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "nick.smith@cern.ch"
+          ],
+          "full_name": "Smith, Nicholas",
+          "last_name": "Smith",
+          "first_name": "Nicholas",
+          "recid": 1279678
+        },
+        "control_number": 1813893,
+        "dois": [
+          {
+            "source": "bibmatch",
+            "value": "10.1051/epjconf/202024506012"
+          },
+          {
+            "material": "publication",
+            "source": "arXiv",
+            "value": "10.1051/epjconf/202024506012"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "cs.DC",
+              "hep-ex"
+            ],
+            "value": "2008.12712"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Coffea: Columnar Object Framework For Effective Analysis"
+          },
+          {
+            "source": "arXiv",
+            "title": "Coffea -- Columnar Object Framework For Effective Analysis"
+          }
+        ],
+        "earliest_date": "2020-08-28"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1813893?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1813893?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1813893?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1813893?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1813893?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1813893?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1813893"
+      },
+      "updated": "2026-04-22T11:23:37.494988+00:00",
+      "id": "1813893"
+    },
+    {
+      "created": "2020-11-23T00:00:00+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "245",
+            "artid": "06042",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1732179"
+            },
+            "year": 2020,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "parent_record": {
+              "$ref": "https://inspirehep.net/api/literature/1830716"
+            },
+            "cnum": "C19-11-04"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "last_name": "Gutsche",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 1832232,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202024506042"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "Striped Data Analysis Framework"
+          }
+        ],
+        "earliest_date": "2020"
+      },
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1832232?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1832232?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1832232?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1832232?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1832232?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1832232?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1832232"
+      },
+      "updated": "2024-10-16T18:25:58.146973+00:00",
+      "id": "1832232"
+    },
+    {
+      "updated": "2026-02-09T12:19:46.615118+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2054702?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2054702?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2054702?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2054702?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2054702?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2054702?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2054702"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1803127"
+            },
+            "cnum": "C21-07-11"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Bhattacharya, Meghna",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0001-6395-546X"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Meghna.Bhattacharya.1"
+            }
+          ],
+          "last_name": "Bhattacharya",
+          "first_name": "Meghna",
+          "recid": 1614933
+        },
+        "control_number": 2054702,
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.comp-ph",
+              "hep-ex",
+              "physics.data-an",
+              "physics.ins-det"
+            ],
+            "value": "2203.09945"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Portability: A Necessary Approach for Future Scientific Software"
+          }
+        ],
+        "earliest_date": "2022-03-15"
+      },
+      "id": "2054702",
+      "created": "2022-03-21T02:39:20.620195+00:00"
+    },
+    {
+      "updated": "2024-10-16T18:08:38.636732+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2152224?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2152224?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2152224?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2152224?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2152224?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2152224?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2152224"
+      },
+      "metadata": {
+        "first_author": {
+          "full_name": "Cerati, G.",
+          "last_name": "Cerati",
+          "first_name": "G.",
+          "recid": 1064383
+        },
+        "control_number": 2152224,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Snowmass Computational Frontier: Topical Group Report on Experimental Algorithm Parallelization"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2209.07356"
+          }
+        ],
+        "earliest_date": "2022-09-15"
+      },
+      "id": "2152224",
+      "created": "2022-09-16T02:54:16.323394+00:00"
+    },
+    {
+      "updated": "2025-08-19T20:54:17.870870+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2164496?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2164496?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2164496?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2164496?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2164496?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2164496?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2164496"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/1803127"
+            },
+            "cnum": "C21-07-11"
+          }
+        ],
+        "first_author": {
+          "full_name": "Elvira, V. Daniel",
+          "last_name": "Elvira",
+          "first_name": "V. Daniel",
+          "recid": 1010791
+        },
+        "control_number": 2164496,
+        "dois": [
+          {
+            "source": "OSTI",
+            "value": "10.2172/1898754"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "hep-lat",
+              "hep-ph",
+              "hep-th"
+            ],
+            "value": "2210.05822"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "The Future of High Energy Physics Software and Computing"
+          }
+        ],
+        "earliest_date": "2022-10-11"
+      },
+      "id": "2164496",
+      "created": "2022-10-13T02:46:20.872797+00:00"
+    },
+    {
+      "updated": "2025-07-08T17:38:06.117987+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2671215?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2671215?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2671215?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2671215?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2671215?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2671215?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2671215"
+      },
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Apresyan, A.",
+          "last_name": "Apresyan",
+          "first_name": "A.",
+          "recid": 1049113
+        },
+        "control_number": 2671215,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Detector R&D needs for the next generation $e^+e^-$ collider"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "physics.ins-det"
+            ],
+            "value": "2306.13567"
+          }
+        ],
+        "earliest_date": "2023-06-23"
+      },
+      "id": "2671215",
+      "created": "2023-06-26T02:36:37.544476+00:00"
+    },
+    {
+      "updated": "2026-04-14T19:24:46.673822+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2672556?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2672556?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2672556?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2672556?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2672556?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2672556?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2672556"
+      },
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/02ex6cf31"
+            }
+          ],
+          "full_name": "Atif, Mohammad",
+          "last_name": "Atif",
+          "first_name": "Mohammad",
+          "recid": 2922368
+        },
+        "control_number": 2672556,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Evaluating Portable Parallelization Strategies for Heterogeneous Architectures in High Energy Physics"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "cs.DC"
+            ],
+            "value": "2306.15869"
+          }
+        ],
+        "earliest_date": "2023-06-27"
+      },
+      "id": "2672556",
+      "created": "2023-06-29T02:46:38.640792+00:00"
+    },
+    {
+      "updated": "2025-08-19T18:38:54.299593+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2628983?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2628983?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2628983?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2628983?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2628983?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2628983?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2628983"
+      },
+      "metadata": {
+        "first_author": {
+          "full_name": "Bockelman, Brian",
+          "last_name": "Bockelman",
+          "first_name": "Brian",
+          "recid": 1055098
+        },
+        "control_number": 2628983,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "IRIS-HEP Strategic Plan for the Next Phase of Software Upgrades for HL-LHC Physics"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex",
+              "physics.acc-ph",
+              "physics.comp-ph",
+              "physics.ins-det"
+            ],
+            "value": "2302.01317"
+          }
+        ],
+        "earliest_date": "2023-02-02"
+      },
+      "id": "2628983",
+      "created": "2023-02-03T02:43:59.917280+00:00"
+    },
+    {
+      "updated": "2024-11-01T20:06:29.847492+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2785604?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2785604?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2785604?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2785604?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2785604?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2785604?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2785604"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "01009",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "full_name": "Balcas, Justas",
+          "last_name": "Balcas",
+          "first_name": "Justas",
+          "recid": 1281471
+        },
+        "control_number": 2785604,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429501009"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "Automated Network Services for Exascale Data Movement"
+          }
+        ],
+        "earliest_date": "2024"
+      },
+      "id": "2785604",
+      "created": "2024-05-13T09:03:02.210529+00:00"
+    },
+    {
+      "updated": "2024-10-29T15:48:35.574529+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2729222?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2729222?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2729222?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2729222?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2729222?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2729222?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2729222"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "04050",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
+          "last_name": "Gutsche",
+          "first_name": "Oliver",
+          "recid": 1007155
+        },
+        "control_number": 2729222,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429504050"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2312.00772"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "The U.S. CMS HL-LHC R&D Strategic Plan"
+          },
+          {
+            "source": "arXiv",
+            "title": "The U.S. CMS HL-LHC R&D Strategic Plan"
+          }
+        ],
+        "earliest_date": "2023-12-01"
+      },
+      "id": "2729222",
+      "created": "2023-12-04T03:37:06.335032+00:00"
+    },
+    {
+      "updated": "2024-12-05T15:56:06.195981+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2751450?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2751450?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2751450?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2751450?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2751450?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2751450?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2751450"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "11003",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          },
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "kkwok@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Kwok, Ka Hei Martin",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8693-6146"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Ka.Hei.Martin.Kwok.1"
+            }
+          ],
+          "last_name": "Kwok",
+          "first_name": "Ka Hei Martin",
+          "recid": 1380817
+        },
+        "control_number": 2751450,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429511003"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.acc-ph"
+            ],
+            "value": "2401.14221"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels"
+          },
+          {
+            "source": "arXiv",
+            "title": "Application of performance portability solutions for GPUs and many-core CPUs to track reconstruction kernels"
+          }
+        ],
+        "earliest_date": "2024-01-25"
+      },
+      "id": "2751450",
+      "created": "2024-01-26T03:51:36.801124+00:00"
+    },
+    {
+      "updated": "2025-04-08T19:07:24.327153+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2727375?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2727375?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2727375?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2727375?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2727375?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2727375?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2727375"
+      },
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "295",
+            "artid": "01003",
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/2165126"
+            },
+            "year": 2024,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1211782"
+            },
+            "journal_title": "EPJ Web Conf.",
+            "cnum": "C23-05-08"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "ncsmith@fnal.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
+          "full_name": "Smith, Nick",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-0324-3054"
+            }
+          ],
+          "last_name": "Smith",
+          "first_name": "Nick",
+          "recid": 1279678
+        },
+        "control_number": 2727375,
+        "dois": [
+          {
+            "source": "EDP Sciences",
+            "value": "10.1051/epjconf/202429501003"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "physics.data-an",
+              "hep-ex"
+            ],
+            "value": "2311.16321"
+          }
+        ],
+        "titles": [
+          {
+            "source": "EDP Sciences",
+            "title": "A Ceph S3 Object Data Store for HEP"
+          },
+          {
+            "source": "arXiv",
+            "title": "A Ceph S3 Object Data Store for HEP"
+          }
+        ],
+        "earliest_date": "2023-11-27"
+      },
+      "id": "2727375",
+      "created": "2023-11-29T03:58:26.316705+00:00"
+    },
+    {
+      "id": "3111392",
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/02ex6cf31"
+            }
+          ],
+          "full_name": "Atif, Mohammad",
+          "last_name": "Atif",
+          "first_name": "Mohammad",
+          "recid": 2922368
+        },
+        "control_number": 3111392,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Evaluating Application Characteristics for GPU Portability Layer Selection"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2601.17526"
+          }
+        ],
+        "earliest_date": "2026-01-24"
+      },
+      "updated": "2026-04-14T19:24:47.367435+00:00",
+      "created": "2026-01-27T04:14:55.960042+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/3111392?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/3111392?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/3111392?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/3111392?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/3111392?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/3111392?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3111392"
+      }
+    },
+    {
+      "id": "3121595",
+      "metadata": {
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/05a28rw58"
+            }
+          ],
+          "full_name": "Aarrestad, Thea Klaeboe",
+          "last_name": "Aarrestad",
+          "first_name": "Thea Klaeboe",
+          "recid": 1345387
+        },
+        "control_number": 3121595,
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Building an AI-native Research Ecosystem for Experimental Particle Physics: A Community Vision"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "2602.17582"
+          }
+        ],
+        "earliest_date": "2026-02-19"
+      },
+      "updated": "2026-04-28T19:02:36.838837+00:00",
+      "created": "2026-02-20T04:11:14.688633+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/3121595?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/3121595?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/3121595?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/3121595?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/3121595?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/3121595?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3121595"
+      }
+    },
+    {
+      "id": "3137520",
+      "metadata": {
+        "publication_info": [
+          {
+            "conference_record": {
+              "$ref": "https://inspirehep.net/api/conferences/3137523"
+            },
+            "page_end": "355",
+            "year": 2026,
+            "page_start": "349",
+            "cnum": "C26-02-16.3"
+          }
+        ],
+        "first_author": {
+          "emails": [
+            "agiannakou@lbl.gov"
+          ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/02jbv0t02"
+            }
+          ],
+          "full_name": "Giannakou, Anna",
+          "last_name": "Giannakou",
+          "first_name": "Anna",
+          "recid": 3137521
+        },
+        "control_number": 3137520,
+        "dois": [
+          {
+            "value": "10.1109/ICNC68183.2026.11416957"
+          }
+        ],
+        "titles": [
+          {
+            "source": "submitter",
+            "title": "Interpretable Models for Workflow Differentiation in High-Performance Scientific Networks"
+          }
+        ],
+        "earliest_date": "2026"
+      },
+      "updated": "2026-05-04T12:52:06.570411+00:00",
+      "created": "2026-03-31T15:44:14.686785+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/3137520?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/3137520?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/3137520?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/3137520?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/3137520?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/3137520?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A3137520"
+      }
+    }
+  ]
+}

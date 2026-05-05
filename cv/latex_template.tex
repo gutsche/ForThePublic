@@ -24,6 +24,7 @@ $if(linestretch)$
 \setstretch{$linestretch$}
 $endif$
 \usepackage{amssymb,amsmath}
+\usepackage{calc} % required by pandoc 3.x for table column width arithmetic (\real{})
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript
 \ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
@@ -180,7 +181,7 @@ $endif$
 % $endif$
 
 $if(tables)$
-    \usepackage{longtable}
+    \usepackage{longtable,array}
     \def\toprule{}
     \def\midrule{}
     \def\bottomrule{}

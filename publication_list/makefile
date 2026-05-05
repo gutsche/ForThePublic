@@ -1,31 +1,85 @@
-PANDOC = pandoc
-M4 = m4
-TAIL = tail
-CLEANMD = python3 clean_bibtex_md.py
-CITEPROCTEXFLG = --pdf-engine=xelatex --filter=pandoc-citeproc --standalone
-PANFLG = --pdf-engine=xelatex --standalone
-PAN2FLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex
-PDFS = complete_publication_list.pdf computing_publication_list.pdf physics_publication_list.pdf experiment_publication_list.pdf short_computing_publication_list.pdf short_physics_publication_list.pdf shortest_computing_publication_list.pdf shortest_physics_publication_list.pdf
+CONTAINER  = ubuntu-dev
 
-.PHONY: inspire local clean all $(PDFS)
+# Pass NATIVE=1 when tools are already available in PATH (e.g. inside the
+# container launched by the root makefile). In that case the podman wrapper
+# is skipped and commands run directly.
+ifdef NATIVE
+  EXEC    =
+  EXEC_IT =
+else
+  EXEC    = podman run --rm    -v $(PWD):$(PWD) -w $(PWD) $(CONTAINER)
+  EXEC_IT = podman run --rm -it -v $(PWD):$(PWD) -w $(PWD) $(CONTAINER)
+endif
 
-all: $(PDFS)
+LISTS      = complete experiment physics computing \
+             short_physics short_computing \
+             shortest_physics shortest_computing
 
-$(PDFS):
-	rm -f /tmp/_tmp.tex /tmp/_tmp1.md /tmp/_tmp2.md
-	$(PANDOC) $(CITEPROCTEXFLG) $(subst .pdf,_template_citeproc.md,$@) -o /tmp/_tmp.tex
-	$(PANDOC) $(PANFLG) /tmp/_tmp.tex -o /tmp/_tmp1.md
-	$(TAIL) -n +7 /tmp/_tmp1.md > /tmp/_tmp2.md
-	$(CLEANMD) /tmp/_tmp2.md > $(subst .pdf,.md,$@)
-	$(M4) $(subst .pdf,_template_resolved.md,$@) > $(subst .pdf,_resolved.md,$@)
-	$(PANDOC) $(PAN2FLG) $(subst .pdf,_resolved.md,$@) -o $@
-	rm -f /tmp/_tmp.tex /tmp/_tmp1.md /tmp/_tmp2.md
+PDFS       = $(addsuffix _publication_list.pdf, $(LISTS))
+MARKDOWNS  = $(addsuffix _publication_list.md,  $(LISTS))
+JSONS      = $(addsuffix _publication_list.json, $(LISTS))
 
-inspire:
-	python3 update_publication_list.py
+# ── Default target ────────────────────────────────────────────────────────────
+.PHONY: all
+ifdef NATIVE
+all: fetch update docs
+else
+all: build fetch update docs
+endif
 
-local:
-	python3 update_publication_list.py --input complete_publication_list.bib
+# ── 0. Build the container image ──────────────────────────────────────────────
+.PHONY: build
+build:
+	@podman image exists $(CONTAINER) \
+	  && echo "==> Container image already exists, skipping build." \
+	  || (echo "==> Building container image..." && podman build -t $(CONTAINER) -f Containerfile .)
 
+# ── 1. Fetch all publications from InspireHEP ─────────────────────────────────
+.PHONY: fetch
+fetch:
+	@echo "==> Fetching all publications from InspireHEP..."
+	$(EXEC) python3 fetch_publications.py
+
+# ── 2. Sync sub-lists (interactive for uncategorized entries) ─────────────────
+.PHONY: update
+update:
+	@echo "==> Syncing sub-lists against complete_publication_list.json..."
+	$(EXEC_IT) python3 update_lists.py
+
+# ── 3. Generate all PDFs and Markdown files ───────────────────────────────────
+.PHONY: docs .FORCE
+docs: $(PDFS)
+
+# .FORCE ensures PDFs always rebuild so the embedded date stays current.
+%_publication_list.pdf: %_publication_list.json make_pdf.py .FORCE
+	@echo "==> Generating $@..."
+	$(EXEC) python3 make_pdf.py $< $@
+
+# ── Convenience targets ───────────────────────────────────────────────────────
+.PHONY: fetch-update
+fetch-update: fetch update
+
+.PHONY: clean
 clean:
-	rm -f *.pdf *.out *.log *.aux /tmp/_tmp.tex /tmp/_tmp1.md /tmp/_tmp2.md
+	@echo "==> Removing generated PDFs and Markdown files..."
+	$(EXEC) bash -c 'rm -f $(PDFS) $(MARKDOWNS)'
+
+.PHONY: status
+status:
+	@echo "==> Record counts:"
+	$(EXEC) python3 -c "\
+import json, glob; \
+files = sorted(glob.glob('*publication_list.json')); \
+[print(f'  {f}: {json.load(open(f))[\"total\"]}') for f in files]"
+
+.PHONY: help
+help:
+	@echo "Targets:"
+	@echo "  all          build + fetch + update + docs (full workflow)"
+	@echo "  build        build the container image"
+	@echo "  fetch        query InspireHEP, update complete_publication_list.json"
+	@echo "  update       sync sub-lists (interactive for new uncategorized entries)"
+	@echo "  docs         regenerate all PDFs and Markdown files"
+	@echo "  fetch-update fetch then update (no docs)"
+	@echo "  status       show record counts for all JSON files"
+	@echo "  clean        remove all generated PDFs and Markdown files"
