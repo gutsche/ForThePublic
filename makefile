@@ -8,7 +8,7 @@ EXEC_IT    = podman run --rm -it -v $(ROOT):$(ROOT)
 # For the full publication_list workflow (fetch + interactive update) use
 # make publication_list-all.
 .PHONY: all
-all: build publication_list talk_list media_list cv profile academic-webpage
+all: build publication_list talk_list media_list cv profile academic-webpage academic-webpage-static
 
 # ── 0. Build the container image ──────────────────────────────────────────────
 .PHONY: build

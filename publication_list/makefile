@@ -17,6 +17,7 @@ LISTS      = complete experiment physics computing \
 
 PDFS       = $(addsuffix _publication_list.pdf, $(LISTS))
 MARKDOWNS  = $(addsuffix _publication_list.md,  $(LISTS))
+BIBS       = $(addsuffix _publication_list.bib, $(LISTS))
 JSONS      = $(addsuffix _publication_list.json, $(LISTS))
 
 # ── Default target ────────────────────────────────────────────────────────────
@@ -62,12 +63,16 @@ update:
 
 # ── 3. Generate all PDFs and Markdown files ───────────────────────────────────
 .PHONY: docs .FORCE
-docs: $(PDFS)
+docs: $(PDFS) $(BIBS)
 
 # .FORCE ensures PDFs always rebuild so the embedded date stays current.
 %_publication_list.pdf: %_publication_list.json make_pdf.py .FORCE
 	@echo "==> Generating $@..."
 	$(EXEC) python3 make_pdf.py $< $@
+
+%_publication_list.bib: %_publication_list.json make_bib.py .FORCE
+	@echo "==> Generating $@..."
+	$(EXEC) python3 make_bib.py $< $@
 
 # ── Convenience targets ───────────────────────────────────────────────────────
 .PHONY: fetch-update
@@ -76,7 +81,7 @@ fetch-update: fetch update
 .PHONY: clean
 clean:
 	@echo "==> Removing generated PDFs and Markdown files..."
-	$(EXEC) bash -c 'rm -f $(PDFS) $(MARKDOWNS)'
+	$(EXEC) bash -c 'rm -f $(PDFS) $(MARKDOWNS) $(BIBS)'
 
 .PHONY: status
 status:
@@ -93,7 +98,7 @@ help:
 	@echo "  build        build the container image"
 	@echo "  fetch        query InspireHEP, update complete_publication_list.json"
 	@echo "  update       sync sub-lists (interactive for new uncategorized entries)"
-	@echo "  docs         regenerate all PDFs and Markdown files"
+	@echo "  docs         regenerate all PDFs, Markdown, and BibTeX files"
 	@echo "  fetch-update fetch then update (no docs)"
 	@echo "  status       show record counts for all JSON files"
-	@echo "  clean        remove all generated PDFs and Markdown files"
+	@echo "  clean        remove all generated PDFs, Markdown, and BibTeX files"

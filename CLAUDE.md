@@ -161,6 +161,12 @@ The new `publication_list/` Python system generates `.md` and `.pdf` files but t
 
 ---
 
+## Git Conventions
+
+- When creating git commit messages, do not mention that they were written by Claude or any AI tool. No `Co-Authored-By` trailers.
+
+---
+
 ## Open Integration Work
 
 The main gap: the `publication_list/` folder's new Python-based system generates clean `.md` and `.pdf` files, but the academic website (`academic-webpage/`) still references old hardcoded content and manually maintained links. Connecting them would involve:
