@@ -1,19 +1,12 @@
 PANDOC = pandoc
-M4 = m4
-PANFLG = --pdf-engine=xelatex --standalone -M date="`date "+%B %e, %Y"`" --template=latex_template.tex
-PDFS =
-HTMLS = linkedin.html
+HTMLS  = linkedin.html
 
-.PHONY: clean all $(PDFS) $(HTMLS)
+.PHONY: all clean
 
-all: $(PDFS) $(HTMLS)
-
-$(PDFS):
-	$(M4) $(subst .pdf,_template.md,$@) > $(subst .pdf,.md,$@)
-	$(PANDOC) $(PANFLG) $(subst .pdf,.md,$@) -o $@
+all: $(HTMLS)
 
 $(HTMLS):
 	$(PANDOC) $(subst .html,.md,$@) -o $@
 
 clean:
-	rm -f *.html *.pdf *.out *.log *.aux
+	rm -f *.html
