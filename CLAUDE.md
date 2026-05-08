@@ -165,6 +165,16 @@ The new `publication_list/` Python system generates `.md` and `.pdf` files but t
 
 - When creating git commit messages, do not mention that they were written by Claude or any AI tool. No `Co-Authored-By` trailers.
 
+### Commit and push order
+
+This repository contains nested submodules. Always commit (and push) inside-out:
+
+1. `academic-webpage/public/` — built static site (remote: gutsche.github.io)
+2. `academic-webpage/` — Hugo source (remote: starter-academic)
+3. `ForThePublic/` — top-level repo
+
+Before committing in a parent repo, check whether there are uncommitted changes in each inner repo first. Only commit in a repo if it actually has changes.
+
 ---
 
 ## Open Integration Work
