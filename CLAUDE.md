@@ -164,6 +164,7 @@ The new `publication_list/` Python system generates `.md` and `.pdf` files but t
 ## Git Conventions
 
 - When creating git commit messages, do not mention that they were written by Claude or any AI tool. No `Co-Authored-By` trailers.
+- Never commit or push without explicit instruction from the user.
 
 ### Commit and push order
 

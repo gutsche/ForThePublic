@@ -92,20 +92,22 @@ academic-webpage: build
 .PHONY: academic-webpage-static
 academic-webpage-static: build
 	@echo "==> Building academic-webpage static site (Hugo)..."
-	@mkdir -p $(HOME)/.cache/hugo-go
-	$(EXEC) -v $(HOME)/.cache/hugo-go:/root/go -w $(ROOT)/academic-webpage $(CONTAINER) hugo
+	$(EXEC) -w $(ROOT)/academic-webpage $(CONTAINER) hugo
 
 # Run a local Hugo dev server on port 1313.
-# Hugo modules are cached in ~/.cache/hugo-go between runs.
 .PHONY: academic-webpage-server
 academic-webpage-server: build
 	@echo "==> Starting academic-webpage dev server on port 1313..."
-	@mkdir -p $(HOME)/.cache/hugo-go
 	podman run --rm -it -p 1313:1313 \
 	  -v $(ROOT):$(ROOT) \
-	  -v $(HOME)/.cache/hugo-go:/root/go \
 	  -w $(ROOT)/academic-webpage $(CONTAINER) \
 	  hugo server -D --bind=0.0.0.0 --disableFastRender
+
+# Vendor Hugo modules into _vendor/ (re-run if go.mod changes).
+.PHONY: academic-webpage-vendor
+academic-webpage-vendor: build
+	@echo "==> Vendoring Hugo modules into academic-webpage/_vendor/..."
+	$(EXEC) -w $(ROOT)/academic-webpage $(CONTAINER) hugo mod vendor
 
 # ── clean ─────────────────────────────────────────────────────────────────────
 .PHONY: clean
@@ -132,4 +134,5 @@ help:
 	@echo "  academic-webpage           process M4 templates for website content"
 	@echo "  academic-webpage-static    build static Hugo site"
 	@echo "  academic-webpage-server    run local Hugo dev server (port 1313)"
+	@echo "  academic-webpage-vendor    vendor Hugo modules into _vendor/ (re-run if go.mod changes)"
 	@echo "  clean                      remove all generated files in all subsystems"

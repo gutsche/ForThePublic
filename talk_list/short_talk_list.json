@@ -1,0 +1,76 @@
+{
+  "source": "short_talk_list.bib",
+  "total": 7,
+  "records": [
+    {
+      "id": "Gutsche:2025aab",
+      "metadata": {
+        "title": "Scientific Computing and Scientific Software Infrastructure - High Performance Computing (HPC)",
+        "author": "Oliver Gutsche",
+        "year": 2025,
+        "month": 4,
+        "note": "Presentation for the \\href{https://www.c2thep2.org}{Chicagoland Computational Traineeship in High Energy Particle Physics}, \\href{https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%202.pdf}{(Material)}"
+      }
+    },
+    {
+      "id": "Gutsche:2025aaa",
+      "metadata": {
+        "title": "Scientific Computing and Scientific Software Infrastructure - Particle Physics Overview",
+        "author": "Oliver Gutsche",
+        "year": 2025,
+        "month": 4,
+        "note": "Presentation for the \\href{https://www.c2thep2.org}{Chicagoland Computational Traineeship in High Energy Particle Physics}, \\href{https://github.com/jahreda/c2-the-p2/blob/8f7cc4eec08f98a1cacbfafe9ca6b0fecf9ffab2/HPC_talks/250401-250403%20-%20HPC%20Lectures%20-%20Lecture%201.pdf}{(Material)}"
+      }
+    },
+    {
+      "id": "Gutsche:2024aaa",
+      "metadata": {
+        "title": "Computing and Software Infrastructure",
+        "author": "Oliver Gutsche",
+        "year": 2024,
+        "month": 7,
+        "note": "Presentation at the \\href{https://indico.fnal.gov/event/63696/}{Fermilab-CERN HCP Summer School 2024}, \\href{https://indico.fnal.gov/event/63696/contributions/292540/attachments/180212/246716/240725-240726%20-%20HCPS%20-%20Gutsche%20-%20Computing%20and%20Software%20Infrastructure.pdf}{(Material)}"
+      }
+    },
+    {
+      "id": "Gutsche:2023aab",
+      "metadata": {
+        "title": "HL-LHC Computing",
+        "author": "Oliver Gutsche",
+        "year": 2023,
+        "month": 7,
+        "note": "Presentation at the \\href{https://indico.cern.ch/event/1269936/timetable/}{USCMS Undergraduate Summer Internship 2023}, \\href{https://indico.cern.ch/event/1269936/contributions/5446918/attachments/2679448/4647763/230705%20-%20USCMS%20Undergraduate%20Summer%20Internship%202023%20-%20Oliver%20Gutsche%20-%20HL-LHC%20Computing.pdf}{(Material)}"
+      }
+    },
+    {
+      "id": "Gutsche:2023aaa",
+      "metadata": {
+        "title": "The U.S. CMS HL-LHC R&D Strategic Plan",
+        "author": "Oliver Gutsche",
+        "year": 2023,
+        "month": 5,
+        "note": "Parallel Session Talk at the \\href{https://indico.jlab.org/event/459/}{26th International Conference on Computing in High Energy & Nuclear Physics (CHEP2023)}, \\href{https://indico.jlab.org/event/459/contributions/11470/}{(Material)}"
+      }
+    },
+    {
+      "id": "Gutsche:2022aab",
+      "metadata": {
+        "title": "Computing",
+        "author": "Oliver Gutsche",
+        "year": 2022,
+        "month": 9,
+        "note": "Plenary talk given at the DOE/HEP Review of the Energy Frontier Laboratory Research Program, (Material available upon request)"
+      }
+    },
+    {
+      "id": "Gutsche:2022aaa",
+      "metadata": {
+        "title": "Computing",
+        "author": "Oliver Gutsche",
+        "year": 2022,
+        "month": 8,
+        "note": "Lecture given at \\href{https://indico.fnal.gov/event/54596/}{17th Hadron Collider Physics Summer School}, \\href{https://indico.fnal.gov/event/54596/contributions/248574/attachments/159000/208889/220819%20-%2017th%20Hadron%20Collider%20Physics%20Summer%20School%20-%20Gutsche%20-%20Computing.pdf}{(Material)}"
+      }
+    }
+  ]
+}
