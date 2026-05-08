@@ -13,12 +13,25 @@ all: build publication_list talk_list media_list cv profile academic-webpage
 # ── 0. Build the container image ──────────────────────────────────────────────
 .PHONY: build
 build:
-	@podman image exists $(CONTAINER) \
-	  && echo "==> Container image already exists, skipping build." \
-	  || (echo "==> Building container image..." && \
-	      podman build -t $(CONTAINER) \
-	        -f $(ROOT)/publication_list/Containerfile \
-	           $(ROOT)/publication_list)
+	@NEEDS_BUILD=0; \
+	if ! podman image exists $(CONTAINER); then \
+	  NEEDS_BUILD=1; REASON="does not exist"; \
+	else \
+	  CREATED=$$(podman image inspect $(CONTAINER) --format '{{.Created}}' | cut -c1-19); \
+	  CREATED_EPOCH=$$(date -jf '%Y-%m-%d %H:%M:%S' "$$CREATED" +%s 2>/dev/null || echo 0); \
+	  TWO_WEEKS_AGO=$$(date -v-14d +%s); \
+	  if [ "$$CREATED_EPOCH" -lt "$$TWO_WEEKS_AGO" ]; then \
+	    NEEDS_BUILD=1; REASON="older than 2 weeks"; \
+	  fi; \
+	fi; \
+	if [ "$$NEEDS_BUILD" = "1" ]; then \
+	  echo "==> Building container image ($$REASON)..."; \
+	  podman build -t $(CONTAINER) \
+	    -f $(ROOT)/container/Containerfile \
+	       $(ROOT)/container; \
+	else \
+	  echo "==> Container image is up to date, skipping build."; \
+	fi
 
 # ── publication_list ──────────────────────────────────────────────────────────
 # Default: regenerate PDFs/Markdown from existing JSON (non-interactive).
