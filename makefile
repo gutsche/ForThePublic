@@ -61,13 +61,13 @@ publication_list-all: build
 .PHONY: talk_list
 talk_list: build
 	@echo "==> Building talk_list..."
-	$(EXEC) -w $(ROOT)/talk_list $(CONTAINER) make all
+	$(EXEC) -w $(ROOT)/talk_list $(CONTAINER) make all NATIVE=1
 
 # ── media_list ────────────────────────────────────────────────────────────────
 .PHONY: media_list
 media_list: build
 	@echo "==> Building media_list..."
-	$(EXEC) -w $(ROOT)/media_list $(CONTAINER) make all
+	$(EXEC) -w $(ROOT)/media_list $(CONTAINER) make all NATIVE=1
 
 # ── cv ────────────────────────────────────────────────────────────────────────
 .PHONY: cv
