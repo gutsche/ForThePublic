@@ -1,21 +1,19 @@
 ---
-linkcolor: blue
-urlcolor: blue
-citecolor: blue
 papersize: letter
 margin-left: .5in
 margin-right: .5in
 margin-top: .7in
 margin-bottom: .6in
 fontsize: 11pt
+mainfont: "Noto Sans"
 # title: "Resume"
 # author: "Oliver Gutsche"
 footer: true
 leftheader: ""
-centerheader: "Resume of Oliver Gutsche"
+centerheader: ""
 rightheader: ""
-leftfooter: "\\today"
-centerfooter: ""
+leftfooter: "Oliver Gutsche"
+centerfooter: "Resume"
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 

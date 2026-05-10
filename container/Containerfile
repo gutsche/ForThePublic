@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     # publication_list: fonts for PDF generation
     fonts-dejavu \
     fonts-stix \
+    fonts-noto-core \
     fonts-noto-extra \
     # cv, talk_list, media_list, profile, academic-webpage: document processing
     make \
