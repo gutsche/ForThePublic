@@ -1,22 +1,20 @@
 ---
-linkcolor: blue
-urlcolor: blue
-citecolor: blue
 papersize: letter
 margin-left: .5in
 margin-right: .5in
 margin-top: .7in
 margin-bottom: .6in
 fontsize: 11pt
+mainfont: "Noto Serif"
 # title: "Curriculum Vitae"
 # author: "Oliver Gutsche"
 header: true
 footer: true
 leftheader: ""
-centerheader: "Curriculum Vitae of Oliver Gutsche"
+centerheader: ""
 rightheader: ""
-leftfooter: "\\today"
-centerfooter: ""
+leftfooter: "Oliver Gutsche"
+centerfooter: "Curriculum Vitae"
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 

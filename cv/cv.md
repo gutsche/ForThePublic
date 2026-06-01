@@ -1,33 +1,42 @@
 ---
-linkcolor: blue
-urlcolor: blue
-citecolor: blue
 papersize: letter
 margin-left: .5in
 margin-right: .5in
 margin-top: .7in
 margin-bottom: .6in
 fontsize: 11pt
+mainfont: "Noto Serif"
 # title: "Curriculum Vitae"
 # author: "Oliver Gutsche"
 header: true
 footer: true
 leftheader: ""
-centerheader: "Curriculum Vitae of Oliver Gutsche"
+centerheader: ""
 rightheader: ""
-leftfooter: "\\today"
-centerfooter: ""
+leftfooter: "Oliver Gutsche"
+centerfooter: "Curriculum Vitae"
 rightfooter: "\\thepage \\ of \\pageref*{LastPage}"
 ...
 
 
 
-| | |
-|:----|-:|
-| Dr. Oliver Gutsche                                                                       | ![](letter.png){ height=10px } [gutsche@fnal.gov](mailto:gutsche@fnal.gov) |
-| Fermi National Accelerator Laboratory / Computational Science and AI Directorate (CSAID) | ![](www.png){ height=10px } [gutsche.github.io](https://gutsche.github.io) |
-| P.O. Box 500 / MS. 205, Batavia, IL, 60510                                               |  ![](linkedin.png){ height=10px } [LinkedIn](https://www.linkedin.com/in/gutsche)|
-| +1-630-840-8909                                                                          | ![](inspire.png){ height=10px } [InSpire](https://inspirehep.net/author/profile/O.Gutsche.1) ![](orcid.png){ height=10px } [ORCID](https://orcid.org/0000-0002-8015-9622) |
+\begin{center}
+{\LARGE\bfseries Dr.\ Oliver Gutsche}\\[4pt]
+{\normalsize Deputy Associate Laboratory Director, Computational Science and AI Directorate (CSAID)\\[2pt]
+Fermi National Accelerator Laboratory \quad\textbar\quad P.O.\ Box 500, MS 205, Batavia, IL 60510 \quad\textbar\quad +1-630-840-8909}
+\end{center}
+\vspace{-4pt}
+\noindent\textcolor{accentblue}{\rule{\linewidth}{0.6pt}}
+\vspace{4pt}
+\begin{center}
+\small
+\href{mailto:gutsche@fnal.gov}{gutsche@fnal.gov}
+\quad\textbar\quad \href{https://gutsche.github.io}{gutsche.github.io}
+\quad\textbar\quad \href{https://www.linkedin.com/in/gutsche}{linkedin.com/in/gutsche}
+\quad\textbar\quad \href{https://inspirehep.net/author/profile/O.Gutsche.1}{inspirehep.net}
+\quad\textbar\quad \href{https://orcid.org/0000-0002-8015-9622}{orcid.org/0000-0002-8015-9622}
+\end{center}
+\vspace{6pt}
 
 
 I am a **leader in scientific computing** with over 15 years of experience and have developed deep expertise in scientific software and computing infrastructure. At heart, I am a particle physicist and have both conducted and enabled groundbreaking scientific discoveries in High Energy Physics (HEP). My goal is to continuously expand my horizons and apply my expertise to support an increasing number of scientific disciplines through software and computing.
@@ -285,7 +294,7 @@ In my past LHC research, I have led searches for evidence of physics beyond the 
 |                 |                                                                                                                     |
 | **1996 - 2001** | **University of Hamburg**, _Diploma in Physics_, Hamburg, Germany                                                   |
 | Thesis title    | _Development of the trigger algorithm for the MONOLITH experiment_ [(thesis)](http://www-library.desy.de/cgi-bin/showprep.pl?desy-thesis-01-020) |
-| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser 
+| Advisors        | Prof. Dr. Robert Klanner, Dr. Achim Geiser
 
 
 ## Research Positions
