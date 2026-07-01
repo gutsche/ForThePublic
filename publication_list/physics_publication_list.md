@@ -170,9 +170,9 @@
    Chatrchyan, Serguei et al.  
    [Phys.Lett.B 710 (2012) 91](https://doi.org/10.1016/j.physletb.2012.02.076) | [arXiv:1202.1489](https://arxiv.org/abs/1202.1489) | [DOI:10.1016/j.physletb.2012.02.076](https://doi.org/10.1016/j.physletb.2012.02.076) | 2012-02
 
-44. **Search for Same-Sign Top-Quark Pair Production at √(s)=7 TeV and Limits on Flavour Changing Neutral Currents in the Top Sector**  
+44. **Search for same-sign top-quark pair production at √(s) = 7 TeV and limits on avour changing neutral currents in the top sector**  
    Chatrchyan, Serguei et al.  
-   [JHEP 08 (2011) 005](https://doi.org/10.1007/JHEP08(2011)005) | [arXiv:1106.2142](https://arxiv.org/abs/1106.2142) | [DOI:10.1007/JHEP08(2011)005](https://doi.org/10.1007/JHEP08(2011)005) | 2011-06
+   [Physics letters / B 2011 (2011) 411](https://doi.org/10.1007/JHEP08(2011)005) | [arXiv:1106.2142](https://arxiv.org/abs/1106.2142) | [DOI:10.1007/JHEP08(2011)005](https://doi.org/10.1007/JHEP08(2011)005) | 2011-06
 
 45. **Measurement of the tt̅ production cross section and the top quark mass in the dilepton channel in pp collisions at √(s)=7 TeV**  
    Chatrchyan, Serguei et al.  
