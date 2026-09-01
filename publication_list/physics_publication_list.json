@@ -5,9 +5,27 @@
   "fetched": 51,
   "records": [
     {
+      "updated": "2023-03-07T06:34:33.902910+00:00",
+      "id": "680951",
       "metadata": {
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00g30e956"
+            }
+          ],
           "full_name": "Gutsche, Oliver",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-8015-9622"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "O.Gutsche.1"
+            }
+          ],
           "last_name": "Gutsche",
           "first_name": "Oliver",
           "recid": 1007155
@@ -32,7 +50,7 @@
         ],
         "earliest_date": "2005-03"
       },
-      "id": "680951",
+      "created": "2005-04-20T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/680951?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/680951?format=latex-eu",
@@ -41,13 +59,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/680951?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/680951?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A680951"
-      },
-      "created": "2005-04-20T00:00:00+00:00",
-      "updated": "2023-03-07T06:34:33.902910+00:00"
+      }
     },
     {
       "updated": "2026-02-23T15:24:13.339209+00:00",
-      "created": "2008-10-28T00:00:00+00:00",
+      "id": "800763",
       "metadata": {
         "publication_info": [
           {
@@ -69,21 +85,21 @@
             }
           ],
           "full_name": "Chekanov, S.",
-          "last_name": "Chekanov",
           "ids": [
             {
               "schema": "INSPIRE ID",
               "value": "INSPIRE-00072460"
             },
             {
-              "schema": "ORCID",
-              "value": "0000-0001-7314-7247"
-            },
-            {
               "schema": "INSPIRE BAI",
               "value": "S.Chekanov.1"
+            },
+            {
+              "schema": "ORCID",
+              "value": "0000-0001-7314-7247"
             }
           ],
+          "last_name": "Chekanov",
           "first_name": "S.",
           "recid": 1013915
         },
@@ -112,7 +128,7 @@
         ],
         "earliest_date": "2008-09"
       },
-      "id": "800763",
+      "created": "2008-10-28T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/800763?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/800763?format=latex-eu",
@@ -124,8 +140,15 @@
       }
     },
     {
-      "updated": "2026-08-01T14:06:10.988482+00:00",
-      "created": "2010-10-28T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/874738?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/874738?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/874738?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/874738?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/874738?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/874738?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A874738"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -137,6 +160,12 @@
           }
         ],
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
           "full_name": "Khachatryan, Vardan",
           "ids": [
             {
@@ -181,20 +210,20 @@
         ],
         "earliest_date": "2010-10"
       },
+      "updated": "2026-08-01T14:06:10.988482+00:00",
       "id": "874738",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/874738?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/874738?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/874738?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/874738?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/874738?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/874738?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A874738"
-      }
+      "created": "2010-10-28T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:05:59.033954+00:00",
-      "created": "2011-05-30T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/901829?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/901829?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/901829?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/901829?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/901829?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/901829?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A901829"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -253,20 +282,20 @@
         ],
         "earliest_date": "2011-05"
       },
+      "updated": "2026-08-01T14:05:59.033954+00:00",
       "id": "901829",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/901829?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/901829?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/901829?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/901829?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/901829?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/901829?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A901829"
-      }
+      "created": "2011-05-30T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:06:11.435881+00:00",
-      "created": "2011-06-12T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/913321?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/913321?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/913321?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/913321?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/913321?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/913321?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A913321"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -350,20 +379,20 @@
         ],
         "earliest_date": "2011-06"
       },
+      "updated": "2026-08-01T14:06:11.435881+00:00",
       "id": "913321",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/913321?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/913321?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/913321?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/913321?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/913321?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/913321?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A913321"
-      }
+      "created": "2011-06-12T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:05:50.124541+00:00",
-      "created": "2011-04-18T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/896527?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/896527?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/896527?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/896527?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/896527?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/896527?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A896527"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -378,14 +407,7 @@
           }
         ],
         "first_author": {
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/00ad27c73"
-            }
-          ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -400,6 +422,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -428,20 +451,20 @@
         ],
         "earliest_date": "2011-04"
       },
+      "updated": "2026-08-01T14:05:50.124541+00:00",
       "id": "896527",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/896527?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/896527?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/896527?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/896527?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/896527?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/896527?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A896527"
-      }
+      "created": "2011-04-18T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:05:32.958855+00:00",
-      "created": "2011-03-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/891814?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/891814?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/891814?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/891814?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/891814?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/891814?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A891814"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -456,14 +479,7 @@
           }
         ],
         "first_author": {
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/00ad27c73"
-            }
-          ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -478,6 +494,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -506,20 +523,20 @@
         ],
         "earliest_date": "2011-03"
       },
+      "updated": "2026-08-17T16:32:15.461096+00:00",
       "id": "891814",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/891814?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/891814?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/891814?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/891814?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/891814?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/891814?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A891814"
-      }
+      "created": "2011-03-07T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:15:15.635246+00:00",
-      "created": "2012-03-26T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1094855?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1094855?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1094855?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1094855?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1094855?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1094855?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1094855"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -581,20 +598,20 @@
         ],
         "earliest_date": "2012-03"
       },
+      "updated": "2026-08-01T14:15:15.635246+00:00",
       "id": "1094855",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1094855?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1094855?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1094855?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1094855?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1094855?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1094855?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1094855"
-      }
+      "created": "2012-03-26T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:14:15.184793+00:00",
-      "created": "2012-05-30T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1116526?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1116526?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1116526?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1116526?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1116526?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1116526?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1116526"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -608,7 +625,14 @@
           }
         ],
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
           "full_name": "Chatrchyan, Serguei",
+          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -623,7 +647,6 @@
               "value": "S.Chatrchyan.1"
             }
           ],
-          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -652,20 +675,20 @@
         ],
         "earliest_date": "2012-05"
       },
+      "updated": "2026-08-01T14:14:15.184793+00:00",
       "id": "1116526",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1116526?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1116526?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1116526?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1116526?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1116526?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1116526?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1116526"
-      }
+      "created": "2012-05-30T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:13:47.170083+00:00",
-      "created": "2012-05-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1115185?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1115185?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1115185?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1115185?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1115185?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1115185?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1115185"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -730,20 +753,20 @@
         ],
         "earliest_date": "2012-05"
       },
+      "updated": "2026-08-01T14:13:47.170083+00:00",
       "id": "1115185",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1115185?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1115185?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1115185?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1115185?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1115185?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1115185?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1115185"
-      }
+      "created": "2012-05-17T00:00:00+00:00"
     },
     {
-      "id": "1188683",
-      "created": "2012-09-30T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1188683?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1188683?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1188683?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1188683?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1188683?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1188683?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1188683"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -759,6 +782,7 @@
         ],
         "first_author": {
           "full_name": "Chatrchyan, Serguei",
+          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -773,7 +797,6 @@
               "value": "S.Chatrchyan.1"
             }
           ],
-          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -802,20 +825,20 @@
         ],
         "earliest_date": "2012-09"
       },
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1188683?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1188683?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1188683?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1188683?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1188683?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1188683?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1188683"
-      },
-      "updated": "2026-08-01T14:14:20.756888+00:00"
+      "updated": "2026-08-01T14:14:20.756888+00:00",
+      "id": "1188683",
+      "created": "2012-09-30T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:14:08.918875+00:00",
-      "created": "2012-04-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1111141?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1111141?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1111141?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1111141?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1111141?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1111141?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1111141"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -877,20 +900,20 @@
         ],
         "earliest_date": "2012-04"
       },
+      "updated": "2026-08-01T14:14:08.918875+00:00",
       "id": "1111141",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1111141?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1111141?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1111141?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1111141?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1111141?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1111141?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1111141"
-      }
+      "created": "2012-04-17T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:14:32.448010+00:00",
-      "created": "2012-07-31T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1124338?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1124338?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1124338?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1124338?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1124338?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1124338?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124338"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -902,14 +925,7 @@
           }
         ],
         "first_author": {
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/00ad27c73"
-            }
-          ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -924,6 +940,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -952,20 +969,20 @@
         ],
         "earliest_date": "2012-07"
       },
+      "updated": "2026-08-01T14:14:32.448010+00:00",
       "id": "1124338",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1124338?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1124338?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1124338?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1124338?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1124338?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1124338?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124338"
-      }
+      "created": "2012-07-31T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:14:17.589377+00:00",
-      "created": "2012-02-16T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1089334?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1089334?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1089334?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1089334?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1089334?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1089334?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1089334"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -1024,20 +1041,20 @@
         ],
         "earliest_date": "2012-02"
       },
+      "updated": "2026-08-01T14:14:17.589377+00:00",
       "id": "1089334",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1089334?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1089334?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1089334?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1089334?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1089334?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1089334?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1089334"
-      }
+      "created": "2012-02-16T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:14:19.259911+00:00",
-      "created": "2012-02-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1088232?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1088232?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1088232?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1088232?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1088232?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1088232?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1088232"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -1093,20 +1110,12 @@
         ],
         "earliest_date": "2012-02"
       },
+      "updated": "2026-08-01T14:14:19.259911+00:00",
       "id": "1088232",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1088232?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1088232?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1088232?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1088232?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1088232?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1088232?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1088232"
-      }
+      "created": "2012-02-07T00:00:00+00:00"
     },
     {
-      "id": "1208703",
-      "created": "2012-12-26T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:55.836406+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1185,6 +1194,7 @@
         ],
         "earliest_date": "2012-12"
       },
+      "id": "1208703",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1208703?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1208703?format=latex-eu",
@@ -1194,11 +1204,18 @@
         "cv": "https://inspirehep.net/api/literature/1208703?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1208703"
       },
-      "updated": "2026-08-01T14:14:55.836406+00:00"
+      "created": "2012-12-26T00:00:00+00:00"
     },
     {
-      "updated": "2026-08-01T14:13:49.997362+00:00",
-      "created": "2012-06-18T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1118578?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1118578?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1118578?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1118578?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1118578?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1118578?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1118578"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -1260,20 +1277,12 @@
         ],
         "earliest_date": "2012-06"
       },
+      "updated": "2026-08-01T14:13:49.997362+00:00",
       "id": "1118578",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1118578?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1118578?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1118578?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1118578?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1118578?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1118578?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1118578"
-      }
+      "created": "2012-06-18T00:00:00+00:00"
     },
     {
-      "id": "1237104",
-      "created": "2013-06-06T00:00:00+00:00",
+      "updated": "2026-08-01T14:13:40.412994+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1293,7 +1302,6 @@
             }
           ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1308,6 +1316,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -1336,6 +1345,7 @@
         ],
         "earliest_date": "2013-06-05"
       },
+      "id": "1237104",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1237104?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1237104?format=latex-eu",
@@ -1345,11 +1355,10 @@
         "cv": "https://inspirehep.net/api/literature/1237104?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1237104"
       },
-      "updated": "2026-08-01T14:13:40.412994+00:00"
+      "created": "2013-06-06T00:00:00+00:00"
     },
     {
-      "id": "1246905",
-      "created": "2013-08-08T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:15.543057+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1369,7 +1378,6 @@
             }
           ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1384,6 +1392,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -1413,6 +1422,7 @@
         ],
         "earliest_date": "2013-08-07"
       },
+      "id": "1246905",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1246905?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1246905?format=latex-eu",
@@ -1422,11 +1432,10 @@
         "cv": "https://inspirehep.net/api/literature/1246905?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1246905"
       },
-      "updated": "2026-08-01T14:14:15.543057+00:00"
+      "created": "2013-08-08T00:00:00+00:00"
     },
     {
-      "id": "1215317",
-      "created": "2013-01-22T00:00:00+00:00",
+      "updated": "2026-08-01T14:13:28.004327+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1487,6 +1496,7 @@
         ],
         "earliest_date": "2013-01-20"
       },
+      "id": "1215317",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1215317?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1215317?format=latex-eu",
@@ -1496,11 +1506,10 @@
         "cv": "https://inspirehep.net/api/literature/1215317?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1215317"
       },
-      "updated": "2026-08-01T14:13:28.004327+00:00"
+      "created": "2013-01-22T00:00:00+00:00"
     },
     {
-      "id": "1264662",
-      "created": "2013-11-18T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:02.646403+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1563,6 +1572,7 @@
         ],
         "earliest_date": "2013-11-15"
       },
+      "id": "1264662",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1264662?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1264662?format=latex-eu",
@@ -1572,11 +1582,10 @@
         "cv": "https://inspirehep.net/api/literature/1264662?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1264662"
       },
-      "updated": "2026-08-01T14:14:02.646403+00:00"
+      "created": "2013-11-18T00:00:00+00:00"
     },
     {
-      "id": "1266257",
-      "created": "2013-11-27T00:00:00+00:00",
+      "updated": "2026-08-01T14:15:17.656812+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1602,12 +1611,6 @@
           }
         ],
         "first_author": {
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/00ad27c73"
-            }
-          ],
           "full_name": "Chatrchyan, Serguei",
           "last_name": "Chatrchyan",
           "ids": [
@@ -1661,6 +1664,7 @@
         ],
         "earliest_date": "2013-11-26"
       },
+      "id": "1266257",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1266257?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1266257?format=latex-eu",
@@ -1670,11 +1674,10 @@
         "cv": "https://inspirehep.net/api/literature/1266257?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1266257"
       },
-      "updated": "2026-08-01T14:15:17.656812+00:00"
+      "created": "2013-11-27T00:00:00+00:00"
     },
     {
-      "id": "1267508",
-      "created": "2013-12-05T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:24.914449+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1689,6 +1692,12 @@
           }
         ],
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
           "full_name": "Chatrchyan, Serguei",
           "last_name": "Chatrchyan",
           "ids": [
@@ -1734,6 +1743,7 @@
         ],
         "earliest_date": "2013-12-04"
       },
+      "id": "1267508",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1267508?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1267508?format=latex-eu",
@@ -1743,11 +1753,10 @@
         "cv": "https://inspirehep.net/api/literature/1267508?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1267508"
       },
-      "updated": "2026-08-01T14:14:24.914449+00:00"
+      "created": "2013-12-05T00:00:00+00:00"
     },
     {
-      "id": "1298508",
-      "created": "2014-05-30T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:47.554860+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1808,6 +1817,7 @@
         ],
         "earliest_date": "2014-05-29"
       },
+      "id": "1298508",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1298508?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1298508?format=latex-eu",
@@ -1817,11 +1827,10 @@
         "cv": "https://inspirehep.net/api/literature/1298508?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1298508"
       },
-      "updated": "2026-08-01T14:14:47.554860+00:00"
+      "created": "2014-05-30T00:00:00+00:00"
     },
     {
-      "id": "1303904",
-      "created": "2014-07-01T00:00:00+00:00",
+      "updated": "2026-08-01T14:15:14.245141+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1834,14 +1843,7 @@
           }
         ],
         "first_author": {
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/00ad27c73"
-            }
-          ],
           "full_name": "Khachatryan, Vardan",
-          "last_name": "Khachatryan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1856,6 +1858,7 @@
               "value": "V.Khachatryan.1"
             }
           ],
+          "last_name": "Khachatryan",
           "first_name": "Vardan",
           "recid": 1064492
         },
@@ -1885,6 +1888,7 @@
         ],
         "earliest_date": "2014-06-30"
       },
+      "id": "1303904",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1303904?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1303904?format=latex-eu",
@@ -1894,11 +1898,10 @@
         "cv": "https://inspirehep.net/api/literature/1303904?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1303904"
       },
-      "updated": "2026-08-01T14:15:14.245141+00:00"
+      "created": "2014-07-01T00:00:00+00:00"
     },
     {
-      "id": "1315820",
-      "created": "2014-09-11T00:00:00+00:00",
+      "updated": "2026-08-01T14:17:44.075688+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1917,7 +1920,6 @@
             }
           ],
           "full_name": "Khachatryan, Vardan",
-          "last_name": "Khachatryan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1932,6 +1934,7 @@
               "value": "V.Khachatryan.1"
             }
           ],
+          "last_name": "Khachatryan",
           "first_name": "Vardan",
           "recid": 1064492
         },
@@ -1958,6 +1961,7 @@
         ],
         "earliest_date": "2014-09-10"
       },
+      "id": "1315820",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1315820?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1315820?format=latex-eu",
@@ -1967,11 +1971,10 @@
         "cv": "https://inspirehep.net/api/literature/1315820?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1315820"
       },
-      "updated": "2026-08-01T14:17:44.075688+00:00"
+      "created": "2014-09-11T00:00:00+00:00"
     },
     {
-      "id": "1281538",
-      "created": "2014-02-18T00:00:00+00:00",
+      "updated": "2026-08-01T14:14:00.959700+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1993,7 +1996,6 @@
             }
           ],
           "full_name": "Chatrchyan, Serguei",
-          "last_name": "Chatrchyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -2008,6 +2010,7 @@
               "value": "S.Chatrchyan.1"
             }
           ],
+          "last_name": "Chatrchyan",
           "first_name": "Serguei",
           "recid": 1063896
         },
@@ -2036,6 +2039,7 @@
         ],
         "earliest_date": "2014-02-16"
       },
+      "id": "1281538",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1281538?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1281538?format=latex-eu",
@@ -2045,11 +2049,10 @@
         "cv": "https://inspirehep.net/api/literature/1281538?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1281538"
       },
-      "updated": "2026-08-01T14:14:00.959700+00:00"
+      "created": "2014-02-18T00:00:00+00:00"
     },
     {
-      "id": "1323444",
-      "created": "2014-10-24T00:00:00+00:00",
+      "updated": "2026-08-01T14:15:26.842484+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -2061,83 +2064,6 @@
             },
             "journal_issue": "5",
             "journal_title": "Phys.Rev.Lett."
-          }
-        ],
-        "first_author": {
-          "full_name": "Khachatryan, Vardan",
-          "ids": [
-            {
-              "schema": "INSPIRE ID",
-              "value": "INSPIRE-00314584"
-            },
-            {
-              "schema": "CERN",
-              "value": "CERN-667227"
-            },
-            {
-              "schema": "INSPIRE BAI",
-              "value": "V.Khachatryan.1"
-            }
-          ],
-          "last_name": "Khachatryan",
-          "first_name": "Vardan",
-          "recid": 1064492
-        },
-        "control_number": 1323444,
-        "dois": [
-          {
-            "value": "10.1103/PhysRevLett.114.051801"
-          }
-        ],
-        "arxiv_eprints": [
-          {
-            "categories": [
-              "hep-ex"
-            ],
-            "value": "1410.6315"
-          }
-        ],
-        "titles": [
-          {
-            "source": "arXiv",
-            "title": "Study of vector boson scattering and search for new physics in events with two same-sign leptons and two jets"
-          }
-        ],
-        "earliest_date": "2014-10-23"
-      },
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1323444?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1323444?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1323444?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1323444?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1323444?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1323444?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1323444"
-      },
-      "updated": "2026-08-01T14:15:26.842484+00:00"
-    },
-    {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1328493?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1328493?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1328493?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1328493?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1328493?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1328493?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1328493"
-      },
-      "updated": "2026-08-01T14:16:34.776103+00:00",
-      "metadata": {
-        "publication_info": [
-          {
-            "journal_volume": "522",
-            "page_end": "72",
-            "year": 2015,
-            "journal_record": {
-              "$ref": "https://inspirehep.net/api/journals/1214565"
-            },
-            "page_start": "68",
-            "journal_title": "Nature"
           }
         ],
         "first_author": {
@@ -2166,6 +2092,81 @@
           "first_name": "Vardan",
           "recid": 1064492
         },
+        "control_number": 1323444,
+        "dois": [
+          {
+            "value": "10.1103/PhysRevLett.114.051801"
+          }
+        ],
+        "arxiv_eprints": [
+          {
+            "categories": [
+              "hep-ex"
+            ],
+            "value": "1410.6315"
+          }
+        ],
+        "titles": [
+          {
+            "source": "arXiv",
+            "title": "Study of vector boson scattering and search for new physics in events with two same-sign leptons and two jets"
+          }
+        ],
+        "earliest_date": "2014-10-23"
+      },
+      "id": "1323444",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1323444?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1323444?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1323444?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1323444?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1323444?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1323444?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1323444"
+      },
+      "created": "2014-10-24T00:00:00+00:00"
+    },
+    {
+      "updated": "2026-09-01T11:35:37.684566+00:00",
+      "metadata": {
+        "publication_info": [
+          {
+            "journal_volume": "522",
+            "page_end": "72",
+            "year": 2015,
+            "journal_record": {
+              "$ref": "https://inspirehep.net/api/journals/1214565"
+            },
+            "page_start": "68",
+            "journal_title": "Nature"
+          }
+        ],
+        "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
+          "full_name": "Khachatryan, Vardan",
+          "ids": [
+            {
+              "schema": "INSPIRE ID",
+              "value": "INSPIRE-00314584"
+            },
+            {
+              "schema": "CERN",
+              "value": "CERN-667227"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "V.Khachatryan.1"
+            }
+          ],
+          "last_name": "Khachatryan",
+          "first_name": "Vardan",
+          "recid": 1064492
+        },
         "control_number": 1328493,
         "dois": [
           {
@@ -2190,19 +2191,20 @@
         "earliest_date": "2014-11-17"
       },
       "id": "1328493",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1328493?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1328493?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1328493?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1328493?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1328493?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1328493?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1328493"
+      },
       "created": "2014-11-18T00:00:00+00:00"
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1345823?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1345823?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1345823?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1345823?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1345823?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1345823?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1345823"
-      },
       "updated": "2026-08-01T14:15:25.130593+00:00",
+      "id": "1345823",
       "metadata": {
         "publication_info": [
           {
@@ -2273,20 +2275,20 @@
         ],
         "earliest_date": "2015-02-20"
       },
-      "id": "1345823",
-      "created": "2015-02-24T00:00:00+00:00"
+      "created": "2015-02-24T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1345823?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1345823?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1345823?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1345823?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1345823?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1345823?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1345823"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1382594?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1382594?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1382594?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1382594?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1382594?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1382594?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1382594"
-      },
       "updated": "2026-08-01T14:15:57.911003+00:00",
+      "id": "1382594",
       "metadata": {
         "publication_info": [
           {
@@ -2306,7 +2308,6 @@
             }
           ],
           "full_name": "Khachatryan, Vardan",
-          "last_name": "Khachatryan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -2321,6 +2322,7 @@
               "value": "V.Khachatryan.1"
             }
           ],
+          "last_name": "Khachatryan",
           "first_name": "Vardan",
           "recid": 1064492
         },
@@ -2350,20 +2352,20 @@
         ],
         "earliest_date": "2015-07-12"
       },
-      "id": "1382594",
-      "created": "2015-07-14T00:00:00+00:00"
+      "created": "2015-07-14T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1382594?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1382594?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1382594?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1382594?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1382594?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1382594?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1382594"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1427411?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1427411?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1427411?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1427411?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1427411?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1427411?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1427411"
-      },
-      "updated": "2026-08-01T14:17:07.369175+00:00",
+      "updated": "2026-08-31T01:40:45.349679+00:00",
+      "id": "1427411",
       "metadata": {
         "publication_info": [
           {
@@ -2378,7 +2380,14 @@
           }
         ],
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
           "full_name": "Khachatryan, Vardan",
+          "last_name": "Khachatryan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -2393,7 +2402,6 @@
               "value": "V.Khachatryan.1"
             }
           ],
-          "last_name": "Khachatryan",
           "first_name": "Vardan",
           "recid": 1064492
         },
@@ -2423,20 +2431,20 @@
         ],
         "earliest_date": "2016-03-13"
       },
-      "id": "1427411",
-      "created": "2016-03-15T00:00:00+00:00"
+      "created": "2016-03-15T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1427411?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1427411?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1427411?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1427411?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1427411?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1427411?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1427411"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1473675?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1473675?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1473675?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1473675?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1473675?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1473675?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1473675"
-      },
-      "updated": "2026-08-01T14:17:01.848189+00:00",
+      "updated": "2026-08-31T01:38:58.221299+00:00",
+      "id": "1473675",
       "metadata": {
         "publication_info": [
           {
@@ -2462,7 +2470,6 @@
             }
           ],
           "full_name": "Khachatryan, Vardan",
-          "last_name": "Khachatryan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -2477,6 +2484,7 @@
               "value": "V.Khachatryan.1"
             }
           ],
+          "last_name": "Khachatryan",
           "first_name": "Vardan",
           "recid": 1064492
         },
@@ -2503,20 +2511,20 @@
         ],
         "earliest_date": "2016-07-04"
       },
-      "id": "1473675",
-      "created": "2016-07-05T00:00:00+00:00"
+      "created": "2016-07-05T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1473675?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1473675?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1473675?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1473675?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1473675?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1473675?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1473675"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1456935?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1456935?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1456935?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1456935?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1456935?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1456935?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1456935"
-      },
-      "updated": "2026-08-01T14:15:31.514511+00:00",
+      "updated": "2026-08-31T01:39:48.870154+00:00",
+      "id": "1456935",
       "metadata": {
         "publication_info": [
           {
@@ -2580,20 +2588,20 @@
         ],
         "earliest_date": "2016-05-10"
       },
-      "id": "1456935",
-      "created": "2016-05-11T00:00:00+00:00"
+      "created": "2016-05-11T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1456935?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1456935?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1456935?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1456935?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1456935?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1456935?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1456935"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413748?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413748?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413748?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413748?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413748?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413748?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413748"
-      },
       "updated": "2026-08-01T14:16:41.288779+00:00",
+      "id": "1413748",
       "metadata": {
         "publication_info": [
           {
@@ -2636,20 +2644,20 @@
         ],
         "earliest_date": "2016-01-06"
       },
-      "id": "1413748",
-      "created": "2016-01-07T00:00:00+00:00"
+      "created": "2016-01-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413748?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413748?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413748?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413748?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413748?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413748?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413748"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1430892?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1430892?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1430892?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1430892?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1430892?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1430892?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1430892"
-      },
-      "updated": "2026-08-01T14:17:05.434584+00:00",
+      "updated": "2026-08-31T01:40:38.942832+00:00",
+      "id": "1430892",
       "metadata": {
         "publication_info": [
           {
@@ -2712,12 +2720,19 @@
         ],
         "earliest_date": "2016-03-20"
       },
-      "id": "1430892",
-      "created": "2016-03-22T00:00:00+00:00"
+      "created": "2016-03-22T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1430892?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1430892?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1430892?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1430892?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1430892?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1430892?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1430892"
+      }
     },
     {
-      "updated": "2026-08-01T14:37:03.746033+00:00",
-      "created": "2016-12-13T00:00:00+00:00",
+      "id": "1502925",
       "metadata": {
         "publication_info": [
           {
@@ -2790,7 +2805,8 @@
         ],
         "earliest_date": "2016-12-12"
       },
-      "id": "1502925",
+      "updated": "2026-08-31T01:42:52.580770+00:00",
+      "created": "2016-12-13T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1502925?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1502925?format=latex-eu",
@@ -2802,8 +2818,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:36:07.780643+00:00",
-      "created": "2017-06-15T00:00:00+00:00",
+      "id": "1605128",
       "metadata": {
         "publication_info": [
           {
@@ -2877,7 +2892,8 @@
         ],
         "earliest_date": "2017-06-14"
       },
-      "id": "1605128",
+      "updated": "2026-08-31T01:38:54.577626+00:00",
+      "created": "2017-06-15T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1605128?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1605128?format=latex-eu",
@@ -2889,8 +2905,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:36:49.356677+00:00",
-      "created": "2017-07-03T00:00:00+00:00",
+      "id": "1608161",
       "metadata": {
         "publication_info": [
           {
@@ -2964,7 +2979,8 @@
         ],
         "earliest_date": "2017-06-29"
       },
-      "id": "1608161",
+      "updated": "2026-08-31T01:38:21.847937+00:00",
+      "created": "2017-07-03T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1608161?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1608161?format=latex-eu",
@@ -2976,8 +2992,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:35:35.392605+00:00",
-      "created": "2017-05-15T00:00:00+00:00",
+      "id": "1599400",
       "metadata": {
         "publication_info": [
           {
@@ -3001,7 +3016,6 @@
             }
           ],
           "full_name": "Sirunyan, Albert M",
-          "last_name": "Sirunyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -3012,6 +3026,7 @@
               "value": "A.M.Sirunyan.1"
             }
           ],
+          "last_name": "Sirunyan",
           "first_name": "Albert M",
           "recid": 1064002
         },
@@ -3045,7 +3060,8 @@
         ],
         "earliest_date": "2017-05-12"
       },
-      "id": "1599400",
+      "updated": "2026-08-31T01:40:04.440278+00:00",
+      "created": "2017-05-15T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1599400?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1599400?format=latex-eu",
@@ -3057,8 +3073,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:38:27.266767+00:00",
-      "created": "2017-04-25T00:00:00+00:00",
+      "id": "1594731",
       "metadata": {
         "publication_info": [
           {
@@ -3130,7 +3145,8 @@
         ],
         "earliest_date": "2017-04-24"
       },
-      "id": "1594731",
+      "updated": "2026-08-31T01:39:37.098659+00:00",
+      "created": "2017-04-25T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1594731?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1594731?format=latex-eu",
@@ -3142,8 +3158,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:35:34.252548+00:00",
-      "created": "2017-09-27T00:00:00+00:00",
+      "id": "1625745",
       "metadata": {
         "publication_info": [
           {
@@ -3171,7 +3186,6 @@
             }
           ],
           "full_name": "Sirunyan, Albert M",
-          "last_name": "Sirunyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -3186,6 +3200,7 @@
               "value": "A.M.Sirunyan.1"
             }
           ],
+          "last_name": "Sirunyan",
           "first_name": "Albert M",
           "recid": 1064002
         },
@@ -3224,7 +3239,8 @@
         ],
         "earliest_date": "2017-09-26"
       },
-      "id": "1625745",
+      "updated": "2026-08-31T01:40:46.520722+00:00",
+      "created": "2017-09-27T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1625745?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1625745?format=latex-eu",
@@ -3236,8 +3252,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:35:37.183520+00:00",
-      "created": "2017-10-31T00:00:00+00:00",
+      "id": "1633423",
       "metadata": {
         "publication_info": [
           {
@@ -3306,7 +3321,8 @@
         ],
         "earliest_date": "2017-10-29"
       },
-      "id": "1633423",
+      "updated": "2026-08-31T01:42:10.372792+00:00",
+      "created": "2017-10-31T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1633423?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1633423?format=latex-eu",
@@ -3318,8 +3334,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:38:19.157088+00:00",
-      "created": "2018-01-26T00:00:00+00:00",
+      "id": "1650462",
       "metadata": {
         "publication_info": [
           {
@@ -3346,7 +3361,6 @@
             }
           ],
           "full_name": "Sirunyan, Albert M",
-          "last_name": "Sirunyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -3361,6 +3375,7 @@
               "value": "A.M.Sirunyan.1"
             }
           ],
+          "last_name": "Sirunyan",
           "first_name": "Albert M",
           "recid": 1064002
         },
@@ -3390,7 +3405,8 @@
         ],
         "earliest_date": "2018-01-25"
       },
-      "id": "1650462",
+      "updated": "2026-08-31T01:42:59.515556+00:00",
+      "created": "2018-01-26T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1650462?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1650462?format=latex-eu",
@@ -3402,8 +3418,7 @@
       }
     },
     {
-      "updated": "2026-08-01T14:38:15.035563+00:00",
-      "created": "2018-01-15T00:00:00+00:00",
+      "id": "1647947",
       "metadata": {
         "publication_info": [
           {
@@ -3459,7 +3474,8 @@
         ],
         "earliest_date": "2018-01-11"
       },
-      "id": "1647947",
+      "updated": "2026-08-31T01:39:25.292677+00:00",
+      "created": "2018-01-15T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1647947?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1647947?format=latex-eu",
@@ -3480,7 +3496,7 @@
         "cv": "https://inspirehep.net/api/literature/1703980?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1703980"
       },
-      "updated": "2026-08-01T14:39:48.506451+00:00",
+      "created": "2018-11-19T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -3545,8 +3561,8 @@
         ],
         "earliest_date": "2018-11-15"
       },
-      "id": "1703980",
-      "created": "2018-11-19T00:00:00+00:00"
+      "updated": "2026-08-31T01:35:22.150871+00:00",
+      "id": "1703980"
     },
     {
       "links": {
@@ -3558,7 +3574,7 @@
         "cv": "https://inspirehep.net/api/literature/1734235?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1734235"
       },
-      "updated": "2026-08-01T14:41:42.217972+00:00",
+      "created": "2019-05-13T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -3624,8 +3640,8 @@
         ],
         "earliest_date": "2019-05-10"
       },
-      "id": "1734235",
-      "created": "2019-05-13T00:00:00+00:00"
+      "updated": "2026-08-31T01:39:56.574472+00:00",
+      "id": "1734235"
     },
     {
       "links": {
@@ -3637,7 +3653,7 @@
         "cv": "https://inspirehep.net/api/literature/1747886?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1747886"
       },
-      "updated": "2026-08-01T14:39:13.415907+00:00",
+      "created": "2019-08-06T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -3727,12 +3743,21 @@
         ],
         "earliest_date": "2019-08-02"
       },
-      "id": "1747886",
-      "created": "2019-08-06T00:00:00+00:00"
+      "updated": "2026-08-31T01:35:33.461276+00:00",
+      "id": "1747886"
     },
     {
-      "updated": "2026-08-01T14:38:56.967927+00:00",
-      "created": "2020-06-22T00:00:00+00:00",
+      "updated": "2026-08-31T01:40:02.469977+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1802096?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1802096?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1802096?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1802096?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1802096?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1802096?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1802096"
+      },
+      "id": "1802096",
       "metadata": {
         "publication_info": [
           {
@@ -3750,7 +3775,6 @@
         ],
         "first_author": {
           "full_name": "Sirunyan, Albert M",
-          "last_name": "Sirunyan",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -3765,6 +3789,7 @@
               "value": "A.M.Sirunyan.1"
             }
           ],
+          "last_name": "Sirunyan",
           "first_name": "Albert M",
           "recid": 1064002
         },
@@ -3804,18 +3829,10 @@
         ],
         "earliest_date": "2020-06-19"
       },
-      "id": "1802096",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1802096?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1802096?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1802096?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1802096?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1802096?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1802096?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1802096"
-      }
+      "created": "2020-06-22T00:00:00+00:00"
     },
     {
+      "updated": "2026-08-31T01:34:37.199030+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/2104672?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/2104672?format=latex-eu",
@@ -3825,7 +3842,7 @@
         "cv": "https://inspirehep.net/api/literature/2104672?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2104672"
       },
-      "updated": "2026-06-30T22:59:59.535129+00:00",
+      "id": "2104672",
       "metadata": {
         "publication_info": [
           {
@@ -3855,6 +3872,12 @@
           }
         ],
         "first_author": {
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/00ad27c73"
+            }
+          ],
           "full_name": "Tumasyan, Armen",
           "ids": [
             {
@@ -3919,10 +3942,11 @@
         ],
         "earliest_date": "2022-06-30"
       },
-      "id": "2104672",
       "created": "2022-07-04T02:40:19.654088+00:00"
     },
     {
+      "updated": "2025-10-29T12:31:57.093638+00:00",
+      "id": "558985",
       "metadata": {
         "first_author": {
           "affiliations_identifiers": [
@@ -3958,7 +3982,7 @@
         ],
         "earliest_date": "2001-05"
       },
-      "id": "558985",
+      "created": "2001-06-26T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/558985?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/558985?format=latex-eu",
@@ -3967,9 +3991,7 @@
         "json-expanded": "https://inspirehep.net/api/literature/558985?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/558985?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A558985"
-      },
-      "created": "2001-06-26T00:00:00+00:00",
-      "updated": "2025-10-29T12:31:57.093638+00:00"
+      }
     }
   ]
 }

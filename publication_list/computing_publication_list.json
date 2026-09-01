@@ -5,6 +5,8 @@
   "fetched": 58,
   "records": [
     {
+      "updated": "2023-03-06T14:52:49.749537+00:00",
+      "id": "619728",
       "metadata": {
         "publication_info": [
           {
@@ -68,7 +70,7 @@
         ],
         "earliest_date": "2003-05"
       },
-      "id": "619728",
+      "created": "2003-05-29T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/619728?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/619728?format=latex-eu",
@@ -77,11 +79,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/619728?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/619728?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A619728"
-      },
-      "created": "2003-05-29T00:00:00+00:00",
-      "updated": "2023-03-06T14:52:49.749537+00:00"
+      }
     },
     {
+      "updated": "2023-03-10T02:57:02.897225+00:00",
+      "id": "808557",
       "metadata": {
         "publication_info": [
           {
@@ -130,7 +132,7 @@
         ],
         "earliest_date": "2007"
       },
-      "id": "808557",
+      "created": "2009-02-23T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/808557?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/808557?format=latex-eu",
@@ -139,11 +141,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/808557?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/808557?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A808557"
-      },
-      "created": "2009-02-23T00:00:00+00:00",
-      "updated": "2023-03-10T02:57:02.897225+00:00"
+      }
     },
     {
+      "updated": "2023-03-07T01:54:11.174504+00:00",
+      "id": "775577",
       "metadata": {
         "publication_info": [
           {
@@ -195,7 +197,7 @@
         ],
         "earliest_date": "2007"
       },
-      "id": "775577",
+      "created": "2008-11-25T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/775577?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/775577?format=latex-eu",
@@ -204,11 +206,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/775577?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/775577?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A775577"
-      },
-      "created": "2008-11-25T00:00:00+00:00",
-      "updated": "2023-03-07T01:54:11.174504+00:00"
+      }
     },
     {
+      "updated": "2023-11-30T15:14:03.889711+00:00",
+      "id": "858290",
       "metadata": {
         "publication_info": [
           {
@@ -256,7 +258,7 @@
         ],
         "earliest_date": "2008"
       },
-      "id": "858290",
+      "created": "2010-06-15T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/858290?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/858290?format=latex-eu",
@@ -265,11 +267,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/858290?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/858290?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A858290"
-      },
-      "created": "2010-06-15T00:00:00+00:00",
-      "updated": "2023-11-30T15:14:03.889711+00:00"
+      }
     },
     {
+      "updated": "2023-03-07T01:36:54.728725+00:00",
+      "id": "803947",
       "metadata": {
         "publication_info": [
           {
@@ -324,7 +326,7 @@
         ],
         "earliest_date": "2008"
       },
-      "id": "803947",
+      "created": "2008-12-02T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/803947?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/803947?format=latex-eu",
@@ -333,11 +335,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/803947?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/803947?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A803947"
-      },
-      "created": "2008-12-02T00:00:00+00:00",
-      "updated": "2023-03-07T01:36:54.728725+00:00"
+      }
     },
     {
+      "updated": "2023-03-07T01:50:58.585511+00:00",
+      "id": "788140",
       "metadata": {
         "publication_info": [
           {
@@ -403,7 +405,7 @@
         ],
         "earliest_date": "2008"
       },
-      "id": "788140",
+      "created": "2008-06-15T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/788140?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/788140?format=latex-eu",
@@ -412,13 +414,11 @@
         "json-expanded": "https://inspirehep.net/api/literature/788140?format=json-expanded",
         "cv": "https://inspirehep.net/api/literature/788140?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A788140"
-      },
-      "created": "2008-06-15T00:00:00+00:00",
-      "updated": "2023-03-07T01:50:58.585511+00:00"
+      }
     },
     {
       "updated": "2026-04-03T13:38:31.995949+00:00",
-      "created": "2009-02-11T00:00:00+00:00",
+      "id": "813070",
       "metadata": {
         "publication_info": [
           {
@@ -433,7 +433,6 @@
         ],
         "first_author": {
           "full_name": "Adam, W.",
-          "last_name": "Adam",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -444,6 +443,7 @@
               "value": "W.Adam.2"
             }
           ],
+          "last_name": "Adam",
           "first_name": "W.",
           "recid": 1018973
         },
@@ -472,7 +472,7 @@
         ],
         "earliest_date": "2009-02"
       },
-      "id": "813070",
+      "created": "2009-02-11T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/813070?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/813070?format=latex-eu",
@@ -484,8 +484,15 @@
       }
     },
     {
-      "updated": "2025-12-11T15:25:35.021725+00:00",
-      "created": "2010-07-01T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/860219?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/860219?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/860219?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/860219?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/860219?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/860219?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860219"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -542,20 +549,20 @@
         ],
         "earliest_date": "2010"
       },
+      "updated": "2025-12-11T15:25:35.021725+00:00",
       "id": "860219",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/860219?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/860219?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/860219?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/860219?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/860219?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/860219?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860219"
-      }
+      "created": "2010-07-01T00:00:00+00:00"
     },
     {
-      "updated": "2025-03-05T18:20:34.293964+00:00",
-      "created": "2010-07-01T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/860238?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/860238?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/860238?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/860238?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/860238?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/860238?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860238"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -612,20 +619,13 @@
         ],
         "earliest_date": "2010"
       },
+      "updated": "2025-03-05T18:20:34.293964+00:00",
       "id": "860238",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/860238?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/860238?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/860238?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/860238?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/860238?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/860238?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A860238"
-      }
+      "created": "2010-07-01T00:00:00+00:00"
     },
     {
       "updated": "2023-03-10T15:36:44.525839+00:00",
-      "created": "2009-04-08T00:00:00+00:00",
+      "id": "817506",
       "metadata": {
         "publication_info": [
           {
@@ -686,7 +686,7 @@
         ],
         "earliest_date": "2009-03"
       },
-      "id": "817506",
+      "created": "2009-04-08T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/817506?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/817506?format=latex-eu",
@@ -698,8 +698,15 @@
       }
     },
     {
-      "updated": "2025-03-05T18:16:16.563977+00:00",
-      "created": "2012-02-03T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1111392?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1111392?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1111392?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1111392?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1111392?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1111392?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1111392"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -754,20 +761,20 @@
         ],
         "earliest_date": "2011"
       },
+      "updated": "2025-03-05T18:16:16.563977+00:00",
       "id": "1111392",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1111392?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1111392?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1111392?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1111392?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1111392?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1111392?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1111392"
-      }
+      "created": "2012-02-03T00:00:00+00:00"
     },
     {
-      "updated": "2023-03-07T01:04:08.478147+00:00",
-      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211500?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211500?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211500?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211500?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211500?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211500?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211500"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -808,20 +815,20 @@
         ],
         "earliest_date": "2012"
       },
+      "updated": "2023-03-07T01:04:08.478147+00:00",
       "id": "1211500",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1211500?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1211500?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1211500?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1211500?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1211500?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1211500?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211500"
-      }
+      "created": "2013-01-17T00:00:00+00:00"
     },
     {
-      "updated": "2025-02-24T19:39:27.420578+00:00",
-      "created": "2012-06-28T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1124264?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1124264?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1124264?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1124264?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1124264?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1124264?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124264"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -870,20 +877,20 @@
         ],
         "earliest_date": "2012-06-27"
       },
+      "updated": "2025-02-24T19:39:27.420578+00:00",
       "id": "1124264",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1124264?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1124264?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1124264?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1124264?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1124264?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1124264?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1124264"
-      }
+      "created": "2012-06-28T00:00:00+00:00"
     },
     {
-      "updated": "2023-03-07T01:05:58.474227+00:00",
-      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211485?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211485?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211485?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211485?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211485?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211485?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211485"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -930,20 +937,20 @@
         ],
         "earliest_date": "2012"
       },
+      "updated": "2023-03-07T01:05:58.474227+00:00",
       "id": "1211485",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1211485?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1211485?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1211485?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1211485?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1211485?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1211485?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211485"
-      }
+      "created": "2013-01-17T00:00:00+00:00"
     },
     {
-      "updated": "2023-03-10T14:38:14.628237+00:00",
-      "created": "2013-01-17T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1211477?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1211477?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1211477?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1211477?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1211477?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1211477?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211477"
+      },
       "metadata": {
         "publication_info": [
           {
@@ -1004,20 +1011,12 @@
         ],
         "earliest_date": "2012"
       },
+      "updated": "2023-03-10T14:38:14.628237+00:00",
       "id": "1211477",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1211477?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1211477?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1211477?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1211477?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1211477?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1211477?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1211477"
-      }
+      "created": "2013-01-17T00:00:00+00:00"
     },
     {
-      "id": "1302010",
-      "created": "2014-06-23T00:00:00+00:00",
+      "updated": "2024-01-18T14:31:29.536709+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1057,6 +1056,7 @@
         ],
         "earliest_date": "2014"
       },
+      "id": "1302010",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1302010?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1302010?format=latex-eu",
@@ -1066,11 +1066,10 @@
         "cv": "https://inspirehep.net/api/literature/1302010?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302010"
       },
-      "updated": "2024-01-18T14:31:29.536709+00:00"
+      "created": "2014-06-23T00:00:00+00:00"
     },
     {
-      "id": "1302168",
-      "created": "2014-06-23T00:00:00+00:00",
+      "updated": "2023-03-06T13:33:50.084200+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1116,6 +1115,7 @@
         ],
         "earliest_date": "2014"
       },
+      "id": "1302168",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1302168?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1302168?format=latex-eu",
@@ -1125,11 +1125,10 @@
         "cv": "https://inspirehep.net/api/literature/1302168?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302168"
       },
-      "updated": "2023-03-06T13:33:50.084200+00:00"
+      "created": "2014-06-23T00:00:00+00:00"
     },
     {
-      "id": "1282389",
-      "created": "2014-02-25T00:00:00+00:00",
+      "updated": "2025-04-07T14:58:46.768999+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1179,6 +1178,7 @@
         ],
         "earliest_date": "2013-10-30"
       },
+      "id": "1282389",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1282389?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1282389?format=latex-eu",
@@ -1188,11 +1188,10 @@
         "cv": "https://inspirehep.net/api/literature/1282389?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1282389"
       },
-      "updated": "2025-04-07T14:58:46.768999+00:00"
+      "created": "2014-02-25T00:00:00+00:00"
     },
     {
-      "id": "1302187",
-      "created": "2014-06-23T00:00:00+00:00",
+      "updated": "2025-04-07T14:58:46.496245+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1248,6 +1247,7 @@
         ],
         "earliest_date": "2014"
       },
+      "id": "1302187",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1302187?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1302187?format=latex-eu",
@@ -1257,11 +1257,10 @@
         "cv": "https://inspirehep.net/api/literature/1302187?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302187"
       },
-      "updated": "2025-04-07T14:58:46.496245+00:00"
+      "created": "2014-06-23T00:00:00+00:00"
     },
     {
-      "id": "1301999",
-      "created": "2014-06-23T00:00:00+00:00",
+      "updated": "2023-03-07T00:51:35.612399+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1304,6 +1303,7 @@
         ],
         "earliest_date": "2014"
       },
+      "id": "1301999",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1301999?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1301999?format=latex-eu",
@@ -1313,11 +1313,10 @@
         "cv": "https://inspirehep.net/api/literature/1301999?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1301999"
       },
-      "updated": "2023-03-07T00:51:35.612399+00:00"
+      "created": "2014-06-23T00:00:00+00:00"
     },
     {
-      "id": "1302055",
-      "created": "2014-06-23T00:00:00+00:00",
+      "updated": "2024-01-18T14:31:29.552989+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -1357,6 +1356,7 @@
         ],
         "earliest_date": "2014"
       },
+      "id": "1302055",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1302055?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1302055?format=latex-eu",
@@ -1366,19 +1366,11 @@
         "cv": "https://inspirehep.net/api/literature/1302055?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1302055"
       },
-      "updated": "2024-01-18T14:31:29.552989+00:00"
+      "created": "2014-06-23T00:00:00+00:00"
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413883?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413883?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413883?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413883?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413883?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413883?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413883"
-      },
       "updated": "2024-10-16T18:25:24.497456+00:00",
+      "id": "1413883",
       "metadata": {
         "publication_info": [
           {
@@ -1429,20 +1421,20 @@
         ],
         "earliest_date": "2015-12-23"
       },
-      "id": "1413883",
-      "created": "2016-01-07T00:00:00+00:00"
+      "created": "2016-01-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413883?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413883?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413883?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413883?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413883?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413883?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413883"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413952?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413952?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413952?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413952?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413952?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413952?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413952"
-      },
       "updated": "2024-10-16T18:25:21.703658+00:00",
+      "id": "1413952",
       "metadata": {
         "publication_info": [
           {
@@ -1499,20 +1491,20 @@
         ],
         "earliest_date": "2015-12-23"
       },
-      "id": "1413952",
-      "created": "2016-01-07T00:00:00+00:00"
+      "created": "2016-01-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413952?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413952?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413952?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413952?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413952?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413952?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413952"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413951?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413951?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413951?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413951?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413951?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413951?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413951"
-      },
       "updated": "2024-10-16T18:25:24.416331+00:00",
+      "id": "1413951",
       "metadata": {
         "publication_info": [
           {
@@ -1569,20 +1561,20 @@
         ],
         "earliest_date": "2015-12-23"
       },
-      "id": "1413951",
-      "created": "2016-01-07T00:00:00+00:00"
+      "created": "2016-01-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413951?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413951?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413951?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413951?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413951?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413951?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413951"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413172?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413172?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413172?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413172?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413172?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413172?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413172"
-      },
       "updated": "2024-01-18T14:44:40.036555+00:00",
+      "id": "1413172",
       "metadata": {
         "publication_info": [
           {
@@ -1639,20 +1631,20 @@
         ],
         "earliest_date": "2015-12-23"
       },
-      "id": "1413172",
-      "created": "2016-01-06T00:00:00+00:00"
+      "created": "2016-01-06T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413172?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413172?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413172?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413172?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413172?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413172?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413172"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1413813?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1413813?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1413813?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1413813?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1413813?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1413813?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413813"
-      },
       "updated": "2023-08-01T17:22:10.091491+00:00",
+      "id": "1413813",
       "metadata": {
         "publication_info": [
           {
@@ -1681,7 +1673,6 @@
             }
           ],
           "full_name": "Group, Craig",
-          "last_name": "Group",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1696,6 +1687,7 @@
               "value": "Robert.C.Group.1"
             }
           ],
+          "last_name": "Group",
           "first_name": "Craig",
           "recid": 1028678
         },
@@ -1713,20 +1705,20 @@
         ],
         "earliest_date": "2015-12-23"
       },
-      "id": "1413813",
-      "created": "2016-01-07T00:00:00+00:00"
+      "created": "2016-01-07T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1413813?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1413813?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1413813?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1413813?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1413813?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1413813?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1413813"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1401370?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1401370?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1401370?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1401370?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1401370?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1401370?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1401370"
-      },
       "updated": "2026-04-14T19:25:22.712807+00:00",
+      "id": "1401370",
       "metadata": {
         "first_author": {
           "full_name": "Habib, Salman",
@@ -1752,20 +1744,20 @@
         ],
         "earliest_date": "2015-10-28"
       },
-      "id": "1401370",
-      "created": "2015-10-30T00:00:00+00:00"
+      "created": "2015-10-30T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1401370?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1401370?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1401370?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1401370?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1401370?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1401370?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1401370"
+      }
     },
     {
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1436553?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1436553?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1436553?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1436553?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1436553?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1436553?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1436553"
-      },
       "updated": "2026-04-14T19:25:12.888232+00:00",
+      "id": "1436553",
       "metadata": {
         "first_author": {
           "full_name": "Habib, Salman",
@@ -1790,12 +1782,19 @@
         ],
         "earliest_date": "2016-03-30"
       },
-      "id": "1436553",
-      "created": "2016-03-31T00:00:00+00:00"
+      "created": "2016-03-31T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1436553?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1436553?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1436553?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1436553?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1436553?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1436553?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1436553"
+      }
     },
     {
-      "updated": "2025-12-11T15:25:35.262680+00:00",
-      "created": "2017-11-27T00:00:00+00:00",
+      "id": "1638477",
       "metadata": {
         "publication_info": [
           {
@@ -1853,7 +1852,8 @@
         ],
         "earliest_date": "2017-11-22"
       },
-      "id": "1638477",
+      "updated": "2025-12-11T15:25:35.262680+00:00",
+      "created": "2017-11-27T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1638477?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1638477?format=latex-eu",
@@ -1865,8 +1865,7 @@
       }
     },
     {
-      "updated": "2023-03-09T23:17:42.808855+00:00",
-      "created": "2016-12-29T00:00:00+00:00",
+      "id": "1507029",
       "metadata": {
         "publication_info": [
           {
@@ -1886,13 +1885,8 @@
           "emails": [
             "gutsche@fnal.go"
           ],
-          "affiliations_identifiers": [
-            {
-              "schema": "ROR",
-              "value": "https://ror.org/020hgte69"
-            }
-          ],
           "full_name": "Gutsche, Oliver",
+          "last_name": "Gutsche",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1907,7 +1901,6 @@
               "value": "0000-0002-8015-9622"
             }
           ],
-          "last_name": "Gutsche",
           "first_name": "Oliver",
           "recid": 1007155
         },
@@ -1925,7 +1918,8 @@
         ],
         "earliest_date": "2017-01-19"
       },
-      "id": "1507029",
+      "updated": "2023-03-09T23:17:42.808855+00:00",
+      "created": "2016-12-29T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1507029?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1507029?format=latex-eu",
@@ -1937,8 +1931,7 @@
       }
     },
     {
-      "updated": "2024-10-29T15:48:30.164996+00:00",
-      "created": "2017-03-14T00:00:00+00:00",
+      "id": "1517266",
       "metadata": {
         "publication_info": [
           {
@@ -1961,7 +1954,6 @@
         ],
         "first_author": {
           "full_name": "Gutsche, Oliver",
-          "last_name": "Gutsche",
           "ids": [
             {
               "schema": "INSPIRE ID",
@@ -1976,6 +1968,7 @@
               "value": "0000-0002-8015-9622"
             }
           ],
+          "last_name": "Gutsche",
           "first_name": "Oliver",
           "recid": 1007155
         },
@@ -2002,7 +1995,8 @@
         ],
         "earliest_date": "2017-03-12"
       },
-      "id": "1517266",
+      "updated": "2024-10-29T15:48:30.164996+00:00",
+      "created": "2017-03-14T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1517266?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1517266?format=latex-eu",
@@ -2014,8 +2008,7 @@
       }
     },
     {
-      "updated": "2025-12-11T15:25:34.815673+00:00",
-      "created": "2017-10-04T00:00:00+00:00",
+      "id": "1628463",
       "metadata": {
         "publication_info": [
           {
@@ -2087,7 +2080,8 @@
         ],
         "earliest_date": "2017-09-29"
       },
-      "id": "1628463",
+      "updated": "2025-12-11T15:25:34.815673+00:00",
+      "created": "2017-10-04T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1628463?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1628463?format=latex-eu",
@@ -2108,7 +2102,7 @@
         "cv": "https://inspirehep.net/api/literature/1705067?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1705067"
       },
-      "updated": "2026-02-09T11:06:41.745569+00:00",
+      "created": "2018-11-27T00:00:00+00:00",
       "metadata": {
         "first_author": {
           "full_name": "Bellis, Matthew",
@@ -2134,8 +2128,8 @@
         ],
         "earliest_date": "2018-11-26"
       },
-      "id": "1705067",
-      "created": "2018-11-27T00:00:00+00:00"
+      "updated": "2026-02-09T11:06:41.745569+00:00",
+      "id": "1705067"
     },
     {
       "links": {
@@ -2147,7 +2141,7 @@
         "cv": "https://inspirehep.net/api/literature/1706274?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1706274"
       },
-      "updated": "2023-12-13T18:17:30.921200+00:00",
+      "created": "2018-12-04T00:00:00+00:00",
       "metadata": {
         "first_author": {
           "affiliations_identifiers": [
@@ -2178,12 +2172,11 @@
         ],
         "earliest_date": "2018-11-30"
       },
-      "id": "1706274",
-      "created": "2018-12-04T00:00:00+00:00"
+      "updated": "2023-12-13T18:17:30.921200+00:00",
+      "id": "1706274"
     },
     {
-      "updated": "2024-10-16T18:25:57.998006+00:00",
-      "created": "2018-06-07T00:00:00+00:00",
+      "id": "1676675",
       "metadata": {
         "publication_info": [
           {
@@ -2230,7 +2223,8 @@
         ],
         "earliest_date": "2017"
       },
-      "id": "1676675",
+      "updated": "2024-10-16T18:25:57.998006+00:00",
+      "created": "2018-06-07T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1676675?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1676675?format=latex-eu",
@@ -2242,8 +2236,7 @@
       }
     },
     {
-      "updated": "2024-10-29T15:48:29.038728+00:00",
-      "created": "2017-11-02T00:00:00+00:00",
+      "id": "1633859",
       "metadata": {
         "publication_info": [
           {
@@ -2312,7 +2305,8 @@
         ],
         "earliest_date": "2017-10-31"
       },
-      "id": "1633859",
+      "updated": "2024-10-29T15:48:29.038728+00:00",
+      "created": "2017-11-02T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1633859?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1633859?format=latex-eu",
@@ -2324,8 +2318,7 @@
       }
     },
     {
-      "updated": "2023-03-06T13:20:29.421404+00:00",
-      "created": "2018-04-12T00:00:00+00:00",
+      "id": "1667193",
       "metadata": {
         "first_author": {
           "emails": [
@@ -2360,7 +2353,8 @@
         ],
         "earliest_date": "2018-04-09"
       },
-      "id": "1667193",
+      "updated": "2023-03-06T13:20:29.421404+00:00",
+      "created": "2018-04-12T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1667193?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1667193?format=latex-eu",
@@ -2381,7 +2375,7 @@
         "cv": "https://inspirehep.net/api/literature/1747536?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1747536"
       },
-      "updated": "2026-02-09T11:18:17.873478+00:00",
+      "created": "2019-08-02T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -2426,8 +2420,8 @@
         ],
         "earliest_date": "2019-07-31"
       },
-      "id": "1747536",
-      "created": "2019-08-02T00:00:00+00:00"
+      "updated": "2026-08-07T21:16:13.998669+00:00",
+      "id": "1747536"
     },
     {
       "links": {
@@ -2439,7 +2433,7 @@
         "cv": "https://inspirehep.net/api/literature/1765615?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1765615"
       },
-      "updated": "2025-11-26T21:05:07.544992+00:00",
+      "created": "2019-11-18T00:00:00+00:00",
       "metadata": {
         "first_author": {
           "affiliations_identifiers": [
@@ -2488,8 +2482,8 @@
         ],
         "earliest_date": "2019-11-04"
       },
-      "id": "1765615",
-      "created": "2019-11-18T00:00:00+00:00"
+      "updated": "2025-11-26T21:05:07.544992+00:00",
+      "id": "1765615"
     },
     {
       "links": {
@@ -2501,7 +2495,7 @@
         "cv": "https://inspirehep.net/api/literature/1716266?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1716266"
       },
-      "updated": "2024-10-16T18:25:59.511181+00:00",
+      "created": "2019-01-23T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -2557,12 +2551,11 @@
         ],
         "earliest_date": "2019-01-21"
       },
-      "id": "1716266",
-      "created": "2019-01-23T00:00:00+00:00"
+      "updated": "2024-10-16T18:25:59.511181+00:00",
+      "id": "1716266"
     },
     {
-      "updated": "2026-04-14T19:24:47.595323+00:00",
-      "created": "2017-12-20T00:00:00+00:00",
+      "id": "1644100",
       "metadata": {
         "publication_info": [
           {
@@ -2588,6 +2581,16 @@
           ],
           "full_name": "Albrecht, Johannes",
           "last_name": "Albrecht",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0001-8636-1621"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "J.Albrecht.1"
+            }
+          ],
           "first_name": "Johannes",
           "recid": 1071729
         },
@@ -2616,7 +2619,8 @@
         ],
         "earliest_date": "2017-12-18"
       },
-      "id": "1644100",
+      "updated": "2026-04-14T19:24:47.595323+00:00",
+      "created": "2017-12-20T00:00:00+00:00",
       "links": {
         "bibtex": "https://inspirehep.net/api/literature/1644100?format=bibtex",
         "latex-eu": "https://inspirehep.net/api/literature/1644100?format=latex-eu",
@@ -2637,7 +2641,7 @@
         "cv": "https://inspirehep.net/api/literature/1722477?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1722477"
       },
-      "updated": "2025-12-11T15:25:35.303897+00:00",
+      "created": "2019-02-28T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -2680,8 +2684,8 @@
         ],
         "earliest_date": "2018-10-16"
       },
-      "id": "1722477",
-      "created": "2019-02-28T00:00:00+00:00"
+      "updated": "2025-12-11T15:25:35.303897+00:00",
+      "id": "1722477"
     },
     {
       "links": {
@@ -2693,7 +2697,7 @@
         "cv": "https://inspirehep.net/api/literature/1760952?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1760952"
       },
-      "updated": "2023-03-07T01:05:10.470100+00:00",
+      "created": "2019-10-25T00:00:00+00:00",
       "metadata": {
         "publication_info": [
           {
@@ -2753,12 +2757,21 @@
         ],
         "earliest_date": "2019-09-17"
       },
-      "id": "1760952",
-      "created": "2019-10-25T00:00:00+00:00"
+      "updated": "2023-03-07T01:05:10.470100+00:00",
+      "id": "1760952"
     },
     {
       "updated": "2026-04-22T11:23:37.494988+00:00",
-      "created": "2020-08-31T00:00:00+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1813893?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1813893?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1813893?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1813893?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1813893?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1813893?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1813893"
+      },
+      "id": "1813893",
       "metadata": {
         "publication_info": [
           {
@@ -2784,8 +2797,24 @@
           "emails": [
             "nick.smith@cern.ch"
           ],
+          "affiliations_identifiers": [
+            {
+              "schema": "ROR",
+              "value": "https://ror.org/020hgte69"
+            }
+          ],
           "full_name": "Smith, Nicholas",
           "last_name": "Smith",
+          "ids": [
+            {
+              "schema": "ORCID",
+              "value": "0000-0002-0324-3054"
+            },
+            {
+              "schema": "INSPIRE BAI",
+              "value": "Nicholas.Charles.Smith.1"
+            }
+          ],
           "first_name": "Nicholas",
           "recid": 1279678
         },
@@ -2822,19 +2851,18 @@
         ],
         "earliest_date": "2020-08-28"
       },
-      "id": "1813893",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1813893?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1813893?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1813893?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1813893?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1813893?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1813893?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1813893"
-      }
+      "created": "2020-08-31T00:00:00+00:00"
     },
     {
-      "updated": "2024-10-16T18:25:58.146973+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/1832232?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/1832232?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/1832232?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/1832232?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/1832232?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/1832232?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1832232"
+      },
       "created": "2020-11-23T00:00:00+00:00",
       "metadata": {
         "publication_info": [
@@ -2892,20 +2920,21 @@
         ],
         "earliest_date": "2020"
       },
-      "id": "1832232",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/1832232?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/1832232?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/1832232?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/1832232?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/1832232?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/1832232?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1832232"
-      }
+      "updated": "2024-10-16T18:25:58.146973+00:00",
+      "id": "1832232"
     },
     {
       "updated": "2026-04-14T19:24:45.021022+00:00",
-      "created": "2022-03-21T02:39:20.620195+00:00",
+      "links": {
+        "bibtex": "https://inspirehep.net/api/literature/2054702?format=bibtex",
+        "latex-eu": "https://inspirehep.net/api/literature/2054702?format=latex-eu",
+        "latex-us": "https://inspirehep.net/api/literature/2054702?format=latex-us",
+        "json": "https://inspirehep.net/api/literature/2054702?format=json",
+        "json-expanded": "https://inspirehep.net/api/literature/2054702?format=json-expanded",
+        "cv": "https://inspirehep.net/api/literature/2054702?format=cv",
+        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2054702"
+      },
+      "id": "2054702",
       "metadata": {
         "publication_info": [
           {
@@ -2957,16 +2986,7 @@
         ],
         "earliest_date": "2022-03-15"
       },
-      "id": "2054702",
-      "links": {
-        "bibtex": "https://inspirehep.net/api/literature/2054702?format=bibtex",
-        "latex-eu": "https://inspirehep.net/api/literature/2054702?format=latex-eu",
-        "latex-us": "https://inspirehep.net/api/literature/2054702?format=latex-us",
-        "json": "https://inspirehep.net/api/literature/2054702?format=json",
-        "json-expanded": "https://inspirehep.net/api/literature/2054702?format=json-expanded",
-        "cv": "https://inspirehep.net/api/literature/2054702?format=cv",
-        "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2054702"
-      }
+      "created": "2022-03-21T02:39:20.620195+00:00"
     },
     {
       "links": {
@@ -2978,6 +2998,8 @@
         "cv": "https://inspirehep.net/api/literature/2152224?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2152224"
       },
+      "id": "2152224",
+      "created": "2022-09-16T02:54:16.323394+00:00",
       "updated": "2024-10-16T18:08:38.636732+00:00",
       "metadata": {
         "first_author": {
@@ -3002,9 +3024,7 @@
           }
         ],
         "earliest_date": "2022-09-15"
-      },
-      "id": "2152224",
-      "created": "2022-09-16T02:54:16.323394+00:00"
+      }
     },
     {
       "links": {
@@ -3016,6 +3036,8 @@
         "cv": "https://inspirehep.net/api/literature/2164496?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2164496"
       },
+      "id": "2164496",
+      "created": "2022-10-13T02:46:20.872797+00:00",
       "updated": "2025-08-19T20:54:17.870870+00:00",
       "metadata": {
         "publication_info": [
@@ -3057,9 +3079,7 @@
           }
         ],
         "earliest_date": "2022-10-11"
-      },
-      "id": "2164496",
-      "created": "2022-10-13T02:46:20.872797+00:00"
+      }
     },
     {
       "links": {
@@ -3071,6 +3091,8 @@
         "cv": "https://inspirehep.net/api/literature/2671215?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2671215"
       },
+      "id": "2671215",
+      "created": "2023-06-26T02:36:37.544476+00:00",
       "updated": "2025-07-08T17:38:06.117987+00:00",
       "metadata": {
         "first_author": {
@@ -3096,9 +3118,7 @@
           }
         ],
         "earliest_date": "2023-06-23"
-      },
-      "id": "2671215",
-      "created": "2023-06-26T02:36:37.544476+00:00"
+      }
     },
     {
       "links": {
@@ -3110,6 +3130,8 @@
         "cv": "https://inspirehep.net/api/literature/2672556?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2672556"
       },
+      "id": "2672556",
+      "created": "2023-06-29T02:46:38.640792+00:00",
       "updated": "2026-04-14T19:24:46.673822+00:00",
       "metadata": {
         "first_author": {
@@ -3141,9 +3163,7 @@
           }
         ],
         "earliest_date": "2023-06-27"
-      },
-      "id": "2672556",
-      "created": "2023-06-29T02:46:38.640792+00:00"
+      }
     },
     {
       "links": {
@@ -3155,6 +3175,8 @@
         "cv": "https://inspirehep.net/api/literature/2628983?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2628983"
       },
+      "id": "2628983",
+      "created": "2023-02-03T02:43:59.917280+00:00",
       "updated": "2026-06-01T12:04:45.753171+00:00",
       "metadata": {
         "first_author": {
@@ -3182,9 +3204,7 @@
           }
         ],
         "earliest_date": "2023-02-02"
-      },
-      "id": "2628983",
-      "created": "2023-02-03T02:43:59.917280+00:00"
+      }
     },
     {
       "links": {
@@ -3196,6 +3216,8 @@
         "cv": "https://inspirehep.net/api/literature/2785604?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2785604"
       },
+      "id": "2785604",
+      "created": "2024-05-13T09:03:02.210529+00:00",
       "updated": "2024-11-01T20:06:29.847492+00:00",
       "metadata": {
         "publication_info": [
@@ -3233,9 +3255,7 @@
           }
         ],
         "earliest_date": "2024"
-      },
-      "id": "2785604",
-      "created": "2024-05-13T09:03:02.210529+00:00"
+      }
     },
     {
       "links": {
@@ -3247,6 +3267,8 @@
         "cv": "https://inspirehep.net/api/literature/2729222?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2729222"
       },
+      "id": "2729222",
+      "created": "2023-12-04T03:37:06.335032+00:00",
       "updated": "2024-10-29T15:48:35.574529+00:00",
       "metadata": {
         "publication_info": [
@@ -3318,9 +3340,7 @@
           }
         ],
         "earliest_date": "2023-12-01"
-      },
-      "id": "2729222",
-      "created": "2023-12-04T03:37:06.335032+00:00"
+      }
     },
     {
       "links": {
@@ -3332,6 +3352,8 @@
         "cv": "https://inspirehep.net/api/literature/2751450?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2751450"
       },
+      "id": "2751450",
+      "created": "2024-01-26T03:51:36.801124+00:00",
       "updated": "2024-12-05T15:56:06.195981+00:00",
       "metadata": {
         "publication_info": [
@@ -3406,9 +3428,7 @@
           }
         ],
         "earliest_date": "2024-01-25"
-      },
-      "id": "2751450",
-      "created": "2024-01-26T03:51:36.801124+00:00"
+      }
     },
     {
       "links": {
@@ -3420,6 +3440,8 @@
         "cv": "https://inspirehep.net/api/literature/2727375?format=cv",
         "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A2727375"
       },
+      "id": "2727375",
+      "created": "2023-11-29T03:58:26.316705+00:00",
       "updated": "2025-04-08T19:07:24.327153+00:00",
       "metadata": {
         "publication_info": [
@@ -3485,14 +3507,12 @@
           }
         ],
         "earliest_date": "2023-11-27"
-      },
-      "id": "2727375",
-      "created": "2023-11-29T03:58:26.316705+00:00"
+      }
     },
     {
+      "id": "3111392",
       "updated": "2026-04-14T19:24:47.367435+00:00",
       "created": "2026-01-27T04:14:55.960042+00:00",
-      "id": "3111392",
       "metadata": {
         "first_author": {
           "affiliations_identifiers": [
@@ -3534,9 +3554,9 @@
       }
     },
     {
-      "updated": "2026-07-31T22:20:07.655394+00:00",
-      "created": "2026-02-20T04:11:14.688633+00:00",
       "id": "3121595",
+      "updated": "2026-08-21T19:31:22.094574+00:00",
+      "created": "2026-02-20T04:11:14.688633+00:00",
       "metadata": {
         "first_author": {
           "affiliations_identifiers": [
@@ -3578,9 +3598,9 @@
       }
     },
     {
+      "id": "3137520",
       "updated": "2026-05-04T12:52:06.570411+00:00",
       "created": "2026-03-31T15:44:14.686785+00:00",
-      "id": "3137520",
       "metadata": {
         "publication_info": [
           {
